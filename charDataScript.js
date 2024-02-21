@@ -134,6 +134,8 @@ function getSubClassEN(chara){
         case ("aoesniper"): return "Artilleryman";
         case ("siegesniper"): return "Besieger";
         case ("reaperrange"): return "Spreadshooter";
+        case ("hunter"): return "Hunter";
+        case ("loopshooter"): return "Loopshooter";
 
         //Defender 7 total
         case ("protector"): return "Protector";
@@ -159,6 +161,7 @@ function getSubClassEN(chara){
         case ("mystic"): return "Mystic Caster";
         case ("chain"): return "Chain Caste";
         case ("blastcaster"): return "Blast Caster";
+        case ("primcaster"): return "Primal Caster";
 
         //supporter 7 total
         case ("summoner"): return "Summoner";
