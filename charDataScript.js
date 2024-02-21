@@ -5,7 +5,7 @@ const filePathCN = '../ArknightsGameData/zh_CN/gamedata/excel/character_table.js
 const filePathEN = './en_US/gamedata/excel/character_table.json';
 const filePathJP = './ja_JP/gamedata/excel/character_table.json';
 const profileInfoPath = '../ArknightsGameData/zh_CN/gamedata/excel/handbook_info_table.json';
-const gameDataFilePath = '../game-toolbox/src/components/Games/Arknights/Content/Json/charData.json';
+const gameDataFilePath = '../game-toolbox.github.io/src/components/Games/Arknights/Content/Json/charData.json';
 
 // Read and parse the JSON file
 const characterDataCN = JSON.parse(fs.readFileSync(filePathCN, 'utf8'));
@@ -14,61 +14,56 @@ const characterDataJP = JSON.parse(fs.readFileSync(filePathJP, 'utf8'));
 const profileData = JSON.parse(fs.readFileSync(profileInfoPath, 'utf8'));
 const gameData = JSON.parse(fs.readFileSync(gameDataFilePath, 'utf8'));
 
-let jsonData = []
+let updatedGameData = [...gameData]; 
 
 // Extract character details
-Object.keys(characterDataEN).map(key => {
+Object.keys(characterDataCN).forEach(key => {
     let charCN = characterDataCN[key];
-    let charEN = characterDataEN[key];
-    let charJP = characterDataJP[key];
-    
-    // Extract and return the necessary character details
-    if (key.startsWith("trap") || key.startsWith("token") || charCN.isNotObtainable == true || charCN.subProfessionId.startsWith("notchar")) { 
+    let charEN = characterDataEN[key] || {};
+    let charJP = characterDataJP[key] || {};
+    let gender = getGender(key);
 
-    } else {
-        let gender = getGender(key);
-        jsonData.push({
+    if (!(key.startsWith("trap") || key.startsWith("token") || charCN.isNotObtainable === true || charCN.subProfessionId.startsWith("notchar"))) {
+        const existingCharacterIndex = updatedGameData.findIndex(item => item.id === key);
+
+        const characterDetails = {
             id: key,
-
             name: charCN.name,
-            nameEn: charEN.name,
-            nameJP: charJP ? charJP.name : '',
-
+            nameEn: charEN.name || '',
+            nameJP: charJP.name || '',
             genderCN: gender,
             genderEn: getGenderEN(gender),
             genderJP: getGenderJP(gender),
-
-            tagline: charEN.itemUsage + ' ' + charEN.itemDesc,
-
+            tagline: charEN.itemUsage ? `${charEN.itemUsage} ${charEN.itemDesc}` : '',
             rarity: charCN.rarity[5],
-
             class: getClass(charCN),
             classEn: getClassEN(charCN),
-
             subclassEN: getSubClassEN(charCN),
-
-            
-            tagListEN: charEN.tagList,
-
+            tagListEN: charEN.tagList || [],
             phases: charCN.phases,
             skills: charCN.skills,
-
             talentsCN: charCN.talents,
-            talentsEN: charEN.talents,
-            talentsJP: charJP.talents,
-
+            talentsEN: charEN.talents || [],
+            talentsJP: charJP.talents || [],
             potentialCN: charCN.potentialRanks,
-            potentialEN: charEN.potentialRanks,
-            potentialJP: charJP.potentialRanks,
-
+            potentialEN: charEN.potentialRanks || [],
+            potentialJP: charJP.potentialRanks || [],
             traitCN: charCN.description,
-            traitEN: charEN.description,
-            traitJP: charJP.description,
-
+            traitEN: charEN.description || '',
+            traitJP: charJP.description || '',
             skillLvlup7: charCN.allSkillLvlup,
-        })
+        };
+
+        if (existingCharacterIndex !== -1) {
+            // Update existing character with any new EN data
+            updatedGameData[existingCharacterIndex] = {...updatedGameData[existingCharacterIndex], ...characterDetails};
+        } else {
+            // Add new character
+            updatedGameData.push(characterDetails);
+        }
     }
 });
+
 
 function getClass(currChara){
     switch(currChara.profession){
@@ -215,15 +210,11 @@ function getGenderJP(gender){
     }
 }
 
-jsonData.sort((a, b) => {
-    return parseInt(b.rarity) - parseInt(a.rarity);
-});
+updatedGameData.sort((a, b) => parseInt(b.rarity) - parseInt(a.rarity));
 
-jsonData.forEach(item => {
-    gameData.push(item)
-});
-console.log(gameData);
-fs.writeFile(`../game-toolbox/src/components/Games/Arknights/Content/Json/charData.json`, JSON.stringify(gameData, null, '\t'), (err) => {
+
+console.log(updatedGameData);
+fs.writeFile(gameDataFilePath, JSON.stringify(updatedGameData, null, '\t'), (err) => {
     if (err) {
         console.error('Error writing file in charDataScript:', err);
     } else {
