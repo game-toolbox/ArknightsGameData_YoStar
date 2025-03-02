@@ -537,6 +537,126 @@
             }
           }
         ]
+      },
+      "act11mini": {
+        "actId": "act11mini",
+        "rewardStartTime": 1720112400,
+        "themeColor": "f06020",
+        "rewardList": [
+          {
+            "trialRewardId": "trailReward_act11mini_1",
+            "orderId": 1,
+            "actId": "act11mini",
+            "targetStoryCount": 2,
+            "item": {
+              "id": "char_211_adnach@sale#5",
+              "count": 1,
+              "type": "CHAR_SKIN"
+            }
+          },
+          {
+            "trialRewardId": "trailReward_act11mini_2",
+            "orderId": 2,
+            "actId": "act11mini",
+            "targetStoryCount": 4,
+            "item": {
+              "id": "furni_dropS026_sloth_01",
+              "count": 1,
+              "type": "FURN"
+            }
+          },
+          {
+            "trialRewardId": "trailReward_act11mini_3",
+            "orderId": 3,
+            "actId": "act11mini",
+            "targetStoryCount": 6,
+            "item": {
+              "id": "avatar_activity_TC",
+              "count": 1,
+              "type": "PLAYER_AVATAR"
+            }
+          }
+        ]
+      },
+      "act12mini": {
+        "actId": "act12mini",
+        "rewardStartTime": 1723050000,
+        "themeColor": "c53513",
+        "rewardList": [
+          {
+            "trialRewardId": "trailReward_act12mini_1",
+            "orderId": 1,
+            "actId": "act12mini",
+            "targetStoryCount": 2,
+            "item": {
+              "id": "char_337_utage@epoque#15",
+              "count": 1,
+              "type": "CHAR_SKIN"
+            }
+          },
+          {
+            "trialRewardId": "trailReward_act12mini_2",
+            "orderId": 2,
+            "actId": "act12mini",
+            "targetStoryCount": 4,
+            "item": {
+              "id": "furni_dropS031_spaceWar_01",
+              "count": 1,
+              "type": "FURN"
+            }
+          },
+          {
+            "trialRewardId": "trailReward_act12mini_3",
+            "orderId": 3,
+            "actId": "act12mini",
+            "targetStoryCount": 7,
+            "item": {
+              "id": "avatar_activity_AW",
+              "count": 1,
+              "type": "PLAYER_AVATAR"
+            }
+          }
+        ]
+      },
+      "act14mini": {
+        "actId": "act14mini",
+        "rewardStartTime": 1740157200,
+        "themeColor": "e8e4ac",
+        "rewardList": [
+          {
+            "trialRewardId": "trailReward_act14mini_1",
+            "orderId": 1,
+            "actId": "act14mini",
+            "targetStoryCount": 2,
+            "item": {
+              "id": "char_110_deepcl@winter#3",
+              "count": 1,
+              "type": "CHAR_SKIN"
+            }
+          },
+          {
+            "trialRewardId": "trailReward_act14mini_2",
+            "orderId": 2,
+            "actId": "act14mini",
+            "targetStoryCount": 4,
+            "item": {
+              "id": "furni_dropS034_extraterrestrial_01",
+              "count": 1,
+              "type": "FURN"
+            }
+          },
+          {
+            "trialRewardId": "trailReward_act14mini_3",
+            "orderId": 3,
+            "actId": "act14mini",
+            "targetStoryCount": 6,
+            "item": {
+              "id": "avatar_activity_DC",
+              "count": 1,
+              "type": "PLAYER_AVATAR"
+            }
+          }
+        ]
       }
     }
   },
@@ -1919,6 +2039,15 @@
         "picDescription": "After countless trials and tribulations, He and His kin will be born again.",
         "kvId": null
       },
+      "pic_rogue_3_KV2": {
+        "id": "pic_rogue_3_KV2",
+        "desc": "Those Who Open The Door",
+        "assetPath": "pic_rogue_3_KV2",
+        "type": "IMAGE",
+        "subType": null,
+        "picDescription": "Exploring the infinite with their limited lives to measure eternity.",
+        "kvId": "rogue_3_kv_1_2"
+      },
       "pic_rogue_3_KV1": {
         "id": "pic_rogue_3_KV1",
         "desc": "Silverfrost Frontier",
@@ -2270,6 +2399,33 @@
         "picDescription": "Understand the Sami way of life, and gain a new understanding of nature and civilization.",
         "kvId": null
       },
+      "pic_rogue_3_45": {
+        "id": "pic_rogue_3_45",
+        "desc": "Black-Clad Invitation",
+        "assetPath": "pic_rogue_3_45",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "Once again you gaze at the unique seal on the invitation. There is nothing that can stop you from exploring the north.",
+        "kvId": null
+      },
+      "pic_rogue_3_46": {
+        "id": "pic_rogue_3_46",
+        "desc": "Cooperative Undertaking",
+        "assetPath": "pic_rogue_3_46",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "Expeditioners' tracks, Sami's perseverance, a prophet's clairvoyance, nature's mercy... After traversing a great deal of happenings, you finally manage to witness the door open.",
+        "kvId": null
+      },
+      "pic_rogue_3_47": {
+        "id": "pic_rogue_3_47",
+        "desc": "Silver and Gold",
+        "assetPath": "pic_rogue_3_47",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "On the other side of this remnant gate lies the end of this land, as a beginning.",
+        "kvId": null
+      },
       "pic_rogue_3_31": {
         "id": "pic_rogue_3_31",
         "desc": "Expeditioners",
@@ -2304,6 +2460,420 @@
         "type": "ENDING_IMAGE",
         "subType": "rogue_3_ending_3",
         "picDescription": "Amma loves her children so much that even after a long time, you seem to still feel the warm rain falling on your face.",
+        "kvId": null
+      },
+      "pic_rogue_3_35": {
+        "id": "pic_rogue_3_35",
+        "desc": "Eternal Conquest",
+        "assetPath": "pic_rogue_3_35",
+        "type": "ENDING_IMAGE",
+        "subType": "rogue_3_ending_4",
+        "picDescription": "History has never been passed down like this. History is already irrelevant here.",
+        "kvId": null
+      },
+      "pic_rogue_4_KV1": {
+        "id": "pic_rogue_4_KV1",
+        "desc": "Furnaceside Fables",
+        "assetPath": "pic_rogue_4_KV1",
+        "type": "IMAGE",
+        "subType": null,
+        "picDescription": "An adventure only for the Sarkaz, a romance meant solely for them.",
+        "kvId": "rogue_kv_default"
+      },
+      "pic_rogue_4_1": {
+        "id": "pic_rogue_4_1",
+        "desc": "Lady of Hope",
+        "assetPath": "pic_rogue_4_1",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "Her existence itself is a kind of vision, a vision of peace.",
+        "kvId": null
+      },
+      "pic_rogue_4_2": {
+        "id": "pic_rogue_4_2",
+        "desc": "Passage",
+        "assetPath": "pic_rogue_4_2",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "Once your choice is made, the elusive passage will reveal its own considerations... even though it cannot think.",
+        "kvId": null
+      },
+      "pic_rogue_4_3": {
+        "id": "pic_rogue_4_3",
+        "desc": "Inquisitor",
+        "assetPath": "pic_rogue_4_3",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "The lost always seek answers, but sadly, not all can find the truths that are so near.",
+        "kvId": null
+      },
+      "pic_rogue_4_4": {
+        "id": "pic_rogue_4_4",
+        "desc": "Gifts from Above",
+        "assetPath": "pic_rogue_4_4",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "What falls as junk from the sky becomes treasure on the ground.",
+        "kvId": null
+      },
+      "pic_rogue_4_5": {
+        "id": "pic_rogue_4_5",
+        "desc": "Disciple of Knowledge",
+        "assetPath": "pic_rogue_4_5",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "She's not hiding her identity at all, is she? Why not accept her offer of help?",
+        "kvId": null
+      },
+      "pic_rogue_4_6": {
+        "id": "pic_rogue_4_6",
+        "desc": "A New Chapter",
+        "assetPath": "pic_rogue_4_6",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "Turn over this page, and you'll see a new chapter.",
+        "kvId": null
+      },
+      "pic_rogue_4_7": {
+        "id": "pic_rogue_4_7",
+        "desc": "Cleaning Up",
+        "assetPath": "pic_rogue_4_7",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "In Sarkaz culture, 'burning' seems to hold a special significance. From the Furnace to these metal barrels, they all serve the same purpose.",
+        "kvId": null
+      },
+      "pic_rogue_4_8": {
+        "id": "pic_rogue_4_8",
+        "desc": "Record For The Kings",
+        "assetPath": "pic_rogue_4_8",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "This is exactly the future everyone anticipates, but it is not as perfect as imagined.",
+        "kvId": null
+      },
+      "pic_rogue_4_9": {
+        "id": "pic_rogue_4_9",
+        "desc": "The Price We Pay",
+        "assetPath": "pic_rogue_4_9",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "Here lies the price of changing the story. Though what was distant has returned, the familiar has turned into a stranger.",
+        "kvId": null
+      },
+      "pic_rogue_4_10": {
+        "id": "pic_rogue_4_10",
+        "desc": "Old Tradition",
+        "assetPath": "pic_rogue_4_10",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "The tradition of selling violence stems from survival and competition.",
+        "kvId": null
+      },
+      "pic_rogue_4_11": {
+        "id": "pic_rogue_4_11",
+        "desc": "New Thing",
+        "assetPath": "pic_rogue_4_11",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "The act of trading violence is driven by business and politics.",
+        "kvId": null
+      },
+      "pic_rogue_4_12": {
+        "id": "pic_rogue_4_12",
+        "desc": "Sarkaz Themed Exhibit",
+        "assetPath": "pic_rogue_4_12",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "In an epoch where the Kazdelian empire has fallen and the Sarkaz is no more, Sarkaz themed artwork becomes a lucrative business.",
+        "kvId": null
+      },
+      "pic_rogue_4_13": {
+        "id": "pic_rogue_4_13",
+        "desc": "Leaving Home",
+        "assetPath": "pic_rogue_4_13",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "While the Sarkaz do not have a 'country' or 'home', they have striven to bestow meaning to the two words in their long existence. Eventually, they combined the two Sarkazian words into one: Kazdel.",
+        "kvId": null
+      },
+      "pic_rogue_4_14": {
+        "id": "pic_rogue_4_14",
+        "desc": "First Encounter",
+        "assetPath": "pic_rogue_4_14",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "Mistakes made on the first encounter will take hundreds, even thousands of years to make up.",
+        "kvId": null
+      },
+      "pic_rogue_4_15": {
+        "id": "pic_rogue_4_15",
+        "desc": "Creep and Crawl",
+        "assetPath": "pic_rogue_4_15",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "When the imagination is allowed to run wild, Sarkaz can take on many forms. In one such scenario, they've become creepy crawlies.",
+        "kvId": null
+      },
+      "pic_rogue_4_16": {
+        "id": "pic_rogue_4_16",
+        "desc": "Home Once More",
+        "assetPath": "pic_rogue_4_16",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "There is more than one way to return home.",
+        "kvId": null
+      },
+      "pic_rogue_4_17": {
+        "id": "pic_rogue_4_17",
+        "desc": "Burdenbeast Traveler",
+        "assetPath": "pic_rogue_4_17",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "This burdenbeast has its own narrative. The brief journey with you is but its side story.",
+        "kvId": null
+      },
+      "pic_rogue_4_18": {
+        "id": "pic_rogue_4_18",
+        "desc": "Deep Rift",
+        "assetPath": "pic_rogue_4_18",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "The land swallowed both Kazdel and the Sarkaz in one gulp, and is still savoring them to this day.",
+        "kvId": null
+      },
+      "pic_rogue_4_19": {
+        "id": "pic_rogue_4_19",
+        "desc": "Grifters",
+        "assetPath": "pic_rogue_4_19",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "History neglected is a hand tool for those with ulterior motives.",
+        "kvId": null
+      },
+      "pic_rogue_4_20": {
+        "id": "pic_rogue_4_20",
+        "desc": "Record Keeper",
+        "assetPath": "pic_rogue_4_20",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "For the unfortunate, no matter how beautifully their stories begin, they always end in tragedy.",
+        "kvId": null
+      },
+      "pic_rogue_4_21": {
+        "id": "pic_rogue_4_21",
+        "desc": "Home at Night",
+        "assetPath": "pic_rogue_4_21",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "As long as the furnace fire never dies, just looking into its gentle blaze will be enough to tide one over another day.",
+        "kvId": null
+      },
+      "pic_rogue_4_22": {
+        "id": "pic_rogue_4_22",
+        "desc": "Unending",
+        "assetPath": "pic_rogue_4_22",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "She wants to eradicate every dark future, but they will keep coming as long as she can see, and all she does is to no avail.",
+        "kvId": null
+      },
+      "pic_rogue_4_23": {
+        "id": "pic_rogue_4_23",
+        "desc": "Shifting Views",
+        "assetPath": "pic_rogue_4_23",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "Kazdel's true form hinges on the viewer's imagination... and their memories.",
+        "kvId": null
+      },
+      "pic_rogue_4_24": {
+        "id": "pic_rogue_4_24",
+        "desc": "Tech Adaptation",
+        "assetPath": "pic_rogue_4_24",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "It is impractical to assume that all Sankta technology is a gift from the Law. Further research is needed to determine how much Sarkaz witchcraft has been adapted into these unique technologies.",
+        "kvId": null
+      },
+      "pic_rogue_4_25": {
+        "id": "pic_rogue_4_25",
+        "desc": "Tech Traits",
+        "assetPath": "pic_rogue_4_25",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "Some traits follow a race as it evolves, such as habits, symbols, or maybe a preference for matching colors.",
+        "kvId": null
+      },
+      "pic_rogue_4_26": {
+        "id": "pic_rogue_4_26",
+        "desc": "Lively Night",
+        "assetPath": "pic_rogue_4_26",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "The sky may fall tomorrow, but tonight we drink to our hearts' content.",
+        "kvId": null
+      },
+      "pic_rogue_4_27": {
+        "id": "pic_rogue_4_27",
+        "desc": "Old Friend",
+        "assetPath": "pic_rogue_4_27",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "Luck has always been on his side.",
+        "kvId": null
+      },
+      "pic_rogue_4_28": {
+        "id": "pic_rogue_4_28",
+        "desc": "Story's Infancy",
+        "assetPath": "pic_rogue_4_28",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "Let it grow to its full potential. It will not let you down.",
+        "kvId": null
+      },
+      "pic_rogue_4_29": {
+        "id": "pic_rogue_4_29",
+        "desc": "Vengeance",
+        "assetPath": "pic_rogue_4_29",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "Upon fleeing the castle, she immediately set out to hunt down the members of the Crimson Troupe, only to unwittingly become a part of their new script.",
+        "kvId": null
+      },
+      "pic_rogue_4_30": {
+        "id": "pic_rogue_4_30",
+        "desc": "Companions",
+        "assetPath": "pic_rogue_4_30",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "The biggest difference between Anasa and Oni is not in their physical anatomy, but the cultural discrepancies from living in different places.",
+        "kvId": null
+      },
+      "pic_rogue_4_31": {
+        "id": "pic_rogue_4_31",
+        "desc": "Kindred",
+        "assetPath": "pic_rogue_4_31",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "Blood is thicker than water. The unbreakable bond between the twins grants them the strength to overcome all obstacles.",
+        "kvId": null
+      },
+      "pic_rogue_4_32": {
+        "id": "pic_rogue_4_32",
+        "desc": "The End as You Like It",
+        "assetPath": "pic_rogue_4_32",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "Let the story carry on as you like it.",
+        "kvId": null
+      },
+      "pic_rogue_4_33": {
+        "id": "pic_rogue_4_33",
+        "desc": "Breakthrough",
+        "assetPath": "pic_rogue_4_33",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "At this moment, the importance of imagination breaks free from all its chains.",
+        "kvId": null
+      },
+      "pic_rogue_4_34": {
+        "id": "pic_rogue_4_34",
+        "desc": "Urban Legend",
+        "assetPath": "pic_rogue_2_32",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "No one expected this cowering Perro to be the 'ghost' of a Kazdelian urban legend.",
+        "kvId": null
+      },
+      "pic_rogue_4_35": {
+        "id": "pic_rogue_4_35",
+        "desc": "Leading Duck",
+        "assetPath": "pic_rogue_2_16",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "This time, he's here for something grander than just business.",
+        "kvId": null
+      },
+      "pic_rogue_4_36": {
+        "id": "pic_rogue_4_36",
+        "desc": "Respect the Rules",
+        "assetPath": "pic_rogue_2_17",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "Gopnik is still the same old. You stay away from him, and his fists stay away from you.",
+        "kvId": null
+      },
+      "pic_rogue_4_37": {
+        "id": "pic_rogue_4_37",
+        "desc": "Business Empire Kazduckel",
+        "assetPath": "pic_rogue_2_18",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "Oh, this definitely won't come true, but it is the main reason why he's wandering around here with his men.",
+        "kvId": null
+      },
+      "pic_rogue_4_38": {
+        "id": "pic_rogue_4_38",
+        "desc": "Director Fatty",
+        "assetPath": "pic_rogue_4_38",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "Zalak's beast shit is entertaining, just don't take it for real.",
+        "kvId": null
+      },
+      "pic_rogue_4_39": {
+        "id": "pic_rogue_4_39",
+        "desc": "Duckiest Bidder",
+        "assetPath": "pic_rogue_1_12",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "Being a bidder at your own auction? You never know what the Duck Lord is up to.",
+        "kvId": null
+      },
+      "pic_rogue_4_40": {
+        "id": "pic_rogue_4_40",
+        "desc": "Silver Mountain Range",
+        "assetPath": "pic_rogue_3_43",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "The Sarkaz's first natural barrier.",
+        "kvId": null
+      },
+      "pic_rogue_4_41": {
+        "id": "pic_rogue_4_41",
+        "desc": "Goodbye, Goodbye",
+        "assetPath": "pic_rogue_4_34",
+        "type": "ENDING_IMAGE",
+        "subType": "rogue_4_ending_1",
+        "picDescription": "This may be our final gathering with the revenants, so let's call it... a 'funeral'.",
+        "kvId": null
+      },
+      "pic_rogue_4_42": {
+        "id": "pic_rogue_4_42",
+        "desc": "Dream Come True",
+        "assetPath": "pic_rogue_4_35",
+        "type": "ENDING_IMAGE",
+        "subType": "rogue_4_ending_2",
+        "picDescription": "Thus, the fictional story became reality, soothing the deepest longings within.",
+        "kvId": null
+      },
+      "pic_rogue_4_43": {
+        "id": "pic_rogue_4_43",
+        "desc": "The Law Above",
+        "assetPath": "pic_rogue_4_36",
+        "type": "ENDING_IMAGE",
+        "subType": "rogue_4_ending_3",
+        "picDescription": "Caring for unblessed compatriots is the greatest favor you could grant them. The gun-knights will never forget it, even if it means getting hurt.",
+        "kvId": null
+      },
+      "pic_rogue_4_44": {
+        "id": "pic_rogue_4_44",
+        "desc": "Holy City Battle",
+        "assetPath": "pic_rogue_4_37",
+        "type": "ENDING_IMAGE",
+        "subType": "rogue_4_ending_3",
+        "picDescription": "Buldrokkas'tee's Holy Knights and Kal'tsit's rebel army are both thinking the same thing: rescue their comrades stuck on the battlefield from each other.",
         "kvId": null
       }
     },
@@ -2517,6 +3087,111 @@
         "id": "music_rogue_3_11",
         "desc": "music_rogue_3_11",
         "name": "Dimensional Escape"
+      },
+      "music_rogue_3_12": {
+        "id": "music_rogue_3_12",
+        "desc": "music_rogue_3_12",
+        "name": "Sovereign"
+      },
+      "music_rogue_4_1": {
+        "id": "music_rogue_4_1",
+        "desc": "music_rogue_4_1",
+        "name": "Resolutely Burns the Fire of Lives"
+      },
+      "music_rogue_4_2": {
+        "id": "music_rogue_4_2",
+        "desc": "music_rogue_4_2",
+        "name": "Steadly Unfolds the City of Souls"
+      },
+      "music_rogue_4_3": {
+        "id": "music_rogue_4_3",
+        "desc": "music_rogue_4_3",
+        "name": "Whitely Glimmers the Land of Laws"
+      },
+      "music_rogue_4_4": {
+        "id": "music_rogue_4_4",
+        "desc": "music_rogue_4_4",
+        "name": "Tested by Life"
+      },
+      "music_rogue_4_5": {
+        "id": "music_rogue_4_5",
+        "desc": "music_rogue_4_5",
+        "name": "Tried by Souls"
+      },
+      "music_rogue_4_6": {
+        "id": "music_rogue_4_6",
+        "desc": "music_rogue_4_6",
+        "name": "Judged by A Hero"
+      },
+      "music_rogue_4_7": {
+        "id": "music_rogue_4_7",
+        "desc": "music_rogue_4_7",
+        "name": "Fair Trade"
+      },
+      "music_rogue_4_8": {
+        "id": "music_rogue_4_8",
+        "desc": "music_rogue_4_8",
+        "name": "Nar'aejeph Saralteri\nNo Alternatives"
+      },
+      "music_rogue_4_9": {
+        "id": "music_rogue_4_9",
+        "desc": "music_rogue_4_9",
+        "name": "Sura Saraǧul'tee\nArise My Friends"
+      },
+      "music_rogue_4_10": {
+        "id": "music_rogue_4_10",
+        "desc": "music_rogue_4_10",
+        "name": "Malihirmam Benevolentes"
+      },
+      "music_sandbox_v2_1": {
+        "id": "music_sandbox_v2_1",
+        "desc": "music_sandbox_v2_1",
+        "name": "Reclamation"
+      },
+      "music_sandbox_v2_2": {
+        "id": "music_sandbox_v2_2",
+        "desc": "music_sandbox_v2_2",
+        "name": "Fine Sand"
+      },
+      "music_sandbox_v2_3": {
+        "id": "music_sandbox_v2_3",
+        "desc": "music_sandbox_v2_3",
+        "name": "From The Desert"
+      },
+      "music_sandbox_v2_4": {
+        "id": "music_sandbox_v2_4",
+        "desc": "music_sandbox_v2_4",
+        "name": "Oasis"
+      },
+      "music_sandbox_v2_5": {
+        "id": "music_sandbox_v2_5",
+        "desc": "music_sandbox_v2_5",
+        "name": "Gathering"
+      },
+      "music_sandbox_v2_6": {
+        "id": "music_sandbox_v2_6",
+        "desc": "music_sandbox_v2_6",
+        "name": "On the Hunt"
+      },
+      "music_sandbox_v2_7": {
+        "id": "music_sandbox_v2_7",
+        "desc": "music_sandbox_v2_7",
+        "name": "Scorching Sunlight, Sharp Swords"
+      },
+      "music_sandbox_v2_8": {
+        "id": "music_sandbox_v2_8",
+        "desc": "music_sandbox_v2_8",
+        "name": "Dreadful Undercurrent"
+      },
+      "music_sandbox_v2_9": {
+        "id": "music_sandbox_v2_9",
+        "desc": "music_sandbox_v2_9",
+        "name": "Investigating Strange Territory"
+      },
+      "music_sandbox_v2_10": {
+        "id": "music_sandbox_v2_10",
+        "desc": "music_sandbox_v2_10",
+        "name": "Tightening Helixes"
       }
     },
     "avgs": {
@@ -4460,6 +5135,128 @@
         "logId": "act17side_log_h_36",
         "logDesc": "The memory has come to an end, and all returns to disorder."
       }
+    },
+    "challengeBooks": {
+      "act29side_majorInvest_1": {
+        "storyId": "act29side_majorInvest_1",
+        "titleName": "Vedunien's Collapse",
+        "storyName": "Vedunien's Collapse",
+        "textId": "Activities/act29side/mark/mark1"
+      },
+      "act29side_majorInvest_2": {
+        "storyId": "act29side_majorInvest_2",
+        "titleName": "Lessing's Mourning",
+        "storyName": "Lessing's Mourning",
+        "textId": "Activities/act29side/mark/mark2"
+      },
+      "act29side_majorInvest_3": {
+        "storyId": "act29side_majorInvest_3",
+        "titleName": "Letter from Urtica Grafschaft",
+        "storyName": "Letter from Urtica Grafschaft",
+        "textId": "Activities/act29side/mark/mark3"
+      },
+      "act29side_majorInvest_4": {
+        "storyId": "act29side_majorInvest_4",
+        "titleName": "The Tardy Envoy",
+        "storyName": "The Tardy Envoy",
+        "textId": "Activities/act29side/mark/mark4"
+      },
+      "act29side_majorInvest_5": {
+        "storyId": "act29side_majorInvest_5",
+        "titleName": "Unowned Recollections",
+        "storyName": "Unowned Recollections",
+        "textId": "Activities/act29side/mark/mark5"
+      },
+      "act29side_majorInvest_6": {
+        "storyId": "act29side_majorInvest_6",
+        "titleName": "Secret Note in the Wind",
+        "storyName": "Secret Note in the Wind",
+        "textId": "Activities/act29side/mark/mark6"
+      },
+      "act29side_hiddenInvest_1": {
+        "storyId": "act29side_hiddenInvest_1",
+        "titleName": "Memorial Auditorium Visitor's Brochure",
+        "storyName": "Memorial Auditorium Visitor's Brochure",
+        "textId": "Activities/act29side/mark/mark7"
+      },
+      "rogue_3_challenge_story_01": {
+        "storyId": "rogue_3_challenge_story_01",
+        "titleName": "Observer's Vision",
+        "storyName": "Failed Expedition Record",
+        "textId": "Obt/Rogue/rogue_3/Challenge/challenge_rogue_3_1_1"
+      },
+      "rogue_3_challenge_story_02": {
+        "storyId": "rogue_3_challenge_story_02",
+        "titleName": "Hornblower's Vision",
+        "storyName": "Request for Help",
+        "textId": "Obt/Rogue/rogue_3/Challenge/challenge_rogue_3_1_2"
+      },
+      "rogue_3_challenge_story_03": {
+        "storyId": "rogue_3_challenge_story_03",
+        "titleName": "Merchant's Vision",
+        "storyName": "Premonition of the Past",
+        "textId": "Obt/Rogue/rogue_3/Challenge/challenge_rogue_3_1_3"
+      },
+      "rogue_3_challenge_story_04": {
+        "storyId": "rogue_3_challenge_story_04",
+        "titleName": "Surveyor's Vision",
+        "storyName": "Redeem Misfortune",
+        "textId": "Obt/Rogue/rogue_3/Challenge/challenge_rogue_3_1_4"
+      },
+      "rogue_3_challenge_story_05": {
+        "storyId": "rogue_3_challenge_story_05",
+        "titleName": "Innocent's Vision",
+        "storyName": "Reverse Order",
+        "textId": "Obt/Rogue/rogue_3/Challenge/challenge_rogue_3_1_5"
+      },
+      "rogue_3_challenge_story_06": {
+        "storyId": "rogue_3_challenge_story_06",
+        "titleName": "Guardian's Vision",
+        "storyName": "Blind Prophet",
+        "textId": "Obt/Rogue/rogue_3/Challenge/challenge_rogue_3_1_6"
+      },
+      "rogue_3_challenge_story_07": {
+        "storyId": "rogue_3_challenge_story_07",
+        "titleName": "Wanderer's Vision",
+        "storyName": "Unfamiliar Friend",
+        "textId": "Obt/Rogue/rogue_3/Challenge/challenge_rogue_3_1_7"
+      },
+      "rogue_3_challenge_story_08": {
+        "storyId": "rogue_3_challenge_story_08",
+        "titleName": "Prisoner's Vision",
+        "storyName": "Divergent Start",
+        "textId": "Obt/Rogue/rogue_3/Challenge/challenge_rogue_3_1_8"
+      },
+      "rogue_3_challenge_story_09": {
+        "storyId": "rogue_3_challenge_story_09",
+        "titleName": "Tourist's Vision",
+        "storyName": "Resolute Effort",
+        "textId": "Obt/Rogue/rogue_3/Challenge/challenge_rogue_3_1_9"
+      },
+      "rogue_3_challenge_story_10": {
+        "storyId": "rogue_3_challenge_story_10",
+        "titleName": "Avenger's Vision",
+        "storyName": "Unmelted Snow",
+        "textId": "Obt/Rogue/rogue_3/Challenge/challenge_rogue_3_1_10"
+      },
+      "rogue_3_challenge_story_11": {
+        "storyId": "rogue_3_challenge_story_11",
+        "titleName": "Fool's Vision",
+        "storyName": "All to Deduction",
+        "textId": "Obt/Rogue/rogue_3/Challenge/challenge_rogue_3_1_11"
+      },
+      "rogue_3_challenge_story_12": {
+        "storyId": "rogue_3_challenge_story_12",
+        "titleName": "Pariah's Vision",
+        "storyName": "Stray Signal",
+        "textId": "Obt/Rogue/rogue_3/Challenge/challenge_rogue_3_1_12"
+      },
+      "rogue_3_challenge_story_13": {
+        "storyId": "rogue_3_challenge_story_13",
+        "titleName": "Prophet's Vision",
+        "storyName": "Vision of Endings",
+        "textId": "Obt/Rogue/rogue_3/Challenge/challenge_rogue_3_1_13"
+      }
     }
   },
   "actArchiveData": {
@@ -4906,7 +5703,8 @@
           }
         },
         "landmark": null,
-        "log": null
+        "log": null,
+        "challengeBook": null
       },
       "act13side": {
         "timeline": {
@@ -5350,7 +6148,8 @@
           }
         },
         "landmark": null,
-        "log": null
+        "log": null,
+        "challengeBook": null
       },
       "act17sre": {
         "timeline": null,
@@ -5908,7 +6707,8 @@
             ],
             "chapterIcon": "HARD"
           }
-        }
+        },
+        "challengeBook": null
       },
       "act17side": {
         "timeline": null,
@@ -6466,7 +7266,169 @@
             ],
             "chapterIcon": "HARD"
           }
-        }
+        },
+        "challengeBook": null
+      },
+      "act25sre": {
+        "timeline": null,
+        "music": null,
+        "pic": {
+          "pics": {
+            "act25side_pic_1": {
+              "picId": "act25side_pic_1",
+              "picSortId": 1
+            },
+            "act25side_pic_2": {
+              "picId": "act25side_pic_2",
+              "picSortId": 2
+            },
+            "act25side_pic_3": {
+              "picId": "act25side_pic_3",
+              "picSortId": 3
+            },
+            "act25side_pic_4": {
+              "picId": "act25side_pic_4",
+              "picSortId": 4
+            },
+            "act25side_pic_5": {
+              "picId": "act25side_pic_5",
+              "picSortId": 5
+            },
+            "act25side_pic_6": {
+              "picId": "act25side_pic_6",
+              "picSortId": 6
+            },
+            "act25side_pic_7": {
+              "picId": "act25side_pic_7",
+              "picSortId": 7
+            },
+            "act25side_pic_8": {
+              "picId": "act25side_pic_8",
+              "picSortId": 8
+            },
+            "act25side_pic_9": {
+              "picId": "act25side_pic_9",
+              "picSortId": 9
+            },
+            "act25side_pic_10": {
+              "picId": "act25side_pic_10",
+              "picSortId": 10
+            },
+            "act25side_pic_11": {
+              "picId": "act25side_pic_11",
+              "picSortId": 11
+            },
+            "act25side_pic_12": {
+              "picId": "act25side_pic_12",
+              "picSortId": 12
+            },
+            "act25side_pic_13": {
+              "picId": "act25side_pic_13",
+              "picSortId": 13
+            },
+            "act25side_pic_14": {
+              "picId": "act25side_pic_14",
+              "picSortId": 14
+            },
+            "act25side_pic_15": {
+              "picId": "act25side_pic_15",
+              "picSortId": 15
+            },
+            "act25side_pic_16": {
+              "picId": "act25side_pic_16",
+              "picSortId": 16
+            },
+            "act25side_pic_17": {
+              "picId": "act25side_pic_17",
+              "picSortId": 17
+            },
+            "act25side_pic_18": {
+              "picId": "act25side_pic_18",
+              "picSortId": 18
+            },
+            "act25side_pic_19": {
+              "picId": "act25side_pic_19",
+              "picSortId": 19
+            },
+            "act25side_pic_20": {
+              "picId": "act25side_pic_20",
+              "picSortId": 20
+            },
+            "act25side_pic_21": {
+              "picId": "act25side_pic_21",
+              "picSortId": 21
+            },
+            "act25side_pic_22": {
+              "picId": "act25side_pic_22",
+              "picSortId": 22
+            },
+            "act25side_pic_23": {
+              "picId": "act25side_pic_23",
+              "picSortId": 23
+            },
+            "act25side_pic_24": {
+              "picId": "act25side_pic_24",
+              "picSortId": 24
+            }
+          }
+        },
+        "story": {
+          "stories": {
+            "act25side_file_1": {
+              "storyId": "act25side_file_1",
+              "storySortId": 1
+            },
+            "act25side_file_2": {
+              "storyId": "act25side_file_2",
+              "storySortId": 2
+            },
+            "act25side_file_3": {
+              "storyId": "act25side_file_3",
+              "storySortId": 3
+            },
+            "act25side_file_4": {
+              "storyId": "act25side_file_4",
+              "storySortId": 4
+            },
+            "act25side_file_5": {
+              "storyId": "act25side_file_5",
+              "storySortId": 5
+            },
+            "act25side_file_6": {
+              "storyId": "act25side_file_6",
+              "storySortId": 6
+            },
+            "act25side_file_7": {
+              "storyId": "act25side_file_7",
+              "storySortId": 7
+            },
+            "act25side_file_8": {
+              "storyId": "act25side_file_8",
+              "storySortId": 8
+            },
+            "act25side_file_9": {
+              "storyId": "act25side_file_9",
+              "storySortId": 9
+            },
+            "act25side_file_10": {
+              "storyId": "act25side_file_10",
+              "storySortId": 10
+            },
+            "act25side_file_11": {
+              "storyId": "act25side_file_11",
+              "storySortId": 11
+            },
+            "act25side_file_12": {
+              "storyId": "act25side_file_12",
+              "storySortId": 12
+            }
+          }
+        },
+        "avg": null,
+        "news": null,
+        "landmark": null,
+        "log": null,
+        "challengeBook": null
       },
       "act25side": {
         "timeline": null,
@@ -6626,7 +7588,50 @@
         "avg": null,
         "news": null,
         "landmark": null,
-        "log": null
+        "log": null,
+        "challengeBook": null
+      },
+      "act29side": {
+        "timeline": null,
+        "music": null,
+        "pic": null,
+        "story": null,
+        "avg": null,
+        "news": null,
+        "landmark": null,
+        "log": null,
+        "challengeBook": {
+          "stories": {
+            "act29side_majorInvest_1": {
+              "storyId": "act29side_majorInvest_1",
+              "sortId": 1
+            },
+            "act29side_majorInvest_2": {
+              "storyId": "act29side_majorInvest_2",
+              "sortId": 2
+            },
+            "act29side_majorInvest_3": {
+              "storyId": "act29side_majorInvest_3",
+              "sortId": 3
+            },
+            "act29side_majorInvest_4": {
+              "storyId": "act29side_majorInvest_4",
+              "sortId": 4
+            },
+            "act29side_majorInvest_5": {
+              "storyId": "act29side_majorInvest_5",
+              "sortId": 5
+            },
+            "act29side_majorInvest_6": {
+              "storyId": "act29side_majorInvest_6",
+              "sortId": 6
+            },
+            "act29side_hiddenInvest_1": {
+              "storyId": "act29side_hiddenInvest_1",
+              "sortId": 7
+            }
+          }
+        }
       },
       "rogue_1": {
         "timeline": null,
@@ -6865,7 +7870,10 @@
         },
         "news": null,
         "landmark": null,
-        "log": null
+        "log": null,
+        "challengeBook": {
+          "stories": {}
+        }
       },
       "rogue_2": {
         "timeline": null,
@@ -7155,7 +8163,10 @@
         },
         "news": null,
         "landmark": null,
-        "log": null
+        "log": null,
+        "challengeBook": {
+          "stories": {}
+        }
       },
       "rogue_3": {
         "timeline": null,
@@ -7204,182 +8215,206 @@
             "music_rogue_3_11": {
               "musicId": "music_rogue_3_11",
               "musicSortId": 11
+            },
+            "music_rogue_3_12": {
+              "musicId": "music_rogue_3_12",
+              "musicSortId": 12
             }
           }
         },
         "pic": {
           "pics": {
+            "pic_rogue_3_KV2": {
+              "picId": "pic_rogue_3_KV2",
+              "picSortId": 1
+            },
             "pic_rogue_3_KV1": {
               "picId": "pic_rogue_3_KV1",
-              "picSortId": 1
+              "picSortId": 2
             },
             "pic_rogue_3_1": {
               "picId": "pic_rogue_3_1",
-              "picSortId": 2
+              "picSortId": 3
             },
             "pic_rogue_3_2": {
               "picId": "pic_rogue_3_2",
-              "picSortId": 3
+              "picSortId": 4
             },
             "pic_rogue_3_3": {
               "picId": "pic_rogue_3_3",
-              "picSortId": 4
+              "picSortId": 5
             },
             "pic_rogue_3_4": {
               "picId": "pic_rogue_3_4",
-              "picSortId": 5
+              "picSortId": 6
             },
             "pic_rogue_3_5": {
               "picId": "pic_rogue_3_5",
-              "picSortId": 6
+              "picSortId": 7
             },
             "pic_rogue_3_6": {
               "picId": "pic_rogue_3_6",
-              "picSortId": 7
+              "picSortId": 8
             },
             "pic_rogue_3_7": {
               "picId": "pic_rogue_3_7",
-              "picSortId": 8
+              "picSortId": 9
             },
             "pic_rogue_3_8": {
               "picId": "pic_rogue_3_8",
-              "picSortId": 9
+              "picSortId": 10
             },
             "pic_rogue_3_9": {
               "picId": "pic_rogue_3_9",
-              "picSortId": 10
+              "picSortId": 11
             },
             "pic_rogue_3_10": {
               "picId": "pic_rogue_3_10",
-              "picSortId": 11
+              "picSortId": 12
             },
             "pic_rogue_3_12": {
               "picId": "pic_rogue_3_12",
-              "picSortId": 12
+              "picSortId": 13
             },
             "pic_rogue_3_13": {
               "picId": "pic_rogue_3_13",
-              "picSortId": 13
+              "picSortId": 14
             },
             "pic_rogue_3_14": {
               "picId": "pic_rogue_3_14",
-              "picSortId": 14
+              "picSortId": 15
             },
             "pic_rogue_3_15": {
               "picId": "pic_rogue_3_15",
-              "picSortId": 15
+              "picSortId": 16
             },
             "pic_rogue_3_16": {
               "picId": "pic_rogue_3_16",
-              "picSortId": 16
+              "picSortId": 17
             },
             "pic_rogue_3_17": {
               "picId": "pic_rogue_3_17",
-              "picSortId": 17
+              "picSortId": 18
             },
             "pic_rogue_3_18": {
               "picId": "pic_rogue_3_18",
-              "picSortId": 18
+              "picSortId": 19
             },
             "pic_rogue_3_19": {
               "picId": "pic_rogue_3_19",
-              "picSortId": 19
+              "picSortId": 20
             },
             "pic_rogue_3_20": {
               "picId": "pic_rogue_3_20",
-              "picSortId": 20
+              "picSortId": 21
             },
             "pic_rogue_3_21": {
               "picId": "pic_rogue_3_21",
-              "picSortId": 21
+              "picSortId": 22
             },
             "pic_rogue_3_22": {
               "picId": "pic_rogue_3_22",
-              "picSortId": 22
+              "picSortId": 23
             },
             "pic_rogue_3_23": {
               "picId": "pic_rogue_3_23",
-              "picSortId": 23
+              "picSortId": 24
             },
             "pic_rogue_3_24": {
               "picId": "pic_rogue_3_24",
-              "picSortId": 24
+              "picSortId": 25
             },
             "pic_rogue_3_25": {
               "picId": "pic_rogue_3_25",
-              "picSortId": 25
+              "picSortId": 26
             },
             "pic_rogue_3_26": {
               "picId": "pic_rogue_3_26",
-              "picSortId": 26
+              "picSortId": 27
             },
             "pic_rogue_3_27": {
               "picId": "pic_rogue_3_27",
-              "picSortId": 27
+              "picSortId": 28
             },
             "pic_rogue_3_28": {
               "picId": "pic_rogue_3_28",
-              "picSortId": 28
+              "picSortId": 29
             },
             "pic_rogue_3_29": {
               "picId": "pic_rogue_3_29",
-              "picSortId": 29
+              "picSortId": 30
             },
             "pic_rogue_3_30": {
               "picId": "pic_rogue_3_30",
-              "picSortId": 30
+              "picSortId": 31
             },
             "pic_rogue_3_36": {
               "picId": "pic_rogue_3_36",
-              "picSortId": 31
+              "picSortId": 32
             },
             "pic_rogue_3_37": {
               "picId": "pic_rogue_3_37",
-              "picSortId": 32
+              "picSortId": 33
             },
             "pic_rogue_3_38": {
               "picId": "pic_rogue_3_38",
-              "picSortId": 33
+              "picSortId": 34
             },
             "pic_rogue_3_39": {
               "picId": "pic_rogue_3_39",
-              "picSortId": 34
+              "picSortId": 35
             },
             "pic_rogue_3_40": {
               "picId": "pic_rogue_3_40",
-              "picSortId": 35
+              "picSortId": 36
             },
             "pic_rogue_3_41": {
               "picId": "pic_rogue_3_41",
-              "picSortId": 36
+              "picSortId": 37
             },
             "pic_rogue_3_42": {
               "picId": "pic_rogue_3_42",
-              "picSortId": 37
+              "picSortId": 38
             },
             "pic_rogue_3_43": {
               "picId": "pic_rogue_3_43",
-              "picSortId": 38
+              "picSortId": 39
             },
             "pic_rogue_3_44": {
               "picId": "pic_rogue_3_44",
-              "picSortId": 39
+              "picSortId": 40
+            },
+            "pic_rogue_3_45": {
+              "picId": "pic_rogue_3_45",
+              "picSortId": 41
+            },
+            "pic_rogue_3_46": {
+              "picId": "pic_rogue_3_46",
+              "picSortId": 42
+            },
+            "pic_rogue_3_47": {
+              "picId": "pic_rogue_3_47",
+              "picSortId": 43
             },
             "pic_rogue_3_31": {
               "picId": "pic_rogue_3_31",
-              "picSortId": 40
+              "picSortId": 44
             },
             "pic_rogue_3_32": {
               "picId": "pic_rogue_3_32",
-              "picSortId": 41
+              "picSortId": 45
             },
             "pic_rogue_3_33": {
               "picId": "pic_rogue_3_33",
-              "picSortId": 42
+              "picSortId": 46
             },
             "pic_rogue_3_34": {
               "picId": "pic_rogue_3_34",
-              "picSortId": 43
+              "picSortId": 47
+            },
+            "pic_rogue_3_35": {
+              "picId": "pic_rogue_3_35",
+              "picSortId": 48
             }
           }
         },
@@ -7389,7 +8424,469 @@
         },
         "news": null,
         "landmark": null,
-        "log": null
+        "log": null,
+        "challengeBook": {
+          "stories": {
+            "rogue_3_challenge_story_01": {
+              "storyId": "rogue_3_challenge_story_01",
+              "sortId": 1
+            },
+            "rogue_3_challenge_story_02": {
+              "storyId": "rogue_3_challenge_story_02",
+              "sortId": 2
+            },
+            "rogue_3_challenge_story_03": {
+              "storyId": "rogue_3_challenge_story_03",
+              "sortId": 3
+            },
+            "rogue_3_challenge_story_04": {
+              "storyId": "rogue_3_challenge_story_04",
+              "sortId": 4
+            },
+            "rogue_3_challenge_story_05": {
+              "storyId": "rogue_3_challenge_story_05",
+              "sortId": 5
+            },
+            "rogue_3_challenge_story_06": {
+              "storyId": "rogue_3_challenge_story_06",
+              "sortId": 6
+            },
+            "rogue_3_challenge_story_07": {
+              "storyId": "rogue_3_challenge_story_07",
+              "sortId": 7
+            },
+            "rogue_3_challenge_story_08": {
+              "storyId": "rogue_3_challenge_story_08",
+              "sortId": 8
+            },
+            "rogue_3_challenge_story_09": {
+              "storyId": "rogue_3_challenge_story_09",
+              "sortId": 9
+            },
+            "rogue_3_challenge_story_10": {
+              "storyId": "rogue_3_challenge_story_10",
+              "sortId": 10
+            },
+            "rogue_3_challenge_story_11": {
+              "storyId": "rogue_3_challenge_story_11",
+              "sortId": 11
+            },
+            "rogue_3_challenge_story_12": {
+              "storyId": "rogue_3_challenge_story_12",
+              "sortId": 12
+            },
+            "rogue_3_challenge_story_13": {
+              "storyId": "rogue_3_challenge_story_13",
+              "sortId": 13
+            }
+          }
+        }
+      },
+      "rogue_4": {
+        "timeline": null,
+        "music": {
+          "musics": {
+            "music_rogue_4_1": {
+              "musicId": "music_rogue_4_1",
+              "musicSortId": 1
+            },
+            "music_rogue_4_2": {
+              "musicId": "music_rogue_4_2",
+              "musicSortId": 2
+            },
+            "music_rogue_4_3": {
+              "musicId": "music_rogue_4_3",
+              "musicSortId": 3
+            },
+            "music_rogue_4_4": {
+              "musicId": "music_rogue_4_4",
+              "musicSortId": 4
+            },
+            "music_rogue_4_5": {
+              "musicId": "music_rogue_4_5",
+              "musicSortId": 5
+            },
+            "music_rogue_4_6": {
+              "musicId": "music_rogue_4_6",
+              "musicSortId": 6
+            },
+            "music_rogue_4_7": {
+              "musicId": "music_rogue_4_7",
+              "musicSortId": 7
+            },
+            "music_rogue_4_8": {
+              "musicId": "music_rogue_4_8",
+              "musicSortId": 8
+            },
+            "music_rogue_4_9": {
+              "musicId": "music_rogue_4_9",
+              "musicSortId": 9
+            },
+            "music_rogue_4_10": {
+              "musicId": "music_rogue_4_10",
+              "musicSortId": 10
+            }
+          }
+        },
+        "pic": {
+          "pics": {
+            "pic_rogue_4_KV1": {
+              "picId": "pic_rogue_4_KV1",
+              "picSortId": 1
+            },
+            "pic_rogue_4_1": {
+              "picId": "pic_rogue_4_1",
+              "picSortId": 2
+            },
+            "pic_rogue_4_2": {
+              "picId": "pic_rogue_4_2",
+              "picSortId": 3
+            },
+            "pic_rogue_4_3": {
+              "picId": "pic_rogue_4_3",
+              "picSortId": 4
+            },
+            "pic_rogue_4_4": {
+              "picId": "pic_rogue_4_4",
+              "picSortId": 5
+            },
+            "pic_rogue_4_5": {
+              "picId": "pic_rogue_4_5",
+              "picSortId": 6
+            },
+            "pic_rogue_4_6": {
+              "picId": "pic_rogue_4_6",
+              "picSortId": 7
+            },
+            "pic_rogue_4_7": {
+              "picId": "pic_rogue_4_7",
+              "picSortId": 8
+            },
+            "pic_rogue_4_8": {
+              "picId": "pic_rogue_4_8",
+              "picSortId": 9
+            },
+            "pic_rogue_4_9": {
+              "picId": "pic_rogue_4_9",
+              "picSortId": 10
+            },
+            "pic_rogue_4_10": {
+              "picId": "pic_rogue_4_10",
+              "picSortId": 11
+            },
+            "pic_rogue_4_11": {
+              "picId": "pic_rogue_4_11",
+              "picSortId": 12
+            },
+            "pic_rogue_4_12": {
+              "picId": "pic_rogue_4_12",
+              "picSortId": 13
+            },
+            "pic_rogue_4_13": {
+              "picId": "pic_rogue_4_13",
+              "picSortId": 14
+            },
+            "pic_rogue_4_14": {
+              "picId": "pic_rogue_4_14",
+              "picSortId": 15
+            },
+            "pic_rogue_4_15": {
+              "picId": "pic_rogue_4_15",
+              "picSortId": 16
+            },
+            "pic_rogue_4_16": {
+              "picId": "pic_rogue_4_16",
+              "picSortId": 17
+            },
+            "pic_rogue_4_17": {
+              "picId": "pic_rogue_4_17",
+              "picSortId": 18
+            },
+            "pic_rogue_4_18": {
+              "picId": "pic_rogue_4_18",
+              "picSortId": 19
+            },
+            "pic_rogue_4_19": {
+              "picId": "pic_rogue_4_19",
+              "picSortId": 20
+            },
+            "pic_rogue_4_20": {
+              "picId": "pic_rogue_4_20",
+              "picSortId": 21
+            },
+            "pic_rogue_4_21": {
+              "picId": "pic_rogue_4_21",
+              "picSortId": 22
+            },
+            "pic_rogue_4_22": {
+              "picId": "pic_rogue_4_22",
+              "picSortId": 23
+            },
+            "pic_rogue_4_23": {
+              "picId": "pic_rogue_4_23",
+              "picSortId": 24
+            },
+            "pic_rogue_4_24": {
+              "picId": "pic_rogue_4_24",
+              "picSortId": 25
+            },
+            "pic_rogue_4_25": {
+              "picId": "pic_rogue_4_25",
+              "picSortId": 26
+            },
+            "pic_rogue_4_26": {
+              "picId": "pic_rogue_4_26",
+              "picSortId": 27
+            },
+            "pic_rogue_4_27": {
+              "picId": "pic_rogue_4_27",
+              "picSortId": 28
+            },
+            "pic_rogue_4_28": {
+              "picId": "pic_rogue_4_28",
+              "picSortId": 29
+            },
+            "pic_rogue_4_29": {
+              "picId": "pic_rogue_4_29",
+              "picSortId": 30
+            },
+            "pic_rogue_4_30": {
+              "picId": "pic_rogue_4_30",
+              "picSortId": 31
+            },
+            "pic_rogue_4_31": {
+              "picId": "pic_rogue_4_31",
+              "picSortId": 32
+            },
+            "pic_rogue_4_32": {
+              "picId": "pic_rogue_4_32",
+              "picSortId": 33
+            },
+            "pic_rogue_4_33": {
+              "picId": "pic_rogue_4_33",
+              "picSortId": 34
+            },
+            "pic_rogue_4_34": {
+              "picId": "pic_rogue_4_34",
+              "picSortId": 35
+            },
+            "pic_rogue_4_35": {
+              "picId": "pic_rogue_4_35",
+              "picSortId": 36
+            },
+            "pic_rogue_4_36": {
+              "picId": "pic_rogue_4_36",
+              "picSortId": 37
+            },
+            "pic_rogue_4_37": {
+              "picId": "pic_rogue_4_37",
+              "picSortId": 38
+            },
+            "pic_rogue_4_38": {
+              "picId": "pic_rogue_4_38",
+              "picSortId": 39
+            },
+            "pic_rogue_4_39": {
+              "picId": "pic_rogue_4_39",
+              "picSortId": 40
+            },
+            "pic_rogue_4_40": {
+              "picId": "pic_rogue_4_40",
+              "picSortId": 41
+            },
+            "pic_rogue_4_41": {
+              "picId": "pic_rogue_4_41",
+              "picSortId": 42
+            },
+            "pic_rogue_4_42": {
+              "picId": "pic_rogue_4_42",
+              "picSortId": 43
+            },
+            "pic_rogue_4_43": {
+              "picId": "pic_rogue_4_43",
+              "picSortId": 44
+            },
+            "pic_rogue_4_44": {
+              "picId": "pic_rogue_4_44",
+              "picSortId": 45
+            }
+          }
+        },
+        "story": null,
+        "avg": {
+          "avgs": {}
+        },
+        "news": null,
+        "landmark": null,
+        "log": null,
+        "challengeBook": {
+          "stories": {}
+        }
+      },
+      "sandbox_1": {
+        "timeline": null,
+        "music": {
+          "musics": {
+            "music_sandbox_v2_1": {
+              "musicId": "music_sandbox_v2_1",
+              "musicSortId": 1
+            },
+            "music_sandbox_v2_2": {
+              "musicId": "music_sandbox_v2_2",
+              "musicSortId": 2
+            },
+            "music_sandbox_v2_3": {
+              "musicId": "music_sandbox_v2_3",
+              "musicSortId": 3
+            },
+            "music_sandbox_v2_4": {
+              "musicId": "music_sandbox_v2_4",
+              "musicSortId": 4
+            },
+            "music_sandbox_v2_5": {
+              "musicId": "music_sandbox_v2_5",
+              "musicSortId": 5
+            },
+            "music_sandbox_v2_6": {
+              "musicId": "music_sandbox_v2_6",
+              "musicSortId": 6
+            },
+            "music_sandbox_v2_7": {
+              "musicId": "music_sandbox_v2_7",
+              "musicSortId": 7
+            },
+            "music_sandbox_v2_8": {
+              "musicId": "music_sandbox_v2_8",
+              "musicSortId": 8
+            },
+            "music_sandbox_v2_9": {
+              "musicId": "music_sandbox_v2_9",
+              "musicSortId": 9
+            },
+            "music_sandbox_v2_10": {
+              "musicId": "music_sandbox_v2_10",
+              "musicSortId": 10
+            }
+          }
+        },
+        "pic": null,
+        "story": null,
+        "avg": null,
+        "news": null,
+        "landmark": null,
+        "log": null,
+        "challengeBook": null
+      }
+    }
+  },
+  "trainingCampData": {
+    "stageData": {
+      "ch_1": {
+        "stageId": "ch_1",
+        "stageIconId": "icon_mechanism_1",
+        "sortId": 1,
+        "levelId": "Obt/Training/level_mechanism_1",
+        "code": "CH-1",
+        "name": "Enemy Targeting",
+        "loadingPicId": "loadingS",
+        "description": "Doctor, let's learn how Enemy Targeting works!",
+        "endCharId": "char_237_gravel",
+        "updateTs": 1733227200
+      },
+      "ch_2": {
+        "stageId": "ch_2",
+        "stageIconId": "icon_mechanism_2",
+        "sortId": 2,
+        "levelId": "Obt/Training/level_mechanism_2",
+        "code": "CH-2",
+        "name": "Allied Targeting",
+        "loadingPicId": "loadingS",
+        "description": "Doctor, let's learn how Allied Targeting works!",
+        "endCharId": "char_271_spikes",
+        "updateTs": 1733227200
+      },
+      "ch_3": {
+        "stageId": "ch_3",
+        "stageIconId": "icon_mechanism_3",
+        "sortId": 3,
+        "levelId": "Obt/Training/level_mechanism_3",
+        "code": "CH-3",
+        "name": "Attack Speed",
+        "loadingPicId": "loadingS",
+        "description": "Doctor, let's learn how Attack Speed works!",
+        "endCharId": "char_124_kroos",
+        "updateTs": 1733227200
+      },
+      "ch_4": {
+        "stageId": "ch_4",
+        "stageIconId": "icon_mechanism_4",
+        "sortId": 4,
+        "levelId": "Obt/Training/level_mechanism_4",
+        "code": "CH-4",
+        "name": "Negative Status",
+        "loadingPicId": "loadingS",
+        "description": "Doctor, let's learn how Negative Status works!",
+        "endCharId": "char_102_texas",
+        "updateTs": 1733227200
+      },
+      "ch_5": {
+        "stageId": "ch_5",
+        "stageIconId": "icon_mechanism_5",
+        "sortId": 5,
+        "levelId": "Obt/Training/level_mechanism_5",
+        "code": "CH-5",
+        "name": "Push and Pull",
+        "loadingPicId": "loadingS",
+        "description": "Doctor, let's learn how Push and Pull works!",
+        "endCharId": "char_277_sqrrel",
+        "updateTs": 1733227200
+      },
+      "ch_6": {
+        "stageId": "ch_6",
+        "stageIconId": "icon_mechanism_6",
+        "sortId": 6,
+        "levelId": "Obt/Training/level_mechanism_6",
+        "code": "CH-6",
+        "name": "Enemy Elemental Damage",
+        "loadingPicId": "loadingS",
+        "description": "Doctor, let's learn how Enemy Elemental Damage works!",
+        "endCharId": "char_4041_chnut",
+        "updateTs": 1733227200
+      },
+      "ch_7": {
+        "stageId": "ch_7",
+        "stageIconId": "icon_mechanism_7",
+        "sortId": 7,
+        "levelId": "Obt/Training/level_mechanism_7",
+        "code": "CH-7",
+        "name": "Allied Elemental Damage",
+        "loadingPicId": "loadingS",
+        "description": "Doctor, let's learn how Allied Elemental Damage works!",
+        "endCharId": "char_4102_threye",
+        "updateTs": 1733227200
+      }
+    },
+    "newTrainingCampStages": [
+      {
+        "updateTs": 1733227200,
+        "stages": [
+          "ch_1",
+          "ch_2",
+          "ch_3",
+          "ch_4",
+          "ch_5",
+          "ch_6",
+          "ch_7"
+        ]
+      }
+    ],
+    "consts": {
+      "unlockStageId": "main_03-08",
+      "updateDesc": "More to come",
+      "rewardItem": {
+        "id": "4003",
+        "count": 200,
+        "type": "DIAMOND_SHD"
       }
     }
   }

@@ -537,6 +537,126 @@
             }
           }
         ]
+      },
+      "act11mini": {
+        "actId": "act11mini",
+        "rewardStartTime": 1720076400,
+        "themeColor": "f06020",
+        "rewardList": [
+          {
+            "trialRewardId": "trailReward_act11mini_1",
+            "orderId": 1,
+            "actId": "act11mini",
+            "targetStoryCount": 2,
+            "item": {
+              "id": "char_211_adnach@sale#5",
+              "count": 1,
+              "type": "CHAR_SKIN"
+            }
+          },
+          {
+            "trialRewardId": "trailReward_act11mini_2",
+            "orderId": 2,
+            "actId": "act11mini",
+            "targetStoryCount": 4,
+            "item": {
+              "id": "furni_dropS026_sloth_01",
+              "count": 1,
+              "type": "FURN"
+            }
+          },
+          {
+            "trialRewardId": "trailReward_act11mini_3",
+            "orderId": 3,
+            "actId": "act11mini",
+            "targetStoryCount": 6,
+            "item": {
+              "id": "avatar_activity_TC",
+              "count": 1,
+              "type": "PLAYER_AVATAR"
+            }
+          }
+        ]
+      },
+      "act12mini": {
+        "actId": "act12mini",
+        "rewardStartTime": 1723014000,
+        "themeColor": "c53513",
+        "rewardList": [
+          {
+            "trialRewardId": "trailReward_act12mini_1",
+            "orderId": 1,
+            "actId": "act12mini",
+            "targetStoryCount": 2,
+            "item": {
+              "id": "char_337_utage@epoque#15",
+              "count": 1,
+              "type": "CHAR_SKIN"
+            }
+          },
+          {
+            "trialRewardId": "trailReward_act12mini_2",
+            "orderId": 2,
+            "actId": "act12mini",
+            "targetStoryCount": 4,
+            "item": {
+              "id": "furni_dropS031_spaceWar_01",
+              "count": 1,
+              "type": "FURN"
+            }
+          },
+          {
+            "trialRewardId": "trailReward_act12mini_3",
+            "orderId": 3,
+            "actId": "act12mini",
+            "targetStoryCount": 7,
+            "item": {
+              "id": "avatar_activity_AW",
+              "count": 1,
+              "type": "PLAYER_AVATAR"
+            }
+          }
+        ]
+      },
+      "act14mini": {
+        "actId": "act14mini",
+        "rewardStartTime": 1740121200,
+        "themeColor": "e8e4ac",
+        "rewardList": [
+          {
+            "trialRewardId": "trailReward_act14mini_1",
+            "orderId": 1,
+            "actId": "act14mini",
+            "targetStoryCount": 2,
+            "item": {
+              "id": "char_110_deepcl@winter#3",
+              "count": 1,
+              "type": "CHAR_SKIN"
+            }
+          },
+          {
+            "trialRewardId": "trailReward_act14mini_2",
+            "orderId": 2,
+            "actId": "act14mini",
+            "targetStoryCount": 4,
+            "item": {
+              "id": "furni_dropS034_extraterrestrial_01",
+              "count": 1,
+              "type": "FURN"
+            }
+          },
+          {
+            "trialRewardId": "trailReward_act14mini_3",
+            "orderId": 3,
+            "actId": "act14mini",
+            "targetStoryCount": 6,
+            "item": {
+              "id": "avatar_activity_DC",
+              "count": 1,
+              "type": "PLAYER_AVATAR"
+            }
+          }
+        ]
       }
     }
   },
@@ -1919,6 +2039,15 @@
         "picDescription": "数え切れぬほどの苦難を経て、ついに彼とそれの一族が生まれ変わる時が訪れた。",
         "kvId": null
       },
+      "pic_rogue_3_KV2": {
+        "id": "pic_rogue_3_KV2",
+        "desc": "扉を押し開く者",
+        "assetPath": "pic_rogue_3_KV2",
+        "type": "IMAGE",
+        "subType": null,
+        "picDescription": "有限の命で無限を探索し、永遠を推し量る。",
+        "kvId": "rogue_3_kv_1_2"
+      },
       "pic_rogue_3_KV1": {
         "id": "pic_rogue_3_KV1",
         "desc": "銀氷の果て",
@@ -2270,6 +2399,33 @@
         "picDescription": "サーミ人の生き方を知ることで、自然と文明を改めて理解する。",
         "kvId": null
       },
+      "pic_rogue_3_45": {
+        "id": "pic_rogue_3_45",
+        "desc": "黒い招待状",
+        "assetPath": "pic_rogue_3_45",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "あなたは再び、招待状に押された特徴的な封蝋を見つめていた。北方探索への決意は決して揺るがない。",
+        "kvId": null
+      },
+      "pic_rogue_3_46": {
+        "id": "pic_rogue_3_46",
+        "desc": "合同プロジェクト",
+        "assetPath": "pic_rogue_3_46",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "探索者の足跡、サーミの堅き守り、遠見の者の予言、自然の慈しみ……数多の因果を経験したあなたは、扉が開かれるその瞬間に立ち会った。",
+        "kvId": null
+      },
+      "pic_rogue_3_47": {
+        "id": "pic_rogue_3_47",
+        "desc": "銀と金",
+        "assetPath": "pic_rogue_3_47",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "世に忘れ去られた扉の彼方には、大地の果てが広がっているが、これはただの始まりに過ぎない。",
+        "kvId": null
+      },
       "pic_rogue_3_31": {
         "id": "pic_rogue_3_31",
         "desc": "探索者",
@@ -2304,6 +2460,420 @@
         "type": "ENDING_IMAGE",
         "subType": "rogue_3_ending_3",
         "picDescription": "アンマーはこれほどまでに自らの子らを愛している。ゆえに長い時を経た今でも、あなたは頬に落ちた暖かな雨を感じ取ることができるのだ。",
+        "kvId": null
+      },
+      "pic_rogue_3_35": {
+        "id": "pic_rogue_3_35",
+        "desc": "永遠を征服せよ",
+        "assetPath": "pic_rogue_3_35",
+        "type": "ENDING_IMAGE",
+        "subType": "rogue_3_ending_4",
+        "picDescription": "歴史がかくなる形で語られたことなどないが、この地には歴史など関係ない。",
+        "kvId": null
+      },
+      "pic_rogue_4_KV1": {
+        "id": "pic_rogue_4_KV1",
+        "desc": "炉辺奇談",
+        "assetPath": "pic_rogue_4_KV1",
+        "type": "IMAGE",
+        "subType": null,
+        "picDescription": "これはサルカズだけの冒険、サルカズだけのロマンだ。",
+        "kvId": "rogue_kv_default"
+      },
+      "pic_rogue_4_1": {
+        "id": "pic_rogue_4_1",
+        "desc": "希望の少女",
+        "assetPath": "pic_rogue_4_1",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "彼女の存在そのものがある種の悲願であり、平和の幻影である。",
+        "kvId": null
+      },
+      "pic_rogue_4_2": {
+        "id": "pic_rogue_4_2",
+        "desc": "通り道",
+        "assetPath": "pic_rogue_4_2",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "選択を下せば、秘密の通路も己の考えを示してくれるだろう……本来、考えるという行為ができなくとも。",
+        "kvId": null
+      },
+      "pic_rogue_4_3": {
+        "id": "pic_rogue_4_3",
+        "desc": "答えを求めて",
+        "assetPath": "pic_rogue_4_3",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "迷える者はいつだって答えを欲するものである。しかし残念ながら、誰もがその身近にある答えに触れられるわけではない。",
+        "kvId": null
+      },
+      "pic_rogue_4_4": {
+        "id": "pic_rogue_4_4",
+        "desc": "天地の違い",
+        "assetPath": "pic_rogue_4_4",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "空の上ではガラクタと見なされるものであろうと、地上に降れば自然の恵みとなる。",
+        "kvId": null
+      },
+      "pic_rogue_4_5": {
+        "id": "pic_rogue_4_5",
+        "desc": "知識の愛弟子",
+        "assetPath": "pic_rogue_4_5",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "彼女は自分の正体を隠そうともしない。ならばここは、素直に助けを受け入れよう。",
+        "kvId": null
+      },
+      "pic_rogue_4_6": {
+        "id": "pic_rogue_4_6",
+        "desc": "輪廻",
+        "assetPath": "pic_rogue_4_6",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "このページをめくれば、新たな章へと辿り着くだろう。",
+        "kvId": null
+      },
+      "pic_rogue_4_7": {
+        "id": "pic_rogue_4_7",
+        "desc": "善後処理",
+        "assetPath": "pic_rogue_4_7",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "「燃やす」という行為はサルカズの文明において特別な意味を持つらしい。炉であれドラム缶であれ、彼らは常に何かを燃やし続けている。",
+        "kvId": null
+      },
+      "pic_rogue_4_8": {
+        "id": "pic_rogue_4_8",
+        "desc": "王たちの記録",
+        "assetPath": "pic_rogue_4_8",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "これは誰もが望んだ未来ではあるが、決して思い描いていたほど完璧なものではなかった。",
+        "kvId": null
+      },
+      "pic_rogue_4_9": {
+        "id": "pic_rogue_4_9",
+        "desc": "代償",
+        "assetPath": "pic_rogue_4_9",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "ここには、物語を書き換えるために払った代償が降り積もる。遠く去った者が戻る一方で、馴染みの面々が馴染みない結末を歩んだ。",
+        "kvId": null
+      },
+      "pic_rogue_4_10": {
+        "id": "pic_rogue_4_10",
+        "desc": "古き伝統",
+        "assetPath": "pic_rogue_4_10",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "暴力を売り物にする伝統は、生存と競争に端を発している。",
+        "kvId": null
+      },
+      "pic_rogue_4_11": {
+        "id": "pic_rogue_4_11",
+        "desc": "新たな仕組み",
+        "assetPath": "pic_rogue_4_11",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "暴力を交易する行為は、商業と政治に由来している。",
+        "kvId": null
+      },
+      "pic_rogue_4_12": {
+        "id": "pic_rogue_4_12",
+        "desc": "サルカズの絵画展",
+        "assetPath": "pic_rogue_4_12",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "カズデル帝国が滅び、サルカズが絶滅した時代においては、サルカズを題材にした絵を描くのは儲けのいい商売になった。",
+        "kvId": null
+      },
+      "pic_rogue_4_13": {
+        "id": "pic_rogue_4_13",
+        "desc": "根無し草",
+        "assetPath": "pic_rogue_4_13",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "とは言うものの、サルカズには下ろす「根」もなければ育む「草」もない。長い月日の中で、彼らは根差す場所を意味する表現を模索し続け、最終的に「カズデル」という言葉が生まれた。",
+        "kvId": null
+      },
+      "pic_rogue_4_14": {
+        "id": "pic_rogue_4_14",
+        "desc": "第一種接近遭遇",
+        "assetPath": "pic_rogue_4_14",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "はじめて相まみえた時に犯してしまった過ちは、その後数百数千年をかけて償うこととなった。",
+        "kvId": null
+      },
+      "pic_rogue_4_15": {
+        "id": "pic_rogue_4_15",
+        "desc": "カサカサ",
+        "assetPath": "pic_rogue_4_15",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "縛りを受けない想像の中で、サルカズはあらゆる姿を取っていた。そのうちの一つが、こうした節足動物だ。",
+        "kvId": null
+      },
+      "pic_rogue_4_16": {
+        "id": "pic_rogue_4_16",
+        "desc": "帰郷の日",
+        "assetPath": "pic_rogue_4_16",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "故郷に帰る方法は一つだけとは限らない。",
+        "kvId": null
+      },
+      "pic_rogue_4_17": {
+        "id": "pic_rogue_4_17",
+        "desc": "どこまでも往こう",
+        "assetPath": "pic_rogue_4_17",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "駄獣にも自分だけの物語がある。今はただ、しばらくの間あなたと共に行くことを選んだに過ぎない。",
+        "kvId": null
+      },
+      "pic_rogue_4_18": {
+        "id": "pic_rogue_4_18",
+        "desc": "深い穴",
+        "assetPath": "pic_rogue_4_18",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "大地はサルカズとカズデルを丸呑みにした。そして今日に至るまでそれらを味わい、後味を楽しんでいる。",
+        "kvId": null
+      },
+      "pic_rogue_4_19": {
+        "id": "pic_rogue_4_19",
+        "desc": "悪徳商売",
+        "assetPath": "pic_rogue_4_19",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "守られざる歴史は、腹に一物抱えた人物によって恣意的に脚色されてしまう。",
+        "kvId": null
+      },
+      "pic_rogue_4_20": {
+        "id": "pic_rogue_4_20",
+        "desc": "記録者",
+        "assetPath": "pic_rogue_4_20",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "運に恵まれぬ者からすれば、どれほど努力して物語の素敵な幕開けを迎えても、最後にはいつも悲惨な結末を迎えてしまうものである。",
+        "kvId": null
+      },
+      "pic_rogue_4_21": {
+        "id": "pic_rogue_4_21",
+        "desc": "故郷の夜",
+        "assetPath": "pic_rogue_4_21",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "魂の溶炉が燃え続ける限り、その柔らかな炎の明かりに目を向ければ、もう一日生き抜こうとする勇気が湧き出てくる。",
+        "kvId": null
+      },
+      "pic_rogue_4_22": {
+        "id": "pic_rogue_4_22",
+        "desc": "無限",
+        "assetPath": "pic_rogue_4_22",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "彼女はすべての暗い未来を取り払おうとしていた。しかし彼女が予見すればするほど、そのような未来に終わりは訪れず、彼女の努力も徒労となってしまう。",
+        "kvId": null
+      },
+      "pic_rogue_4_23": {
+        "id": "pic_rogue_4_23",
+        "desc": "インサイドツアー",
+        "assetPath": "pic_rogue_4_23",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "カズデルの真の姿を決めるのは観客の憶測と……彼らの記憶である。",
+        "kvId": null
+      },
+      "pic_rogue_4_24": {
+        "id": "pic_rogue_4_24",
+        "desc": "技術転換期",
+        "assetPath": "pic_rogue_4_24",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "サンクタの技術のすべてが法の恩恵であるはずがない。一体どれだけのサルカズの巫術が、発展の末に独自の技術へと変容したかについてはまだ研究の必要がある。",
+        "kvId": null
+      },
+      "pic_rogue_4_25": {
+        "id": "pic_rogue_4_25",
+        "desc": "特色ある技術",
+        "assetPath": "pic_rogue_4_25",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "スタイルの確立した一部の特徴は、種族と共に発展、存続していくものである。習慣やシンボル、またある種の決められた配色に対する偏愛がそれに該当する。",
+        "kvId": null
+      },
+      "pic_rogue_4_26": {
+        "id": "pic_rogue_4_26",
+        "desc": "賑やかな夜",
+        "assetPath": "pic_rogue_4_26",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "明日天地がひっくり返ろうと、知ったこっちゃない。今夜は盃を片手に祝い、しっかり自分をねぎらわなければ。",
+        "kvId": null
+      },
+      "pic_rogue_4_27": {
+        "id": "pic_rogue_4_27",
+        "desc": "旧友",
+        "assetPath": "pic_rogue_4_27",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "彼は常に幸運に恵まれてきた男だ。",
+        "kvId": null
+      },
+      "pic_rogue_4_28": {
+        "id": "pic_rogue_4_28",
+        "desc": "物語の幼年期",
+        "assetPath": "pic_rogue_4_28",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "円満に締めくくろう。きっと失望させはしない。",
+        "kvId": null
+      },
+      "pic_rogue_4_29": {
+        "id": "pic_rogue_4_29",
+        "desc": "復讐",
+        "assetPath": "pic_rogue_4_29",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "古城を脱したあと、彼女は無暗にクリムゾン劇団の団員を追い詰めて屠り、挙句知らぬ間に自分自身も劇団の新しい脚本の一部と化してしまった。",
+        "kvId": null
+      },
+      "pic_rogue_4_30": {
+        "id": "pic_rogue_4_30",
+        "desc": "仲間",
+        "assetPath": "pic_rogue_4_30",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "アナサと鬼の最も大きな違いは、身体的な構造にあらず、異なる生息域によって生み出された文化的な差異にある。",
+        "kvId": null
+      },
+      "pic_rogue_4_31": {
+        "id": "pic_rogue_4_31",
+        "desc": "親族",
+        "assetPath": "pic_rogue_4_31",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "血は水よりも濃し。この姉弟の固い繋がりは、どんな困難をも凌ぐ力を与えるだろう。",
+        "kvId": null
+      },
+      "pic_rogue_4_32": {
+        "id": "pic_rogue_4_32",
+        "desc": "結末を綴る",
+        "assetPath": "pic_rogue_4_32",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "思い描く物語を見せてくれ。",
+        "kvId": null
+      },
+      "pic_rogue_4_33": {
+        "id": "pic_rogue_4_33",
+        "desc": "限界を超えろ",
+        "assetPath": "pic_rogue_4_33",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "この瞬間、創造の重要性は一切の制約から解放された。",
+        "kvId": null
+      },
+      "pic_rogue_4_34": {
+        "id": "pic_rogue_4_34",
+        "desc": "怪談の出所",
+        "assetPath": "pic_rogue_2_32",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "こんな気弱なペッローが、まさかカズデルの都市伝説の一部に組み込まれるなど、誰も想像しなかっただろう。",
+        "kvId": null
+      },
+      "pic_rogue_4_35": {
+        "id": "pic_rogue_4_35",
+        "desc": "カモが来る",
+        "assetPath": "pic_rogue_2_16",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "今回の彼は商談をしにきたわけではなく、その胸により大きなヴィジョンを抱いている。",
+        "kvId": null
+      },
+      "pic_rogue_4_36": {
+        "id": "pic_rogue_4_36",
+        "desc": "明確な線引き",
+        "assetPath": "pic_rogue_2_17",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "ゴプニクのスタンスは変わらない。ちょっかいをかけない限り、彼のほうからこぶしを見舞ってくることはないだろう。",
+        "kvId": null
+      },
+      "pic_rogue_4_37": {
+        "id": "pic_rogue_4_37",
+        "desc": "ビジネス帝国「ダック」デル",
+        "assetPath": "pic_rogue_2_18",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "無論、そんな夢が実現することはないが、彼が手下を引き連れて、ここでうろついているのは、確かにそれを実現しようとしているからだ。",
+        "kvId": null
+      },
+      "pic_rogue_4_38": {
+        "id": "pic_rogue_4_38",
+        "desc": "総支配人マルッコ",
+        "assetPath": "pic_rogue_4_38",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "ザラックが語る夢物語など聞くに値しない。本気にするだけ損である。",
+        "kvId": null
+      },
+      "pic_rogue_4_39": {
+        "id": "pic_rogue_4_39",
+        "desc": "最後の大トリ",
+        "assetPath": "pic_rogue_1_12",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "さらにはオークションの主催者でもあり、参加者でもある。ダック卿が何を考えているのかなど、あなたにはまるで見当がつかない。",
+        "kvId": null
+      },
+      "pic_rogue_4_40": {
+        "id": "pic_rogue_4_40",
+        "desc": "銀色の山脈",
+        "assetPath": "pic_rogue_3_43",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "サルカズで最初にできた天然の要害。",
+        "kvId": null
+      },
+      "pic_rogue_4_41": {
+        "id": "pic_rogue_4_41",
+        "desc": "いざ、さらば",
+        "assetPath": "pic_rogue_4_34",
+        "type": "ENDING_IMAGE",
+        "subType": "rogue_4_ending_1",
+        "picDescription": "恐らくこれが、今生におけるレヴァナントたちとの最後の集いとなるだろう。ならばこの場を……「葬儀」と名付けよう。",
+        "kvId": null
+      },
+      "pic_rogue_4_42": {
+        "id": "pic_rogue_4_42",
+        "desc": "叶えられた夢",
+        "assetPath": "pic_rogue_4_35",
+        "type": "ENDING_IMAGE",
+        "subType": "rogue_4_ending_2",
+        "picDescription": "虚構の物語は真実となり、心の最奥にある遺憾の気持ちを慰めてくれた。",
+        "kvId": null
+      },
+      "pic_rogue_4_43": {
+        "id": "pic_rogue_4_43",
+        "desc": "法こそが至上",
+        "assetPath": "pic_rogue_4_36",
+        "type": "ENDING_IMAGE",
+        "subType": "rogue_4_ending_3",
+        "picDescription": "未だ祝福を受けていない同胞を救うことこそが、最上の恩恵である。銃騎士たちは、たとえそのために傷つくことになろうとも、決してそれを忘れはしない。",
+        "kvId": null
+      },
+      "pic_rogue_4_44": {
+        "id": "pic_rogue_4_44",
+        "desc": "聖都の戦い",
+        "assetPath": "pic_rogue_4_37",
+        "type": "ENDING_IMAGE",
+        "subType": "rogue_4_ending_3",
+        "picDescription": "ボジョカスティ率いる聖衛とケルシー率いる抵抗軍の想いは同じ――どうにかして、戦場に取り残された仲間を敵のもとから救い出さねばということだった。",
         "kvId": null
       }
     },
@@ -2517,6 +3087,111 @@
         "id": "music_rogue_3_11",
         "desc": "music_rogue_3_11",
         "name": "次元離脱"
+      },
+      "music_rogue_3_12": {
+        "id": "music_rogue_3_12",
+        "desc": "music_rogue_3_12",
+        "name": "主宰たる者"
+      },
+      "music_rogue_4_1": {
+        "id": "music_rogue_4_1",
+        "desc": "music_rogue_4_1",
+        "name": "Resolutely Burns the Fire of Lives"
+      },
+      "music_rogue_4_2": {
+        "id": "music_rogue_4_2",
+        "desc": "music_rogue_4_2",
+        "name": "Steadly Unfolds the City of Souls"
+      },
+      "music_rogue_4_3": {
+        "id": "music_rogue_4_3",
+        "desc": "music_rogue_4_3",
+        "name": "Whitely Glimmers the Land of Laws"
+      },
+      "music_rogue_4_4": {
+        "id": "music_rogue_4_4",
+        "desc": "music_rogue_4_4",
+        "name": "Tested by Life"
+      },
+      "music_rogue_4_5": {
+        "id": "music_rogue_4_5",
+        "desc": "music_rogue_4_5",
+        "name": "Tried by Souls"
+      },
+      "music_rogue_4_6": {
+        "id": "music_rogue_4_6",
+        "desc": "music_rogue_4_6",
+        "name": "Judged by A Hero"
+      },
+      "music_rogue_4_7": {
+        "id": "music_rogue_4_7",
+        "desc": "music_rogue_4_7",
+        "name": "フェアな取引"
+      },
+      "music_rogue_4_8": {
+        "id": "music_rogue_4_8",
+        "desc": "music_rogue_4_8",
+        "name": "Nar'aejeph Saralteri\nNo Alternatives"
+      },
+      "music_rogue_4_9": {
+        "id": "music_rogue_4_9",
+        "desc": "music_rogue_4_9",
+        "name": "Sura Saraǧul'tee\nArise My Friends"
+      },
+      "music_rogue_4_10": {
+        "id": "music_rogue_4_10",
+        "desc": "music_rogue_4_10",
+        "name": "Malihirmam Benevolentes"
+      },
+      "music_sandbox_v2_1": {
+        "id": "music_sandbox_v2_1",
+        "desc": "music_sandbox_v2_1",
+        "name": "生息"
+      },
+      "music_sandbox_v2_2": {
+        "id": "music_sandbox_v2_2",
+        "desc": "music_sandbox_v2_2",
+        "name": "細砂"
+      },
+      "music_sandbox_v2_3": {
+        "id": "music_sandbox_v2_3",
+        "desc": "music_sandbox_v2_3",
+        "name": "From The Desert"
+      },
+      "music_sandbox_v2_4": {
+        "id": "music_sandbox_v2_4",
+        "desc": "music_sandbox_v2_4",
+        "name": "オアシス"
+      },
+      "music_sandbox_v2_5": {
+        "id": "music_sandbox_v2_5",
+        "desc": "music_sandbox_v2_5",
+        "name": "採集"
+      },
+      "music_sandbox_v2_6": {
+        "id": "music_sandbox_v2_6",
+        "desc": "music_sandbox_v2_6",
+        "name": "狩猟"
+      },
+      "music_sandbox_v2_7": {
+        "id": "music_sandbox_v2_7",
+        "desc": "music_sandbox_v2_7",
+        "name": "烈日と刃"
+      },
+      "music_sandbox_v2_8": {
+        "id": "music_sandbox_v2_8",
+        "desc": "music_sandbox_v2_8",
+        "name": "恐怖の暗潮"
+      },
+      "music_sandbox_v2_9": {
+        "id": "music_sandbox_v2_9",
+        "desc": "music_sandbox_v2_9",
+        "name": "秘境への探索"
+      },
+      "music_sandbox_v2_10": {
+        "id": "music_sandbox_v2_10",
+        "desc": "music_sandbox_v2_10",
+        "name": "ネガティブスパイラル"
       }
     },
     "avgs": {
@@ -3617,7 +4292,7 @@
         "landmarkId": "act17side_data_1_4",
         "landmarkName": "走り書きされた手帳",
         "landmarkPic": "act17side_data_1_4_pic",
-        "landmarkDesc": "「『グランファーロは君たちを必要としている。共にこの場所でイベリアの栄光を取り戻そう。』――彼らが最初に告げたのはそんな言葉だった。そう、このまま膝をつくことを良しとしない我々はここに集い、自分たちの町を作り上げたのだ。イベリア人は災厄などには屈しないし、島民の兄弟たちも我々の仲間に加わってくれた。彼らの技術的な才能は驚嘆に値する。とはいえ、ブレオガン閣下がエーギル人であることを思えば、それも不思議ではない。」\n「私は、ブレオガン閣下と一緒に仕事をしたことはないが、彼の設計図を目にして以来、それは一生ものの心残りとなった。造船所には、彼のもとで働いていた上に、港町の建設にも関わったという老練の技師がいる。しかし、その技師は閣下に関連することを何一つ語りはしない。それどころか、誰も閣下のことには触れようともしないのだ。一体なぜなのだろうか？」\n「何にせよ、この設計図は製図台のガラス板の下に敷いておくとしよう。こうした美しい船を設計し、建造することは二度とできないのかもしれないが、それでも、かつて我々がそれを有していたことを思い出させるのも重要なことだ。」",
+        "landmarkDesc": "「『グランファーロは君たちを必要としている。共にこの場所でイベリアの栄光を取り戻そう。』――彼らが最初に告げたのはそんな言葉だった。そう、このまま膝をつくことを良しとしない我々はここに集い、自分たちの町を作り上げたのだ。イベリア人は災厄などには屈しないし、島民の兄弟たちも我々の仲間に加わってくれた。彼らの技術的な才能は驚嘆に値する。とはいえ、ブレオガン閣下がエーギル人であることを思えば、それも不思議ではない。」\n「私は、ブレオガン閣下と一緒に仕事をしたことはないが、彼の設計図を目にして以来、それは一生ものの心残りとなった。造船所には、彼のもとで働いていた上に、港都の建設にも関わったという老練の技師がいる。しかし、その技師は閣下に関連することを何一つ語りはしない。それどころか、誰も閣下のことには触れようともしないのだ。一体なぜなのだろうか？」\n「何にせよ、この設計図は製図台のガラス板の下に敷いておくとしよう。こうした美しい船を設計し、建造することは二度とできないのかもしれないが、それでも、かつて我々がそれを有していたことを思い出させるのも重要なことだ。」",
         "landmarkEngName": "A Scribbled Notepad"
       },
       "act17side_data_1_5": {
@@ -3729,7 +4404,7 @@
         "landmarkId": "act17side_data_h_1",
         "landmarkName": "血に濡れたボタン",
         "landmarkPic": "act17side_data_h_1_pic",
-        "landmarkDesc": "ブレオガンは瓦礫の中を進んでいく。\n道路はまだ水浸しで、両の足がそこを通るたび、いびつな波紋が広がっていった。しかと聞こえるわけではないが、きっと誰かが物陰ですすり泣いてでもいるのだろう。でなければ、これほど気分が沈み、心臓をわしづかみにされる感覚に陥るわけがない。\n災厄が訪れてから、どれだけ時間が経ったのだろう？ブレオガンにはもう、はっきりとは思い出せなかった。時間と物事が折り重なって絡み合い、その密度がある程度高まってしまうと、順序というのは意味を失ってしまう。今となっては、覚えているのはその始まりのことだけだ。あの時、すべての音が消え、黒い波が何もかもを静かに葬り去っていった。王族や貴族たちは今どこにいるのだろう？国教会はどうしているだろう？疑問が多すぎて、一つ一つを吟味することはできそうにない。しかし、エーギルに何かが起きたのは確かだ。その上それは、彼が最も恐れていたことであってもおかしくなかった。\nもしかすると、彼の努力はすべて無駄になってしまったのかもしれない。\n各所にある灯台との連絡も試みてはみたものの、それは当然のように失敗した。また、曖昧な情報によると、港町への移動経路があった場所は海に沈んでしまったという話だった。こうなっては、大艦隊や全身全霊をかけて作り上げてきたスタルティフィラについては、もはや考えたくもない。考えずにいれば、希望という名の儚い泡が漂い残っていられるのだ。つまるところ、それは触れれば割れてしまうことがわかりきっていた。\nエーギル人こそすべての元凶だ、などと吹き込む悪意に満ちた噂があちこちで広がっている。彼らこそが、黄金に輝くイベリアを妬み、災厄を招いた張本人だというのである。そして、その噂の中心に置かれてしまっているのが、彼――ブレオガンだった。かつてイベリアのスターとして祭り上げられた最高造船技術士は、一瞬で邪悪と手を結んだ狂人とされてしまったのだ。国教会の友人は、彼にイベリアを離れるよう勧めてくれたが、ここを離れたとして一体どこへ行けば良いのだろうか？\nふと、ブレオガンは誰かが自分をつけてきていることに気付いた。――そういえば、この廃墟まで足を運んだのはなぜだったか……彼は数秒、その目的を思い出そうとしてみたが、何一つ思い浮かばなかった。あるいはこうして行く当てもなく彷徨って、この惨状を目の当たりにすることこそが、己の傲慢と怠惰に対する罰となりうるかもしれない。\nもし、選択をし直せるとしたら、彼はどうするのだろうか。何を選ぶべきなのだろうか。そんなばかばかしい考えを振り切ろうとして、ブレオガンは足取りを速めた。\nつけてくる人数は増えていた。\nブレオガンは不意に、絵を描くのが好きなあの友人のことを思い出した。そうだ。今いるこの場所には、彼と通った小さなレストランがあったのだ。ここの店主はふくよかなエーギル人のおばさんで、彼女はいつも彼らに小皿をおまけしてくれていた。しかし昨日、そんな彼女が路地裏で死んでいたのが見つかった。その首には絞められた痕が残っていた。\n昨今はそうした事件があまりに多く、彼女の死は通行人の誰からも見向きもされなかった。\n彼をつけてくる人々はもはや隠れようともせず、海を満たす水の如く黙りこくっていた。\n目の前には崩れた壁があり、もはやどこにも逃げ場はない。ブレオガンは振り返り、群衆のほうを見た。そこには見慣れた顔もあれば見慣れぬ顔もあり、それでいて全員が同じような顔をしていた。その表情をどう呼ぶべきかというと――それは憎しみでも、嘲笑でも、憐れみでもない何かだった。\nそうして人々はゆっくりと、それでいて決して止まらずに、彼のほうへと近付いてきた。\nその時、ブレオガンは群衆の中に見知った顔を見つけた。それはあの店主の息子だった。エーギル人だとばれたくないのか、顔を半分ローブのフードで隠している。そのほかにも、昔付き合いのあった島民が何人か紛れていた。自分たちの今の境遇をブレオガンのせいだと思っているのか、あるいは単なる鬱憤晴らしか――ともあれ、仕方があるまい。彼は一つ息を吐いた。これこそが、彼の迎えた結末なのだ。\n人々が集まってくる。もはやそこにいるだけで抱擁すらも感じさせるほどの人数だ。\n――少なくとも、彼らは屈しはしなかった。抗う意志さえ残っていれば、それが希望となるだろう。群衆は散り散りに去って行く。あとには浅い水たまりに倒れ込んだ老人だけが残されて、その身体の下には紅色が滲み出していた。",
+        "landmarkDesc": "ブレオガンは瓦礫の中を進んでいく。\n道路はまだ水浸しで、両の足がそこを通るたび、いびつな波紋が広がっていった。しかと聞こえるわけではないが、きっと誰かが物陰ですすり泣いてでもいるのだろう。でなければ、これほど気分が沈み、心臓をわしづかみにされる感覚に陥るわけがない。\n災厄が訪れてから、どれだけ時間が経ったのだろう？ブレオガンにはもう、はっきりとは思い出せなかった。時間と物事が折り重なって絡み合い、その密度がある程度高まってしまうと、順序というのは意味を失ってしまう。今となっては、覚えているのはその始まりのことだけだ。あの時、すべての音が消え、黒い波が何もかもを静かに葬り去っていった。王族や貴族たちは今どこにいるのだろう？国教会はどうしているだろう？疑問が多すぎて、一つ一つを吟味することはできそうにない。しかし、エーギルに何かが起きたのは確かだ。その上それは、彼が最も恐れていたことであってもおかしくなかった。\nもしかすると、彼の努力はすべて無駄になってしまったのかもしれない。\n各所にある灯台との連絡も試みてはみたものの、それは当然のように失敗した。また、曖昧な情報によると、港都への移動経路があった場所は海に沈んでしまったという話だった。こうなっては、大艦隊や全身全霊をかけて作り上げてきたスタルティフィラについては、もはや考えたくもない。考えずにいれば、希望という名の儚い泡が漂い残っていられるのだ。つまるところ、それは触れれば割れてしまうことがわかりきっていた。\nエーギル人こそすべての元凶だ、などと吹き込む悪意に満ちた噂があちこちで広がっている。彼らこそが、黄金に輝くイベリアを妬み、災厄を招いた張本人だというのである。そして、その噂の中心に置かれてしまっているのが、彼――ブレオガンだった。かつてイベリアのスターとして祭り上げられた最高造船技術士は、一瞬で邪悪と手を結んだ狂人とされてしまったのだ。国教会の友人は、彼にイベリアを離れるよう勧めてくれたが、ここを離れたとして一体どこへ行けば良いのだろうか？\nふと、ブレオガンは誰かが自分をつけてきていることに気付いた。――そういえば、この廃墟まで足を運んだのはなぜだったか……彼は数秒、その目的を思い出そうとしてみたが、何一つ思い浮かばなかった。あるいはこうして行く当てもなく彷徨って、この惨状を目の当たりにすることこそが、己の傲慢と怠惰に対する罰となりうるかもしれない。\nもし、選択をし直せるとしたら、彼はどうするのだろうか。何を選ぶべきなのだろうか。そんなばかばかしい考えを振り切ろうとして、ブレオガンは足取りを速めた。\nつけてくる人数は増えていた。\nブレオガンは不意に、絵を描くのが好きなあの友人のことを思い出した。そうだ。今いるこの場所には、彼と通った小さなレストランがあったのだ。ここの店主はふくよかなエーギル人のおばさんで、彼女はいつも彼らに小皿をおまけしてくれていた。しかし昨日、そんな彼女が路地裏で死んでいたのが見つかった。その首には絞められた痕が残っていた。\n昨今はそうした事件があまりに多く、彼女の死は通行人の誰からも見向きもされなかった。\n彼をつけてくる人々はもはや隠れようともせず、海を満たす水の如く黙りこくっていた。\n目の前には崩れた壁があり、もはやどこにも逃げ場はない。ブレオガンは振り返り、群衆のほうを見た。そこには見慣れた顔もあれば見慣れぬ顔もあり、それでいて全員が同じような顔をしていた。その表情をどう呼ぶべきかというと――それは憎しみでも、嘲笑でも、憐れみでもない何かだった。\nそうして人々はゆっくりと、それでいて決して止まらずに、彼のほうへと近付いてきた。\nその時、ブレオガンは群衆の中に見知った顔を見つけた。それはあの店主の息子だった。エーギル人だとばれたくないのか、顔を半分ローブのフードで隠している。そのほかにも、昔付き合いのあった島民が何人か紛れていた。自分たちの今の境遇をブレオガンのせいだと思っているのか、あるいは単なる鬱憤晴らしか――ともあれ、仕方があるまい。彼は一つ息を吐いた。これこそが、彼の迎えた結末なのだ。\n人々が集まってくる。もはやそこにいるだけで抱擁すらも感じさせるほどの人数だ。\n――少なくとも、彼らは屈しはしなかった。抗う意志さえ残っていれば、それが希望となるだろう。群衆は散り散りに去って行く。あとには浅い水たまりに倒れ込んだ老人だけが残されて、その身体の下には紅色が滲み出していた。",
         "landmarkEngName": "Bloody Button"
       },
       "act17side_data_tech_0": {
@@ -3878,7 +4553,7 @@
       },
       "act17side_log_26": {
         "logId": "act17side_log_26",
-        "logDesc": "コールドリーフの埠頭から見渡せば、かの災厄がイベリアの海岸線を完全に作り変えてしまったことがよくわかる。七十年以上前に築かれた偉大なる港町は、とうに跡形もなく海へ沈んでいった。このコールドリーフは当時のそれとは比べものにならない小さな港だが、それでも、巨大船舶用の停泊スペースが用意されている。かの巨艦は、実際には二度と戻らなかったというのに。\nグランファーロの建設計画が頓挫したあと、コールドリーフ港はほとんど使われなくなった。出航記録に残っているのは、裁判所と懲罰軍の計画した小規模探索任務くらいのものだ。その上、そうした任務から帰還した者はいない。\nけれども今日、この寂れて久しい港はついに、再び船を見送ることとなった。乗組員たちは、遠い海を今なお見渡しているだろう「イベリアの眼」を探すべく旅立つのだ。懲罰軍は前もって、航海の準備をしてくれていた。そして、港の年老いた労働者たちは、遠洋へと漕ぎ出そうとする人々のために物資を積み込むという、慣れない作業をこなしてくれた。やがて、小さな船はゆっくりと港を離れ、送り出す皆の視界から消えていく。\n老いたる働き手は、先の短い残りの人生で、こうして船を見送る機会は二度とないかもしれないと思った。"
+        "logDesc": "コールドリーフの埠頭から見渡せば、かの災厄がイベリアの海岸線を完全に作り変えてしまったことがよくわかる。七十年以上前に築かれた偉大なる港都は、とうに跡形もなく海へ沈んでいった。このコールドリーフは当時のそれとは比べものにならない小さな港だが、それでも、巨大船舶用の停泊スペースが用意されている。かの巨艦は、実際には二度と戻らなかったというのに。\nグランファーロの建設計画が頓挫したあと、コールドリーフ港はほとんど使われなくなった。出航記録に残っているのは、裁判所と懲罰軍の計画した小規模探索任務くらいのものだ。その上、そうした任務から帰還した者はいない。\nけれども今日、この寂れて久しい港はついに、再び船を見送ることとなった。乗組員たちは、遠い海を今なお見渡しているだろう「イベリアの眼」を探すべく旅立つのだ。懲罰軍は前もって、航海の準備をしてくれていた。そして、港の年老いた労働者たちは、遠洋へと漕ぎ出そうとする人々のために物資を積み込むという、慣れない作業をこなしてくれた。やがて、小さな船はゆっくりと港を離れ、送り出す皆の視界から消えていく。\n老いたる働き手は、先の短い残りの人生で、こうして船を見送る機会は二度とないかもしれないと思った。"
       },
       "act17side_log_27": {
         "logId": "act17side_log_27",
@@ -4210,7 +4885,7 @@
       },
       "act17side_log_ex_6": {
         "logId": "act17side_log_ex_6",
-        "logDesc": "「ブレオガンはイベリアのために大艦隊の建造計画を立てている。あの王が野心に満ちていることはどんなバカでも見抜ける事実だが、まあ、ブレオガンの言う通りかもしれない。結局、陸において俺たちは通りすがりの客でしかないし、その最終目標はエーギルを助けることにある。」\n「――建造中の旗艦を見てきた。エーギルからすればぎりぎり形になっているくらいの代物だが、陸上国家にとっては前代未聞の船となるだろう。ブレオガンとアルフォンソは、その船をスタルティフィラ、『狂人号』と名付けた。」\n「二人は圧力に負けず双方同意の下でこの命名を断行したが、その解釈はそれぞれで異なっているように思う。それに、最近のブレオガンはいつもしかめ面をしている。何かが起こる予感でもあるのか、あるいは疲れのせいかもしれない。王は灯台と港町の建設までもをあいつに課したのだから。」\n「最近、ブレオガンはイベリア中の新聞で引っ張りだこで、どの新聞社もあいつを賞賛してやまない。だが俺は、あいつがもっと遠くへ目を向けていることを知っている。あいつの判断はいつも的確だし、今回もそうあってほしいものだ。」"
+        "logDesc": "「ブレオガンはイベリアのために大艦隊の建造計画を立てている。あの王が野心に満ちていることはどんなバカでも見抜ける事実だが、まあ、ブレオガンの言う通りかもしれない。結局、陸において俺たちは通りすがりの客でしかないし、その最終目標はエーギルを助けることにある。」\n「――建造中の旗艦を見てきた。エーギルからすればぎりぎり形になっているくらいの代物だが、陸上国家にとっては前代未聞の船となるだろう。ブレオガンとアルフォンソは、その船をスタルティフィラ、『狂人号』と名付けた。」\n「二人は圧力に負けず双方同意の下でこの命名を断行したが、その解釈はそれぞれで異なっているように思う。それに、最近のブレオガンはいつもしかめ面をしている。何かが起こる予感でもあるのか、あるいは疲れのせいかもしれない。王は灯台と港都の建設までもをあいつに課したのだから。」\n「最近、ブレオガンはイベリア中の新聞で引っ張りだこで、どの新聞社もあいつを賞賛してやまない。だが俺は、あいつがもっと遠くへ目を向けていることを知っている。あいつの判断はいつも的確だし、今回もそうあってほしいものだ。」"
       },
       "act17side_log_ex_7": {
         "logId": "act17side_log_ex_7",
@@ -4463,6 +5138,128 @@
       "act17side_log_h_36": {
         "logId": "act17side_log_h_36",
         "logDesc": "記憶の果てへとたどり着き、すべては混沌に帰した。"
+      }
+    },
+    "challengeBooks": {
+      "act29side_majorInvest_1": {
+        "storyId": "act29side_majorInvest_1",
+        "titleName": "ヴィドゥニアの崩落",
+        "storyName": "ヴィドゥニアの崩落",
+        "textId": "Activities/act29side/mark/mark1"
+      },
+      "act29side_majorInvest_2": {
+        "storyId": "act29side_majorInvest_2",
+        "titleName": "レッシングの哀悼",
+        "storyName": "レッシングの哀悼",
+        "textId": "Activities/act29side/mark/mark2"
+      },
+      "act29side_majorInvest_3": {
+        "storyId": "act29side_majorInvest_3",
+        "titleName": "ウルティカ領からの手紙",
+        "storyName": "ウルティカ領からの手紙",
+        "textId": "Activities/act29side/mark/mark3"
+      },
+      "act29side_majorInvest_4": {
+        "storyId": "act29side_majorInvest_4",
+        "titleName": "遅れて来た密使",
+        "storyName": "遅れて来た密使",
+        "textId": "Activities/act29side/mark/mark4"
+      },
+      "act29side_majorInvest_5": {
+        "storyId": "act29side_majorInvest_5",
+        "titleName": "主なき追憶",
+        "storyName": "主なき追憶",
+        "textId": "Activities/act29side/mark/mark5"
+      },
+      "act29side_majorInvest_6": {
+        "storyId": "act29side_majorInvest_6",
+        "titleName": "風前の密書",
+        "storyName": "風前の密書",
+        "textId": "Activities/act29side/mark/mark6"
+      },
+      "act29side_hiddenInvest_1": {
+        "storyId": "act29side_hiddenInvest_1",
+        "titleName": "音楽記念館のガイドブック",
+        "storyName": "音楽記念館のガイドブック",
+        "textId": "Activities/act29side/mark/mark7"
+      },
+      "rogue_3_challenge_story_01": {
+        "storyId": "rogue_3_challenge_story_01",
+        "titleName": "観察者の視野",
+        "storyName": "失敗を記した考察記録",
+        "textId": "Obt/Rogue/rogue_3/Challenge/challenge_rogue_3_1_1"
+      },
+      "rogue_3_challenge_story_02": {
+        "storyId": "rogue_3_challenge_story_02",
+        "titleName": "笛吹きの視野",
+        "storyName": "救援を求める手紙",
+        "textId": "Obt/Rogue/rogue_3/Challenge/challenge_rogue_3_1_2"
+      },
+      "rogue_3_challenge_story_03": {
+        "storyId": "rogue_3_challenge_story_03",
+        "titleName": "商人の視野",
+        "storyName": "過去にまつわる予感",
+        "textId": "Obt/Rogue/rogue_3/Challenge/challenge_rogue_3_1_3"
+      },
+      "rogue_3_challenge_story_04": {
+        "storyId": "rogue_3_challenge_story_04",
+        "titleName": "考察者の視野",
+        "storyName": "現実となった災い",
+        "textId": "Obt/Rogue/rogue_3/Challenge/challenge_rogue_3_1_4"
+      },
+      "rogue_3_challenge_story_05": {
+        "storyId": "rogue_3_challenge_story_05",
+        "titleName": "未熟者の視野",
+        "storyName": "逆述",
+        "textId": "Obt/Rogue/rogue_3/Challenge/challenge_rogue_3_1_5"
+      },
+      "rogue_3_challenge_story_06": {
+        "storyId": "rogue_3_challenge_story_06",
+        "titleName": "護る者の視野",
+        "storyName": "盲目なる予言者",
+        "textId": "Obt/Rogue/rogue_3/Challenge/challenge_rogue_3_1_6"
+      },
+      "rogue_3_challenge_story_07": {
+        "storyId": "rogue_3_challenge_story_07",
+        "titleName": "回遊者の視野",
+        "storyName": "見知らぬ旧知",
+        "textId": "Obt/Rogue/rogue_3/Challenge/challenge_rogue_3_1_7"
+      },
+      "rogue_3_challenge_story_08": {
+        "storyId": "rogue_3_challenge_story_08",
+        "titleName": "囚われ人の視野",
+        "storyName": "錯誤の始まり",
+        "textId": "Obt/Rogue/rogue_3/Challenge/challenge_rogue_3_1_8"
+      },
+      "rogue_3_challenge_story_09": {
+        "storyId": "rogue_3_challenge_story_09",
+        "titleName": "観光者の視野",
+        "storyName": "水滴石を穿つ",
+        "textId": "Obt/Rogue/rogue_3/Challenge/challenge_rogue_3_1_9"
+      },
+      "rogue_3_challenge_story_10": {
+        "storyId": "rogue_3_challenge_story_10",
+        "titleName": "復讐者の視野",
+        "storyName": "溶けきれぬまま",
+        "textId": "Obt/Rogue/rogue_3/Challenge/challenge_rogue_3_1_10"
+      },
+      "rogue_3_challenge_story_11": {
+        "storyId": "rogue_3_challenge_story_11",
+        "titleName": "愚か者の視野",
+        "storyName": "完全帰納法",
+        "textId": "Obt/Rogue/rogue_3/Challenge/challenge_rogue_3_1_11"
+      },
+      "rogue_3_challenge_story_12": {
+        "storyId": "rogue_3_challenge_story_12",
+        "titleName": "転化した者の視野",
+        "storyName": "行き場のないシグナル",
+        "textId": "Obt/Rogue/rogue_3/Challenge/challenge_rogue_3_1_12"
+      },
+      "rogue_3_challenge_story_13": {
+        "storyId": "rogue_3_challenge_story_13",
+        "titleName": "預言者の視野",
+        "storyName": "遠見の結末",
+        "textId": "Obt/Rogue/rogue_3/Challenge/challenge_rogue_3_1_13"
       }
     }
   },
@@ -4910,7 +5707,8 @@
           }
         },
         "landmark": null,
-        "log": null
+        "log": null,
+        "challengeBook": null
       },
       "act13side": {
         "timeline": {
@@ -5354,7 +6152,8 @@
           }
         },
         "landmark": null,
-        "log": null
+        "log": null,
+        "challengeBook": null
       },
       "act17sre": {
         "timeline": null,
@@ -5912,7 +6711,8 @@
             ],
             "chapterIcon": "HARD"
           }
-        }
+        },
+        "challengeBook": null
       },
       "act17side": {
         "timeline": null,
@@ -6470,7 +7270,169 @@
             ],
             "chapterIcon": "HARD"
           }
-        }
+        },
+        "challengeBook": null
+      },
+      "act25sre": {
+        "timeline": null,
+        "music": null,
+        "pic": {
+          "pics": {
+            "act25side_pic_1": {
+              "picId": "act25side_pic_1",
+              "picSortId": 1
+            },
+            "act25side_pic_2": {
+              "picId": "act25side_pic_2",
+              "picSortId": 2
+            },
+            "act25side_pic_3": {
+              "picId": "act25side_pic_3",
+              "picSortId": 3
+            },
+            "act25side_pic_4": {
+              "picId": "act25side_pic_4",
+              "picSortId": 4
+            },
+            "act25side_pic_5": {
+              "picId": "act25side_pic_5",
+              "picSortId": 5
+            },
+            "act25side_pic_6": {
+              "picId": "act25side_pic_6",
+              "picSortId": 6
+            },
+            "act25side_pic_7": {
+              "picId": "act25side_pic_7",
+              "picSortId": 7
+            },
+            "act25side_pic_8": {
+              "picId": "act25side_pic_8",
+              "picSortId": 8
+            },
+            "act25side_pic_9": {
+              "picId": "act25side_pic_9",
+              "picSortId": 9
+            },
+            "act25side_pic_10": {
+              "picId": "act25side_pic_10",
+              "picSortId": 10
+            },
+            "act25side_pic_11": {
+              "picId": "act25side_pic_11",
+              "picSortId": 11
+            },
+            "act25side_pic_12": {
+              "picId": "act25side_pic_12",
+              "picSortId": 12
+            },
+            "act25side_pic_13": {
+              "picId": "act25side_pic_13",
+              "picSortId": 13
+            },
+            "act25side_pic_14": {
+              "picId": "act25side_pic_14",
+              "picSortId": 14
+            },
+            "act25side_pic_15": {
+              "picId": "act25side_pic_15",
+              "picSortId": 15
+            },
+            "act25side_pic_16": {
+              "picId": "act25side_pic_16",
+              "picSortId": 16
+            },
+            "act25side_pic_17": {
+              "picId": "act25side_pic_17",
+              "picSortId": 17
+            },
+            "act25side_pic_18": {
+              "picId": "act25side_pic_18",
+              "picSortId": 18
+            },
+            "act25side_pic_19": {
+              "picId": "act25side_pic_19",
+              "picSortId": 19
+            },
+            "act25side_pic_20": {
+              "picId": "act25side_pic_20",
+              "picSortId": 20
+            },
+            "act25side_pic_21": {
+              "picId": "act25side_pic_21",
+              "picSortId": 21
+            },
+            "act25side_pic_22": {
+              "picId": "act25side_pic_22",
+              "picSortId": 22
+            },
+            "act25side_pic_23": {
+              "picId": "act25side_pic_23",
+              "picSortId": 23
+            },
+            "act25side_pic_24": {
+              "picId": "act25side_pic_24",
+              "picSortId": 24
+            }
+          }
+        },
+        "story": {
+          "stories": {
+            "act25side_file_1": {
+              "storyId": "act25side_file_1",
+              "storySortId": 1
+            },
+            "act25side_file_2": {
+              "storyId": "act25side_file_2",
+              "storySortId": 2
+            },
+            "act25side_file_3": {
+              "storyId": "act25side_file_3",
+              "storySortId": 3
+            },
+            "act25side_file_4": {
+              "storyId": "act25side_file_4",
+              "storySortId": 4
+            },
+            "act25side_file_5": {
+              "storyId": "act25side_file_5",
+              "storySortId": 5
+            },
+            "act25side_file_6": {
+              "storyId": "act25side_file_6",
+              "storySortId": 6
+            },
+            "act25side_file_7": {
+              "storyId": "act25side_file_7",
+              "storySortId": 7
+            },
+            "act25side_file_8": {
+              "storyId": "act25side_file_8",
+              "storySortId": 8
+            },
+            "act25side_file_9": {
+              "storyId": "act25side_file_9",
+              "storySortId": 9
+            },
+            "act25side_file_10": {
+              "storyId": "act25side_file_10",
+              "storySortId": 10
+            },
+            "act25side_file_11": {
+              "storyId": "act25side_file_11",
+              "storySortId": 11
+            },
+            "act25side_file_12": {
+              "storyId": "act25side_file_12",
+              "storySortId": 12
+            }
+          }
+        },
+        "avg": null,
+        "news": null,
+        "landmark": null,
+        "log": null,
+        "challengeBook": null
       },
       "act25side": {
         "timeline": null,
@@ -6630,7 +7592,50 @@
         "avg": null,
         "news": null,
         "landmark": null,
-        "log": null
+        "log": null,
+        "challengeBook": null
+      },
+      "act29side": {
+        "timeline": null,
+        "music": null,
+        "pic": null,
+        "story": null,
+        "avg": null,
+        "news": null,
+        "landmark": null,
+        "log": null,
+        "challengeBook": {
+          "stories": {
+            "act29side_majorInvest_1": {
+              "storyId": "act29side_majorInvest_1",
+              "sortId": 1
+            },
+            "act29side_majorInvest_2": {
+              "storyId": "act29side_majorInvest_2",
+              "sortId": 2
+            },
+            "act29side_majorInvest_3": {
+              "storyId": "act29side_majorInvest_3",
+              "sortId": 3
+            },
+            "act29side_majorInvest_4": {
+              "storyId": "act29side_majorInvest_4",
+              "sortId": 4
+            },
+            "act29side_majorInvest_5": {
+              "storyId": "act29side_majorInvest_5",
+              "sortId": 5
+            },
+            "act29side_majorInvest_6": {
+              "storyId": "act29side_majorInvest_6",
+              "sortId": 6
+            },
+            "act29side_hiddenInvest_1": {
+              "storyId": "act29side_hiddenInvest_1",
+              "sortId": 7
+            }
+          }
+        }
       },
       "rogue_1": {
         "timeline": null,
@@ -6869,7 +7874,10 @@
         },
         "news": null,
         "landmark": null,
-        "log": null
+        "log": null,
+        "challengeBook": {
+          "stories": {}
+        }
       },
       "rogue_2": {
         "timeline": null,
@@ -7159,7 +8167,10 @@
         },
         "news": null,
         "landmark": null,
-        "log": null
+        "log": null,
+        "challengeBook": {
+          "stories": {}
+        }
       },
       "rogue_3": {
         "timeline": null,
@@ -7208,182 +8219,206 @@
             "music_rogue_3_11": {
               "musicId": "music_rogue_3_11",
               "musicSortId": 11
+            },
+            "music_rogue_3_12": {
+              "musicId": "music_rogue_3_12",
+              "musicSortId": 12
             }
           }
         },
         "pic": {
           "pics": {
+            "pic_rogue_3_KV2": {
+              "picId": "pic_rogue_3_KV2",
+              "picSortId": 1
+            },
             "pic_rogue_3_KV1": {
               "picId": "pic_rogue_3_KV1",
-              "picSortId": 1
+              "picSortId": 2
             },
             "pic_rogue_3_1": {
               "picId": "pic_rogue_3_1",
-              "picSortId": 2
+              "picSortId": 3
             },
             "pic_rogue_3_2": {
               "picId": "pic_rogue_3_2",
-              "picSortId": 3
+              "picSortId": 4
             },
             "pic_rogue_3_3": {
               "picId": "pic_rogue_3_3",
-              "picSortId": 4
+              "picSortId": 5
             },
             "pic_rogue_3_4": {
               "picId": "pic_rogue_3_4",
-              "picSortId": 5
+              "picSortId": 6
             },
             "pic_rogue_3_5": {
               "picId": "pic_rogue_3_5",
-              "picSortId": 6
+              "picSortId": 7
             },
             "pic_rogue_3_6": {
               "picId": "pic_rogue_3_6",
-              "picSortId": 7
+              "picSortId": 8
             },
             "pic_rogue_3_7": {
               "picId": "pic_rogue_3_7",
-              "picSortId": 8
+              "picSortId": 9
             },
             "pic_rogue_3_8": {
               "picId": "pic_rogue_3_8",
-              "picSortId": 9
+              "picSortId": 10
             },
             "pic_rogue_3_9": {
               "picId": "pic_rogue_3_9",
-              "picSortId": 10
+              "picSortId": 11
             },
             "pic_rogue_3_10": {
               "picId": "pic_rogue_3_10",
-              "picSortId": 11
+              "picSortId": 12
             },
             "pic_rogue_3_12": {
               "picId": "pic_rogue_3_12",
-              "picSortId": 12
+              "picSortId": 13
             },
             "pic_rogue_3_13": {
               "picId": "pic_rogue_3_13",
-              "picSortId": 13
+              "picSortId": 14
             },
             "pic_rogue_3_14": {
               "picId": "pic_rogue_3_14",
-              "picSortId": 14
+              "picSortId": 15
             },
             "pic_rogue_3_15": {
               "picId": "pic_rogue_3_15",
-              "picSortId": 15
+              "picSortId": 16
             },
             "pic_rogue_3_16": {
               "picId": "pic_rogue_3_16",
-              "picSortId": 16
+              "picSortId": 17
             },
             "pic_rogue_3_17": {
               "picId": "pic_rogue_3_17",
-              "picSortId": 17
+              "picSortId": 18
             },
             "pic_rogue_3_18": {
               "picId": "pic_rogue_3_18",
-              "picSortId": 18
+              "picSortId": 19
             },
             "pic_rogue_3_19": {
               "picId": "pic_rogue_3_19",
-              "picSortId": 19
+              "picSortId": 20
             },
             "pic_rogue_3_20": {
               "picId": "pic_rogue_3_20",
-              "picSortId": 20
+              "picSortId": 21
             },
             "pic_rogue_3_21": {
               "picId": "pic_rogue_3_21",
-              "picSortId": 21
+              "picSortId": 22
             },
             "pic_rogue_3_22": {
               "picId": "pic_rogue_3_22",
-              "picSortId": 22
+              "picSortId": 23
             },
             "pic_rogue_3_23": {
               "picId": "pic_rogue_3_23",
-              "picSortId": 23
+              "picSortId": 24
             },
             "pic_rogue_3_24": {
               "picId": "pic_rogue_3_24",
-              "picSortId": 24
+              "picSortId": 25
             },
             "pic_rogue_3_25": {
               "picId": "pic_rogue_3_25",
-              "picSortId": 25
+              "picSortId": 26
             },
             "pic_rogue_3_26": {
               "picId": "pic_rogue_3_26",
-              "picSortId": 26
+              "picSortId": 27
             },
             "pic_rogue_3_27": {
               "picId": "pic_rogue_3_27",
-              "picSortId": 27
+              "picSortId": 28
             },
             "pic_rogue_3_28": {
               "picId": "pic_rogue_3_28",
-              "picSortId": 28
+              "picSortId": 29
             },
             "pic_rogue_3_29": {
               "picId": "pic_rogue_3_29",
-              "picSortId": 29
+              "picSortId": 30
             },
             "pic_rogue_3_30": {
               "picId": "pic_rogue_3_30",
-              "picSortId": 30
+              "picSortId": 31
             },
             "pic_rogue_3_36": {
               "picId": "pic_rogue_3_36",
-              "picSortId": 31
+              "picSortId": 32
             },
             "pic_rogue_3_37": {
               "picId": "pic_rogue_3_37",
-              "picSortId": 32
+              "picSortId": 33
             },
             "pic_rogue_3_38": {
               "picId": "pic_rogue_3_38",
-              "picSortId": 33
+              "picSortId": 34
             },
             "pic_rogue_3_39": {
               "picId": "pic_rogue_3_39",
-              "picSortId": 34
+              "picSortId": 35
             },
             "pic_rogue_3_40": {
               "picId": "pic_rogue_3_40",
-              "picSortId": 35
+              "picSortId": 36
             },
             "pic_rogue_3_41": {
               "picId": "pic_rogue_3_41",
-              "picSortId": 36
+              "picSortId": 37
             },
             "pic_rogue_3_42": {
               "picId": "pic_rogue_3_42",
-              "picSortId": 37
+              "picSortId": 38
             },
             "pic_rogue_3_43": {
               "picId": "pic_rogue_3_43",
-              "picSortId": 38
+              "picSortId": 39
             },
             "pic_rogue_3_44": {
               "picId": "pic_rogue_3_44",
-              "picSortId": 39
+              "picSortId": 40
+            },
+            "pic_rogue_3_45": {
+              "picId": "pic_rogue_3_45",
+              "picSortId": 41
+            },
+            "pic_rogue_3_46": {
+              "picId": "pic_rogue_3_46",
+              "picSortId": 42
+            },
+            "pic_rogue_3_47": {
+              "picId": "pic_rogue_3_47",
+              "picSortId": 43
             },
             "pic_rogue_3_31": {
               "picId": "pic_rogue_3_31",
-              "picSortId": 40
+              "picSortId": 44
             },
             "pic_rogue_3_32": {
               "picId": "pic_rogue_3_32",
-              "picSortId": 41
+              "picSortId": 45
             },
             "pic_rogue_3_33": {
               "picId": "pic_rogue_3_33",
-              "picSortId": 42
+              "picSortId": 46
             },
             "pic_rogue_3_34": {
               "picId": "pic_rogue_3_34",
-              "picSortId": 43
+              "picSortId": 47
+            },
+            "pic_rogue_3_35": {
+              "picId": "pic_rogue_3_35",
+              "picSortId": 48
             }
           }
         },
@@ -7393,7 +8428,469 @@
         },
         "news": null,
         "landmark": null,
-        "log": null
+        "log": null,
+        "challengeBook": {
+          "stories": {
+            "rogue_3_challenge_story_01": {
+              "storyId": "rogue_3_challenge_story_01",
+              "sortId": 1
+            },
+            "rogue_3_challenge_story_02": {
+              "storyId": "rogue_3_challenge_story_02",
+              "sortId": 2
+            },
+            "rogue_3_challenge_story_03": {
+              "storyId": "rogue_3_challenge_story_03",
+              "sortId": 3
+            },
+            "rogue_3_challenge_story_04": {
+              "storyId": "rogue_3_challenge_story_04",
+              "sortId": 4
+            },
+            "rogue_3_challenge_story_05": {
+              "storyId": "rogue_3_challenge_story_05",
+              "sortId": 5
+            },
+            "rogue_3_challenge_story_06": {
+              "storyId": "rogue_3_challenge_story_06",
+              "sortId": 6
+            },
+            "rogue_3_challenge_story_07": {
+              "storyId": "rogue_3_challenge_story_07",
+              "sortId": 7
+            },
+            "rogue_3_challenge_story_08": {
+              "storyId": "rogue_3_challenge_story_08",
+              "sortId": 8
+            },
+            "rogue_3_challenge_story_09": {
+              "storyId": "rogue_3_challenge_story_09",
+              "sortId": 9
+            },
+            "rogue_3_challenge_story_10": {
+              "storyId": "rogue_3_challenge_story_10",
+              "sortId": 10
+            },
+            "rogue_3_challenge_story_11": {
+              "storyId": "rogue_3_challenge_story_11",
+              "sortId": 11
+            },
+            "rogue_3_challenge_story_12": {
+              "storyId": "rogue_3_challenge_story_12",
+              "sortId": 12
+            },
+            "rogue_3_challenge_story_13": {
+              "storyId": "rogue_3_challenge_story_13",
+              "sortId": 13
+            }
+          }
+        }
+      },
+      "rogue_4": {
+        "timeline": null,
+        "music": {
+          "musics": {
+            "music_rogue_4_1": {
+              "musicId": "music_rogue_4_1",
+              "musicSortId": 1
+            },
+            "music_rogue_4_2": {
+              "musicId": "music_rogue_4_2",
+              "musicSortId": 2
+            },
+            "music_rogue_4_3": {
+              "musicId": "music_rogue_4_3",
+              "musicSortId": 3
+            },
+            "music_rogue_4_4": {
+              "musicId": "music_rogue_4_4",
+              "musicSortId": 4
+            },
+            "music_rogue_4_5": {
+              "musicId": "music_rogue_4_5",
+              "musicSortId": 5
+            },
+            "music_rogue_4_6": {
+              "musicId": "music_rogue_4_6",
+              "musicSortId": 6
+            },
+            "music_rogue_4_7": {
+              "musicId": "music_rogue_4_7",
+              "musicSortId": 7
+            },
+            "music_rogue_4_8": {
+              "musicId": "music_rogue_4_8",
+              "musicSortId": 8
+            },
+            "music_rogue_4_9": {
+              "musicId": "music_rogue_4_9",
+              "musicSortId": 9
+            },
+            "music_rogue_4_10": {
+              "musicId": "music_rogue_4_10",
+              "musicSortId": 10
+            }
+          }
+        },
+        "pic": {
+          "pics": {
+            "pic_rogue_4_KV1": {
+              "picId": "pic_rogue_4_KV1",
+              "picSortId": 1
+            },
+            "pic_rogue_4_1": {
+              "picId": "pic_rogue_4_1",
+              "picSortId": 2
+            },
+            "pic_rogue_4_2": {
+              "picId": "pic_rogue_4_2",
+              "picSortId": 3
+            },
+            "pic_rogue_4_3": {
+              "picId": "pic_rogue_4_3",
+              "picSortId": 4
+            },
+            "pic_rogue_4_4": {
+              "picId": "pic_rogue_4_4",
+              "picSortId": 5
+            },
+            "pic_rogue_4_5": {
+              "picId": "pic_rogue_4_5",
+              "picSortId": 6
+            },
+            "pic_rogue_4_6": {
+              "picId": "pic_rogue_4_6",
+              "picSortId": 7
+            },
+            "pic_rogue_4_7": {
+              "picId": "pic_rogue_4_7",
+              "picSortId": 8
+            },
+            "pic_rogue_4_8": {
+              "picId": "pic_rogue_4_8",
+              "picSortId": 9
+            },
+            "pic_rogue_4_9": {
+              "picId": "pic_rogue_4_9",
+              "picSortId": 10
+            },
+            "pic_rogue_4_10": {
+              "picId": "pic_rogue_4_10",
+              "picSortId": 11
+            },
+            "pic_rogue_4_11": {
+              "picId": "pic_rogue_4_11",
+              "picSortId": 12
+            },
+            "pic_rogue_4_12": {
+              "picId": "pic_rogue_4_12",
+              "picSortId": 13
+            },
+            "pic_rogue_4_13": {
+              "picId": "pic_rogue_4_13",
+              "picSortId": 14
+            },
+            "pic_rogue_4_14": {
+              "picId": "pic_rogue_4_14",
+              "picSortId": 15
+            },
+            "pic_rogue_4_15": {
+              "picId": "pic_rogue_4_15",
+              "picSortId": 16
+            },
+            "pic_rogue_4_16": {
+              "picId": "pic_rogue_4_16",
+              "picSortId": 17
+            },
+            "pic_rogue_4_17": {
+              "picId": "pic_rogue_4_17",
+              "picSortId": 18
+            },
+            "pic_rogue_4_18": {
+              "picId": "pic_rogue_4_18",
+              "picSortId": 19
+            },
+            "pic_rogue_4_19": {
+              "picId": "pic_rogue_4_19",
+              "picSortId": 20
+            },
+            "pic_rogue_4_20": {
+              "picId": "pic_rogue_4_20",
+              "picSortId": 21
+            },
+            "pic_rogue_4_21": {
+              "picId": "pic_rogue_4_21",
+              "picSortId": 22
+            },
+            "pic_rogue_4_22": {
+              "picId": "pic_rogue_4_22",
+              "picSortId": 23
+            },
+            "pic_rogue_4_23": {
+              "picId": "pic_rogue_4_23",
+              "picSortId": 24
+            },
+            "pic_rogue_4_24": {
+              "picId": "pic_rogue_4_24",
+              "picSortId": 25
+            },
+            "pic_rogue_4_25": {
+              "picId": "pic_rogue_4_25",
+              "picSortId": 26
+            },
+            "pic_rogue_4_26": {
+              "picId": "pic_rogue_4_26",
+              "picSortId": 27
+            },
+            "pic_rogue_4_27": {
+              "picId": "pic_rogue_4_27",
+              "picSortId": 28
+            },
+            "pic_rogue_4_28": {
+              "picId": "pic_rogue_4_28",
+              "picSortId": 29
+            },
+            "pic_rogue_4_29": {
+              "picId": "pic_rogue_4_29",
+              "picSortId": 30
+            },
+            "pic_rogue_4_30": {
+              "picId": "pic_rogue_4_30",
+              "picSortId": 31
+            },
+            "pic_rogue_4_31": {
+              "picId": "pic_rogue_4_31",
+              "picSortId": 32
+            },
+            "pic_rogue_4_32": {
+              "picId": "pic_rogue_4_32",
+              "picSortId": 33
+            },
+            "pic_rogue_4_33": {
+              "picId": "pic_rogue_4_33",
+              "picSortId": 34
+            },
+            "pic_rogue_4_34": {
+              "picId": "pic_rogue_4_34",
+              "picSortId": 35
+            },
+            "pic_rogue_4_35": {
+              "picId": "pic_rogue_4_35",
+              "picSortId": 36
+            },
+            "pic_rogue_4_36": {
+              "picId": "pic_rogue_4_36",
+              "picSortId": 37
+            },
+            "pic_rogue_4_37": {
+              "picId": "pic_rogue_4_37",
+              "picSortId": 38
+            },
+            "pic_rogue_4_38": {
+              "picId": "pic_rogue_4_38",
+              "picSortId": 39
+            },
+            "pic_rogue_4_39": {
+              "picId": "pic_rogue_4_39",
+              "picSortId": 40
+            },
+            "pic_rogue_4_40": {
+              "picId": "pic_rogue_4_40",
+              "picSortId": 41
+            },
+            "pic_rogue_4_41": {
+              "picId": "pic_rogue_4_41",
+              "picSortId": 42
+            },
+            "pic_rogue_4_42": {
+              "picId": "pic_rogue_4_42",
+              "picSortId": 43
+            },
+            "pic_rogue_4_43": {
+              "picId": "pic_rogue_4_43",
+              "picSortId": 44
+            },
+            "pic_rogue_4_44": {
+              "picId": "pic_rogue_4_44",
+              "picSortId": 45
+            }
+          }
+        },
+        "story": null,
+        "avg": {
+          "avgs": {}
+        },
+        "news": null,
+        "landmark": null,
+        "log": null,
+        "challengeBook": {
+          "stories": {}
+        }
+      },
+      "sandbox_1": {
+        "timeline": null,
+        "music": {
+          "musics": {
+            "music_sandbox_v2_1": {
+              "musicId": "music_sandbox_v2_1",
+              "musicSortId": 1
+            },
+            "music_sandbox_v2_2": {
+              "musicId": "music_sandbox_v2_2",
+              "musicSortId": 2
+            },
+            "music_sandbox_v2_3": {
+              "musicId": "music_sandbox_v2_3",
+              "musicSortId": 3
+            },
+            "music_sandbox_v2_4": {
+              "musicId": "music_sandbox_v2_4",
+              "musicSortId": 4
+            },
+            "music_sandbox_v2_5": {
+              "musicId": "music_sandbox_v2_5",
+              "musicSortId": 5
+            },
+            "music_sandbox_v2_6": {
+              "musicId": "music_sandbox_v2_6",
+              "musicSortId": 6
+            },
+            "music_sandbox_v2_7": {
+              "musicId": "music_sandbox_v2_7",
+              "musicSortId": 7
+            },
+            "music_sandbox_v2_8": {
+              "musicId": "music_sandbox_v2_8",
+              "musicSortId": 8
+            },
+            "music_sandbox_v2_9": {
+              "musicId": "music_sandbox_v2_9",
+              "musicSortId": 9
+            },
+            "music_sandbox_v2_10": {
+              "musicId": "music_sandbox_v2_10",
+              "musicSortId": 10
+            }
+          }
+        },
+        "pic": null,
+        "story": null,
+        "avg": null,
+        "news": null,
+        "landmark": null,
+        "log": null,
+        "challengeBook": null
+      }
+    }
+  },
+  "trainingCampData": {
+    "stageData": {
+      "ch_1": {
+        "stageId": "ch_1",
+        "stageIconId": "icon_mechanism_1",
+        "sortId": 1,
+        "levelId": "Obt/Training/level_mechanism_1",
+        "code": "CH-1",
+        "name": "敵側の索敵",
+        "loadingPicId": "loadingS",
+        "description": "ドクター、敵側の索敵に関するメカニズムとテクニックについて学びましょう！",
+        "endCharId": "char_237_gravel",
+        "updateTs": 1733191200
+      },
+      "ch_2": {
+        "stageId": "ch_2",
+        "stageIconId": "icon_mechanism_2",
+        "sortId": 2,
+        "levelId": "Obt/Training/level_mechanism_2",
+        "code": "CH-2",
+        "name": "味方の索敵",
+        "loadingPicId": "loadingS",
+        "description": "ドクター、味方の索敵に関するメカニズムとテクニックについて学びましょう！",
+        "endCharId": "char_271_spikes",
+        "updateTs": 1733191200
+      },
+      "ch_3": {
+        "stageId": "ch_3",
+        "stageIconId": "icon_mechanism_3",
+        "sortId": 3,
+        "levelId": "Obt/Training/level_mechanism_3",
+        "code": "CH-3",
+        "name": "攻撃速度",
+        "loadingPicId": "loadingS",
+        "description": "ドクター、攻撃速度に関するメカニズムとテクニックについて学びましょう！",
+        "endCharId": "char_124_kroos",
+        "updateTs": 1733191200
+      },
+      "ch_4": {
+        "stageId": "ch_4",
+        "stageIconId": "icon_mechanism_4",
+        "sortId": 4,
+        "levelId": "Obt/Training/level_mechanism_4",
+        "code": "CH-4",
+        "name": "状態異常",
+        "loadingPicId": "loadingS",
+        "description": "ドクター、状態異常に関するメカニズムとテクニックについて学びましょう！",
+        "endCharId": "char_102_texas",
+        "updateTs": 1733191200
+      },
+      "ch_5": {
+        "stageId": "ch_5",
+        "stageIconId": "icon_mechanism_5",
+        "sortId": 5,
+        "levelId": "Obt/Training/level_mechanism_5",
+        "code": "CH-5",
+        "name": "強制移動",
+        "loadingPicId": "loadingS",
+        "description": "ドクター、強制移動に関するメカニズムとテクニックについて学びましょう！",
+        "endCharId": "char_277_sqrrel",
+        "updateTs": 1733191200
+      },
+      "ch_6": {
+        "stageId": "ch_6",
+        "stageIconId": "icon_mechanism_6",
+        "sortId": 6,
+        "levelId": "Obt/Training/level_mechanism_6",
+        "code": "CH-6",
+        "name": "敵からの元素損傷",
+        "loadingPicId": "loadingS",
+        "description": "ドクター、敵からの元素損傷に関するメカニズムとテクニックについて学びましょう！",
+        "endCharId": "char_4041_chnut",
+        "updateTs": 1733191200
+      },
+      "ch_7": {
+        "stageId": "ch_7",
+        "stageIconId": "icon_mechanism_7",
+        "sortId": 7,
+        "levelId": "Obt/Training/level_mechanism_7",
+        "code": "CH-7",
+        "name": "味方からの元素損傷",
+        "loadingPicId": "loadingS",
+        "description": "ドクター、味方からの元素損傷に関するメカニズムとテクニックについて学びましょう！",
+        "endCharId": "char_4102_threye",
+        "updateTs": 1733191200
+      }
+    },
+    "newTrainingCampStages": [
+      {
+        "updateTs": 1733191200,
+        "stages": [
+          "ch_1",
+          "ch_2",
+          "ch_3",
+          "ch_4",
+          "ch_5",
+          "ch_6",
+          "ch_7"
+        ]
+      }
+    ],
+    "consts": {
+      "unlockStageId": "main_03-08",
+      "updateDesc": "継続更新中",
+      "rewardItem": {
+        "id": "4003",
+        "count": 200,
+        "type": "DIAMOND_SHD"
       }
     }
   }

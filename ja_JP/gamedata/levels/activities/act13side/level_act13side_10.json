@@ -1014,8 +1014,7 @@
       "blackboard": null,
       "overrideCameraEffect": null,
       "passProfessionMaskFlag": false,
-      "professionMask": "NONE",
-      "useExtraData": false
+      "professionMask": "NONE"
     }
   ],
   "routes": [
@@ -3004,10 +3003,9 @@
               "randomSpawnGroupKey": null,
               "randomSpawnGroupPackKey": null,
               "randomType": "ALWAYS",
+              "refreshType": "ALWAYS",
               "weight": 0,
-              "dontBlockWave": false,
-              "isValid": false,
-              "extraMeta": null
+              "dontBlockWave": false
             },
             {
               "actionType": "SPAWN",
@@ -3025,10 +3023,9 @@
               "randomSpawnGroupKey": null,
               "randomSpawnGroupPackKey": null,
               "randomType": "ALWAYS",
+              "refreshType": "ALWAYS",
               "weight": 0,
-              "dontBlockWave": false,
-              "isValid": false,
-              "extraMeta": null
+              "dontBlockWave": false
             },
             {
               "actionType": "SPAWN",
@@ -3046,10 +3043,9 @@
               "randomSpawnGroupKey": null,
               "randomSpawnGroupPackKey": null,
               "randomType": "ALWAYS",
+              "refreshType": "ALWAYS",
               "weight": 0,
-              "dontBlockWave": false,
-              "isValid": false,
-              "extraMeta": null
+              "dontBlockWave": false
             },
             {
               "actionType": "SPAWN",
@@ -3067,10 +3063,9 @@
               "randomSpawnGroupKey": null,
               "randomSpawnGroupPackKey": null,
               "randomType": "ALWAYS",
+              "refreshType": "ALWAYS",
               "weight": 0,
-              "dontBlockWave": false,
-              "isValid": false,
-              "extraMeta": null
+              "dontBlockWave": false
             },
             {
               "actionType": "SPAWN",
@@ -3088,10 +3083,9 @@
               "randomSpawnGroupKey": null,
               "randomSpawnGroupPackKey": null,
               "randomType": "ALWAYS",
+              "refreshType": "ALWAYS",
               "weight": 0,
-              "dontBlockWave": false,
-              "isValid": false,
-              "extraMeta": null
+              "dontBlockWave": false
             },
             {
               "actionType": "DISPLAY_ENEMY_INFO",
@@ -3109,10 +3103,9 @@
               "randomSpawnGroupKey": null,
               "randomSpawnGroupPackKey": null,
               "randomType": "ALWAYS",
+              "refreshType": "ALWAYS",
               "weight": 0,
-              "dontBlockWave": false,
-              "isValid": false,
-              "extraMeta": null
+              "dontBlockWave": false
             }
           ]
         }
@@ -3143,10 +3136,9 @@
               "randomSpawnGroupKey": null,
               "randomSpawnGroupPackKey": null,
               "randomType": "ALWAYS",
+              "refreshType": "ALWAYS",
               "weight": 0,
-              "dontBlockWave": false,
-              "isValid": false,
-              "extraMeta": null
+              "dontBlockWave": false
             },
             {
               "actionType": "SPAWN",
@@ -3164,10 +3156,9 @@
               "randomSpawnGroupKey": null,
               "randomSpawnGroupPackKey": null,
               "randomType": "ALWAYS",
+              "refreshType": "ALWAYS",
               "weight": 0,
-              "dontBlockWave": false,
-              "isValid": false,
-              "extraMeta": null
+              "dontBlockWave": false
             },
             {
               "actionType": "SPAWN",
@@ -3185,10 +3176,9 @@
               "randomSpawnGroupKey": null,
               "randomSpawnGroupPackKey": null,
               "randomType": "ALWAYS",
+              "refreshType": "ALWAYS",
               "weight": 0,
-              "dontBlockWave": false,
-              "isValid": false,
-              "extraMeta": null
+              "dontBlockWave": false
             },
             {
               "actionType": "SPAWN",
@@ -3206,10 +3196,9 @@
               "randomSpawnGroupKey": null,
               "randomSpawnGroupPackKey": null,
               "randomType": "ALWAYS",
+              "refreshType": "ALWAYS",
               "weight": 0,
-              "dontBlockWave": false,
-              "isValid": false,
-              "extraMeta": null
+              "dontBlockWave": false
             },
             {
               "actionType": "SPAWN",
@@ -3227,10 +3216,9 @@
               "randomSpawnGroupKey": null,
               "randomSpawnGroupPackKey": null,
               "randomType": "ALWAYS",
+              "refreshType": "ALWAYS",
               "weight": 0,
-              "dontBlockWave": false,
-              "isValid": false,
-              "extraMeta": null
+              "dontBlockWave": false
             },
             {
               "actionType": "SPAWN",
@@ -3248,10 +3236,9 @@
               "randomSpawnGroupKey": null,
               "randomSpawnGroupPackKey": null,
               "randomType": "ALWAYS",
+              "refreshType": "ALWAYS",
               "weight": 0,
-              "dontBlockWave": false,
-              "isValid": false,
-              "extraMeta": null
+              "dontBlockWave": false
             }
           ]
         }
@@ -3281,10 +3268,9 @@
               "randomSpawnGroupKey": null,
               "randomSpawnGroupPackKey": null,
               "randomType": "ALWAYS",
+              "refreshType": "ALWAYS",
               "weight": 0,
-              "dontBlockWave": false,
-              "isValid": false,
-              "extraMeta": null
+              "dontBlockWave": false
             },
             {
               "actionType": "SPAWN",
@@ -3302,15 +3288,11 @@
               "randomSpawnGroupKey": null,
               "randomSpawnGroupPackKey": null,
               "randomType": "ALWAYS",
+              "refreshType": "ALWAYS",
               "weight": 0,
-              "dontBlockWave": false,
-              "isValid": false,
-              "extraMeta": null
+              "dontBlockWave": false
             }
-          ],
-          "m_randomActionGroups": null,
-          "m_actionWithRandomSpawn": null,
-          "m_validActionPackKeys": null
+          ]
         },
         {
           "preDelay": 0.0,
@@ -3331,10 +3313,9 @@
               "randomSpawnGroupKey": null,
               "randomSpawnGroupPackKey": null,
               "randomType": "ALWAYS",
+              "refreshType": "ALWAYS",
               "weight": 0,
-              "dontBlockWave": false,
-              "isValid": false,
-              "extraMeta": null
+              "dontBlockWave": false
             },
             {
               "actionType": "SPAWN",
@@ -3352,10 +3333,9 @@
               "randomSpawnGroupKey": null,
               "randomSpawnGroupPackKey": null,
               "randomType": "ALWAYS",
+              "refreshType": "ALWAYS",
               "weight": 0,
-              "dontBlockWave": false,
-              "isValid": false,
-              "extraMeta": null
+              "dontBlockWave": false
             },
             {
               "actionType": "SPAWN",
@@ -3373,15 +3353,11 @@
               "randomSpawnGroupKey": null,
               "randomSpawnGroupPackKey": null,
               "randomType": "ALWAYS",
+              "refreshType": "ALWAYS",
               "weight": 0,
-              "dontBlockWave": false,
-              "isValid": false,
-              "extraMeta": null
+              "dontBlockWave": false
             }
-          ],
-          "m_randomActionGroups": null,
-          "m_actionWithRandomSpawn": null,
-          "m_validActionPackKeys": null
+          ]
         },
         {
           "preDelay": 0.0,
@@ -3402,10 +3378,9 @@
               "randomSpawnGroupKey": null,
               "randomSpawnGroupPackKey": null,
               "randomType": "ALWAYS",
+              "refreshType": "ALWAYS",
               "weight": 0,
-              "dontBlockWave": false,
-              "isValid": false,
-              "extraMeta": null
+              "dontBlockWave": false
             },
             {
               "actionType": "SPAWN",
@@ -3423,15 +3398,11 @@
               "randomSpawnGroupKey": null,
               "randomSpawnGroupPackKey": null,
               "randomType": "ALWAYS",
+              "refreshType": "ALWAYS",
               "weight": 0,
-              "dontBlockWave": false,
-              "isValid": false,
-              "extraMeta": null
+              "dontBlockWave": false
             }
-          ],
-          "m_randomActionGroups": null,
-          "m_actionWithRandomSpawn": null,
-          "m_validActionPackKeys": null
+          ]
         },
         {
           "preDelay": 0.0,
@@ -3452,10 +3423,9 @@
               "randomSpawnGroupKey": null,
               "randomSpawnGroupPackKey": null,
               "randomType": "ALWAYS",
+              "refreshType": "ALWAYS",
               "weight": 0,
-              "dontBlockWave": false,
-              "isValid": false,
-              "extraMeta": null
+              "dontBlockWave": false
             },
             {
               "actionType": "SPAWN",
@@ -3473,10 +3443,9 @@
               "randomSpawnGroupKey": null,
               "randomSpawnGroupPackKey": null,
               "randomType": "ALWAYS",
+              "refreshType": "ALWAYS",
               "weight": 0,
-              "dontBlockWave": false,
-              "isValid": false,
-              "extraMeta": null
+              "dontBlockWave": false
             },
             {
               "actionType": "SPAWN",
@@ -3494,15 +3463,11 @@
               "randomSpawnGroupKey": null,
               "randomSpawnGroupPackKey": null,
               "randomType": "ALWAYS",
+              "refreshType": "ALWAYS",
               "weight": 0,
-              "dontBlockWave": false,
-              "isValid": false,
-              "extraMeta": null
+              "dontBlockWave": false
             }
-          ],
-          "m_randomActionGroups": null,
-          "m_actionWithRandomSpawn": null,
-          "m_validActionPackKeys": null
+          ]
         },
         {
           "preDelay": 0.0,
@@ -3523,10 +3488,9 @@
               "randomSpawnGroupKey": null,
               "randomSpawnGroupPackKey": null,
               "randomType": "ALWAYS",
+              "refreshType": "ALWAYS",
               "weight": 0,
-              "dontBlockWave": false,
-              "isValid": false,
-              "extraMeta": null
+              "dontBlockWave": false
             },
             {
               "actionType": "SPAWN",
@@ -3544,15 +3508,11 @@
               "randomSpawnGroupKey": null,
               "randomSpawnGroupPackKey": null,
               "randomType": "ALWAYS",
+              "refreshType": "ALWAYS",
               "weight": 0,
-              "dontBlockWave": false,
-              "isValid": false,
-              "extraMeta": null
+              "dontBlockWave": false
             }
-          ],
-          "m_randomActionGroups": null,
-          "m_actionWithRandomSpawn": null,
-          "m_validActionPackKeys": null
+          ]
         }
       ]
     },
@@ -3577,15 +3537,11 @@
               "randomSpawnGroupKey": null,
               "randomSpawnGroupPackKey": null,
               "randomType": "ALWAYS",
+              "refreshType": "ALWAYS",
               "weight": 0,
-              "dontBlockWave": false,
-              "isValid": false,
-              "extraMeta": null
+              "dontBlockWave": false
             }
-          ],
-          "m_randomActionGroups": null,
-          "m_actionWithRandomSpawn": null,
-          "m_validActionPackKeys": null
+          ]
         }
       ]
     }
@@ -3627,6 +3583,5 @@
   },
   "excludeCharIdList": null,
   "randomSeed": 943909268,
-  "operaConfig": null,
-  "runtimeData": null
+  "operaConfig": null
 }

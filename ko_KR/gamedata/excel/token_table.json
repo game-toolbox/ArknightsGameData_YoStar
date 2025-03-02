@@ -54,7 +54,9 @@
               "silenceImmune": false,
               "sleepImmune": false,
               "frozenImmune": false,
-              "levitateImmune": false
+              "levitateImmune": false,
+              "disarmedCombatImmune": false,
+              "fearedImmune": false
             }
           },
           {
@@ -81,7 +83,9 @@
               "silenceImmune": false,
               "sleepImmune": false,
               "frozenImmune": false,
-              "levitateImmune": false
+              "levitateImmune": false,
+              "disarmedCombatImmune": false,
+              "fearedImmune": false
             }
           }
         ],
@@ -150,7 +154,9 @@
               "silenceImmune": false,
               "sleepImmune": false,
               "frozenImmune": false,
-              "levitateImmune": false
+              "levitateImmune": false,
+              "disarmedCombatImmune": false,
+              "fearedImmune": false
             }
           },
           {
@@ -177,7 +183,9 @@
               "silenceImmune": false,
               "sleepImmune": false,
               "frozenImmune": false,
-              "levitateImmune": false
+              "levitateImmune": false,
+              "disarmedCombatImmune": false,
+              "fearedImmune": false
             }
           }
         ],
@@ -246,7 +254,9 @@
               "silenceImmune": false,
               "sleepImmune": false,
               "frozenImmune": false,
-              "levitateImmune": false
+              "levitateImmune": false,
+              "disarmedCombatImmune": false,
+              "fearedImmune": false
             }
           },
           {
@@ -273,7 +283,9 @@
               "silenceImmune": false,
               "sleepImmune": false,
               "frozenImmune": false,
-              "levitateImmune": false
+              "levitateImmune": false,
+              "disarmedCombatImmune": false,
+              "fearedImmune": false
             }
           }
         ],
@@ -353,7 +365,9 @@
               "silenceImmune": false,
               "sleepImmune": false,
               "frozenImmune": false,
-              "levitateImmune": false
+              "levitateImmune": false,
+              "disarmedCombatImmune": false,
+              "fearedImmune": false
             }
           },
           {
@@ -380,7 +394,9 @@
               "silenceImmune": false,
               "sleepImmune": false,
               "frozenImmune": false,
-              "levitateImmune": false
+              "levitateImmune": false,
+              "disarmedCombatImmune": false,
+              "fearedImmune": false
             }
           }
         ],

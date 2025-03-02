@@ -20,64 +20,81 @@ local HOME_WEIGHT_CHECKIN_ALLPLAYER = 550;
 local HOME_WEIGHT_SWITCH_ONLY = 560;
 local HOME_WEIGHT_CHECKIN_VS = 570;
 local HOME_WEIGHT_UNIQUE_ONLY = 580;
+local HOME_WEIGHT_BLESS_ONLY = 590;
+local HOME_WEIGHT_ACTACCESS = 595;
 
 local HOME_WEIGHT_MAIN_BUFF = 600;
 local HOME_WEIGHT_MAINLINE_BP = 610;
 
 
 
-local function _FindValidPrayOnlyActs(validActs, uncompleteActs)
+
+
+local function _FindValidPrayOnlyActs(validActs, uncompleteActs, unfinishedActs, finishedActs)
   local actList = CS.Torappu.UI.ActivityUtil.FindValidPrayOnlyActs()
   if actList == nil then
     return
   end
   for i = 0, actList.Count - 1 do 
     local actId = actList[i]
-    local validAct = CS.Torappu.SortableString(actId, HOME_WEIGHT_DAILY_PRAY)
+    local validAct = CS.Torappu.UI.ActivityUtil.SortableActivity(actId, HOME_WEIGHT_DAILY_PRAY)
     validActs:Add(validAct)
     if CS.Torappu.UI.ActivityUtil.CheckIfPrayOnlyActUncomplete(actId) then
       uncompleteActs:Add(validAct)
     end
+    unfinishedActs:Add(validAct)
   end
 end
 
 
 
-function LuaActivityUtil:_FindValidFlipOnlyActs(validActs, uncompleteActs)
+
+
+function LuaActivityUtil:_FindValidFlipOnlyActs(validActs, uncompleteActs, unfinishedActs, finishedActs)
   local actList = CS.Torappu.UI.ActivityUtil.FindValidFlipOnlyActs()
   if actList == nil then
     return
   end
   for i = 0, actList.Count - 1 do 
     local actId = actList[i]
-    local validAct = CS.Torappu.SortableString(actId, HOME_WEIGHT_DAILY_FLIP)
+    local validAct = CS.Torappu.UI.ActivityUtil.SortableActivity(actId, HOME_WEIGHT_DAILY_FLIP)
     validActs:Add(validAct)
     if self:CheckIfActivityUncomplete(CS.Torappu.ActivityType.FLIP_ONLY, actId) then
       uncompleteActs:Add(validAct);
+    end
+    if self:_CheckIfActivityFinished(CS.Torappu.ActivityType.FLIP_ONLY, validAct) then
+      finishedActs:Add(validAct)
+    else
+      unfinishedActs:Add(validAct)
     end
   end
 end
 
 
 
-local function _FindValidGridGachaActs(validActs, uncompleteActs)
+
+
+local function _FindValidGridGachaActs(validActs, uncompleteActs, unfinishedActs, finishedActs)
   local actList = CS.Torappu.UI.ActivityUtil.FindValidGridGachaActs()
   if actList == nil then
     return
   end
   for i = 0, actList.Count - 1 do
     local actId = actList[i]
-    local validAct = CS.Torappu.SortableString(actId, HOME_WEIGHT_GRID_GACHA)
+    local validAct = CS.Torappu.UI.ActivityUtil.SortableActivity(actId, HOME_WEIGHT_GRID_GACHA)
     validActs:Add(validAct)
     if CS.Torappu.UI.ActivityUtil.CheckIfGridGachaActUncomplete(actId) then
       uncompleteActs:Add(validAct)
     end
+    unfinishedActs:Add(validAct)
   end
 end
 
 
 
-function LuaActivityUtil:_FindValidGridGachaV2Acts(validActs, uncompleteActs)
+
+
+function LuaActivityUtil:_FindValidGridGachaV2Acts(validActs, uncompleteActs, unfinishedActs, finishedActs)
   local actList = {};
 
   local actList = CS.Torappu.UI.ActivityUtil.FindValidActs(CS.Torappu.ActivityType.GRID_GACHA_V2);
@@ -86,17 +103,24 @@ function LuaActivityUtil:_FindValidGridGachaV2Acts(validActs, uncompleteActs)
   end
   for i = 0, actList.Count - 1 do
     local actId = actList[i];
-    local validAct = CS.Torappu.SortableString(actId, HOME_WEIGHT_GRID_GACHA_V2);
+    local validAct = CS.Torappu.UI.ActivityUtil.SortableActivity(actId, HOME_WEIGHT_GRID_GACHA_V2);
     validActs:Add(validAct);
     if self:CheckIfActivityUncomplete(CS.Torappu.ActivityType.GRID_GACHA_V2, actId) then
       uncompleteActs:Add(validAct);
+    end
+    if self:_CheckIfActivityFinished(CS.Torappu.ActivityType.GRID_GACHA_V2, validAct) then
+      finishedActs:Add(validAct)
+    else
+      unfinishedActs:Add(validAct)
     end
   end
 end
 
 
 
-function LuaActivityUtil:_FindValidFloatParadeAct(validActs, uncompleteActs)
+
+
+function LuaActivityUtil:_FindValidFloatParadeAct(validActs, uncompleteActs, unfinishedActs, finishedActs)
   local actList = CS.Torappu.UI.ActivityUtil.FindValidActs(CS.Torappu.ActivityType.FLOAT_PARADE);
   if actList == nil then
     return;
@@ -104,10 +128,15 @@ function LuaActivityUtil:_FindValidFloatParadeAct(validActs, uncompleteActs)
 
   for i = 0, actList.Count - 1 do
     local actId = actList[i];
-    local validAct = CS.Torappu.SortableString(actId, HOME_WEIGHT_FLOAT_PARADE);
+    local validAct = CS.Torappu.UI.ActivityUtil.SortableActivity(actId, HOME_WEIGHT_FLOAT_PARADE);
     validActs:Add(validAct);
     if self:_CheckIfFloatParadeUncomplete(actId) then
       uncompleteActs:Add(validAct);
+    end
+    if self:_CheckIfActivityFinished(CS.Torappu.ActivityType.FLOAT_PARADE, validAct) then
+      finishedActs:Add(validAct)
+    else
+      unfinishedActs:Add(validAct)
     end
   end
 
@@ -115,7 +144,9 @@ end
 
 
 
-function LuaActivityUtil:_FindValidMainlineBuffAct(validActs, uncompleteActs)
+
+
+function LuaActivityUtil:_FindValidMainlineBuffAct(validActs, uncompleteActs, unfinishedActs, finishedActs)
   local actList = CS.Torappu.UI.ActivityUtil.FindValidActs(CS.Torappu.ActivityType.MAIN_BUFF);
   if actList == nil then
     return;
@@ -123,15 +154,24 @@ function LuaActivityUtil:_FindValidMainlineBuffAct(validActs, uncompleteActs)
 
   for i = 0, actList.Count - 1 do
     local actId = actList[i];
-    local validAct = CS.Torappu.SortableString(actId, HOME_WEIGHT_MAIN_BUFF);
+    local validAct = CS.Torappu.UI.ActivityUtil.SortableActivity(actId, HOME_WEIGHT_MAIN_BUFF);
     validActs:Add(validAct);
     if self:CheckIfActivityUncomplete(CS.Torappu.ActivityType.MAIN_BUFF, actId) then
       uncompleteActs:Add(validAct);
     end
+    if self:_CheckIfActivityFinished(CS.Torappu.ActivityType.MAIN_BUFF, validAct) then
+      finishedActs:Add(validAct)
+    else
+      unfinishedActs:Add(validAct)
+    end
   end
 end
 
-function LuaActivityUtil:_FindValidCheckinAllActs(validActs, uncompleteActs)
+
+
+
+
+function LuaActivityUtil:_FindValidCheckinAllActs(validActs, uncompleteActs, unfinishedActs, finishedActs)
   local actList = CS.Torappu.UI.ActivityUtil.FindValidActs(CS.Torappu.ActivityType.CHECKIN_ALL_PLAYER);
   if actList == nil then
     return;
@@ -139,10 +179,15 @@ function LuaActivityUtil:_FindValidCheckinAllActs(validActs, uncompleteActs)
 
   for i = 0, actList.Count - 1 do
     local actId = actList[i];
-    local validAct = CS.Torappu.SortableString(actId, HOME_WEIGHT_CHECKIN_ALLPLAYER);
+    local validAct = CS.Torappu.UI.ActivityUtil.SortableActivity(actId, HOME_WEIGHT_CHECKIN_ALLPLAYER);
     validActs:Add(validAct);
     if self:_CheckIfCheckinAllUncomplete(actId) then
       uncompleteActs:Add(validAct);
+    end
+    if self:_CheckIfActivityFinished(CS.Torappu.ActivityType.CHECKIN_ALL_PLAYER, validAct) then
+      finishedActs:Add(validAct)
+    else
+      unfinishedActs:Add(validAct)
     end
   end
 end
@@ -150,7 +195,8 @@ end
 
 
 
-function LuaActivityUtil:_FindValidCheckinVsActs(validActs, uncompleteActs)
+
+function LuaActivityUtil:_FindValidCheckinVsActs(validActs, uncompleteActs, unfinishedActs, finishedActs)
   local actList = CS.Torappu.UI.ActivityUtil.FindValidActs(CS.Torappu.ActivityType.CHECKIN_VS)
   if actList == nil then
     return
@@ -158,32 +204,48 @@ function LuaActivityUtil:_FindValidCheckinVsActs(validActs, uncompleteActs)
 
   for i = 0, actList.Count - 1 do
     local actId = actList[i]
-    local validAct = CS.Torappu.SortableString(actId, HOME_WEIGHT_CHECKIN_VS)
+    local validAct = CS.Torappu.UI.ActivityUtil.SortableActivity(actId, HOME_WEIGHT_CHECKIN_VS)
     validActs:Add(validAct)
     if self:CheckIfActivityUncomplete(CS.Torappu.ActivityType.CHECKIN_VS, actId) then
       uncompleteActs:Add(validAct)
     end
+    if self:_CheckIfActivityFinished(CS.Torappu.ActivityType.CHECKIN_VS, validAct) then
+      finishedActs:Add(validAct)
+    else
+      unfinishedActs:Add(validAct)
+    end
   end
 end
 
-function LuaActivityUtil:_FindValidSwitchOnly(validActs, uncompleteActs)
+
+
+
+
+function LuaActivityUtil:_FindValidSwitchOnly(validActs, uncompleteActs, unfinishedActs, finishedActs)
   local actList = CS.Torappu.UI.ActivityUtil.FindValidActs(CS.Torappu.ActivityType.SWITCH_ONLY);
   if actList == nil then
     return;
   end
   for i = 0, actList.Count - 1 do
     local actId = actList[i];
-    local validAct = CS.Torappu.SortableString(actId, HOME_WEIGHT_SWITCH_ONLY);
+    local validAct = CS.Torappu.UI.ActivityUtil.SortableActivity(actId, HOME_WEIGHT_SWITCH_ONLY);
     validActs:Add(validAct);
     if self:_CheckIfSwitchOnlyUncomplete(actId) then
       uncompleteActs:Add(validAct);
+    end
+    if self:_CheckIfActivityFinished(CS.Torappu.ActivityType.SWITCH_ONLY, validAct) then
+      finishedActs:Add(validAct)
+    else
+      unfinishedActs:Add(validAct)
     end
   end
 end
 
 
 
-function LuaActivityUtil:_FindValidUniqueOnly(validActs, uncompleteActs)
+
+
+function LuaActivityUtil:_FindValidUniqueOnly(validActs, uncompleteActs, unfinishedActs, finishedActs)
   local actList = CS.Torappu.UI.ActivityUtil.FindValidActs(CS.Torappu.ActivityType.UNIQUE_ONLY);
   if actList == nil then
     return;
@@ -191,25 +253,91 @@ function LuaActivityUtil:_FindValidUniqueOnly(validActs, uncompleteActs)
 
   for i = 0, actList.Count - 1 do
     local actId = actList[i];
-    local validAct = CS.Torappu.SortableString(actId, HOME_WEIGHT_UNIQUE_ONLY);
+    local validAct = CS.Torappu.UI.ActivityUtil.SortableActivity(actId, HOME_WEIGHT_UNIQUE_ONLY);
     validActs:Add(validAct);
     if self:_CheckIfUniqueOnlyUncomplete(actId) then
       uncompleteActs:Add(validAct);
     end
+    if self:_CheckIfActivityFinished(CS.Torappu.ActivityType.UNIQUE_ONLY, validAct) then
+      finishedActs:Add(validAct)
+    else
+      unfinishedActs:Add(validAct)
+    end
   end
 end
 
-function LuaActivityUtil:_FindValidMainlineBpAct(validActs, uncompleteActs)
+
+
+
+
+
+function LuaActivityUtil:_FindValidBlessOnly(validActs, uncompleteActs, unfinishedActs, finishedActs)
+  local actList = CS.Torappu.UI.ActivityUtil.FindValidActs(CS.Torappu.ActivityType.BLESS_ONLY);
+  if actList == nil then
+    return;
+  end
+
+  for i = 0, actList.Count - 1 do
+      local actId = actList[i];
+      local validAct = CS.Torappu.UI.ActivityUtil.SortableActivity(actId, HOME_WEIGHT_BLESS_ONLY);
+      validActs:Add(validAct);
+      if self:_CheckIfBlessOnlyUncomplete(actId) then
+        uncompleteActs:Add(validAct);
+      end
+      if self:_CheckIfActivityFinished(CS.Torappu.ActivityType.BLESS_ONLY, validAct) then
+        finishedActs:Add(validAct)
+      else
+        unfinishedActs:Add(validAct)
+      end
+  end
+end
+
+
+
+
+
+function LuaActivityUtil:_FindValidCheckInAccess(validActs, uncompleteActs, unfinishedActs, finishedActs)
+  local actList = CS.Torappu.UI.ActivityUtil.FindValidActs(CS.Torappu.ActivityType.CHECKIN_ACCESS);
+  if actList == nil then
+    return;
+  end
+
+  for i = 0, actList.Count - 1 do
+      local actId = actList[i];
+      local validAct = CS.Torappu.UI.ActivityUtil.SortableActivity(actId, HOME_WEIGHT_ACTACCESS);
+      validActs:Add(validAct);
+      if self:_CheckIfActAccessUncomplete(actId) then
+        uncompleteActs:Add(validAct);
+      end
+      if self:_CheckIfActivityFinished(CS.Torappu.ActivityType.CHECKIN_ACCESS, validAct) then
+        finishedActs:Add(validAct)
+      else
+        unfinishedActs:Add(validAct)
+      end
+  end
+end
+
+
+
+
+
+
+function LuaActivityUtil:_FindValidMainlineBpAct(validActs, uncompleteActs, unfinishedActs, finishedActs)
   local actList = CS.Torappu.UI.ActivityUtil.FindValidActs(CS.Torappu.ActivityType.MAINLINE_BP);
   if actList == nil then
     return;
   end
   for i = 0, actList.Count - 1 do
     local actId = actList[i];
-    local validAct = CS.Torappu.SortableString(actId, HOME_WEIGHT_MAINLINE_BP);
+    local validAct = CS.Torappu.UI.ActivityUtil.SortableActivity(actId, HOME_WEIGHT_MAINLINE_BP);
     validActs:Add(validAct);
     if self:CheckIfActivityUncomplete(CS.Torappu.ActivityType.MAINLINE_BP, actId) then
       uncompleteActs:Add(validAct);
+    end
+    if self:_CheckIfActivityFinished(CS.Torappu.ActivityType.MAINLINE_BP, validAct) then
+      finishedActs:Add(validAct)
+    else
+      unfinishedActs:Add(validAct)
     end
   end
 end
@@ -217,19 +345,21 @@ end
 
 
 
-function LuaActivityUtil:FindValidHomeActs(validActs, uncompleteActs)
+function LuaActivityUtil:FindValidHomeActs(validActs, uncompleteActs, unfinishedActs, finishedActs)
   
-  _FindValidPrayOnlyActs(validActs, uncompleteActs)
-  _FindValidGridGachaActs(validActs, uncompleteActs)
-  self:_FindValidFlipOnlyActs(validActs, uncompleteActs)
-  self:_FindValidGridGachaV2Acts(validActs, uncompleteActs);
-  self:_FindValidFloatParadeAct(validActs, uncompleteActs);
-  self:_FindValidMainlineBuffAct(validActs, uncompleteActs);
-  self:_FindValidCheckinAllActs(validActs, uncompleteActs);
-  self:_FindValidCheckinVsActs(validActs, uncompleteActs);
-  self:_FindValidSwitchOnly(validActs,uncompleteActs);
-  self:_FindValidUniqueOnly(validActs,uncompleteActs);
-  self:_FindValidMainlineBpAct(validActs, uncompleteActs);
+  _FindValidPrayOnlyActs(validActs, uncompleteActs, unfinishedActs, finishedActs)
+  _FindValidGridGachaActs(validActs, uncompleteActs, unfinishedActs, finishedActs)
+  self:_FindValidFlipOnlyActs(validActs, uncompleteActs, unfinishedActs, finishedActs)
+  self:_FindValidGridGachaV2Acts(validActs, uncompleteActs, unfinishedActs, finishedActs);
+  self:_FindValidFloatParadeAct(validActs, uncompleteActs, unfinishedActs, finishedActs);
+  self:_FindValidMainlineBuffAct(validActs, uncompleteActs, unfinishedActs, finishedActs);
+  self:_FindValidCheckinAllActs(validActs, uncompleteActs, unfinishedActs, finishedActs);
+  self:_FindValidCheckinVsActs(validActs, uncompleteActs, unfinishedActs, finishedActs);
+  self:_FindValidSwitchOnly(validActs,uncompleteActs, unfinishedActs, finishedActs);
+  self:_FindValidUniqueOnly(validActs,uncompleteActs, unfinishedActs, finishedActs);
+  self:_FindValidBlessOnly(validActs,uncompleteActs, unfinishedActs, finishedActs);
+  self:_FindValidMainlineBpAct(validActs, uncompleteActs, unfinishedActs, finishedActs);
+  self:_FindValidCheckInAccess(validActs,uncompleteActs, unfinishedActs, finishedActs);
 end
 
 
@@ -271,7 +401,13 @@ local DEFINE_CLS_FUNCS = {
     DlgMgr.DefineDialog(clsName, config.dlgPath, UniqueOnlyDlg)
   end,
   MAINLINE_BP = function(clsName, config)
-    DlgMgr.DefineDialog(clsName, config.dlgPath, MainlineBpMainDlg);
+    DlgMgr.DefineDialog(clsName, config.dlgPath, MainlineBpMainDlg)
+  end,
+  BLESS_ONLY = function(clsName, config)
+    DlgMgr.DefineDialog(clsName, config.dlgPath, BlessOnlyMainDlg)
+  end,
+  CHECKIN_ACCESS = function(clsName, config)
+    DlgMgr.DefineDialog(clsName, config.dlgPath, ActCheckinAccessMainDlg)
   end,
 }
 
@@ -341,8 +477,12 @@ function LuaActivityUtil:CheckIfActivityUncomplete(type, actId)
     return self:_CheckIfSwitchOnlyUncomplete(actId);
   elseif type == CS.Torappu.ActivityType.UNIQUE_ONLY then
     return self:_CheckIfUniqueOnlyUncomplete(actId);
+  elseif type == CS.Torappu.ActivityType.BLESS_ONLY then
+    return self:_CheckIfBlessOnlyUncomplete(actId);
   elseif type == CS.Torappu.ActivityType.MAINLINE_BP then
     return self:_CheckIfMainlineBpUncomplete(actId);
+  elseif type == CS.Torappu.ActivityType.CHECKIN_ACCESS then
+    return self:_CheckIfActAccessUncomplete(actId);
   else
     return false;
   end
@@ -482,8 +622,86 @@ function LuaActivityUtil:_CheckIfUniqueOnlyUncomplete(actId)
   return false;
 end
 
+function LuaActivityUtil:_CheckIfBlessOnlyUncomplete(actId)
+  return BlessOnlyUtil.CheckBlessActIsUncomplete(actId);
+end
+
+function LuaActivityUtil:_CheckIfActAccessUncomplete(actId)
+  local suc, playerData = CS.Torappu.PlayerData.instance.data.activity.checkinAccessList:TryGetValue(actId);
+  if (suc) then
+    return playerData.currentStatus == 1
+  end
+  return false
+end
+
 
 
 function LuaActivityUtil:_CheckIfMainlineBpUncomplete(actId)
   return MainlineBpUtil.CheckIfUncomplete(actId);
+end
+
+
+
+
+
+function LuaActivityUtil:_CheckIfActivityFinished(type, validAct)
+  actId = validAct.actId.str
+  if type == nil or actId == nil then
+    return false
+  end
+
+  if validAct.completeType ~= CS.Torappu.ActivityCompleteType.CAN_COMPLETE then
+    return false
+  end
+
+  if type == CS.Torappu.ActivityType.MAIN_BUFF then
+  
+  elseif type == CS.Torappu.ActivityType.FLIP_ONLY then
+
+  elseif type == CS.Torappu.ActivityType.CHECKIN_ALL_PLAYER then
+  
+  elseif type == CS.Torappu.ActivityType.CHECKIN_VS then
+
+  elseif type == CS.Torappu.ActivityType.SWITCH_ONLY then
+    return self:_CheckIfSwitchOnlyFinished(actId)
+  elseif type == CS.Torappu.ActivityType.UNIQUE_ONLY then
+    return self:_CheckIfUniqueOnlyFinished(actId)
+  elseif type == CS.Torappu.ActivityType.BLESS_ONLY then
+    
+  elseif type == CS.Torappu.ActivityType.CHECKIN_ACCESS then
+
+  end
+  return false
+end
+
+
+
+function LuaActivityUtil:_CheckIfSwitchOnlyFinished(actId)
+  local swichOnlyPlayer = CS.Torappu.PlayerData.instance.data.activity.switchOnlyList
+  if swichOnlyPlayer == nil then
+    return false
+  end
+  local suc, playerActData = swichOnlyPlayer:TryGetValue(actId)
+  if not suc then
+    return false
+  end
+
+  local cacheKey = actId
+  local firstPop = CS.Torappu.Activity.ActLocalCacheHandler.GetParamFromCache(cacheKey) <= 0
+  if firstPop then
+    return false
+  end
+
+  for k, vStatus in pairs(playerActData.rewards) do
+    if vStatus ~= SwitchOnlyPlayerRewardStatus.GOT then
+      return false
+    end
+  end
+  return true
+end
+
+
+
+function LuaActivityUtil:_CheckIfUniqueOnlyFinished(actId)
+  return UniqueOnlyUtil.CheckIfHaveRewardClaimedByActId(actId)
 end

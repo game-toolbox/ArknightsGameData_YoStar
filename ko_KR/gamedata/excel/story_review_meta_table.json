@@ -537,6 +537,126 @@
             }
           }
         ]
+      },
+      "act11mini": {
+        "actId": "act11mini",
+        "rewardStartTime": 1720076400,
+        "themeColor": "f06020",
+        "rewardList": [
+          {
+            "trialRewardId": "trailReward_act11mini_1",
+            "orderId": 1,
+            "actId": "act11mini",
+            "targetStoryCount": 2,
+            "item": {
+              "id": "char_211_adnach@sale#5",
+              "count": 1,
+              "type": "CHAR_SKIN"
+            }
+          },
+          {
+            "trialRewardId": "trailReward_act11mini_2",
+            "orderId": 2,
+            "actId": "act11mini",
+            "targetStoryCount": 4,
+            "item": {
+              "id": "furni_dropS026_sloth_01",
+              "count": 1,
+              "type": "FURN"
+            }
+          },
+          {
+            "trialRewardId": "trailReward_act11mini_3",
+            "orderId": 3,
+            "actId": "act11mini",
+            "targetStoryCount": 6,
+            "item": {
+              "id": "avatar_activity_TC",
+              "count": 1,
+              "type": "PLAYER_AVATAR"
+            }
+          }
+        ]
+      },
+      "act12mini": {
+        "actId": "act12mini",
+        "rewardStartTime": 1723014000,
+        "themeColor": "c53513",
+        "rewardList": [
+          {
+            "trialRewardId": "trailReward_act12mini_1",
+            "orderId": 1,
+            "actId": "act12mini",
+            "targetStoryCount": 2,
+            "item": {
+              "id": "char_337_utage@epoque#15",
+              "count": 1,
+              "type": "CHAR_SKIN"
+            }
+          },
+          {
+            "trialRewardId": "trailReward_act12mini_2",
+            "orderId": 2,
+            "actId": "act12mini",
+            "targetStoryCount": 4,
+            "item": {
+              "id": "furni_dropS031_spaceWar_01",
+              "count": 1,
+              "type": "FURN"
+            }
+          },
+          {
+            "trialRewardId": "trailReward_act12mini_3",
+            "orderId": 3,
+            "actId": "act12mini",
+            "targetStoryCount": 7,
+            "item": {
+              "id": "avatar_activity_AW",
+              "count": 1,
+              "type": "PLAYER_AVATAR"
+            }
+          }
+        ]
+      },
+      "act14mini": {
+        "actId": "act14mini",
+        "rewardStartTime": 1740121200,
+        "themeColor": "e8e4ac",
+        "rewardList": [
+          {
+            "trialRewardId": "trailReward_act14mini_1",
+            "orderId": 1,
+            "actId": "act14mini",
+            "targetStoryCount": 2,
+            "item": {
+              "id": "char_110_deepcl@winter#3",
+              "count": 1,
+              "type": "CHAR_SKIN"
+            }
+          },
+          {
+            "trialRewardId": "trailReward_act14mini_2",
+            "orderId": 2,
+            "actId": "act14mini",
+            "targetStoryCount": 4,
+            "item": {
+              "id": "furni_dropS034_extraterrestrial_01",
+              "count": 1,
+              "type": "FURN"
+            }
+          },
+          {
+            "trialRewardId": "trailReward_act14mini_3",
+            "orderId": 3,
+            "actId": "act14mini",
+            "targetStoryCount": 6,
+            "item": {
+              "id": "avatar_activity_DC",
+              "count": 1,
+              "type": "PLAYER_AVATAR"
+            }
+          }
+        ]
       }
     }
   },
@@ -1919,6 +2039,15 @@
         "picDescription": "드디어, 수많은 시련을 겪은 후 그와 그것의 종족은 모두 신생을 맞이하게 된다.",
         "kvId": null
       },
+      "pic_rogue_3_KV2": {
+        "id": "pic_rogue_3_KV2",
+        "desc": "문을 여는 자",
+        "assetPath": "pic_rogue_3_KV2",
+        "type": "IMAGE",
+        "subType": null,
+        "picDescription": "한정된 생명으로 무한을 탐색하며 영원을 헤아린다.",
+        "kvId": "rogue_3_kv_1_2"
+      },
       "pic_rogue_3_KV1": {
         "id": "pic_rogue_3_KV1",
         "desc": "은빛 서리 끝자락",
@@ -2159,7 +2288,7 @@
         "assetPath": "pic_rogue_3_27",
         "type": "ROGUE_IMAGE",
         "subType": null,
-        "picDescription": "샤먼들이 주술로 숲과 덩굴이 이렇게 자라게 했거나, 아니면 자연이 사람들의 염원을 들었을 수도 있다. 어쨌든, 당신이 길 잃은 외부인 건 확실하다.",
+        "picDescription": "샤먼들이 주술로 숲과 덩굴이 이렇게 자라게 했거나, 아니면 자연이 사람들의 염원을 들었을 수도 있다. 어쨌든, 당신이 길 잃은 외부인인 건 확실하다.",
         "kvId": null
       },
       "pic_rogue_3_28": {
@@ -2270,6 +2399,33 @@
         "picDescription": "사미인의 생활방식을 이해하고 자연과 문명을 다시 이해한다.",
         "kvId": null
       },
+      "pic_rogue_3_45": {
+        "id": "pic_rogue_3_45",
+        "desc": "검은색의 초대",
+        "assetPath": "pic_rogue_3_45",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "당신은 초대장이 들어있는 특이한 봉함을 다시 한번 바라보았다. 그 무엇도 북쪽으로 향하는 당신의 결의를 막을 순 없다.",
+        "kvId": null
+      },
+      "pic_rogue_3_46": {
+        "id": "pic_rogue_3_46",
+        "desc": "합동 프로젝트",
+        "assetPath": "pic_rogue_3_46",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "탐험가의 발자취, 사미의 고수, 예언자의 통찰력, 자연의 자애로움…… 수많은 사건을 겪은 후, 당신은 드디어 그 문이 열리는 것을 보았다.",
+        "kvId": null
+      },
+      "pic_rogue_3_47": {
+        "id": "pic_rogue_3_47",
+        "desc": "은과 금",
+        "assetPath": "pic_rogue_3_47",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "잊혀진 문의 저편, 대지의 끝은 시작에 불과하다.",
+        "kvId": null
+      },
       "pic_rogue_3_31": {
         "id": "pic_rogue_3_31",
         "desc": "탐험가",
@@ -2304,6 +2460,420 @@
         "type": "ENDING_IMAGE",
         "subType": "rogue_3_ending_3",
         "picDescription": "암마는 그토록 너그럽게 아이들을 사랑했다. 오랜 시간이 지나도 당신은 여전히 따뜻한 비를 느낄 수 있을 것 같았다.",
+        "kvId": null
+      },
+      "pic_rogue_3_35": {
+        "id": "pic_rogue_3_35",
+        "desc": "영원 정복",
+        "assetPath": "pic_rogue_3_35",
+        "type": "ENDING_IMAGE",
+        "subType": "rogue_3_ending_4",
+        "picDescription": "역사는 이렇게 전해지는 것이 아니다. 이곳에서 역사라는 건 중요하지 않게 되었다.",
+        "kvId": null
+      },
+      "pic_rogue_4_KV1": {
+        "id": "pic_rogue_4_KV1",
+        "desc": "영겁 기담",
+        "assetPath": "pic_rogue_4_KV1",
+        "type": "IMAGE",
+        "subType": null,
+        "picDescription": "이건 살카즈만의 탐험이자, 살카즈만의 낭만이다.",
+        "kvId": "rogue_kv_default"
+      },
+      "pic_rogue_4_1": {
+        "id": "pic_rogue_4_1",
+        "desc": "희망의 여인",
+        "assetPath": "pic_rogue_4_1",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "그녀의 존재 자체가 일종의 바람이자, 평화에 관한 환상이다.",
+        "kvId": null
+      },
+      "pic_rogue_4_2": {
+        "id": "pic_rogue_4_2",
+        "desc": "통로",
+        "assetPath": "pic_rogue_4_2",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "당신이 선택하고 나면 비밀 통로는 자신의 생각을 보여줄 것이다…… 비록 생각할 수 없다 할지라도.",
+        "kvId": null
+      },
+      "pic_rogue_4_3": {
+        "id": "pic_rogue_4_3",
+        "desc": "가르침",
+        "assetPath": "pic_rogue_4_3",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "자신을 잃은 자는 늘 해답을 찾길 원하지만, 안타깝게도 모두가 그 가까이에 있는 답에 다가갈 수 있는 건 아니다.",
+        "kvId": null
+      },
+      "pic_rogue_4_4": {
+        "id": "pic_rogue_4_4",
+        "desc": "천지 차이",
+        "assetPath": "pic_rogue_4_4",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "하늘에서 떨어진 폐품이 대지에게 있어 자연의 선물이나 다름없다.",
+        "kvId": null
+      },
+      "pic_rogue_4_5": {
+        "id": "pic_rogue_4_5",
+        "desc": "지식의 애제자",
+        "assetPath": "pic_rogue_4_5",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "그녀는 애초에 자신의 정체를 숨긴 적이 없다. 아닌가? 그녀의 도움을 받아들여라.",
+        "kvId": null
+      },
+      "pic_rogue_4_6": {
+        "id": "pic_rogue_4_6",
+        "desc": "윤회",
+        "assetPath": "pic_rogue_4_6",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "이 페이지를 넘기면 새로운 장을 볼 수 있을 것이다.",
+        "kvId": null
+      },
+      "pic_rogue_4_7": {
+        "id": "pic_rogue_4_7",
+        "desc": "뒷수습",
+        "assetPath": "pic_rogue_4_7",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "'연소'는 살카즈 문명에서 특별한 의미가 있는 듯하다. 보라, 용광로에서 드럼통까지, 저들은 언제나 같은 일을 하고 있지 않은가.",
+        "kvId": null
+      },
+      "pic_rogue_4_8": {
+        "id": "pic_rogue_4_8",
+        "desc": "왕의 기록",
+        "assetPath": "pic_rogue_4_8",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "이게 바로 사람들이 기대하는 미래이긴 하지만, 결코 생각만큼 완벽하진 않다.",
+        "kvId": null
+      },
+      "pic_rogue_4_9": {
+        "id": "pic_rogue_4_9",
+        "desc": "대가",
+        "assetPath": "pic_rogue_4_9",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "이곳에는 이야기를 바꾼 대가가 쌓여있다. 멀리 떠났던 것이 돌아왔으나, 익숙했던 것은 되려 낯설어졌다.",
+        "kvId": null
+      },
+      "pic_rogue_4_10": {
+        "id": "pic_rogue_4_10",
+        "desc": "전통",
+        "assetPath": "pic_rogue_4_10",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "폭력을 판매하는 전통은 생존과 경쟁에서 비롯되었다.",
+        "kvId": null
+      },
+      "pic_rogue_4_11": {
+        "id": "pic_rogue_4_11",
+        "desc": "새것",
+        "assetPath": "pic_rogue_4_11",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "폭력을 거래하는 행위는 상업과 정치에서 비롯되었다.",
+        "kvId": null
+      },
+      "pic_rogue_4_12": {
+        "id": "pic_rogue_4_12",
+        "desc": "살카즈 테마 전시회",
+        "assetPath": "pic_rogue_4_12",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "카즈델 제국이 멸망하고 살카즈가 종적을 감춘 시대에서 살카즈를 소재로 한 그림은 밑져야 본전인 남는 장사다.",
+        "kvId": null
+      },
+      "pic_rogue_4_13": {
+        "id": "pic_rogue_4_13",
+        "desc": "고향의 우물을 떠나",
+        "assetPath": "pic_rogue_4_13",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "물론, 살카즈는 '우물'도 없고 '고향'도 없다. 오랜 시간 동안 그들은 이 두 단어에 의미를 부여하려 애썼고, 결국 '카즈델'이라는 단어로 합쳤다.",
+        "kvId": null
+      },
+      "pic_rogue_4_14": {
+        "id": "pic_rogue_4_14",
+        "desc": "제1종 접촉",
+        "assetPath": "pic_rogue_4_14",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "처음 만났을 때 저지른 잘못은 백 년 천 년 동안 갚아야 한다.",
+        "kvId": null
+      },
+      "pic_rogue_4_15": {
+        "id": "pic_rogue_4_15",
+        "desc": "삐걱삐걱",
+        "assetPath": "pic_rogue_4_15",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "자유로운 상상 속에서 살카즈의 형태는 그야말로 변화무쌍하다. 이 녀석은 절지 생물의 한 종류다.",
+        "kvId": null
+      },
+      "pic_rogue_4_16": {
+        "id": "pic_rogue_4_16",
+        "desc": "귀환일",
+        "assetPath": "pic_rogue_4_16",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "집으로 돌아가는 방식은 한 가지만 있는 게 아니다.",
+        "kvId": null
+      },
+      "pic_rogue_4_17": {
+        "id": "pic_rogue_4_17",
+        "desc": "버든비스트 여행",
+        "assetPath": "pic_rogue_4_17",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "버든비스트에게도 자신만의 이야기가 있다. 버든비스트는 잠시 당신과 동행할 뿐이다.",
+        "kvId": null
+      },
+      "pic_rogue_4_18": {
+        "id": "pic_rogue_4_18",
+        "desc": "깊은 구덩이",
+        "assetPath": "pic_rogue_4_18",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "대지는 한입에 살카즈와 카즈델을 삼켰고, 지금까지도 그 맛을 음미하고 있다.",
+        "kvId": null
+      },
+      "pic_rogue_4_19": {
+        "id": "pic_rogue_4_19",
+        "desc": "사기와 공갈",
+        "assetPath": "pic_rogue_4_19",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "지키는 이가 없는 역사는 흑심을 품은 자에 의해 멋대로 꾸며지기 마련이다.",
+        "kvId": null
+      },
+      "pic_rogue_4_20": {
+        "id": "pic_rogue_4_20",
+        "desc": "기록자",
+        "assetPath": "pic_rogue_4_20",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "제아무리 아름답게 시작한 이야기라 할지라도 운이 없는 사람에게는 결국 비참한 결말밖에 주어지지 않는다.",
+        "kvId": null
+      },
+      "pic_rogue_4_21": {
+        "id": "pic_rogue_4_21",
+        "desc": "밤이 내린 터전",
+        "assetPath": "pic_rogue_4_21",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "영혼 용광로가 식지 않는 한, 그 부드러운 불빛과 함께 다시 열심히 하루를 보낼 수 있다.",
+        "kvId": null
+      },
+      "pic_rogue_4_22": {
+        "id": "pic_rogue_4_22",
+        "desc": "무한",
+        "assetPath": "pic_rogue_4_22",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "그녀는 모든 어두운 미래를 없애려 하지만, 그녀가 미래를 예견할 수 있는 한 어두운 미래는 끝이 없을 것이니, 결국 그녀가 한 모든 것은 헛수고가 될 것이다.",
+        "kvId": null
+      },
+      "pic_rogue_4_23": {
+        "id": "pic_rogue_4_23",
+        "desc": "실내 관광",
+        "assetPath": "pic_rogue_4_23",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "카즈델의 진정한 모습은 관객들의 억측과…… 그들의 추억에 달려있다.",
+        "kvId": null
+      },
+      "pic_rogue_4_24": {
+        "id": "pic_rogue_4_24",
+        "desc": "기술 전환기",
+        "assetPath": "pic_rogue_4_24",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "산크타의 기술이 모두 율법의 은혜일 수는 없다. 얼마나 많은 살카즈 주술이 결국 고유의 기술로 발전했는지는 연구해 볼 필요가 있다.",
+        "kvId": null
+      },
+      "pic_rogue_4_25": {
+        "id": "pic_rogue_4_25",
+        "desc": "과학 기술의 특색",
+        "assetPath": "pic_rogue_4_25",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "일부 양식화된 특징은 종족의 발전과 함께 지속한다. 이를테면 관습, 부호, 특정 색깔에 대한 선호.",
+        "kvId": null
+      },
+      "pic_rogue_4_26": {
+        "id": "pic_rogue_4_26",
+        "desc": "떠들썩한 밤",
+        "assetPath": "pic_rogue_4_26",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "내일 세상이 뒤집힌다 할지라도 오늘 밤만큼은 축배를 들고 고생한 자신을 위로하리라.",
+        "kvId": null
+      },
+      "pic_rogue_4_27": {
+        "id": "pic_rogue_4_27",
+        "desc": "옛 친구",
+        "assetPath": "pic_rogue_4_27",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "그는 줄곧 행운이 따르는 사람이었다.",
+        "kvId": null
+      },
+      "pic_rogue_4_28": {
+        "id": "pic_rogue_4_28",
+        "desc": "이야기의 유아기",
+        "assetPath": "pic_rogue_4_28",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "이야기의 끝을 맺어라. 절대 당신을 저버리지 않을 테니.",
+        "kvId": null
+      },
+      "pic_rogue_4_29": {
+        "id": "pic_rogue_4_29",
+        "desc": "복수",
+        "assetPath": "pic_rogue_4_29",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "고성에서 탈출한 뒤 그녀는 닥치는 대로 크림슨 극단원을 사냥하기 시작했고, 자신도 모르는 사이에 그녀 또한 극단의 새로운 시나리오의 일부가 되었다.",
+        "kvId": null
+      },
+      "pic_rogue_4_30": {
+        "id": "pic_rogue_4_30",
+        "desc": "동료",
+        "assetPath": "pic_rogue_4_30",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "아나사와 오니의 가장 큰 차이점은 생리적인 구조가 아니라, 생활 지역의 다름으로 인한 문화적 차이다.",
+        "kvId": null
+      },
+      "pic_rogue_4_31": {
+        "id": "pic_rogue_4_31",
+        "desc": "가족",
+        "assetPath": "pic_rogue_4_31",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "피는 물보다 진하다. 남매의 금쪽같은 우애가 그들에게 고난을 이겨낼 힘을 주었다.",
+        "kvId": null
+      },
+      "pic_rogue_4_32": {
+        "id": "pic_rogue_4_32",
+        "desc": "결말 작성",
+        "assetPath": "pic_rogue_4_32",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "당신이 상상했던 이야기를 마음껏 연출하시라.",
+        "kvId": null
+      },
+      "pic_rogue_4_33": {
+        "id": "pic_rogue_4_33",
+        "desc": "한계 돌파",
+        "assetPath": "pic_rogue_4_33",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "지금 이 순간, 상상의 중요성이 모든 속박으로부터 벗어났다.",
+        "kvId": null
+      },
+      "pic_rogue_4_34": {
+        "id": "pic_rogue_4_34",
+        "desc": "괴담의 근원",
+        "assetPath": "pic_rogue_2_32",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "아무도 이 잔뜩 주눅이 든 페로가 카즈델의 도시 전설 일부가 되리라고는 상상도 못 했을 것이다.",
+        "kvId": null
+      },
+      "pic_rogue_4_35": {
+        "id": "pic_rogue_4_35",
+        "desc": "일'덕'당천",
+        "assetPath": "pic_rogue_2_16",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "이번에 그는 비즈니스를 보러 온 게 아니다. 그에게는 더 원대한 구상이 있다.",
+        "kvId": null
+      },
+      "pic_rogue_4_36": {
+        "id": "pic_rogue_4_36",
+        "desc": "분명한 경계",
+        "assetPath": "pic_rogue_2_17",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "고프닉은 여전히 그 모습 그대로다. 당신이 건드리지 않는 한, 그도 당신을 주먹으로 대접하지는 않을 것이다.",
+        "kvId": null
+      },
+      "pic_rogue_4_37": {
+        "id": "pic_rogue_4_37",
+        "desc": "상업 제국 덕즈델",
+        "assetPath": "pic_rogue_2_18",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "아, 물론 진짜 그렇게 될 일은 없겠지만, 이건 확실히 그가 직원들을 대동하고 이곳을 배회하는 주된 이유이기도 하다.",
+        "kvId": null
+      },
+      "pic_rogue_4_38": {
+        "id": "pic_rogue_4_38",
+        "desc": "큰손 동글이",
+        "assetPath": "pic_rogue_4_38",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "자라크가 떠드는 허풍은 한쪽 귀로 흘려보내면 된다. 진지하게 받아들이지는 마시라.",
+        "kvId": null
+      },
+      "pic_rogue_4_39": {
+        "id": "pic_rogue_4_39",
+        "desc": "덕날레",
+        "assetPath": "pic_rogue_1_12",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "경매도 개최하고, 입찰자로도 참가하다니. 당신으로선 덕로드가 대체 무슨 생각을 하는지 알 수가 없다.",
+        "kvId": null
+      },
+      "pic_rogue_4_40": {
+        "id": "pic_rogue_4_40",
+        "desc": "은빛 산맥",
+        "assetPath": "pic_rogue_3_43",
+        "type": "ROGUE_IMAGE",
+        "subType": null,
+        "picDescription": "살카즈 최초의 천연요새.",
+        "kvId": null
+      },
+      "pic_rogue_4_41": {
+        "id": "pic_rogue_4_41",
+        "desc": "안녕, 잘 있어",
+        "assetPath": "pic_rogue_4_34",
+        "type": "ENDING_IMAGE",
+        "subType": "rogue_4_ending_1",
+        "picDescription": "어쩌면 이게 살아있는 동안 레버넌트들과 갖는 마지막 모임일 수 있으니…… '장례식'이라고 부르도록 할까.",
+        "kvId": null
+      },
+      "pic_rogue_4_42": {
+        "id": "pic_rogue_4_42",
+        "desc": "꿈은 이루어진다",
+        "assetPath": "pic_rogue_4_35",
+        "type": "ENDING_IMAGE",
+        "subType": "rogue_4_ending_2",
+        "picDescription": "허구적인 이야기가 진실이 되어 마음속 가장 깊은 곳의 아쉬움을 달래준다.",
+        "kvId": null
+      },
+      "pic_rogue_4_43": {
+        "id": "pic_rogue_4_43",
+        "desc": "율법 우선",
+        "assetPath": "pic_rogue_4_36",
+        "type": "ENDING_IMAGE",
+        "subType": "rogue_4_ending_3",
+        "picDescription": "복을 받지 못한 동포를 보살피는 것이 가장 큰 은혜이다. 총기사들은 이 점을 절대 잊지 않는다. 설령 그로 인해 상처를 받을지라도.",
+        "kvId": null
+      },
+      "pic_rogue_4_44": {
+        "id": "pic_rogue_4_44",
+        "desc": "신성한 도시의 전투",
+        "assetPath": "pic_rogue_4_37",
+        "type": "ENDING_IMAGE",
+        "subType": "rogue_4_ending_3",
+        "picDescription": "불드록카스티의 신성 경비와 켈시의 저항군 모두 같은 생각을 하고 있다. 그것은 바로 전장 한가운데에 있는 아군을 적의 손으로부터 구해내는 것이다.",
         "kvId": null
       }
     },
@@ -2517,6 +3087,111 @@
         "id": "music_rogue_3_11",
         "desc": "music_rogue_3_11",
         "name": "Dimensional Escape"
+      },
+      "music_rogue_3_12": {
+        "id": "music_rogue_3_12",
+        "desc": "music_rogue_3_12",
+        "name": "Sovereign"
+      },
+      "music_rogue_4_1": {
+        "id": "music_rogue_4_1",
+        "desc": "music_rogue_4_1",
+        "name": "Resolutely Burns the Fire of Lives"
+      },
+      "music_rogue_4_2": {
+        "id": "music_rogue_4_2",
+        "desc": "music_rogue_4_2",
+        "name": "Steadly Unfolds the City of Souls"
+      },
+      "music_rogue_4_3": {
+        "id": "music_rogue_4_3",
+        "desc": "music_rogue_4_3",
+        "name": "Whitely Glimmers the Land of Laws"
+      },
+      "music_rogue_4_4": {
+        "id": "music_rogue_4_4",
+        "desc": "music_rogue_4_4",
+        "name": "Tested by Life"
+      },
+      "music_rogue_4_5": {
+        "id": "music_rogue_4_5",
+        "desc": "music_rogue_4_5",
+        "name": "Tried by Souls"
+      },
+      "music_rogue_4_6": {
+        "id": "music_rogue_4_6",
+        "desc": "music_rogue_4_6",
+        "name": "Judged by A Hero"
+      },
+      "music_rogue_4_7": {
+        "id": "music_rogue_4_7",
+        "desc": "music_rogue_4_7",
+        "name": "Fair Trade"
+      },
+      "music_rogue_4_8": {
+        "id": "music_rogue_4_8",
+        "desc": "music_rogue_4_8",
+        "name": "Nar'aejeph Saralteri\nNo Alternatives"
+      },
+      "music_rogue_4_9": {
+        "id": "music_rogue_4_9",
+        "desc": "music_rogue_4_9",
+        "name": "Sura Saraǧul'tee\nArise My Friends"
+      },
+      "music_rogue_4_10": {
+        "id": "music_rogue_4_10",
+        "desc": "music_rogue_4_10",
+        "name": "Malihirmam Benevolentes"
+      },
+      "music_sandbox_v2_1": {
+        "id": "music_sandbox_v2_1",
+        "desc": "music_sandbox_v2_1",
+        "name": "Reclamation"
+      },
+      "music_sandbox_v2_2": {
+        "id": "music_sandbox_v2_2",
+        "desc": "music_sandbox_v2_2",
+        "name": "Fine Sand"
+      },
+      "music_sandbox_v2_3": {
+        "id": "music_sandbox_v2_3",
+        "desc": "music_sandbox_v2_3",
+        "name": "From The Desert"
+      },
+      "music_sandbox_v2_4": {
+        "id": "music_sandbox_v2_4",
+        "desc": "music_sandbox_v2_4",
+        "name": "Oasis"
+      },
+      "music_sandbox_v2_5": {
+        "id": "music_sandbox_v2_5",
+        "desc": "music_sandbox_v2_5",
+        "name": "Gathering"
+      },
+      "music_sandbox_v2_6": {
+        "id": "music_sandbox_v2_6",
+        "desc": "music_sandbox_v2_6",
+        "name": "On the Hunt"
+      },
+      "music_sandbox_v2_7": {
+        "id": "music_sandbox_v2_7",
+        "desc": "music_sandbox_v2_7",
+        "name": "Scorching Sunlight, Sharp Swords"
+      },
+      "music_sandbox_v2_8": {
+        "id": "music_sandbox_v2_8",
+        "desc": "music_sandbox_v2_8",
+        "name": "Dreadful Undercurrent"
+      },
+      "music_sandbox_v2_9": {
+        "id": "music_sandbox_v2_9",
+        "desc": "music_sandbox_v2_9",
+        "name": "Investigating Strange Territory"
+      },
+      "music_sandbox_v2_10": {
+        "id": "music_sandbox_v2_10",
+        "desc": "music_sandbox_v2_10",
+        "name": "Tightening Helixes"
       }
     },
     "avgs": {
@@ -2623,7 +3298,7 @@
         "desc": "히비스커스 작업 일지, 19일 차!",
         "date": "1097.11.11",
         "pic": "act13side_file_4",
-        "text": "    그랜드 나이트 영지에서 십수 일간의 의료 서비스를 제공하고 대부분의 감염자를 치료한 뒤, 의료팀은 로도스 아일랜드에 복귀하여 다음 장소로 출발할 준비를 했다. 유감스럽게도, 그랜드 나이트 영지가 너무 커서 모든 감염자를 수용할 수 없었다. 니어 씨는 우승한 뒤, 그랜드 나이트 영지에 남았고 로도스 아일랜드 카시미어 사무소 설립을 도와준다고 했다. 그리고 최선을 다해 그랜드 나이트 영지의 감염자들을 보호하겠다고 박사에게 약속했다. 만약 로도스 아일랜드에서 필요하다면, 언제 어디든 로도스 아일랜드로 돌아오겠다고 했다. 그래도 결국은 헤어져야 하니 조금 슬픈 것 같다…… 헤어질 때 나는 지금까지 연구해 온 건강식 레시피를 니어 씨에게 선물했다. 이 선물이 니어 씨에게 도움이 됐으면 좋겠다. 니어 씨도 카시미어에서 자신의 사업을 잘해 나갔으면 좋겠다.\n    아, 맞다, 니어 씨에게 그 할아버지 얘기를 했더니, 나중에 할아버지를 뵈러 가겠다고 했다. 자신의 우상을 만난 할아버지가 어떤 반응을 보일지 궁금하다.\n\n    그랜드 나이트 영지는, 뭐랄까, 떠나는 순간까지도 나는 이 도시를 완전히 이해할 수 없었다. 이 도시는 내가 경험했던 도시들과 완전히 달랐다. 여기처럼 3년마다 한 번씩 다른 세 도시와 합병하여 하나의 초대 규모의 '카봐렐리엘키'를 이루는 곳은 없다. 그리고, 합병하는 주요 목적이 단지 기사 스포츠를 개최하기 위한 것이라니.\n    그나마 합병된 후, 세 도시는 수도와 하나가 되어, 교류, 거래, 교통상으론 전혀 지장이 없는 것 같다. 이는 빅토리아에서는 전혀 불가능한 일이다. 누군가가 토룬 혹은 린던 카운티 이런 외딴 도시를 1초라도 런디니움에 병합시킨다면, 빅토리아 귀족 나리들이 아주 노발대발했을 텐데. 그런 면에서 카시미어는 대단한게 맞다.\n    하아, 하지만, 감염자 대우는 별로 달라진 게 없는 것 같다…… 나도 몰래 감염자 기사 스포츠를 구경하기도 했지만…… 거긴 죽기살기로 싸우는 전장 같았고…… 관중들은 오히려 그걸 즐기고 있었다. 솔직히 관중들의 열광하는 눈빛이 나는 좀 무서웠다…… 언젠가는 감염자 기사도 정상적인 기사들처럼 보호받으며 경기장에서 공정하게 대결할 수 있는 날이 왔으면 좋겠다.…… 나중에, 감염자와 비감염자가 손잡고 공원에서 함께 산책할 수 있는 날이 온다면, 이 세상이 더 아름다워지지 않을까, 하아……\n    이건 로도스 아일랜드의 이상이고, 어쩌면 니어 씨의 이념일 지도 모른다. 그래서 감염자를 돕고 보호하기 위해 그랜드 나이트 영지에 남는 게 아닌가 싶다.\n    “굳게 믿으면, 그걸 실현해라.”\n",
+        "text": "    그랜드 나이트 영지에서 십수 일간의 의료 서비스를 제공하고 대부분의 감염자를 치료한 뒤, 의료팀은 로도스 아일랜드에 복귀하여 다음 장소로 출발할 준비를 했다. 유감스럽게도, 그랜드 나이트 영지가 너무 커서 모든 감염자를 수용할 수 없었다. 니어 씨는 우승한 뒤, 그랜드 나이트 영지에 남았고 로도스 아일랜드 카시미어 사무소 설립을 도와준다고 했다. 그리고 최선을 다해 그랜드 나이트 영지의 감염자들을 보호하겠다고 박사에게 약속했다. 만약 로도스 아일랜드에서 필요하다면, 언제 어디든 로도스 아일랜드로 돌아오겠다고 했다. 그래도 결국은 헤어져야 하니 조금 슬픈 것 같다…… 헤어질 때 나는 지금까지 연구해 온 건강식 레시피를 니어 씨에게 선물했다. 이 선물이 니어 씨에게 도움이 됐으면 좋겠다. 니어 씨도 카시미어에서 자신의 사업을 잘해 나갔으면 좋겠다.\n    아, 맞다, 니어 씨에게 그 할아버지 얘기를 했더니, 나중에 할아버지를 뵈러 가겠다고 했다. 자신의 우상을 만난 할아버지가 어떤 반응을 보일지 궁금하다.\n\n    그랜드 나이트 영지는, 뭐랄까, 떠나는 순간까지도 나는 이 도시를 완전히 이해할 수 없었다. 이 도시는 내가 경험했던 도시들과 완전히 달랐다. 여기처럼 3년마다 한 번씩 다른 세 도시와 합병하여 하나의 초대 규모의 '카봐렐리엘키'를 이루는 곳은 없다. 그리고, 합병하는 주요 목적이 단지 기사 스포츠를 개최하기 위한 것이라니.\n    그나마 합병된 후, 세 도시는 수도와 하나가 되어, 교류, 거래, 교통상으론 전혀 지장이 없는 것 같다. 이는 빅토리아에서는 전혀 불가능한 일이다. 누군가가 토룬 혹은 린던 카운티 이런 외딴 도시를 1초라도 런디니움에 병합시킨다면, 빅토리아 귀족 나리들이 아주 노발대발했을 텐데. 그런 면에서 카시미어는 대단한게 맞다.\n    하아, 하지만, 감염자 대우는 별로 달라진 게 없는 것 같다…… 나도 몰래 감염자 기사 스포츠를 구경하기도 했지만…… 거긴 죽기살기로 싸우는 전장 같았고…… 관중들은 오히려 그걸 즐기고 있었다. 솔직히 관중들의 열광하는 눈빛이 나는 좀 무서웠다…… 언젠가는 감염자 기사도 정상적인 기사들처럼 보호받으며 경기장에서 공정하게 대결할 수 있는 날이 왔으면 좋겠다…… 나중에, 감염자와 비감염자가 손잡고 공원에서 함께 산책할 수 있는 날이 온다면, 이 세상이 더 아름다워지지 않을까, 하아……\n    이건 로도스 아일랜드의 이상이고, 어쩌면 니어 씨의 이념일 지도 모른다. 그래서 감염자를 돕고 보호하기 위해 그랜드 나이트 영지에 남는 게 아닌가 싶다.\n    “굳게 믿으면, 그걸 실현해라.”\n",
         "titlePic": "act13side_file_title_hibisc"
       },
       "act25side_file_1": {
@@ -4460,6 +5135,128 @@
         "logId": "act17side_log_h_36",
         "logDesc": "    기억은 끝에 도달했고, 모든 것이 혼돈으로 다시 돌아갔다."
       }
+    },
+    "challengeBooks": {
+      "act29side_majorInvest_1": {
+        "storyId": "act29side_majorInvest_1",
+        "titleName": "베두니엔의 붕괴",
+        "storyName": "베두니엔의 붕괴",
+        "textId": "Activities/act29side/mark/mark1"
+      },
+      "act29side_majorInvest_2": {
+        "storyId": "act29side_majorInvest_2",
+        "titleName": "레싱의 애도",
+        "storyName": "레싱의 애도",
+        "textId": "Activities/act29side/mark/mark2"
+      },
+      "act29side_majorInvest_3": {
+        "storyId": "act29side_majorInvest_3",
+        "titleName": "우르티카에서 온 편지",
+        "storyName": "우르티카에서 온 편지",
+        "textId": "Activities/act29side/mark/mark3"
+      },
+      "act29side_majorInvest_4": {
+        "storyId": "act29side_majorInvest_4",
+        "titleName": "늦게 도착한 밀사",
+        "storyName": "늦게 도착한 밀사",
+        "textId": "Activities/act29side/mark/mark4"
+      },
+      "act29side_majorInvest_5": {
+        "storyId": "act29side_majorInvest_5",
+        "titleName": "주인 없는 추억",
+        "storyName": "주인 없는 추억",
+        "textId": "Activities/act29side/mark/mark5"
+      },
+      "act29side_majorInvest_6": {
+        "storyId": "act29side_majorInvest_6",
+        "titleName": "바람 속의 밀서",
+        "storyName": "바람 속의 밀서",
+        "textId": "Activities/act29side/mark/mark6"
+      },
+      "act29side_hiddenInvest_1": {
+        "storyId": "act29side_hiddenInvest_1",
+        "titleName": "음악 기념관 카탈로그",
+        "storyName": "음악 기념관 카탈로그",
+        "textId": "Activities/act29side/mark/mark7"
+      },
+      "rogue_3_challenge_story_01": {
+        "storyId": "rogue_3_challenge_story_01",
+        "titleName": "관찰자의 시야",
+        "storyName": "실패한 탐험 기록",
+        "textId": "Obt/Rogue/rogue_3/Challenge/challenge_rogue_3_1_1"
+      },
+      "rogue_3_challenge_story_02": {
+        "storyId": "rogue_3_challenge_story_02",
+        "titleName": "나팔수의 시야",
+        "storyName": "구조요청 편지",
+        "textId": "Obt/Rogue/rogue_3/Challenge/challenge_rogue_3_1_2"
+      },
+      "rogue_3_challenge_story_03": {
+        "storyId": "rogue_3_challenge_story_03",
+        "titleName": "사업자의 시야",
+        "storyName": "과거에 관한 예감",
+        "textId": "Obt/Rogue/rogue_3/Challenge/challenge_rogue_3_1_3"
+      },
+      "rogue_3_challenge_story_04": {
+        "storyId": "rogue_3_challenge_story_04",
+        "titleName": "탐사자의 시야",
+        "storyName": "액운의 실현",
+        "textId": "Obt/Rogue/rogue_3/Challenge/challenge_rogue_3_1_4"
+      },
+      "rogue_3_challenge_story_05": {
+        "storyId": "rogue_3_challenge_story_05",
+        "titleName": "순진한 자의 시야",
+        "storyName": "역순",
+        "textId": "Obt/Rogue/rogue_3/Challenge/challenge_rogue_3_1_5"
+      },
+      "rogue_3_challenge_story_06": {
+        "storyId": "rogue_3_challenge_story_06",
+        "titleName": "호위자의 시야",
+        "storyName": "맹목적인 예언",
+        "textId": "Obt/Rogue/rogue_3/Challenge/challenge_rogue_3_1_6"
+      },
+      "rogue_3_challenge_story_07": {
+        "storyId": "rogue_3_challenge_story_07",
+        "titleName": "순회자의 시야",
+        "storyName": "일면식이 없는 옛친구",
+        "textId": "Obt/Rogue/rogue_3/Challenge/challenge_rogue_3_1_7"
+      },
+      "rogue_3_challenge_story_08": {
+        "storyId": "rogue_3_challenge_story_08",
+        "titleName": "곤경에 처한 자의 시야",
+        "storyName": "착오의 시작점",
+        "textId": "Obt/Rogue/rogue_3/Challenge/challenge_rogue_3_1_8"
+      },
+      "rogue_3_challenge_story_09": {
+        "storyId": "rogue_3_challenge_story_09",
+        "titleName": "관광자의 시야",
+        "storyName": "마부작침",
+        "textId": "Obt/Rogue/rogue_3/Challenge/challenge_rogue_3_1_9"
+      },
+      "rogue_3_challenge_story_10": {
+        "storyId": "rogue_3_challenge_story_10",
+        "titleName": "복수자의 시야",
+        "storyName": "녹지 않은 눈과 얼음",
+        "textId": "Obt/Rogue/rogue_3/Challenge/challenge_rogue_3_1_10"
+      },
+      "rogue_3_challenge_story_11": {
+        "storyId": "rogue_3_challenge_story_11",
+        "titleName": "어리석은 자의 시야",
+        "storyName": "완전 귀납추리",
+        "textId": "Obt/Rogue/rogue_3/Challenge/challenge_rogue_3_1_11"
+      },
+      "rogue_3_challenge_story_12": {
+        "storyId": "rogue_3_challenge_story_12",
+        "titleName": "이화 된 자의 시야",
+        "storyName": "갈 곳 없는 신호",
+        "textId": "Obt/Rogue/rogue_3/Challenge/challenge_rogue_3_1_12"
+      },
+      "rogue_3_challenge_story_13": {
+        "storyId": "rogue_3_challenge_story_13",
+        "titleName": "선지자의 시야",
+        "storyName": "결말 예견",
+        "textId": "Obt/Rogue/rogue_3/Challenge/challenge_rogue_3_1_13"
+      }
     }
   },
   "actArchiveData": {
@@ -4906,7 +5703,8 @@
           }
         },
         "landmark": null,
-        "log": null
+        "log": null,
+        "challengeBook": null
       },
       "act13side": {
         "timeline": {
@@ -5350,7 +6148,8 @@
           }
         },
         "landmark": null,
-        "log": null
+        "log": null,
+        "challengeBook": null
       },
       "act17sre": {
         "timeline": null,
@@ -5908,7 +6707,8 @@
             ],
             "chapterIcon": "HARD"
           }
-        }
+        },
+        "challengeBook": null
       },
       "act17side": {
         "timeline": null,
@@ -6466,7 +7266,169 @@
             ],
             "chapterIcon": "HARD"
           }
-        }
+        },
+        "challengeBook": null
+      },
+      "act25sre": {
+        "timeline": null,
+        "music": null,
+        "pic": {
+          "pics": {
+            "act25side_pic_1": {
+              "picId": "act25side_pic_1",
+              "picSortId": 1
+            },
+            "act25side_pic_2": {
+              "picId": "act25side_pic_2",
+              "picSortId": 2
+            },
+            "act25side_pic_3": {
+              "picId": "act25side_pic_3",
+              "picSortId": 3
+            },
+            "act25side_pic_4": {
+              "picId": "act25side_pic_4",
+              "picSortId": 4
+            },
+            "act25side_pic_5": {
+              "picId": "act25side_pic_5",
+              "picSortId": 5
+            },
+            "act25side_pic_6": {
+              "picId": "act25side_pic_6",
+              "picSortId": 6
+            },
+            "act25side_pic_7": {
+              "picId": "act25side_pic_7",
+              "picSortId": 7
+            },
+            "act25side_pic_8": {
+              "picId": "act25side_pic_8",
+              "picSortId": 8
+            },
+            "act25side_pic_9": {
+              "picId": "act25side_pic_9",
+              "picSortId": 9
+            },
+            "act25side_pic_10": {
+              "picId": "act25side_pic_10",
+              "picSortId": 10
+            },
+            "act25side_pic_11": {
+              "picId": "act25side_pic_11",
+              "picSortId": 11
+            },
+            "act25side_pic_12": {
+              "picId": "act25side_pic_12",
+              "picSortId": 12
+            },
+            "act25side_pic_13": {
+              "picId": "act25side_pic_13",
+              "picSortId": 13
+            },
+            "act25side_pic_14": {
+              "picId": "act25side_pic_14",
+              "picSortId": 14
+            },
+            "act25side_pic_15": {
+              "picId": "act25side_pic_15",
+              "picSortId": 15
+            },
+            "act25side_pic_16": {
+              "picId": "act25side_pic_16",
+              "picSortId": 16
+            },
+            "act25side_pic_17": {
+              "picId": "act25side_pic_17",
+              "picSortId": 17
+            },
+            "act25side_pic_18": {
+              "picId": "act25side_pic_18",
+              "picSortId": 18
+            },
+            "act25side_pic_19": {
+              "picId": "act25side_pic_19",
+              "picSortId": 19
+            },
+            "act25side_pic_20": {
+              "picId": "act25side_pic_20",
+              "picSortId": 20
+            },
+            "act25side_pic_21": {
+              "picId": "act25side_pic_21",
+              "picSortId": 21
+            },
+            "act25side_pic_22": {
+              "picId": "act25side_pic_22",
+              "picSortId": 22
+            },
+            "act25side_pic_23": {
+              "picId": "act25side_pic_23",
+              "picSortId": 23
+            },
+            "act25side_pic_24": {
+              "picId": "act25side_pic_24",
+              "picSortId": 24
+            }
+          }
+        },
+        "story": {
+          "stories": {
+            "act25side_file_1": {
+              "storyId": "act25side_file_1",
+              "storySortId": 1
+            },
+            "act25side_file_2": {
+              "storyId": "act25side_file_2",
+              "storySortId": 2
+            },
+            "act25side_file_3": {
+              "storyId": "act25side_file_3",
+              "storySortId": 3
+            },
+            "act25side_file_4": {
+              "storyId": "act25side_file_4",
+              "storySortId": 4
+            },
+            "act25side_file_5": {
+              "storyId": "act25side_file_5",
+              "storySortId": 5
+            },
+            "act25side_file_6": {
+              "storyId": "act25side_file_6",
+              "storySortId": 6
+            },
+            "act25side_file_7": {
+              "storyId": "act25side_file_7",
+              "storySortId": 7
+            },
+            "act25side_file_8": {
+              "storyId": "act25side_file_8",
+              "storySortId": 8
+            },
+            "act25side_file_9": {
+              "storyId": "act25side_file_9",
+              "storySortId": 9
+            },
+            "act25side_file_10": {
+              "storyId": "act25side_file_10",
+              "storySortId": 10
+            },
+            "act25side_file_11": {
+              "storyId": "act25side_file_11",
+              "storySortId": 11
+            },
+            "act25side_file_12": {
+              "storyId": "act25side_file_12",
+              "storySortId": 12
+            }
+          }
+        },
+        "avg": null,
+        "news": null,
+        "landmark": null,
+        "log": null,
+        "challengeBook": null
       },
       "act25side": {
         "timeline": null,
@@ -6626,7 +7588,50 @@
         "avg": null,
         "news": null,
         "landmark": null,
-        "log": null
+        "log": null,
+        "challengeBook": null
+      },
+      "act29side": {
+        "timeline": null,
+        "music": null,
+        "pic": null,
+        "story": null,
+        "avg": null,
+        "news": null,
+        "landmark": null,
+        "log": null,
+        "challengeBook": {
+          "stories": {
+            "act29side_majorInvest_1": {
+              "storyId": "act29side_majorInvest_1",
+              "sortId": 1
+            },
+            "act29side_majorInvest_2": {
+              "storyId": "act29side_majorInvest_2",
+              "sortId": 2
+            },
+            "act29side_majorInvest_3": {
+              "storyId": "act29side_majorInvest_3",
+              "sortId": 3
+            },
+            "act29side_majorInvest_4": {
+              "storyId": "act29side_majorInvest_4",
+              "sortId": 4
+            },
+            "act29side_majorInvest_5": {
+              "storyId": "act29side_majorInvest_5",
+              "sortId": 5
+            },
+            "act29side_majorInvest_6": {
+              "storyId": "act29side_majorInvest_6",
+              "sortId": 6
+            },
+            "act29side_hiddenInvest_1": {
+              "storyId": "act29side_hiddenInvest_1",
+              "sortId": 7
+            }
+          }
+        }
       },
       "rogue_1": {
         "timeline": null,
@@ -6865,7 +7870,10 @@
         },
         "news": null,
         "landmark": null,
-        "log": null
+        "log": null,
+        "challengeBook": {
+          "stories": {}
+        }
       },
       "rogue_2": {
         "timeline": null,
@@ -7155,7 +8163,10 @@
         },
         "news": null,
         "landmark": null,
-        "log": null
+        "log": null,
+        "challengeBook": {
+          "stories": {}
+        }
       },
       "rogue_3": {
         "timeline": null,
@@ -7204,182 +8215,206 @@
             "music_rogue_3_11": {
               "musicId": "music_rogue_3_11",
               "musicSortId": 11
+            },
+            "music_rogue_3_12": {
+              "musicId": "music_rogue_3_12",
+              "musicSortId": 12
             }
           }
         },
         "pic": {
           "pics": {
+            "pic_rogue_3_KV2": {
+              "picId": "pic_rogue_3_KV2",
+              "picSortId": 1
+            },
             "pic_rogue_3_KV1": {
               "picId": "pic_rogue_3_KV1",
-              "picSortId": 1
+              "picSortId": 2
             },
             "pic_rogue_3_1": {
               "picId": "pic_rogue_3_1",
-              "picSortId": 2
+              "picSortId": 3
             },
             "pic_rogue_3_2": {
               "picId": "pic_rogue_3_2",
-              "picSortId": 3
+              "picSortId": 4
             },
             "pic_rogue_3_3": {
               "picId": "pic_rogue_3_3",
-              "picSortId": 4
+              "picSortId": 5
             },
             "pic_rogue_3_4": {
               "picId": "pic_rogue_3_4",
-              "picSortId": 5
+              "picSortId": 6
             },
             "pic_rogue_3_5": {
               "picId": "pic_rogue_3_5",
-              "picSortId": 6
+              "picSortId": 7
             },
             "pic_rogue_3_6": {
               "picId": "pic_rogue_3_6",
-              "picSortId": 7
+              "picSortId": 8
             },
             "pic_rogue_3_7": {
               "picId": "pic_rogue_3_7",
-              "picSortId": 8
+              "picSortId": 9
             },
             "pic_rogue_3_8": {
               "picId": "pic_rogue_3_8",
-              "picSortId": 9
+              "picSortId": 10
             },
             "pic_rogue_3_9": {
               "picId": "pic_rogue_3_9",
-              "picSortId": 10
+              "picSortId": 11
             },
             "pic_rogue_3_10": {
               "picId": "pic_rogue_3_10",
-              "picSortId": 11
+              "picSortId": 12
             },
             "pic_rogue_3_12": {
               "picId": "pic_rogue_3_12",
-              "picSortId": 12
+              "picSortId": 13
             },
             "pic_rogue_3_13": {
               "picId": "pic_rogue_3_13",
-              "picSortId": 13
+              "picSortId": 14
             },
             "pic_rogue_3_14": {
               "picId": "pic_rogue_3_14",
-              "picSortId": 14
+              "picSortId": 15
             },
             "pic_rogue_3_15": {
               "picId": "pic_rogue_3_15",
-              "picSortId": 15
+              "picSortId": 16
             },
             "pic_rogue_3_16": {
               "picId": "pic_rogue_3_16",
-              "picSortId": 16
+              "picSortId": 17
             },
             "pic_rogue_3_17": {
               "picId": "pic_rogue_3_17",
-              "picSortId": 17
+              "picSortId": 18
             },
             "pic_rogue_3_18": {
               "picId": "pic_rogue_3_18",
-              "picSortId": 18
+              "picSortId": 19
             },
             "pic_rogue_3_19": {
               "picId": "pic_rogue_3_19",
-              "picSortId": 19
+              "picSortId": 20
             },
             "pic_rogue_3_20": {
               "picId": "pic_rogue_3_20",
-              "picSortId": 20
+              "picSortId": 21
             },
             "pic_rogue_3_21": {
               "picId": "pic_rogue_3_21",
-              "picSortId": 21
+              "picSortId": 22
             },
             "pic_rogue_3_22": {
               "picId": "pic_rogue_3_22",
-              "picSortId": 22
+              "picSortId": 23
             },
             "pic_rogue_3_23": {
               "picId": "pic_rogue_3_23",
-              "picSortId": 23
+              "picSortId": 24
             },
             "pic_rogue_3_24": {
               "picId": "pic_rogue_3_24",
-              "picSortId": 24
+              "picSortId": 25
             },
             "pic_rogue_3_25": {
               "picId": "pic_rogue_3_25",
-              "picSortId": 25
+              "picSortId": 26
             },
             "pic_rogue_3_26": {
               "picId": "pic_rogue_3_26",
-              "picSortId": 26
+              "picSortId": 27
             },
             "pic_rogue_3_27": {
               "picId": "pic_rogue_3_27",
-              "picSortId": 27
+              "picSortId": 28
             },
             "pic_rogue_3_28": {
               "picId": "pic_rogue_3_28",
-              "picSortId": 28
+              "picSortId": 29
             },
             "pic_rogue_3_29": {
               "picId": "pic_rogue_3_29",
-              "picSortId": 29
+              "picSortId": 30
             },
             "pic_rogue_3_30": {
               "picId": "pic_rogue_3_30",
-              "picSortId": 30
+              "picSortId": 31
             },
             "pic_rogue_3_36": {
               "picId": "pic_rogue_3_36",
-              "picSortId": 31
+              "picSortId": 32
             },
             "pic_rogue_3_37": {
               "picId": "pic_rogue_3_37",
-              "picSortId": 32
+              "picSortId": 33
             },
             "pic_rogue_3_38": {
               "picId": "pic_rogue_3_38",
-              "picSortId": 33
+              "picSortId": 34
             },
             "pic_rogue_3_39": {
               "picId": "pic_rogue_3_39",
-              "picSortId": 34
+              "picSortId": 35
             },
             "pic_rogue_3_40": {
               "picId": "pic_rogue_3_40",
-              "picSortId": 35
+              "picSortId": 36
             },
             "pic_rogue_3_41": {
               "picId": "pic_rogue_3_41",
-              "picSortId": 36
+              "picSortId": 37
             },
             "pic_rogue_3_42": {
               "picId": "pic_rogue_3_42",
-              "picSortId": 37
+              "picSortId": 38
             },
             "pic_rogue_3_43": {
               "picId": "pic_rogue_3_43",
-              "picSortId": 38
+              "picSortId": 39
             },
             "pic_rogue_3_44": {
               "picId": "pic_rogue_3_44",
-              "picSortId": 39
+              "picSortId": 40
+            },
+            "pic_rogue_3_45": {
+              "picId": "pic_rogue_3_45",
+              "picSortId": 41
+            },
+            "pic_rogue_3_46": {
+              "picId": "pic_rogue_3_46",
+              "picSortId": 42
+            },
+            "pic_rogue_3_47": {
+              "picId": "pic_rogue_3_47",
+              "picSortId": 43
             },
             "pic_rogue_3_31": {
               "picId": "pic_rogue_3_31",
-              "picSortId": 40
+              "picSortId": 44
             },
             "pic_rogue_3_32": {
               "picId": "pic_rogue_3_32",
-              "picSortId": 41
+              "picSortId": 45
             },
             "pic_rogue_3_33": {
               "picId": "pic_rogue_3_33",
-              "picSortId": 42
+              "picSortId": 46
             },
             "pic_rogue_3_34": {
               "picId": "pic_rogue_3_34",
-              "picSortId": 43
+              "picSortId": 47
+            },
+            "pic_rogue_3_35": {
+              "picId": "pic_rogue_3_35",
+              "picSortId": 48
             }
           }
         },
@@ -7389,7 +8424,469 @@
         },
         "news": null,
         "landmark": null,
-        "log": null
+        "log": null,
+        "challengeBook": {
+          "stories": {
+            "rogue_3_challenge_story_01": {
+              "storyId": "rogue_3_challenge_story_01",
+              "sortId": 1
+            },
+            "rogue_3_challenge_story_02": {
+              "storyId": "rogue_3_challenge_story_02",
+              "sortId": 2
+            },
+            "rogue_3_challenge_story_03": {
+              "storyId": "rogue_3_challenge_story_03",
+              "sortId": 3
+            },
+            "rogue_3_challenge_story_04": {
+              "storyId": "rogue_3_challenge_story_04",
+              "sortId": 4
+            },
+            "rogue_3_challenge_story_05": {
+              "storyId": "rogue_3_challenge_story_05",
+              "sortId": 5
+            },
+            "rogue_3_challenge_story_06": {
+              "storyId": "rogue_3_challenge_story_06",
+              "sortId": 6
+            },
+            "rogue_3_challenge_story_07": {
+              "storyId": "rogue_3_challenge_story_07",
+              "sortId": 7
+            },
+            "rogue_3_challenge_story_08": {
+              "storyId": "rogue_3_challenge_story_08",
+              "sortId": 8
+            },
+            "rogue_3_challenge_story_09": {
+              "storyId": "rogue_3_challenge_story_09",
+              "sortId": 9
+            },
+            "rogue_3_challenge_story_10": {
+              "storyId": "rogue_3_challenge_story_10",
+              "sortId": 10
+            },
+            "rogue_3_challenge_story_11": {
+              "storyId": "rogue_3_challenge_story_11",
+              "sortId": 11
+            },
+            "rogue_3_challenge_story_12": {
+              "storyId": "rogue_3_challenge_story_12",
+              "sortId": 12
+            },
+            "rogue_3_challenge_story_13": {
+              "storyId": "rogue_3_challenge_story_13",
+              "sortId": 13
+            }
+          }
+        }
+      },
+      "rogue_4": {
+        "timeline": null,
+        "music": {
+          "musics": {
+            "music_rogue_4_1": {
+              "musicId": "music_rogue_4_1",
+              "musicSortId": 1
+            },
+            "music_rogue_4_2": {
+              "musicId": "music_rogue_4_2",
+              "musicSortId": 2
+            },
+            "music_rogue_4_3": {
+              "musicId": "music_rogue_4_3",
+              "musicSortId": 3
+            },
+            "music_rogue_4_4": {
+              "musicId": "music_rogue_4_4",
+              "musicSortId": 4
+            },
+            "music_rogue_4_5": {
+              "musicId": "music_rogue_4_5",
+              "musicSortId": 5
+            },
+            "music_rogue_4_6": {
+              "musicId": "music_rogue_4_6",
+              "musicSortId": 6
+            },
+            "music_rogue_4_7": {
+              "musicId": "music_rogue_4_7",
+              "musicSortId": 7
+            },
+            "music_rogue_4_8": {
+              "musicId": "music_rogue_4_8",
+              "musicSortId": 8
+            },
+            "music_rogue_4_9": {
+              "musicId": "music_rogue_4_9",
+              "musicSortId": 9
+            },
+            "music_rogue_4_10": {
+              "musicId": "music_rogue_4_10",
+              "musicSortId": 10
+            }
+          }
+        },
+        "pic": {
+          "pics": {
+            "pic_rogue_4_KV1": {
+              "picId": "pic_rogue_4_KV1",
+              "picSortId": 1
+            },
+            "pic_rogue_4_1": {
+              "picId": "pic_rogue_4_1",
+              "picSortId": 2
+            },
+            "pic_rogue_4_2": {
+              "picId": "pic_rogue_4_2",
+              "picSortId": 3
+            },
+            "pic_rogue_4_3": {
+              "picId": "pic_rogue_4_3",
+              "picSortId": 4
+            },
+            "pic_rogue_4_4": {
+              "picId": "pic_rogue_4_4",
+              "picSortId": 5
+            },
+            "pic_rogue_4_5": {
+              "picId": "pic_rogue_4_5",
+              "picSortId": 6
+            },
+            "pic_rogue_4_6": {
+              "picId": "pic_rogue_4_6",
+              "picSortId": 7
+            },
+            "pic_rogue_4_7": {
+              "picId": "pic_rogue_4_7",
+              "picSortId": 8
+            },
+            "pic_rogue_4_8": {
+              "picId": "pic_rogue_4_8",
+              "picSortId": 9
+            },
+            "pic_rogue_4_9": {
+              "picId": "pic_rogue_4_9",
+              "picSortId": 10
+            },
+            "pic_rogue_4_10": {
+              "picId": "pic_rogue_4_10",
+              "picSortId": 11
+            },
+            "pic_rogue_4_11": {
+              "picId": "pic_rogue_4_11",
+              "picSortId": 12
+            },
+            "pic_rogue_4_12": {
+              "picId": "pic_rogue_4_12",
+              "picSortId": 13
+            },
+            "pic_rogue_4_13": {
+              "picId": "pic_rogue_4_13",
+              "picSortId": 14
+            },
+            "pic_rogue_4_14": {
+              "picId": "pic_rogue_4_14",
+              "picSortId": 15
+            },
+            "pic_rogue_4_15": {
+              "picId": "pic_rogue_4_15",
+              "picSortId": 16
+            },
+            "pic_rogue_4_16": {
+              "picId": "pic_rogue_4_16",
+              "picSortId": 17
+            },
+            "pic_rogue_4_17": {
+              "picId": "pic_rogue_4_17",
+              "picSortId": 18
+            },
+            "pic_rogue_4_18": {
+              "picId": "pic_rogue_4_18",
+              "picSortId": 19
+            },
+            "pic_rogue_4_19": {
+              "picId": "pic_rogue_4_19",
+              "picSortId": 20
+            },
+            "pic_rogue_4_20": {
+              "picId": "pic_rogue_4_20",
+              "picSortId": 21
+            },
+            "pic_rogue_4_21": {
+              "picId": "pic_rogue_4_21",
+              "picSortId": 22
+            },
+            "pic_rogue_4_22": {
+              "picId": "pic_rogue_4_22",
+              "picSortId": 23
+            },
+            "pic_rogue_4_23": {
+              "picId": "pic_rogue_4_23",
+              "picSortId": 24
+            },
+            "pic_rogue_4_24": {
+              "picId": "pic_rogue_4_24",
+              "picSortId": 25
+            },
+            "pic_rogue_4_25": {
+              "picId": "pic_rogue_4_25",
+              "picSortId": 26
+            },
+            "pic_rogue_4_26": {
+              "picId": "pic_rogue_4_26",
+              "picSortId": 27
+            },
+            "pic_rogue_4_27": {
+              "picId": "pic_rogue_4_27",
+              "picSortId": 28
+            },
+            "pic_rogue_4_28": {
+              "picId": "pic_rogue_4_28",
+              "picSortId": 29
+            },
+            "pic_rogue_4_29": {
+              "picId": "pic_rogue_4_29",
+              "picSortId": 30
+            },
+            "pic_rogue_4_30": {
+              "picId": "pic_rogue_4_30",
+              "picSortId": 31
+            },
+            "pic_rogue_4_31": {
+              "picId": "pic_rogue_4_31",
+              "picSortId": 32
+            },
+            "pic_rogue_4_32": {
+              "picId": "pic_rogue_4_32",
+              "picSortId": 33
+            },
+            "pic_rogue_4_33": {
+              "picId": "pic_rogue_4_33",
+              "picSortId": 34
+            },
+            "pic_rogue_4_34": {
+              "picId": "pic_rogue_4_34",
+              "picSortId": 35
+            },
+            "pic_rogue_4_35": {
+              "picId": "pic_rogue_4_35",
+              "picSortId": 36
+            },
+            "pic_rogue_4_36": {
+              "picId": "pic_rogue_4_36",
+              "picSortId": 37
+            },
+            "pic_rogue_4_37": {
+              "picId": "pic_rogue_4_37",
+              "picSortId": 38
+            },
+            "pic_rogue_4_38": {
+              "picId": "pic_rogue_4_38",
+              "picSortId": 39
+            },
+            "pic_rogue_4_39": {
+              "picId": "pic_rogue_4_39",
+              "picSortId": 40
+            },
+            "pic_rogue_4_40": {
+              "picId": "pic_rogue_4_40",
+              "picSortId": 41
+            },
+            "pic_rogue_4_41": {
+              "picId": "pic_rogue_4_41",
+              "picSortId": 42
+            },
+            "pic_rogue_4_42": {
+              "picId": "pic_rogue_4_42",
+              "picSortId": 43
+            },
+            "pic_rogue_4_43": {
+              "picId": "pic_rogue_4_43",
+              "picSortId": 44
+            },
+            "pic_rogue_4_44": {
+              "picId": "pic_rogue_4_44",
+              "picSortId": 45
+            }
+          }
+        },
+        "story": null,
+        "avg": {
+          "avgs": {}
+        },
+        "news": null,
+        "landmark": null,
+        "log": null,
+        "challengeBook": {
+          "stories": {}
+        }
+      },
+      "sandbox_1": {
+        "timeline": null,
+        "music": {
+          "musics": {
+            "music_sandbox_v2_1": {
+              "musicId": "music_sandbox_v2_1",
+              "musicSortId": 1
+            },
+            "music_sandbox_v2_2": {
+              "musicId": "music_sandbox_v2_2",
+              "musicSortId": 2
+            },
+            "music_sandbox_v2_3": {
+              "musicId": "music_sandbox_v2_3",
+              "musicSortId": 3
+            },
+            "music_sandbox_v2_4": {
+              "musicId": "music_sandbox_v2_4",
+              "musicSortId": 4
+            },
+            "music_sandbox_v2_5": {
+              "musicId": "music_sandbox_v2_5",
+              "musicSortId": 5
+            },
+            "music_sandbox_v2_6": {
+              "musicId": "music_sandbox_v2_6",
+              "musicSortId": 6
+            },
+            "music_sandbox_v2_7": {
+              "musicId": "music_sandbox_v2_7",
+              "musicSortId": 7
+            },
+            "music_sandbox_v2_8": {
+              "musicId": "music_sandbox_v2_8",
+              "musicSortId": 8
+            },
+            "music_sandbox_v2_9": {
+              "musicId": "music_sandbox_v2_9",
+              "musicSortId": 9
+            },
+            "music_sandbox_v2_10": {
+              "musicId": "music_sandbox_v2_10",
+              "musicSortId": 10
+            }
+          }
+        },
+        "pic": null,
+        "story": null,
+        "avg": null,
+        "news": null,
+        "landmark": null,
+        "log": null,
+        "challengeBook": null
+      }
+    }
+  },
+  "trainingCampData": {
+    "stageData": {
+      "ch_1": {
+        "stageId": "ch_1",
+        "stageIconId": "icon_mechanism_1",
+        "sortId": 1,
+        "levelId": "Obt/Training/level_mechanism_1",
+        "code": "CH-1",
+        "name": "적군의 타겟팅",
+        "loadingPicId": "loadingS",
+        "description": "박사님, 적군의 타겟팅 메커니즘에 관련해 알아보시죠!",
+        "endCharId": "char_237_gravel",
+        "updateTs": 1733191200
+      },
+      "ch_2": {
+        "stageId": "ch_2",
+        "stageIconId": "icon_mechanism_2",
+        "sortId": 2,
+        "levelId": "Obt/Training/level_mechanism_2",
+        "code": "CH-2",
+        "name": "아군의 타겟팅",
+        "loadingPicId": "loadingS",
+        "description": "박사님, 아군의 타겟팅 메커니즘에 관련해 알아보시죠!",
+        "endCharId": "char_271_spikes",
+        "updateTs": 1733191200
+      },
+      "ch_3": {
+        "stageId": "ch_3",
+        "stageIconId": "icon_mechanism_3",
+        "sortId": 3,
+        "levelId": "Obt/Training/level_mechanism_3",
+        "code": "CH-3",
+        "name": "공격 속도",
+        "loadingPicId": "loadingS",
+        "description": "박사님, 공격 속도의 메커니즘에 관련해 알아보시죠!",
+        "endCharId": "char_124_kroos",
+        "updateTs": 1733191200
+      },
+      "ch_4": {
+        "stageId": "ch_4",
+        "stageIconId": "icon_mechanism_4",
+        "sortId": 4,
+        "levelId": "Obt/Training/level_mechanism_4",
+        "code": "CH-4",
+        "name": "상태 이상",
+        "loadingPicId": "loadingS",
+        "description": "박사님, 상태 이상의 메커니즘에 관련해 알아보시죠!",
+        "endCharId": "char_102_texas",
+        "updateTs": 1733191200
+      },
+      "ch_5": {
+        "stageId": "ch_5",
+        "stageIconId": "icon_mechanism_5",
+        "sortId": 5,
+        "levelId": "Obt/Training/level_mechanism_5",
+        "code": "CH-5",
+        "name": "인력과 척력",
+        "loadingPicId": "loadingS",
+        "description": "박사님, 인력과 척력의 메커니즘에 관련해 알아보시죠!",
+        "endCharId": "char_277_sqrrel",
+        "updateTs": 1733191200
+      },
+      "ch_6": {
+        "stageId": "ch_6",
+        "stageIconId": "icon_mechanism_6",
+        "sortId": 6,
+        "levelId": "Obt/Training/level_mechanism_6",
+        "code": "CH-6",
+        "name": "적군의 원소 피해",
+        "loadingPicId": "loadingS",
+        "description": "박사님, 적군의 원소 피해 메커니즘에 관련해 알아보시죠!",
+        "endCharId": "char_4041_chnut",
+        "updateTs": 1733191200
+      },
+      "ch_7": {
+        "stageId": "ch_7",
+        "stageIconId": "icon_mechanism_7",
+        "sortId": 7,
+        "levelId": "Obt/Training/level_mechanism_7",
+        "code": "CH-7",
+        "name": "아군의 원소 피해",
+        "loadingPicId": "loadingS",
+        "description": "박사님, 아군의 원소 피해 메커니즘에 관련해 알아보시죠!",
+        "endCharId": "char_4102_threye",
+        "updateTs": 1733191200
+      }
+    },
+    "newTrainingCampStages": [
+      {
+        "updateTs": 1733191200,
+        "stages": [
+          "ch_1",
+          "ch_2",
+          "ch_3",
+          "ch_4",
+          "ch_5",
+          "ch_6",
+          "ch_7"
+        ]
+      }
+    ],
+    "consts": {
+      "unlockStageId": "main_03-08",
+      "updateDesc": "지속 업데이트",
+      "rewardItem": {
+        "id": "4003",
+        "count": 200,
+        "type": "DIAMOND_SHD"
       }
     }
   }

@@ -877,11 +877,12 @@
   "reMax": 100.0,
   "diamondToShdRate": 180,
   "requestSameFriendCD": 14400,
-  "baseMaxFriendNum": 15,
+  "baseMaxFriendNum": 65,
   "hardDiamondDrop": 1,
   "instFinDmdShdCost": 80,
   "easyCrystalBonus": 0,
   "diamondMaterialToShardExchangeRatio": 10,
+  "diamondHandbookStageGain": 200,
   "apBuyCost": 1,
   "apBuyThreshold": 999,
   "creditLimit": 300,
@@ -926,11 +927,16 @@
     "ro.get": "<color=#0098DC>{0}</color>",
     "ro.lose": "<color=#C82A36>{0}</color>",
     "rolv.rem": "<color=#FF4C22>{0}</color>",
+    "lv.description": "<color=#d8d769>{0}</color>",
+    "lv.extrades": "<color=#d8d769>{0}</color>",
     "lv.item": "<color=#FFFFFF>{0}</color>",
     "lv.rem": "<color=#FFFFFF>{0}</color>",
     "lv.fs": "<color=#FF0000>{0}</color>",
     "lv.sp": "<color=#fd4600>{0}</color>",
     "lv.ez": "<color=#0098dc>{0}</color>",
+    "crisisv2.nag": "<color=#ea9818>{0}</color>",
+    "crisisv2.pos": "<color=#16acaa>{0}</color>",
+    "crisisv2.cra": "<color=#d7181c>{0}</color>",
     "ro1.get": "<color=#E5B684>{0}</color>",
     "ro2.lose": "<color=#FF6E6E>{0}</color>",
     "ro2.get": "<color=#59DDDC>{0}</color>",
@@ -943,6 +949,8 @@
     "ro3.greent": "<color=#4ffaa5>{0}</color>",
     "ro3.bluet": "<color=#0085ff>{0}</color>",
     "ro3.bosst": "<color=#ffffff>{0}</color>",
+    "ro4.lose": "<color=#FF6E6E>{0}</color>",
+    "ro4.get": "<color=#28bfe5>{0}</color>",
     "rc.title": "<color=#FFFFFF>{0}</color>",
     "rc.subtitle": "<color=#FFC90E>{0}</color>",
     "rc.em": "<color=#FF7F27>{0}</color>",
@@ -961,6 +969,7 @@
     "attainga.attention": "<color=#E1322C>{0}</color>",
     "linkagega.charname": "<color=#FFF6A9>{0}</color>",
     "linkagega.title": "<color=#FF8A00>{0}</color>",
+    "ga.spgacha": "<color=#FF8A00>{0}</color>",
     "limtedga.title": "<color=#FFFFFF>{0}</color>",
     "limtedga.subtitle": "<color=#FFC90E>{0}</color>",
     "limtedga.up": "<color=#FF7F27>{0}</color>",
@@ -979,6 +988,20 @@
     "lv.mhitem": "<color=#A57F5B>{0}</color>",
     "lv.mhtx": "<color=#1B1B1B>{0}</color>",
     "lv.mhfs": "<color=#A57F5B>{0}</color>",
+    "cc.miu": "<color=#8F7156>{0}</color>",
+    "ping.low": "<color=#7fa826>{0}</color>",
+    "ping.medium": "<color=#ec7a00>{0}</color>",
+    "ping.high": "<color=#ff3d3d>{0}</color>",
+    "match.success": "<color=#36BBCC>{0}</color>",
+    "map.normal": "<color=#36BBCC>{0}</color>",
+    "map.football": "<color=#36BBCC>{0}</color>",
+    "map.defence": "<color=#36BBCC>{0}</color>",
+    "milestone": "<color=#D4133C>{0}</color>",
+    "dm.award": "<color=#36BBCC>{0}</color>",
+    "dm.condition": "<color=#C9C9C9>{0}</color>",
+    "tutor": "<color=#36BBCC>{0}</color>",
+    "lv.muitem": "<color=#D4133C>{0}</color>",
+    "token.highlight": "<color=#d8741a>{0}</color>",
     "ba.grt": "<color=#FFAB27>{0}</color>",
     "ba.exl": "<color=#14F0AF>{0}</color>",
     "ba.hrd": "<color=#DA2536>{0}</color>",
@@ -1006,13 +1029,12 @@
   "commonPotentialLvlUpCount": 4,
   "weeklyOverrideDesc": "",
   "voucherDiv": 5,
-  "recruitPoolVersion": 14,
+  "recruitPoolVersion": 18,
   "v006RecruitTimeStep1Refresh": 1577169000,
   "v006RecruitTimeStep2Check": 1577151000,
   "v006RecruitTimeStep2Flush": 1577646000,
   "buyApTimeNoLimitFlag": true,
   "isLMGTSEnabled": true,
-  "crisisUnlockStage": "main_02-10",
   "legacyTime": 1562655600,
   "legacyItemList": [
     {
@@ -1080,9 +1102,11 @@
   "isDynIllustStartEnabled": true,
   "isClassicQCShopEnabled": true,
   "isRoguelikeTopicFuncEnabled": true,
+  "isSandboxPermFuncEnabled": true,
   "isRoguelikeAvgAchieveFuncEnabled": true,
   "isClassicPotentialItemFuncEnabled": true,
   "isClassicGachaPoolFuncEnabled": true,
+  "isSpecialGachaPoolFuncEnabled": false,
   "isVoucherClassicItemDistinguishable": true,
   "voucherSkinRedeem": 1,
   "voucherSkinDesc": "[컬렉션 자유 선택권]으로 컬렉션 상점에서 판매 중인 컬렉션만 교환할 수 있으며, 일러스트 애니메이션이 포함된 컬렉션은 <color=#ffa633>교환할 수 없습니다</color>. 만약 컬렉션 상점에서 이미 모든 컬렉션을 구매했거나 판매 중인 컬렉션이 없으면, [컬렉션 자유 선택권]을 <color=#ffa633>사용할 수 없습니다</color>.\n\n이 밖에, [컬렉션 자유 선택권]으로 <color=#ffa633>교환할 수 없는</color> 다른 컬렉션이 출시될 경우, 별도 공지가 진행될 예정이오니 참고하여 주시기 바랍니다.",
@@ -1228,6 +1252,11 @@
       "termName": "마법 취약",
       "description": "받은 마법 대미지가 해당 비례만큼 증가 (동종 효과 중 최대 수치만 적용)"
     },
+    "ba.elementfragile": {
+      "termId": "ba.elementfragile",
+      "termName": "원소 취약",
+      "description": "받은 원소 피해가 해당 비율만큼 증가 (동종 효과 중 최대 수치만 적용)"
+    },
     "ba.dying": {
       "termId": "ba.dying",
       "termName": "중상",
@@ -1268,6 +1297,26 @@
       "termName": "피해 보호막",
       "description": "일정량의 <$ba.dt.element>원소 피해</> 흡수"
     },
+    "ba.tremble": {
+      "termId": "ba.tremble",
+      "termName": "전율",
+      "description": "저지될 경우 일반 공격 불가"
+    },
+    "ba.fear": {
+      "termId": "ba.fear",
+      "termName": "공포",
+      "description": "저지 불가, 사방으로 도망"
+    },
+    "ba.dt.burning2": {
+      "termId": "ba.dt.burning2",
+      "termName": "소각 피해 (아군)",
+      "description": "최대치 도달 시 폭발(일반, 정예인 경우 1000, 리더인 경우 2000), 적에게 즉시 7000의 원소 대미지를 입히며 그동안 마법 저항 -20, 쿨타임 10초"
+    },
+    "ba.addash": {
+      "termId": "ba.addash",
+      "termName": "이동",
+      "description": "퇴각하지 않고 현재 HP 상태로 목표 위치에 배치"
+    },
     "cc.bd_A_1": {
       "termId": "cc.bd_A_1",
       "termName": "염력",
@@ -1288,6 +1337,11 @@
       "termName": "서글픈 하모니",
       "description": "해당 인프라 스킬을 보유한 오퍼레이터\n에벤홀츠"
     },
+    "cc.bd_B_3": {
+      "termId": "cc.bd_B_3",
+      "termName": "무언의 찬가",
+      "description": "해당 인프라 스킬을 보유한 오퍼레이터\n비르투오사"
+    },
     "cc.bd_A": {
       "termId": "cc.bd_A",
       "termName": "생각의 사슬",
@@ -1295,8 +1349,8 @@
     },
     "cc.bd_B": {
       "termId": "cc.bd_B",
-      "termName": "침묵의 공명",
-      "description": "<$cc.bd_B_1><@cc.rem>배회하는 멜로디</></>, <$cc.bd_B_2><@cc.rem>서글픈 하모니</></> 관련 스킬에 영향\n다음 오퍼레이터의 인프라 스킬에서 제공\n에벤홀츠"
+      "termName": "무성의 공명",
+      "description": "<$cc.bd_B_1><@cc.rem>배회하는 멜로디</></>, <$cc.bd_B_2><@cc.rem>서글픈 하모니</></>, <$cc.bd_B_3><@cc.rem>무언의 찬가</></> 관련 스킬에 영향\n다음 오퍼레이터의 인프라 스킬에서 제공\n에벤홀츠, 비르투오사, 베이스라인"
     },
     "cc.bd_C": {
       "termId": "cc.bd_C",
@@ -1306,11 +1360,11 @@
     "cc.bd_a1": {
       "termId": "cc.bd_a1",
       "termName": "감지 정보",
-      "description": "<$cc.bd_A><@cc.rem>생각의 사슬</></>, <$cc.bd_B><@cc.rem>침묵의 공명</></> 관련 변수에 영향\n다음 오퍼레이터의 인프라 스킬에서 제공\n로즈몬티스, 에벤홀츠, 시, 링, 위스퍼레인, 아이리스, 체르니"
+      "description": "<$cc.bd_A><@cc.rem>생각의 사슬</></>, <$cc.bd_B><@cc.rem>무성의 공명</></> 관련 변수에 영향\n다음 오퍼레이터의 인프라 스킬에서 제공\n로즈몬티스, 에벤홀츠, 시, 링, 위스퍼레인, 아이리스, 체르니"
     },
     "cc.bd_b1": {
       "termId": "cc.bd_b1",
-      "termName": "속세의 불꽃",
+      "termName": "속세의 화식",
       "description": "<$cc.bd_C><@cc.rem>주술 결정</></> 관련 스킬에 영향\n다음 오퍼레이터의 인프라 스킬에서 제공\n시, 링, 총웨, 우요우, 멀베리"
     },
     "cc.bd_ash": {
@@ -1396,12 +1450,27 @@
     "cc.g.ussg": {
       "termId": "cc.g.ussg",
       "termName": "우르수스 학생자치단",
-      "description": "다음 오퍼레이터 포함\n로사, 지마, 이스티나, 굼"
+      "description": "다음 오퍼레이터 포함\n로사, 지마, 이스티나, 굼, 레토"
+    },
+    "cc.g.A1": {
+      "termId": "cc.g.A1",
+      "termName": "예비작전팀 A1",
+      "description": "다음 오퍼레이터 포함\n히비스커스, 라바, 비글, 팽, 크루스"
     },
     "cc.g.R6": {
       "termId": "cc.g.R6",
       "termName": "레인보우 팀",
-      "description": "다음 오퍼레이터 포함\nAsh, Tachanka, Blitz, Frost"
+      "description": "다음 오퍼레이터 포함\nAsh, Tachanka, Blitz, Frost, Ela, Doc, Iana, Fuze"
+    },
+    "cc.g.Attack": {
+      "termId": "cc.g.Attack",
+      "termName": "공격팀",
+      "description": "다음 오퍼레이터 포함\nAsh, Blitz, Iana, Fuze"
+    },
+    "cc.g.Defence": {
+      "termId": "cc.g.Defence",
+      "termName": "방어팀",
+      "description": "다음 오퍼레이터 포함\nTachanka, Frost, Ela, Doc"
     },
     "cc.g.sp": {
       "termId": "cc.g.sp",
@@ -1411,7 +1480,7 @@
     "cc.g.abyssal": {
       "termId": "cc.g.abyssal",
       "termName": "어비설 헌터스",
-      "description": "다음 오퍼레이터 포함\n글래디아, 스카디, 스펙터, 안드레아나"
+      "description": "다음 오퍼레이터 포함\n글래디아, 스카디, 스펙터, 안드레아나, 울피아누스"
     },
     "cc.g.psk": {
       "termId": "cc.g.psk",
@@ -1421,12 +1490,12 @@
     "cc.g.karlan": {
       "termId": "cc.g.karlan",
       "termName": "카란 무역회사",
-      "description": "다음 오퍼레이터 포함\n실버애쉬, 노시스, 프라마닉스, 클리프하트, 마터호른, 쿠리어, 쉐라, 오로라"
+      "description": "다음 오퍼레이터 포함\n실버애쉬, 노시스, 프라마닉스, 클리프하트, 마터호른, 쿠리어, 쉐라, 오로라, 데겐블레허"
     },
     "cc.g.sui": {
       "termId": "cc.g.sui",
       "termName": "쉐이",
-      "description": "다음 오퍼레이터 포함\n니엔, 시, 링, 총웨"
+      "description": "다음 오퍼레이터 포함\n니엔, 시, 링, 총웨, 슈"
     },
     "cc.g.glasgow": {
       "termId": "cc.g.glasgow",
@@ -1442,6 +1511,11 @@
       "termId": "cc.g.sm",
       "termName": "사미",
       "description": "다음 오퍼레이터 포함\n기타노, 바이비크, 카니팔라트, 티폰, 산탈라, 발라크빈"
+    },
+    "cc.g.bs": {
+      "termId": "cc.g.bs",
+      "termName": "블랙스틸 월드와이드",
+      "description": "다음 오퍼레이터 포함\n리스캄, 프란카, 제시카, 바닐라, 아몬드"
     },
     "cc.c.abyssal2_1": {
       "termId": "cc.c.abyssal2_1",
@@ -1468,10 +1542,15 @@
       "termName": "기타 시설",
       "description": "다음 시설 포함\n발전소, 제조소, 무역소, 사무실, 응접실"
     },
+    "cc.c.room3": {
+      "termId": "cc.c.room3",
+      "termName": "작업 시설",
+      "description": "다음 시설 포함\n발전소, 제조소, 무역소, 사무실, 응접실, 제어 센터, 훈련실"
+    },
     "cc.c.skill": {
       "termId": "cc.c.skill",
       "termName": "일부 스킬",
-      "description": "다음 스킬 포함\n오른팔, S.W.E.E.P, 간식 네트워크, 처분 협의, 대리인, 필요책임, 호위, 꼬마 리더, 독선기신, 봄날 같은 웃음"
+      "description": "다음 스킬 포함\n오른팔, S.W.E.E.P, 간식 네트워크, 처분 협의, 대리인, 필요책임, 호위, 꼬마 리더, 독선기신, 봄날 같은 웃음, 금잔화 시회, 수호의 길"
     },
     "cc.t.strong2": {
       "termId": "cc.t.strong2",
@@ -1481,7 +1560,7 @@
     "cc.c.sui2_1": {
       "termId": "cc.c.sui2_1",
       "termName": "특별 비교 규칙",
-      "description": "제어 센터 내 기타 오퍼레이터의 스킬이 제공한 <$cc.c.room2><@cc.kw>기타 시설</></>의 시간당 컨디션 회복 총합과 비교해 더 높은 효과 적용"
+      "description": "<@cc.kw>원칙주의</>, <@cc.kw>외로운 빛과 함께</>, <@cc.kw>바벨의 깃발</>이 제공한 <$cc.c.room2><@cc.kw>기타 시설</></>의 시간당 컨디션 회복 효과 중 최대 수치만 적용"
     },
     "cc.m.pow1": {
       "termId": "cc.m.pow1",
@@ -1513,6 +1592,11 @@
       "termName": "업보",
       "description": "소모 컨디션이 <@cc.kw>8</>인 항목 가공 시 부산물 미산출 경우, 소모한 컨디션 <@cc.kw>1</>당 <@cc.kw>업보</> <@cc.kw>1</>점으로 전환"
     },
+    "cc.t.accmuguard1": {
+      "termId": "cc.t.accmuguard1",
+      "termName": "무도",
+      "description": "스킬 마스터리 훈련을 협조해 1레벨 도달 시 <@cc.kw>1</> 누적, 2레벨 도달 시 <@cc.kw>2</> 누적, 3레벨 도달 시 <@cc.kw>3</> 누적, 최대 <@cc.kw>3</>까지 누적 (협조자의 컨디션이 0인 경우, 누적 또는 소모 불가)"
+    },
     "cc.sk.manu1": {
       "termId": "cc.sk.manu1",
       "termName": "표준화류 스킬",
@@ -1536,12 +1620,12 @@
     "cc.tag.op": {
       "termId": "cc.tag.op",
       "termName": "작업 플랫폼",
-      "description": "다음 오퍼레이터 포함\nLancet-2, Castle-3, THRM-EX, '저스티스 나이트', Friston-3"
+      "description": "다음 오퍼레이터 포함\nLancet-2, Castle-3, THRM-EX, 저스티스 나이트, Friston-3, PhonoR-0"
     },
     "cc.tag.knight": {
       "termId": "cc.tag.knight",
       "termName": "기사",
-      "description": "다음 오퍼레이터 포함\n니어 더 래디언트 나이트, 니어, 블레미샤인, 위슬래시, 플레임테일, 파투스, 애쉬락, 와일드메인, 저스티스 나이트, 그라벨"
+      "description": "다음 오퍼레이터 포함\n니어 더 래디언트 나이트, 니어, 블레미샤인, 위슬래시, 플레임테일, 파투스, 애쉬락, 와일드메인, 저스티스 나이트, 그라벨, 비비아나"
     },
     "cc.tag.durin": {
       "termId": "cc.tag.durin",
@@ -1557,12 +1641,20 @@
       "termId": "cc.gvial",
       "termName": "가비알",
       "description": "다음 오퍼레이터 포함\n가비알 디 인빈서블, 가비알"
+    },
+    "cc.tra.pepe": {
+      "termId": "cc.tra.pepe",
+      "termName": "특별 독점 오더",
+      "description": "페페가 제공하는 특별 귀금속 오더, 해당 오더의 수주 시간과 수익은 고정이며, 납품하는 순금 수량은 0"
     }
   },
   "storyReviewUnlockItemLackTip": "기록 조각이 부족합니다. 증명서 상점 또는 이벤트 기간에 열리는 상점을 통해 교환할 수 있습니다.",
-  "dataVersion": "36.1.0",
-  "resPrefVersion": "40d3d0",
+  "dataVersion": "42.1.0",
+  "resPrefVersion": "52d2d0",
   "announceWebBusType": "ak_announcement",
+  "defaultMinContinuousBattleTimes": 1,
+  "defaultMaxContinuousBattleTimes": 6,
+  "continuousActionOpen": true,
   "subProfessionDamageTypePairs": {
     "notchar1": "NONE",
     "notchar2": "NONE",
@@ -1626,6 +1718,16 @@
     "chainhealer": "HEAL",
     "crusher": "PHYSICAL",
     "ritualist": "MAGICAL",
-    "hunter": "PHYSICAL"
-  }
+    "hunter": "PHYSICAL",
+    "primcaster": "MAGICAL",
+    "loopshooter": "PHYSICAL",
+    "hammer": "PHYSICAL",
+    "alchemist": "PHYSICAL"
+  },
+  "classicProtectChar": [
+    "char_252_bibeak",
+    "char_336_folivo",
+    "char_402_tuye",
+    "char_4043_erato"
+  ]
 }

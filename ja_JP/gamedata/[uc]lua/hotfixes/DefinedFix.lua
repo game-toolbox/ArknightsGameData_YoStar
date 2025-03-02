@@ -2,7 +2,9 @@
 local list = 
 {
   
-  "HotFixes/ShopHotfixer"
+  "HotFixes/TestStubHotfixer",
+  "HotFixes/SandboxBattleDataControllerHotfixer",
+  "HotFixes/SandboxCatchedAnimalManagerHotfixer"
 };
 
 return list;

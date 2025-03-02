@@ -207,14 +207,14 @@
 [name="어스스피릿"]  맞아, 바흐만 선생님의 비극이 또다시 재연되는 건 싫거든.
 [Character(name="char_183_skgoat_1",name2="char_180_amgoat",focus=2)]
 [CameraShake(duration=0.5, xstrength=15, ystrength=15, vibrato=20, randomness=70, fadeout=true, block=false)]
-[name="에이야퍄들라"]  앗, 구르크 아카데미의 바흐만 교수님 말인가요? 라이타니엔에서 유명한 지질학자이자 음악가이신 분이 어스스피릿 선배님의 스승이셨던 거군요!
+[name="에이야퍄들라"]  앗, 구르크 사립 학원의 바흐만 교수님 말인가요? 라이타니엔에서 유명한 지질학자이자 음악가이신 분이 어스스피릿 선배님의 스승이셨던 거군요!
 [name="에이야퍄들라"]  어머니께서 그분과 아는 사이세요.
 [name="에이야퍄들라"]  어릴 적, 제 생일 때 저희 집에 오신 적 있어요.
 [name="에이야퍄들라"]  물론 그날이 제 생일인 줄 아셨던 건 아니에요. 그냥 일 때문에 어머니를 찾아오셨던 거죠.
 [name="에이야퍄들라"]  제 생일이라는 걸 아시곤, 생일 선물이라며 멋진 연주를 들려주셨어요.
 [name="에이야퍄들라"]  무척 아름다운 곡이었던 걸로 기억해요.
 [Character(name="char_183_skgoat_1",name2="char_180_amgoat",focus=1)]
-[name="어스스피릿"]  그분은 제가 가장 존경하는 분이세요.
+[name="어스스피릿"]  그분은 내가 가장 존경하는 분이야.
 [Character(name="char_183_skgoat_1",name2="char_180_amgoat",focus=2)]
 [name="에이야퍄들라"]  바흐만 교수님에게 무슨 일이 있었던 건가요?
 [Character(name="char_183_skgoat_1",name2="char_180_amgoat",focus=1)]

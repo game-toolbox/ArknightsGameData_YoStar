@@ -113,12 +113,152 @@
         "obtainApproach": "Unique unlock"
       },
       {
+        "avatarId": "avatar_special_12",
+        "avatarType": "SPECIAL",
+        "avatarIdSort": 12,
+        "avatarIdDesc": "Obtained by purchasing Package\n'Destination'",
+        "avatarItemName": "'Destination'",
+        "avatarItemDesc": "The end of a journey. The starting point of a majestic view.",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Unique unlock"
+      },
+      {
         "avatarId": "avatar_special_13",
         "avatarType": "SPECIAL",
         "avatarIdSort": 13,
         "avatarIdDesc": "Obtained by purchasing Package\n'White Rabbit'",
         "avatarItemName": "'White Rabbit'",
         "avatarItemDesc": "Her frost burns hotter than even flames.",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Unique unlock"
+      },
+      {
+        "avatarId": "avatar_special_15",
+        "avatarType": "SPECIAL",
+        "avatarIdSort": 15,
+        "avatarIdDesc": "Obtained by purchasing Package\n'Defender'",
+        "avatarItemName": "'Defender' ",
+        "avatarItemDesc": "Intercept, delay, remain calm.",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Unique unlock"
+      },
+      {
+        "avatarId": "avatar_special_16",
+        "avatarType": "SPECIAL",
+        "avatarIdSort": 16,
+        "avatarIdDesc": "Obtained by purchasing Package\n'Attacker'",
+        "avatarItemName": "'Attacker' ",
+        "avatarItemDesc": "Suppress, breakthrough, always thinking.",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Unique unlock"
+      },
+      {
+        "avatarId": "avatar_special_17",
+        "avatarType": "SPECIAL",
+        "avatarIdSort": 17,
+        "avatarIdDesc": "Obtained by purchasing Package\n'A Slice of Style 2024'",
+        "avatarItemName": "A Slice of Style 2024'",
+        "avatarItemDesc": "When I close my eyes, I still see it, what I saw that day.",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Unique unlock"
+      },
+      {
+        "avatarId": "avatar_special_18",
+        "avatarType": "SPECIAL",
+        "avatarIdSort": 18,
+        "avatarIdDesc": "Obtained by purchasing Package\n'Wish Upon a Star'",
+        "avatarItemName": "'Wish Upon a Star'",
+        "avatarItemDesc": "The road ahead is long. We'll be at her side the whole way, through those starry nights, both loud and quiet.",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Unique unlock"
+      },
+      {
+        "avatarId": "avatar_special_19",
+        "avatarType": "SPECIAL",
+        "avatarIdSort": 19,
+        "avatarIdDesc": "Obtained by purchasing Package\n'No Chitchat, Thx'",
+        "avatarItemName": "'No Chitchat, Thx'",
+        "avatarItemDesc": "A photo sticker of Logos and Badtz-Maru. 'The two of you already have a mighty fine aura. No need to say anything to look cool.'",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Unique unlock"
+      },
+      {
+        "avatarId": "avatar_special_20",
+        "avatarType": "SPECIAL",
+        "avatarIdSort": 20,
+        "avatarIdDesc": "Obtained by purchasing Package\n'Ribbon Exchange'",
+        "avatarItemName": "'Ribbon Exchange'",
+        "avatarItemDesc": "A photo sticker of Goldenglow and Hello Kitty. If you're scared of your hair getting all over the place, try a bow-tie ribbon!",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Unique unlock"
+      },
+      {
+        "avatarId": "avatar_special_21",
+        "avatarType": "SPECIAL",
+        "avatarIdSort": 21,
+        "avatarIdDesc": "Obtained by purchasing Package\n'Detective Team'",
+        "avatarItemName": "'Detective Team'",
+        "avatarItemDesc": "A photo sticker of Lee and Pompompurin. On hearing Lee's meticulously laid-out plans for detective work, Pompompurin has this to say: 'Going out to play, awesome!'",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Unique unlock"
+      },
+      {
+        "avatarId": "avatar_special_22",
+        "avatarType": "SPECIAL",
+        "avatarIdSort": 22,
+        "avatarIdDesc": "Obtained by purchasing Package\n'Eureka's Dream'",
+        "avatarItemName": "'Eureka's Dream'",
+        "avatarItemDesc": "A rare screenshot of U-Official falling asleep during a stream. In her dream, her pillows turned into true friends.",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Unique unlock"
+      },
+      {
+        "avatarId": "avatar_special_23",
+        "avatarType": "SPECIAL",
+        "avatarIdSort": 23,
+        "avatarIdDesc": "Obtained by purchasing Package\n'Wink—'",
+        "avatarItemName": "'Wink—'",
+        "avatarItemDesc": "A photo sticker of Amiya and My Melody. Upon seeing the adorable faces of these two, even the coldest of hearts will melt.",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Unique unlock"
+      },
+      {
+        "avatarId": "avatar_special_24",
+        "avatarType": "SPECIAL",
+        "avatarIdSort": 24,
+        "avatarIdDesc": "Obtained by purchasing Package\n'I Like Your Skull'",
+        "avatarItemName": "'I Like Your Skull'",
+        "avatarItemDesc": "A photo sticker of W and Kuromi. W seems real fond of Kuromi's pink skull. She's better not getting any nasty ideas...",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Unique unlock"
+      },
+      {
+        "avatarId": "avatar_special_25",
+        "avatarType": "SPECIAL",
+        "avatarIdSort": 25,
+        "avatarIdDesc": "Obtained by purchasing Package\n'Angel on the Cloud'",
+        "avatarItemName": "'Angel on the Cloud'",
+        "avatarItemDesc": "A photo sticker of Executor and Cinnamoroll. A Sankta's wings of light might not allow you to fly, but Cinnamoroll's ears can!",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Unique unlock"
+      },
+      {
+        "avatarId": "avatar_special_26",
+        "avatarType": "SPECIAL",
+        "avatarIdSort": 26,
+        "avatarIdDesc": "Obtained by purchasing Package\n'Silent Us'",
+        "avatarItemName": "'Silent Us'",
+        "avatarItemDesc": "A photo of Młynar and Gudetama. If you're not going to break the silence, then frying an egg in silence it is.",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Unique unlock"
+      },
+      {
+        "avatarId": "avatar_special_35",
+        "avatarType": "SPECIAL",
+        "avatarIdSort": 31,
+        "avatarIdDesc": "Obtained by purchasing the Outfit at its first launch\n'Bunny Serenade'",
+        "avatarItemName": "'Bunny Serenade'",
+        "avatarItemDesc": "A loving moment gently falls upon us, as the stars scatter across the night sky like dancing notes.",
         "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
         "obtainApproach": "Unique unlock"
       },
@@ -413,6 +553,26 @@
         "obtainApproach": "Obtained from Record Restoration"
       },
       {
+        "avatarId": "avatar_activity_RL3_1",
+        "avatarType": "ACTIVITY",
+        "avatarIdSort": 30,
+        "avatarIdDesc": "[Expeditioner's Jǫklumarkar] Expedition Record\n'Amma's Mercy'",
+        "avatarItemName": "'Amma's Mercy'",
+        "avatarItemDesc": "It walks past Its children, and from then on the woods are teeming with life.",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Obtained from Integrated Strategies"
+      },
+      {
+        "avatarId": "avatar_activity_RL3_2",
+        "avatarType": "ACTIVITY",
+        "avatarIdSort": 31,
+        "avatarIdDesc": "[Expeditioner's Jǫklumarkar] Expedition Record\n'Evermore'",
+        "avatarItemName": "'Evermore'",
+        "avatarItemDesc": "The passage of time brings us back to where our journey started.",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Obtained from Integrated Strategies"
+      },
+      {
         "avatarId": "avatar_activity_DH",
         "avatarType": "ACTIVITY",
         "avatarIdSort": 32,
@@ -429,6 +589,176 @@
         "avatarIdDesc": "[A Light Spark in Darkness] Record Restoration\n'A Light Spark in Darkness'",
         "avatarItemName": "'A Light Spark in Darkness'",
         "avatarItemDesc": "Dispel this moment of darkness, for this is not the end.",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Obtained from Record Restoration"
+      },
+      {
+        "avatarId": "avatar_activity_NL",
+        "avatarType": "ACTIVITY",
+        "avatarIdSort": 34,
+        "avatarIdDesc": "[Near Light] Record Restoration\n'Near Light'",
+        "avatarItemName": "'Near Light'",
+        "avatarItemDesc": "Her swordstaff pierces the dark night as the land quietly awaits daybreak.",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Obtained from Record Restoration"
+      },
+      {
+        "avatarId": "avatar_activity_EP13",
+        "avatarType": "ACTIVITY",
+        "avatarIdSort": 35,
+        "avatarIdDesc": "Main Theme 'The Whirlpool that is Passion'\n'Whirlpool of Colossal Remains'",
+        "avatarItemName": "'Whirlpool of Colossal Remains'",
+        "avatarItemDesc": "The wailings of yore reverberate in the rapids. The horns of the battlefield have already sounded.",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "From Main Theme 'The Whirlpool that is Passion'"
+      },
+      {
+        "avatarId": "avatar_activity_BI",
+        "avatarType": "ACTIVITY",
+        "avatarIdSort": 36,
+        "avatarIdDesc": "[Break the Ice] Record Restoration\n'Break the Ice'",
+        "avatarItemName": "'Break the Ice'",
+        "avatarItemDesc": "With a thousand years of snow reverberating, silence will never befall Karlan again.",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Obtained from Record Restoration"
+      },
+      {
+        "avatarId": "avatar_activity_TC",
+        "avatarType": "ACTIVITY",
+        "avatarIdSort": 37,
+        "avatarIdDesc": "[To Be Continued] Record Restoration\n'To Be Continued'",
+        "avatarItemName": "'To Be Continued'",
+        "avatarItemDesc": "There exist all walks of life outside the camera's view.",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Obtained from Record Restoration"
+      },
+      {
+        "avatarId": "avatar_activity_IW",
+        "avatarType": "ACTIVITY",
+        "avatarIdSort": 38,
+        "avatarIdDesc": "[Invitation to Wine] Record Restoration\n'Invitation to Wine'",
+        "avatarItemName": "'Invitation to Wine'",
+        "avatarItemDesc": "Yan's landscapes stretch far and wide. The wine sets off on a new journey once more.",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Obtained from Record Restoration"
+      },
+      {
+        "avatarId": "avatar_activity_AW",
+        "avatarType": "ACTIVITY",
+        "avatarIdSort": 39,
+        "avatarIdDesc": "[An Obscure Wanderer] Record Restoration\n'An Obscure Wanderer'",
+        "avatarItemName": "'An Obscure Wanderer'",
+        "avatarItemDesc": "Hesitate, look around, see the setting sun.",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Obtained from Record Restoration"
+      },
+      {
+        "avatarId": "avatar_activity_GA",
+        "avatarType": "ACTIVITY",
+        "avatarIdSort": 40,
+        "avatarIdDesc": "[Guide Ahead] Record Restoration\n'Guide Ahead'",
+        "avatarItemName": "'Guide Ahead'",
+        "avatarItemDesc": "When lost in darkness, light a torch and keep walking.",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Obtained from Record Restoration"
+      },
+      {
+        "avatarId": "avatar_activity_XB1_1",
+        "avatarType": "ACTIVITY",
+        "avatarIdSort": 41,
+        "avatarIdDesc": "[Tales Within the Sand] Expansional Rewards\n'Dawn on the Dunes'",
+        "avatarItemName": "'Dawn on the Dunes'",
+        "avatarItemDesc": "'In between day and night are death and rebirth.'",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Obtained from Reclamation Algorithm"
+      },
+      {
+        "avatarId": "avatar_activity_XB1_2",
+        "avatarType": "ACTIVITY",
+        "avatarIdSort": 42,
+        "avatarIdDesc": "[Tales Within the Sand] Expansional Rewards\n'Transport Mission'",
+        "avatarItemName": "'Transport Mission'",
+        "avatarItemDesc": "Carrying your cargo, crossing the sands.",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Obtained from Reclamation Algorithm"
+      },
+      {
+        "avatarId": "avatar_activity_CR",
+        "avatarType": "ACTIVITY",
+        "avatarIdSort": 43,
+        "avatarIdDesc": "Siege Login Event\n'All In A Glance'",
+        "avatarItemName": "'All In A Glance'",
+        "avatarItemDesc": "Observation is power.",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Obtained from Sign-In Event"
+      },
+      {
+        "avatarId": "avatar_activity_SN",
+        "avatarType": "ACTIVITY",
+        "avatarIdSort": 44,
+        "avatarIdDesc": "[Stultifera Navis] Record Restoration\n'Stultifera Navis'",
+        "avatarItemName": "'Stultifera Navis'",
+        "avatarItemDesc": "The lighthouse by the shore shines once again, witnessing the golden past sinking beneath the waves.",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Obtained from Record Restoration"
+      },
+      {
+        "avatarId": "avatar_activity_EP14",
+        "avatarType": "ACTIVITY",
+        "avatarIdSort": 45,
+        "avatarIdDesc": "Main Theme 'Absolved Will Be the Seekers'\n'Hidden Lifeline'",
+        "avatarItemName": "'Hidden Lifeline'",
+        "avatarItemDesc": "Run upon the barrens and pass on the seed of life and hope.",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Obtained from 'Hidden Front'"
+      },
+      {
+        "avatarId": "avatar_activity_LE",
+        "avatarType": "ACTIVITY",
+        "avatarIdSort": 46,
+        "avatarIdDesc": "[Lingering Echoes] Record Restoration\n'Lingering Echoes'",
+        "avatarItemName": "'Lingering Echoes'",
+        "avatarItemDesc": "The sunset is glaringly bright, but none wish to bow their heads before their fate.",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Obtained from Record Restoration"
+      },
+      {
+        "avatarId": "avatar_activity_DV",
+        "avatarType": "ACTIVITY",
+        "avatarIdSort": 47,
+        "avatarIdDesc": "[Dorothy's Vision] Record Restoration\n'Dorothy's Vision'",
+        "avatarItemName": "'Dorothy's Vision'",
+        "avatarItemDesc": "Data, experimentation, science... All to create a beautiful dream and a home.",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Obtained from Record Restoration"
+      },
+      {
+        "avatarId": "avatar_activity_DC",
+        "avatarType": "ACTIVITY",
+        "avatarIdSort": 48,
+        "avatarIdDesc": "[A Death in Chunfen] Record Restoration\n'A Death in Chunfen'",
+        "avatarItemName": "'A Death in Chunfen'",
+        "avatarItemDesc": "A pebble falls off a cliff. The noise is deafening.",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Obtained from Record Restoration"
+      },
+      {
+        "avatarId": "avatar_activity_RL4_1",
+        "avatarType": "ACTIVITY",
+        "avatarIdSort": 49,
+        "avatarIdDesc": "Furnaceside Stables Login Event\n'Brave to the End'",
+        "avatarItemName": "'Brave to the End'",
+        "avatarItemDesc": "It's just climbed up a cardboard box, but it still wants to climb the mountain's peak.",
+        "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
+        "obtainApproach": "Obtained from Sign-In Event"
+      },
+      {
+        "avatarId": "avatar_activity_IC",
+        "avatarType": "ACTIVITY",
+        "avatarIdSort": 50,
+        "avatarIdDesc": "[Ideal City: Endless Carnival] Record Restoration\n'Ideal City: Endless Carnival'",
+        "avatarItemName": "'Ideal City: Endless Carnival'",
+        "avatarItemDesc": "Push aside the curtains of water, and go enjoy the endless summer party already!",
         "avatarItemUsage": "Can be set as an icon, serving for personal branding.",
         "obtainApproach": "Obtained from Record Restoration"
       },
@@ -487,7 +817,7 @@
         "avatarType": "DEFAULT",
         "avatarIdSort": 6,
         "avatarIdDesc": "Default Icon \n'3 Minutes'",
-        "avatarItemName": "“3min”",
+        "avatarItemName": "'3min'",
         "avatarItemDesc": "\\",
         "avatarItemUsage": "\\",
         "obtainApproach": "Default"
@@ -497,7 +827,7 @@
         "avatarType": "DEFAULT",
         "avatarIdSort": 7,
         "avatarIdDesc": "Default Icon \n'GG'",
-        "avatarItemName": "“Good Game”",
+        "avatarItemName": "'Good Game'",
         "avatarItemDesc": "\\",
         "avatarItemUsage": "\\",
         "obtainApproach": "Default"
@@ -507,7 +837,7 @@
         "avatarType": "DEFAULT",
         "avatarIdSort": 8,
         "avatarIdDesc": "Default Icon \n'PRTS'",
-        "avatarItemName": "“PRTS”",
+        "avatarItemName": "'PRTS'",
         "avatarItemDesc": "\\",
         "avatarItemUsage": "\\",
         "obtainApproach": "Default"
@@ -577,7 +907,7 @@
         "avatarType": "DEFAULT",
         "avatarIdSort": 15,
         "avatarIdDesc": "Default Icon \n'WARNING'",
-        "avatarItemName": "“WARNING”",
+        "avatarItemName": "'WARNING'",
         "avatarItemDesc": "\\",
         "avatarItemUsage": "\\",
         "obtainApproach": "Default"
@@ -605,7 +935,21 @@
           "avatar_special_08",
           "avatar_special_09",
           "avatar_special_10",
-          "avatar_special_13"
+          "avatar_special_12",
+          "avatar_special_13",
+          "avatar_special_15",
+          "avatar_special_16",
+          "avatar_special_17",
+          "avatar_special_18",
+          "avatar_special_19",
+          "avatar_special_20",
+          "avatar_special_21",
+          "avatar_special_22",
+          "avatar_special_23",
+          "avatar_special_24",
+          "avatar_special_25",
+          "avatar_special_26",
+          "avatar_special_35"
         ]
       },
       "ACTIVITY": {
@@ -641,8 +985,27 @@
           "avatar_activity_WD",
           "avatar_activity_PS",
           "avatar_activity_UT",
+          "avatar_activity_RL3_1",
+          "avatar_activity_RL3_2",
           "avatar_activity_DH",
-          "avatar_activity_TB"
+          "avatar_activity_TB",
+          "avatar_activity_NL",
+          "avatar_activity_EP13",
+          "avatar_activity_BI",
+          "avatar_activity_TC",
+          "avatar_activity_IW",
+          "avatar_activity_AW",
+          "avatar_activity_GA",
+          "avatar_activity_XB1_1",
+          "avatar_activity_XB1_2",
+          "avatar_activity_CR",
+          "avatar_activity_SN",
+          "avatar_activity_EP14",
+          "avatar_activity_LE",
+          "avatar_activity_DV",
+          "avatar_activity_DC",
+          "avatar_activity_RL4_1",
+          "avatar_activity_IC"
         ]
       },
       "DEFAULT": {
@@ -674,7 +1037,6 @@
     "homeBgDataList": [
       {
         "bgId": "bg_rhodes_day",
-        "bgType": "MAINLINE",
         "bgSortId": 1,
         "bgStartTime": -1,
         "bgName": "Vision",
@@ -686,7 +1048,6 @@
       },
       {
         "bgId": "bg_rhodes_night",
-        "bgType": "MAINLINE",
         "bgSortId": 2,
         "bgStartTime": -1,
         "bgName": "Nighttime",
@@ -698,7 +1059,6 @@
       },
       {
         "bgId": "bg_main_victoria_1",
-        "bgType": "MAINLINE",
         "bgSortId": 3,
         "bgStartTime": 1635793200,
         "bgName": "Cloudy",
@@ -712,7 +1072,6 @@
       },
       {
         "bgId": "bg_siesta_1",
-        "bgType": "REGION",
         "bgSortId": 4,
         "bgStartTime": 1635793200,
         "bgName": "Vacation",
@@ -726,7 +1085,6 @@
       },
       {
         "bgId": "bg_kazimierz_1",
-        "bgType": "REGION",
         "bgSortId": 5,
         "bgStartTime": 1635793200,
         "bgName": "Business",
@@ -740,7 +1098,6 @@
       },
       {
         "bgId": "bg_ursus_1",
-        "bgType": "REGION",
         "bgSortId": 6,
         "bgStartTime": 1635793200,
         "bgName": "Winter",
@@ -754,7 +1111,6 @@
       },
       {
         "bgId": "bg_yan_1",
-        "bgType": "REGION",
         "bgSortId": 7,
         "bgStartTime": 1667487600,
         "bgName": "Peaks",
@@ -768,7 +1124,6 @@
       },
       {
         "bgId": "bg_iberia_1",
-        "bgType": "REGION",
         "bgSortId": 8,
         "bgStartTime": 1667487600,
         "bgName": "Mystic Sea",
@@ -783,7 +1138,6 @@
       },
       {
         "bgId": "bg_rogue_1",
-        "bgType": "ACTIVITY",
         "bgSortId": 10,
         "bgStartTime": 1672570800,
         "bgName": "Ruins",
@@ -797,7 +1151,6 @@
       },
       {
         "bgId": "bg_anniversary_1",
-        "bgType": "REGION",
         "bgSortId": 9,
         "bgStartTime": 1673611200,
         "bgName": "Celebration",
@@ -811,7 +1164,6 @@
       },
       {
         "bgId": "bg_laterano_1",
-        "bgType": "REGION",
         "bgSortId": 12,
         "bgStartTime": 1699376400,
         "bgName": "Clear Sky",
@@ -825,21 +1177,20 @@
       },
       {
         "bgId": "bg_rhine_1",
-        "bgType": "REGION",
         "bgSortId": 13,
         "bgStartTime": 1699376400,
         "bgName": "Wild Forest",
         "bgMusicId": "music_bg_rhine",
         "bgDes": "Close your eyes and listen to the voices of the plants. The Elves say it is their welcome.",
         "bgUsage": "A photo, a memory, a moment in time that encapsulates the entirety of Terra.",
-        "obtainApproach": "Event Reward",
+        "obtainApproach": "Clear the permanent event(s)",
         "unlockDesList": [
-          "From Preludes to the Future event"
+          "Clear Dorothy's Vision DV-8 with a 3-star rating",
+          "Clear Lone Trail CW-10 with a 3-star rating"
         ]
       },
       {
         "bgId": "bg_rogue_2",
-        "bgType": "ACTIVITY",
         "bgSortId": 11,
         "bgStartTime": 1701428400,
         "bgName": "Other Side",
@@ -849,6 +1200,71 @@
         "obtainApproach": "Integrated Strategies reward",
         "unlockDesList": [
           "[Integrated Strategies] Mizuki & Caerula Arbor reward"
+        ]
+      },
+      {
+        "bgId": "bg_rogue_3",
+        "bgSortId": 13,
+        "bgStartTime": 1706785200,
+        "bgName": "Genesis",
+        "bgMusicId": "music_rogue_3_12",
+        "bgDes": "The eternal icefield's end, the pioneer's beginning, the eyes that gaze into the future.",
+        "bgUsage": "A photo, a memory, a moment in time that encapsulates the entirety of Terra.",
+        "obtainApproach": "Integrated Strategies reward",
+        "unlockDesList": [
+          "[Integrated Strategies] Expeditioner's Jǫklumarkar Reward"
+        ]
+      },
+      {
+        "bgId": "bg_rainbowsix_1",
+        "bgSortId": 14,
+        "bgStartTime": 1725555600,
+        "bgName": "Prestige",
+        "bgMusicId": "music_bg_rainbowsix",
+        "bgDes": "Those who visit this place tend to be after one of two things: riches, or prestige.",
+        "bgUsage": "A photo, a memory, a moment in time that encapsulates the entirety of Terra.",
+        "obtainApproach": "Purchase Pack",
+        "unlockDesList": [
+          "Obtained by buying a Safety Drill Memorial Pack in [Store]"
+        ]
+      },
+      {
+        "bgId": "bg_rhodes_flower_1",
+        "bgSortId": 15,
+        "bgStartTime": 1730394000,
+        "bgName": "Flowerbed",
+        "bgMusicId": "music_bg_act16mini",
+        "bgDes": "A flowerbed, a hope. Though we have sailed for a long time, we yet believe that flowers will one day bloom all over the lands.",
+        "bgUsage": "A photo, a memory, a moment in time that encapsulates the entirety of Terra.",
+        "obtainApproach": "Event Reward",
+        "unlockDesList": [
+          "Obtained by participating in the Celebration Login Event"
+        ]
+      },
+      {
+        "bgId": "bg_sanrio_1",
+        "bgSortId": 18,
+        "bgStartTime": 1734714000,
+        "bgName": "Sweetness",
+        "bgMusicId": "music_bg_sanrio",
+        "bgDes": "It's definitely a bit too sweet here. But life's rather bitter, so what's wrong with adding in some cute sweetness?",
+        "bgUsage": "A photo, a memory, a moment in time that encapsulates the entirety of Terra.",
+        "obtainApproach": "Purchase Pack",
+        "unlockDesList": [
+          "Obtained by buying Honey Party Pack in [Store]"
+        ]
+      },
+      {
+        "bgId": "bg_sandboxv2_1",
+        "bgSortId": 19,
+        "bgStartTime": 1740826800,
+        "bgName": "Vast Sands",
+        "bgMusicId": "music_sandbox_v2_2",
+        "bgDes": "Throughout this wide expanse, the ruins of several millennia slowly degrade into dust.",
+        "bgUsage": "A photo, a memory, a moment in time that encapsulates the entirety of Terra.",
+        "obtainApproach": "Reclamation Algorithm Reward",
+        "unlockDesList": [
+          "[Reclamation Algorithm] Tales Within the Sand Reward"
         ]
       }
     ],
@@ -863,11 +1279,500 @@
         "tmUsage": "The PRTS interface has been redesigned without changing its functionality.",
         "obtainApproach": "Default",
         "unlockDesList": [],
-        "isLimitObtain": false
+        "isLimitObtain": false,
+        "hideWhenLimit": false,
+        "rarity": 4
+      },
+      {
+        "id": "tm_rhodes_night",
+        "type": "MAINLINE",
+        "sortId": 2,
+        "startTime": -1,
+        "tmName": "Night",
+        "tmDes": "Twin moons lift their veils, into dreams with you they drift.",
+        "tmUsage": "The PRTS interface has been redesigned without changing its functionality.",
+        "obtainApproach": "Default",
+        "unlockDesList": [
+          "Reach Level 50"
+        ],
+        "isLimitObtain": false,
+        "hideWhenLimit": false,
+        "rarity": 4
+      },
+      {
+        "id": "tm_rogue_3",
+        "type": "ACTIVITY",
+        "sortId": 3,
+        "startTime": 1717239600,
+        "tmName": "Silverfrost",
+        "tmDes": "Age-old secrets thaw through time, whispering softly.",
+        "tmUsage": "The PRTS interface has been redesigned without changing its functionality.",
+        "obtainApproach": "Integrated Strategies reward",
+        "unlockDesList": [
+          "[Integrated Strategies] Expeditioner's Jǫklumarkar Reward"
+        ],
+        "isLimitObtain": false,
+        "hideWhenLimit": false,
+        "rarity": 4
+      },
+      {
+        "id": "tm_mainline_1",
+        "type": "ACTIVITY",
+        "sortId": 4,
+        "startTime": 1713268800,
+        "tmName": "Misty City",
+        "tmDes": "Fog blends with the smoke of guns, war dances with deceit.",
+        "tmUsage": "The PRTS interface has been redesigned without changing its functionality.",
+        "obtainApproach": "Tactical Support Reward",
+        "unlockDesList": [
+          "Limited-Time Tactical Support Reward"
+        ],
+        "isLimitObtain": true,
+        "hideWhenLimit": false,
+        "rarity": 4
+      },
+      {
+        "id": "tm_rainbowsix_1",
+        "type": "ACTIVITY",
+        "sortId": 5,
+        "startTime": 1725555600,
+        "tmName": "Siege",
+        "tmDes": "The tide of battle is ever-changing. Sharpen your eyes and ears.",
+        "tmUsage": "The PRTS interface has been redesigned without changing its functionality.",
+        "obtainApproach": "Procurement Center Pack",
+        "unlockDesList": [
+          "Obtained by buying a Safety Drill Memorial Pack in [Store]"
+        ],
+        "isLimitObtain": true,
+        "hideWhenLimit": true,
+        "rarity": 5
       }
     ],
-    "themeLimitData": {},
+    "backgroundLimitData": {
+      "bg_rainbowsix_1": {
+        "bgId": "bg_rainbowsix_1",
+        "limitInfos": [
+          {
+            "limitInfoId": "bg_rainbowsix_1#1",
+            "startTime": 1725555600,
+            "endTime": 1727953199,
+            "invalidObtainDesc": "Currently unobtainable",
+            "displayAfterEndTime": false
+          }
+        ]
+      },
+      "bg_sanrio_1": {
+        "bgId": "bg_sanrio_1",
+        "limitInfos": [
+          {
+            "limitInfoId": "bg_sanrio_1#1",
+            "startTime": 1734714000,
+            "endTime": 1735901999,
+            "invalidObtainDesc": "Currently unobtainable",
+            "displayAfterEndTime": false
+          }
+        ]
+      }
+    },
+    "themeLimitData": {
+      "tm_mainline_1": {
+        "id": "tm_mainline_1",
+        "limitInfos": [
+          {
+            "startTime": 1713268800,
+            "endTime": 1714474799,
+            "invalidObtainDesc": "Not Available"
+          }
+        ]
+      },
+      "tm_rainbowsix_1": {
+        "id": "tm_rainbowsix_1",
+        "limitInfos": [
+          {
+            "startTime": 1725555600,
+            "endTime": 1727953199,
+            "invalidObtainDesc": "Not Available"
+          }
+        ]
+      }
+    },
     "defaultBgMusicId": "music_bg_default",
     "themeStartTime": 1713268800
+  },
+  "nameCardV2Data": {
+    "fixedModuleData": {
+      "module_background": {
+        "id": "module_background",
+        "type": "BACKGROUND"
+      },
+      "module_illust": {
+        "id": "module_illust",
+        "type": "ILLUST"
+      },
+      "module_collect": {
+        "id": "module_collect",
+        "type": "COLLECT"
+      },
+      "module_avatar": {
+        "id": "module_avatar",
+        "type": "AVATAR"
+      },
+      "module_avatar_simple": {
+        "id": "module_avatar_simple",
+        "type": "AVATAR_SIMPLE"
+      }
+    },
+    "removableModuleData": {
+      "module_sign": {
+        "sortId": 1,
+        "subType": "SIGN",
+        "name": "Personalized Signature",
+        "id": "module_sign",
+        "type": "REMOVABLE"
+      },
+      "module_assist": {
+        "sortId": 2,
+        "subType": "ASSIST",
+        "name": "Support Unit",
+        "id": "module_assist",
+        "type": "REMOVABLE"
+      },
+      "module_medal": {
+        "sortId": 3,
+        "subType": "MEDAL",
+        "name": "Engraved Medal",
+        "id": "module_medal",
+        "type": "REMOVABLE"
+      },
+      "module_mainline": {
+        "sortId": 4,
+        "subType": "MAINLINE",
+        "name": "Main Theme Progress",
+        "id": "module_mainline",
+        "type": "REMOVABLE"
+      }
+    },
+    "skinData": {
+      "nc_rhodes_default": {
+        "id": "nc_rhodes_default",
+        "name": "Default Skin",
+        "type": "MAINLINE",
+        "sortId": 1,
+        "isSpTheme": false,
+        "defaultShowDetail": true,
+        "themeName": "",
+        "themeEnName": "",
+        "skinStartTime": 1725555600,
+        "skinDesc": "The road ahead is long, the road behind equally so. Where will you find your calling?",
+        "usageDesc": "PRTS has been redesigned with no changes whatsoever to its functionality.",
+        "skinApproach": "Default",
+        "unlockConditionCnt": 0,
+        "unlockDescList": [],
+        "fixedModuleList": [
+          "module_background",
+          "module_illust",
+          "module_collect",
+          "module_avatar",
+          "module_avatar_simple"
+        ],
+        "rarity": 4,
+        "isTimeLimit": false,
+        "timeLimitInfoList": []
+      },
+      "nc_rhodes_light": {
+        "id": "nc_rhodes_light",
+        "name": "Determination",
+        "type": "MAINLINE",
+        "sortId": 2,
+        "isSpTheme": false,
+        "defaultShowDetail": true,
+        "themeName": "",
+        "themeEnName": "",
+        "skinStartTime": 1725555600,
+        "skinDesc": "The past remains shrouded in fog, but you have made your decision.",
+        "usageDesc": "PRTS has been redesigned with no changes whatsoever to its functionality.",
+        "skinApproach": "Reach the required level to unlock",
+        "unlockConditionCnt": 1,
+        "unlockDescList": [
+          "Reach Lv.80"
+        ],
+        "fixedModuleList": [
+          "module_background",
+          "module_illust",
+          "module_collect",
+          "module_avatar",
+          "module_avatar_simple"
+        ],
+        "rarity": 4,
+        "isTimeLimit": false,
+        "timeLimitInfoList": []
+      },
+      "nc_sports_1": {
+        "id": "nc_sports_1",
+        "name": "Athlete",
+        "type": "ACTIVITY",
+        "sortId": 3,
+        "isSpTheme": false,
+        "defaultShowDetail": true,
+        "themeName": "",
+        "themeEnName": "",
+        "skinStartTime": 1731603600,
+        "skinDesc": "You feel lighter than you have for a long time, when you run loose on the racecourse with your friends.",
+        "usageDesc": "PRTS has been redesigned with no changes whatsoever to its functionality.",
+        "skinApproach": "Obtained from Rhodes Island Icebreaker Games",
+        "unlockConditionCnt": 1,
+        "unlockDescList": [
+          "Obtained from Hype"
+        ],
+        "fixedModuleList": [
+          "module_background",
+          "module_illust",
+          "module_collect",
+          "module_avatar",
+          "module_avatar_simple"
+        ],
+        "rarity": 4,
+        "isTimeLimit": true,
+        "timeLimitInfoList": [
+          {
+            "id": "nc_sports_1",
+            "availStartTime": 1731603600,
+            "availEndTime": 1733050799
+          }
+        ]
+      },
+      "nc_sandbox_1": {
+        "id": "nc_sandbox_1",
+        "name": "Critical Contentions",
+        "type": "ACTIVITY",
+        "sortId": 4,
+        "isSpTheme": false,
+        "defaultShowDetail": true,
+        "themeName": "",
+        "themeEnName": "",
+        "skinStartTime": 1730458800,
+        "skinDesc": "You knew this would not be an easy journey when the sands were stirred for the first time.",
+        "usageDesc": "PRTS has been redesigned with no changes whatsoever to its functionality.",
+        "skinApproach": "Reclamation Algorithm: Tales Within the Sand Reward",
+        "unlockConditionCnt": 1,
+        "unlockDescList": [
+          "Purchase in Expansional Rewards"
+        ],
+        "fixedModuleList": [
+          "module_background",
+          "module_illust",
+          "module_collect",
+          "module_avatar",
+          "module_avatar_simple"
+        ],
+        "rarity": 4,
+        "isTimeLimit": false,
+        "timeLimitInfoList": []
+      },
+      "nc_as2024_dreamer": {
+        "id": "nc_as2024_dreamer",
+        "name": "The Dreamer",
+        "type": "ACTIVITY",
+        "sortId": 5,
+        "isSpTheme": true,
+        "defaultShowDetail": false,
+        "themeName": "The Dreamer",
+        "themeEnName": "The Dreamer",
+        "skinStartTime": 1739552400,
+        "skinDesc": "Opposite the dream, we move forward hand in hand to the ideal destination.",
+        "usageDesc": "PRTS has been redesigned with no changes whatsoever to its functionality.",
+        "skinApproach": "Purchase Ambience Synesthesia Pack",
+        "unlockConditionCnt": 1,
+        "unlockDescList": [
+          "Obtained by buying Hopes and Dreams Pack in the [Store]"
+        ],
+        "fixedModuleList": [
+          "module_background",
+          "module_collect",
+          "module_avatar",
+          "module_avatar_simple"
+        ],
+        "rarity": 5,
+        "isTimeLimit": true,
+        "timeLimitInfoList": [
+          {
+            "id": "nc_as2024_dreamer",
+            "availStartTime": 1739552400,
+            "availEndTime": 1740740399
+          }
+        ]
+      },
+      "nc_as2024_pilgrim": {
+        "id": "nc_as2024_pilgrim",
+        "name": "The Pilgrim",
+        "type": "ACTIVITY",
+        "sortId": 6,
+        "isSpTheme": true,
+        "defaultShowDetail": false,
+        "themeName": "The Pilgrim",
+        "themeEnName": "The Pilgrim",
+        "skinStartTime": 1739552400,
+        "skinDesc": "Life, years, history... You will not forget it. You shall remain the same.",
+        "usageDesc": "PRTS has been redesigned with no changes whatsoever to its functionality.",
+        "skinApproach": "Purchase Ambience Synesthesia Pack",
+        "unlockConditionCnt": 1,
+        "unlockDescList": [
+          "Obtained by buying Tenacious Pilgrim Pack in the [Store]"
+        ],
+        "fixedModuleList": [
+          "module_background",
+          "module_collect",
+          "module_avatar",
+          "module_avatar_simple"
+        ],
+        "rarity": 5,
+        "isTimeLimit": true,
+        "timeLimitInfoList": [
+          {
+            "id": "nc_as2024_pilgrim",
+            "availStartTime": 1739552400,
+            "availEndTime": 1740740399
+          }
+        ]
+      },
+      "nc_as2024_throne": {
+        "id": "nc_as2024_throne",
+        "name": "The Throne",
+        "type": "ACTIVITY",
+        "sortId": 7,
+        "isSpTheme": true,
+        "defaultShowDetail": false,
+        "themeName": "The Throne",
+        "themeEnName": "The Throne",
+        "skinStartTime": 1739552400,
+        "skinDesc": "No need to be obsessed with glory or to worship brilliance. We just need to clench our fists.",
+        "usageDesc": "PRTS has been redesigned with no changes whatsoever to its functionality.",
+        "skinApproach": "Purchase Ambience Synesthesia Pack",
+        "unlockConditionCnt": 1,
+        "unlockDescList": [
+          "Obtained by buying Throne Ascension Pack in the [Store]"
+        ],
+        "fixedModuleList": [
+          "module_background",
+          "module_collect",
+          "module_avatar",
+          "module_avatar_simple"
+        ],
+        "rarity": 5,
+        "isTimeLimit": true,
+        "timeLimitInfoList": [
+          {
+            "id": "nc_as2024_throne",
+            "availStartTime": 1739552400,
+            "availEndTime": 1740740399
+          }
+        ]
+      },
+      "nc_as2024_novafive": {
+        "id": "nc_as2024_novafive",
+        "name": "☆Supernova☆",
+        "type": "ACTIVITY",
+        "sortId": 8,
+        "isSpTheme": true,
+        "defaultShowDetail": false,
+        "themeName": "☆Supernova☆",
+        "themeEnName": "☆Supernova☆",
+        "skinStartTime": 1739552400,
+        "skinDesc": "Let's dance along with the music and the twinkling lights!",
+        "usageDesc": "PRTS has been redesigned with no changes whatsoever to its functionality.",
+        "skinApproach": "Purchase Ambience Synesthesia Pack",
+        "unlockConditionCnt": 1,
+        "unlockDescList": [
+          "Obtained by buying Superfun Supernova Pack in the [Store]"
+        ],
+        "fixedModuleList": [
+          "module_background",
+          "module_collect",
+          "module_avatar",
+          "module_avatar_simple"
+        ],
+        "rarity": 5,
+        "isTimeLimit": true,
+        "timeLimitInfoList": [
+          {
+            "id": "nc_as2024_novafive",
+            "availStartTime": 1739552400,
+            "availEndTime": 1740740399
+          }
+        ]
+      },
+      "nc_landscape_1": {
+        "id": "nc_landscape_1",
+        "name": "Vista",
+        "type": "ACTIVITY",
+        "sortId": 9,
+        "isSpTheme": false,
+        "defaultShowDetail": true,
+        "themeName": "",
+        "themeEnName": "",
+        "skinStartTime": 1739530800,
+        "skinDesc": "Waters mirror the sky, frost touches every blade, and the land is painted in hues.",
+        "usageDesc": "PRTS has been redesigned with no changes whatsoever to its functionality.",
+        "skinApproach": "Charming Vista Pack",
+        "unlockConditionCnt": 1,
+        "unlockDescList": [
+          "Obtained by buying Charming Vista Pack in the [Store]"
+        ],
+        "fixedModuleList": [
+          "module_background",
+          "module_illust",
+          "module_collect",
+          "module_avatar",
+          "module_avatar_simple"
+        ],
+        "rarity": 4,
+        "isTimeLimit": true,
+        "timeLimitInfoList": [
+          {
+            "id": "nc_landscape_1",
+            "availStartTime": 1739530800,
+            "availEndTime": 1740740399
+          }
+        ]
+      },
+      "nc_moon_1": {
+        "id": "nc_moon_1",
+        "name": "An Invitation to Moons",
+        "type": "ACTIVITY",
+        "sortId": 10,
+        "isSpTheme": true,
+        "defaultShowDetail": false,
+        "themeName": "An Invitation to Moons",
+        "themeEnName": "An invitation to moons",
+        "skinStartTime": 1739876400,
+        "skinDesc": "As the sun sets, the wind suddenly rises. Leaves flutter gently, under the full moon's gaze.",
+        "usageDesc": "PRTS has been redesigned with no changes whatsoever to its functionality.",
+        "skinApproach": "Alluring Moonlight Pack",
+        "unlockConditionCnt": 1,
+        "unlockDescList": [
+          "Obtained by buying Alluring Moonlight Pack in the [Store]"
+        ],
+        "fixedModuleList": [
+          "module_background",
+          "module_collect",
+          "module_avatar",
+          "module_avatar_simple"
+        ],
+        "rarity": 5,
+        "isTimeLimit": true,
+        "timeLimitInfoList": [
+          {
+            "id": "nc_moon_1",
+            "availStartTime": 1739876400,
+            "availEndTime": 1741690799
+          }
+        ]
+      }
+    },
+    "consts": {
+      "defaultNameCardSkinId": "nc_rhodes_default",
+      "canUidHide": true,
+      "removableModuleMaxCount": 7
+    }
   }
 }

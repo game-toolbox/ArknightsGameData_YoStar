@@ -1,0 +1,682 @@
+[HEADER(key="title_test", is_skippable=true, fit_mode="BLACK_MASK")]
+[stopmusic]
+[dialog]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[charslot]
+[Background(image="bg_corridor",screenadapt="coverall")]
+[focusout(type="bg", id="bg_corridor", from=0, to=1, duration=1, block=false)]
+[playMusic(intro="$loneliness_intro",key="$loneliness_loop", volume=0.6)]
+[Blocker(a=0.6, r=0, g=0, b=0, fadetime=2, block=true)]
+[Delay(time=1)]
+[Subtitle(text="夢を見ていた。", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="母さんに連れられてロドスに来たあの日、子どもだった私は巨大な艦船の中で色んな人と出会った。", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="ただ、彼らの顔ははっきりせず、声もひどく遠い。", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="母さんが何か大事な決断をしたことに、私はおぼろげながらも気づいていた。", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="ただ、まだ幼かった私は、たとえ生活が苦しくなっても、再び命にかかわることが起こらない限り、母さんと離れるようなことなんてないと、無邪気に考えていた。", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="そう、別の大人に手を引かれ、じっと立ったまま動かない母さんから遠ざかっていったあの時までは……", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="母さんのほうを振り返ってみると、その瞳はどこか虚ろだった。", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
+[subtitle]
+[stopmusic(fadetime=2)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=3, block=true)]
+[charslot]
+[Background(image="bg_room_2",screenadapt="coverall")]
+[focusout(type="bg", id="bg_room_2", from=1, to=0, duration=0, block=false)]
+[Delay(time=1)]
+[playMusic(intro="$m_dia_street_intro",key="$m_dia_street_loop", volume=0.6)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[Delay(time=1)]
+[charslot(slot = "r", name = "avg_npc_242", duration=0.5)]
+[charslot(slot = "l", name = "avg_367_swllow_1#1$1", duration=0.5, isblock=true)]
+[delay(time=0.5)]
+[charslot(slot = "r", name = "avg_npc_242", focus="r")]
+[name="天災トランスポーター"]それで、今は「グレースロート」ってみんなに呼ばれているのか？
+[charslot(slot = "l", name = "avg_367_swllow_1#1$1", focus="l")]
+[name="グレースロート"]そうだけど、あんた誰だっけ？
+[charslot(slot = "r", name = "avg_npc_242", focus="r")]
+[name="天災トランスポーター"]おいおい……本当にわからないのか？
+[charslot(slot = "l", name = "avg_367_swllow_1#1$1", focus="l")]
+[name="グレースロート"]天災を知らせるトランスポーターさんでしょ？　緊急性がないとはいえ、変なクイズをしている時間はないと思うんだけど。
+[charslot(slot = "r", name = "avg_npc_242", focus="r")]
+[name="天災トランスポーター"]それもそうか。あれからもう随分と経ったしな。あの頃の君はまだ小さかった……
+[name="天災トランスポーター"]ほら、当時の俺と君の両親が一緒に写ってる写真だ。これでもまだ思い出せないか？
+[dialog]
+[charslot]
+写真の中だと、目の前の男は今の自分と同じ年齢ぐらいだろうか。生真面目そうに手を組んで、父さんと母さんのそばに立っている。右下の日付を見ると、自分の八歳の誕生日を過ぎたあたりだ。
+写真の裏には、「イアン・カードウェルくんへ」と書かれている。
+[charslot(slot = "r", name = "avg_npc_242", focus="n")]
+[charslot(slot = "l", name = "avg_367_swllow_1#8$1", focus="l")]
+[name="グレースロート"]イアン・カードウェル……父さんの教え子だった人ね。そういえば一時期、よくうちに来ていた印象があるわ。
+[charslot(slot = "r", name = "avg_npc_242", focus="r")]
+[name="天災トランスポーター"]そうそう、やっと思い出したか。
+[charslot(slot = "l", name = "avg_367_swllow_1#1$1", focus="l")]
+[name="グレースロート"]随分と変わったわね。
+[charslot(slot = "r", name = "avg_npc_242", focus="r")]
+[name="天災トランスポーター"]どう呼べばいい？　グレースロート？　それとも……
+[charslot(slot = "l", name = "avg_367_swllow_1#1$1", focus="l")]
+[name="グレースロート"]グレースロートでいい。
+[charslot(slot = "r", name = "avg_npc_242", focus="r")]
+[name="天災トランスポーター"]オッケー、グレースロート。今回ここに来た目的は、天災の知らせ以外にもう一つあるんだ。
+[name="天災トランスポーター"]護衛を頼めないかと思ってね。天災トランスポーターの護衛さ。
+[dialog]
+[charslot(slot = "l", name = "avg_367_swllow_1#2$1", focus="l")]
+[delay(time=1.5)]
+[name="グレースロート"]ロドスを離れて……天災トランスポーターの護衛？　無理な話ね。
+[charslot(slot = "l", name = "avg_367_swllow_1#1$1", focus="l")]
+[name="グレースロート"]それに、いくら父さんの教え子だとはいえ、これだけ年月が経っているのに、どうして私がロドスにいることがわかったの？
+[charslot(slot = "r", name = "avg_npc_242", focus="r")]
+[name="天災トランスポーター"]数か月前に君を見かけたんだよ。リターニア北部の冬霊山脈で発生した天災で。
+[charslot(slot = "l", name = "avg_367_swllow_1#7$1", focus="l")]
+[name="グレースロート"]……ウォルモンドのこと？
+[charslot(slot = "r", name = "avg_npc_242", focus="r")]
+[name="天災トランスポーター"]その通りさ。ウォルモンドに甚大な被害をもたらしたあの天災だ。君が率いるロドスの小隊のおかげで、何とか最悪の事態は免れた。
+[name="天災トランスポーター"]ただ君を見かけた時、小隊はすでに撤退しているところでね。君の顔に見覚えはあったけど、俺も現場に向かっている途中だったし、本人かどうか確認する時間がなかったんだ。
+[name="天災トランスポーター"]後日、天災トランスポーター内部の情報ネットワークを利用して、ようやく君であることがわかったってわけさ。
+[charslot(slot = "l", name = "avg_367_swllow_1#7$1", focus="l")]
+[name="グレースロート"]その件とあんたの護衛をやることに何か関係が？
+[charslot(slot = "r", name = "avg_npc_242", focus="r")]
+[name="天災トランスポーター"]子どもの頃はそんなに疑り深くなかったってのに。ロドスの生活は……本当に問題ないのか？
+[charslot(slot = "l", name = "avg_367_swllow_1#7$1", focus="l")]
+[name="グレースロート"]……
+[charslot(slot = "r", name = "avg_npc_242", focus="r")]
+[name="天災トランスポーター"]君の母親なんだが……先生の命を奪ったあの動乱の後に会ったことがあるんだ。君を預けられる場所をあちこち探し回ってた。
+[charslot(slot = "l", name = "avg_367_swllow_1#1$1", focus="l")]
+[name="グレースロート"]あんたのところにも来たの？
+[charslot(slot = "r", name = "avg_npc_242", focus="r")]
+[name="天災トランスポーター"]俺から会いに行ったのさ。少しの間だけでも経済的支援をしたいって申し出たけど、断られてしまったよ。
+[charslot(slot = "l", name = "avg_367_swllow_1#1$1", focus="l")]
+[name="グレースロート"]母さんが断ったの？　なぜ？
+[charslot(slot = "r", name = "avg_npc_242", focus="r")]
+[name="天災トランスポーター"]あの頃の俺は自分が食うのに精一杯で、あまりいい暮らしぶりじゃなかったからかもな。
+[name="天災トランスポーター"]君の両親には世話になった。居候させてもらった時期もあったな。だから、ずっと気にかかってたんだ。
+[name="天災トランスポーター"]それに……感染者と接する君の様子も見た。
+[charslot(slot = "l", name = "avg_367_swllow_1#7$1", focus="l")]
+[name="グレースロート"]あんた……
+[charslot(slot = "r", name = "avg_npc_242", focus="r")]
+[name="天災トランスポーター"]ウォルモンド郊外の冬霊山脈の近くで、感染者を助けていたね。
+[name="天災トランスポーター"]ロドスの人間にとっては他愛もないことなのかもしれないが、君があの感染者を助けていた時──
+[dialog]
+[charslot]
+[PlaySound(key="$dooropenquite", volume=1)]
+[delay(time=1.5)]
+[PlaySound(key="$d_gen_walk_n", volume=1)]
+[charslot(slot = "m", name = "char_017_homura_3#7", duration=1.5, isblock=true)]
+[multiline(name="ブレイズ")]やっほ～！
+[charslot(slot = "m", name = "char_017_homura_3#4")]
+[multiline(name="ブレイズ", end=true)]ってあれ？　取り込み中？
+[charslot(slot = "m", name = "avg_367_swllow_1#5$1")]
+[name="グレースロート"]もう終わるわ。何か用？
+[charslot(slot = "m", name = "avg_npc_242")]
+[name="天災トランスポーター"]こちらは？
+[charslot(slot = "m", name = "avg_367_swllow_1#8$1")]
+[name="グレースロート"]ブレイズ、ロドスのエリートオペレーターよ。ブレイズ、こちらはイアン。父の教え子なの。
+[dialog]
+[charslot(slot = "m", name = "char_017_homura_3#8")]
+[delay(time=1)]
+[PlaySound(key="$d_gen_walk_n", volume=1)]
+[charslot(slot = "m", posfrom="0,0", posto="200,0", afrom=1, ato=0, duration=1, isblock=true)]
+[delay(time=0.5)]
+[charslot]
+ブレイズは無造作に手を振って近づくと、壁にもたれかかった。
+[charslot(slot = "m", name = "avg_npc_242")]
+[name="天災トランスポーター"]えっと……
+[name="天災トランスポーター"]予測によると、三日から五日以内に天災がこの地域を襲う。ただ、俺はこの近くに数日滞在するつもりだ。
+[name="天災トランスポーター"]答えが出たら声をかけてくれるかい？　俺はロドスの停泊場所より少し北の町にいるからさ。
+[charslot(slot = "m", name = "avg_367_swllow_1#1$1")]
+[name="グレースロート"]……わかった。
+[dialog]
+[charslot(slot = "m", name = "avg_npc_242")]
+[delay(time=0.5)]
+[PlaySound(key="$d_gen_walk_n", volume=1)]
+[charslot(duration=1.5, isblock=true)]
+[PlaySound(key="$doorclosequite", volume=1)]
+[delay(time=2)]
+[charslot(slot = "r", name = "char_017_homura_3#8", focus="r")]
+[charslot(slot = "l", name = "avg_367_swllow_1#1$1", focus="n")]
+[name="ブレイズ"]邪魔してごめんね。
+[charslot(slot = "l", name = "avg_367_swllow_1#1$1", focus="l")]
+[name="グレースロート"]……全然申し訳なさそうに見えないけど。
+[charslot(slot = "r", name = "char_017_homura_3#8", focus="r")]
+[name="ブレイズ"]えっ、そうかな？
+[charslot(slot = "l", name = "avg_367_swllow_1#1$1", focus="l")]
+[name="グレースロート"]うん。
+[charslot(slot = "r", name = "char_017_homura_3#4", focus="r")]
+[name="ブレイズ"]そんな仏頂面しないでよ。まだ若いんだし、多少表情を変えたってシワになったりしないよ。
+[charslot(slot = "l", name = "avg_367_swllow_1#2$1", focus="l")]
+[name="グレースロート"]……それで一体何の用？
+[charslot(slot = "r", name = "char_017_homura_3#7", focus="r")]
+[name="ブレイズ"]明日の夜にデッキでパーティーがあるんだけど、一緒に行かない？
+[charslot(slot = "l", name = "avg_367_swllow_1#2$1", focus="l")]
+[name="グレースロート"]……
+[charslot(slot = "r", name = "char_017_homura_3#4", focus="r")]
+[name="ブレイズ"]珍しいわね。迷ってるの？
+[name="ブレイズ"]てっきりいつものように、「あんたと一緒には行かない」って即答されるものかと──
+[charslot(slot = "l", name = "avg_367_swllow_1#1$1", focus="l")]
+[name="グレースロート"]そしたら、パーティーが始まる五分前に無理やり引きずっていくんでしょ？
+[charslot(slot = "r", name = "char_017_homura_3#7", focus="r")]
+[name="ブレイズ"]えへへ、わかってんじゃん。
+[charslot(slot = "r", name = "char_017_homura_3#4", focus="r")]
+[name="ブレイズ"]それとも、迷ってる理由は……あのイアンって人からのオファーを受けることにしたから？
+[name="ブレイズ"]あ、一応言っとくけど、君に会いに来た時に偶然声が外に漏れてただけで、盗み聞きするつもりはなかったんだよ。ごめんね。
+[charslot(slot = "l", name = "avg_367_swllow_1#2$1", focus="l")]
+[name="グレースロート"]別にいい。
+[charslot(slot = "r", name = "char_017_homura_3#4", focus="r")]
+[name="ブレイズ"]今のはちょっと申し訳なさそうだったでしょ？
+[charslot(slot = "l", name = "avg_367_swllow_1#5$1", focus="l")]
+[name="グレースロート"]そうね。
+[dialog]
+[charslot(slot = "r", posfrom="0,0", posto="-100,0", duration=1)]
+[delay(time=0.5)]
+[charslot(slot = "l", posfrom="0,0", posto="-50,0", duration=0.5)]
+[delay(time=0.5)]
+[charslot(slot = "r", name = "char_017_homura_3#8", focus="r")]
+[name="ブレイズ"]真面目な話、イアンのオファーをどう思ってるの？
+[charslot(slot = "l", name = "avg_367_swllow_1#8$1", focus="l")]
+[name="グレースロート"]オファーを受けるつもりはない。ただ、彼と話をする必要はある。
+[charslot(slot = "l", name = "avg_367_swllow_1#1$1", focus="l")]
+[name="グレースロート"]ロドスの出航はいつ？
+[charslot(slot = "r", name = "char_017_homura_3#4", focus="r")]
+[name="ブレイズ"]天災の警報に従うなら、今後三日から五日が一番危険らしいけど、たぶん二十四時間以内には動き出すんじゃないかな。
+[charslot(slot = "r", name = "char_017_homura_3#8", focus="r")]
+[name="ブレイズ"]安心して、時間はあるわ。トランスポーターさんとの話が長引いた時は、私が動力エリアのボイラーマンに一杯飲ませて、時間を稼いであげるからさ。
+[dialog]
+[stopmusic(fadetime=2)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[charslot]
+[Background(image="bg_snowconutryinside",screenadapt="coverall")]
+[Delay(time=1)]
+[charslot(slot = "r", name = "avg_npc_242")]
+[PlayMusic(intro="$darkness01_intro", key="$darkness01_loop", volume=0.6)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=2, block=true)]
+[Delay(time=1)]
+[PlaySound(key="$d_gen_walk_n", volume=1)]
+[charslot(slot = "l", name = "avg_367_swllow_1#1$1", duration=1.5, isblock=true)]
+[Delay(time=0.5)]
+[charslot(slot = "r", name = "avg_npc_242", focus="r")]
+[name="天災トランスポーター"]グレースロート、来てくれたんだね。
+[name="天災トランスポーター"]何か飲むかい？　町の人は避難の準備をしなくちゃならないから、色々と安く売ってくれるんだ。
+[charslot(slot = "l", name = "avg_367_swllow_1#1$1", focus="l")]
+[name="グレースロート"]……いいえ、大丈夫。
+[dialog]
+[delay(time=1)]
+[charslot(slot = "l", name = "avg_367_swllow_1#1$1", focus="l")]
+[name="グレースロート"]まずは母さんの話を済ませましょ。何か残していった物はない？　もしくは……トランスポーターの仕事をする中で、母さんについて得た情報は？
+[charslot(slot = "r", name = "avg_npc_242", focus="r")]
+[name="天災トランスポーター"]……残念だけど、ないね。
+[name="天災トランスポーター"]居場所を探してみたこともあるんだけど、結局収穫はなかったよ。ただ、俺の護衛をやってくれるんなら、二人がかりで効率よく調査することができる。
+[charslot(slot = "l", name = "avg_367_swllow_1#1$1", focus="l")]
+[name="グレースロート"]やっぱりわからない。
+[name="グレースロート"]トランスポーターとして護衛が必要だってことは理解できる。前の護衛が辞めたのか亡くなったのかは知らないけど、いずれにしろ、あんたは急いで新しい護衛を探している。
+[name="グレースロート"]でも、なぜ私なの？　ウォルモンドの救援活動で見かけたから？　それとも、過去に成し遂げられなかった「私を助けたい」っていう願いのため？
+[charslot(slot = "r", name = "avg_npc_242", focus="r")]
+[name="天災トランスポーター"]……
+[name="天災トランスポーター"]そういう意味で言うなら、確かに君を助けたい。
+[name="天災トランスポーター"]けど、ロドスで最後までできなかった話を覚えているかい？
+[name="天災トランスポーター"]冬霊山脈で感染者を助けていた時、君の両手はひどく震えていた。そしてその全身から伝わってきたのは……恐怖だった。
+[name="天災トランスポーター"]それで気づいたんだ。俺と君は……同じだってね。
+[charslot(slot = "l", name = "avg_367_swllow_1#5$1", focus="l")]
+[name="グレースロート"]同じ？
+[charslot(slot = "r", name = "avg_npc_242", focus="r")]
+[name="天災トランスポーター"]君の父親の教え子だった俺が、どうして今天災トランスポーターをやっていると思う？
+[name="天災トランスポーター"]君の父親の命を奪ったあの動乱が……俺の恩師だけじゃなく、俺の親戚や家族まで奪ったからだ。
+[name="天災トランスポーター"]あれ以来、手術中の患者の体から源石の結晶が出てくると、吐き気に襲われるようになった。
+[name="天災トランスポーター"]鉱石病を抑える薬が入ったビンを見るたびに、この不治の病に資源を費やすより、まだ治る見込みのある病に目を向けたほうがいいんじゃないかって思うんだ。
+[charslot(slot = "l", name = "avg_367_swllow_1#1$1", focus="l")]
+[name="グレースロート"]……
+[charslot(slot = "r", name = "avg_npc_242", focus="r")]
+[name="天災トランスポーター"]あのブレイズっていうオペレーターとは仲がいいんだろ？　でも、彼女が壁にもたれかかった時、君は知らず知らずのうちに距離を置いていた……
+[charslot(slot = "l", name = "avg_367_swllow_1#2$1", focus="l")]
+[name="グレースロート"]……単なる無意識の反応よ。
+[charslot(slot = "r", name = "avg_npc_242", focus="r")]
+[name="天災トランスポーター"]グレースロート、俺にはわかる。これまでの君のロドスでの生活は……鬱屈としたものだったはずだ。
+[name="天災トランスポーター"]君には自分に合った環境に身を置いてほしい……今みたいに無理をするんじゃなくて。君は出ていこうと思えば、最初から出ていけたはずだ。
+[charslot(slot = "l", name = "avg_367_swllow_1#1$1", focus="l")]
+[name="グレースロート"]私を育ててくれたのはロドスなの、イアン。そんな理由で感染者を見捨てて立ち去れば、恩を仇で返すことになる。
+[charslot(slot = "r", name = "avg_npc_242", focus="r")]
+[name="天災トランスポーター"]違うよ。単に感染者を助ける方法を変えるだけだ。
+[name="天災トランスポーター"]天災からの避難をサポートすることで、感染源を元から断つ。この方法だって、彼らにとっては助けとなる。
+[name="天災トランスポーター"]確かに君を育てたのはロドスだが、彼らの命令を何でも聞き入れることが恩返しじゃない。それは盲目的な服従だ。
+[charslot(slot = "l", name = "avg_367_swllow_1#1$1", focus="l")]
+[name="グレースロート"]盲目的な服従？
+[charslot(slot = "r", name = "avg_npc_242", focus="r")]
+[name="天災トランスポーター"]余命が幾ばくもない感染者たちは、たとえ自分が犠牲になったり、暴徒に変わったりしたとしても、信じられるものや希望となるものにしがみつくしかない。
+[name="天災トランスポーター"]でも、俺たちは違う。だから、盲目的に服従するべきではないし、他者に嫌悪や恐怖を抱くような環境で生きるなどもってのほかだ。
+[dialog]
+[charslot]
+そう遠くもない昔の記憶が脳内に浮かび上がってきた。
+[stopmusic(fadetime=4)]
+しかし、それらの記憶を言葉に変換する前に、窓の外からいきなり騒がしい声が聞こえてきた。
+[dialog]
+[PlaySound(key="$d_avg_crwddiscuss_outside", volume=0, loop=true, channel="c")]
+[SoundVolume(volume=0.4, channel="c",fadetime=2)]
+[delay(time=1.5)]
+[charslot(slot = "r", name = "avg_npc_242", focus="n")]
+[charslot(slot = "l", name = "avg_367_swllow_1#8$1", focus="l")]
+[name="グレースロート"]外で何かあったのかしら？
+[charslot(slot = "r", name = "avg_npc_242", focus="r")]
+[name="天災トランスポーター"]声から察するに……避難の途中で何かあったようだな。
+[charslot(slot = "l", name = "avg_367_swllow_1#8$1", focus="l")]
+[name="グレースロート"]様子を見てくるわ。
+[charslot(slot = "r", name = "avg_npc_242", focus="r")]
+[name="天災トランスポーター"]それもロドスのオペレーターの仕事なのか？
+[charslot(slot = "l", name = "avg_367_swllow_1#1$1", focus="l")]
+[name="グレースロート"]いいえ、ただ私がそうすべきだと思っただけ。
+[charslot(slot = "r", name = "avg_npc_242", focus="r")]
+[name="天災トランスポーター"]（肩をすくめる）俺も行くよ。
+[dialog]
+[PlaySound(key="$rungeneral", volume=1)]
+[charslot(slot = "l", afrom=1, ato=0, duration=0.5)]
+[delay(time=0.1)]
+[charslot(slot = "r", afrom=1, ato=0, duration=0.5)]
+[StopSound(channel="c", fadetime=3)]
+[delay(time=1)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[charslot]
+[Background(image="bg_county_1",screenadapt="coverall")]
+[Delay(time=1)]
+[PlaySound(key="$dooropenquite", volume=1)]
+[PlaySound(key="$d_avg_drkcludsthdr", volume=0.5, loop=true, channel="d")]
+[PlayMusic(intro="$nervous_intro", key="$nervous_loop", volume=0.6)]
+[Blocker(a=0.5, r=0, g=0, b=0, fadetime=2, block=true)]
+[PlaySound(key="$rungeneral",volume=1)]
+[charslot(slot = "l", name = "avg_367_swllow_1#1$1", posfrom="200,0", posto="0,0", duration=0.5)]
+[Delay(time=0.5)]
+[charslot(slot = "r", name = "avg_npc_242", posfrom="200,0", posto="0,0", duration=0.5)]
+[Delay(time=1.5)]
+[charslot(slot = "l", name = "avg_367_swllow_1#1$1", focus="l")]
+[name="グレースロート"]どうかしたの？
+[charslot]
+[charslot(slot = "m", name = "avg_npc_496_1#1$1")]
+[name="怖がる村人"]森の……向こうに……
+[charslot(slot = "m", name = "avg_npc_242")]
+[name="天災トランスポーター"]天災雲？
+[CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
+[charslot(slot = "m", name = "avg_npc_496_1#1$1")]
+[name="怖がる村人"]トランスポーターさん、天災がやって来るのはまだ先ですよね！
+[charslot(slot = "m", name = "avg_npc_242")]
+[name="天災トランスポーター"]落ち着いて、まだかなり距離がある。手元の計器で確認するから、少し待ってくれ……
+[dialog]
+[PlaySound(key="$d_avg_devicebeep", volume=1)]
+[delay(time=1)]
+[PlaySound(key="$d_avg_devicebeep", volume=1)]
+[delay(time=1)]
+[name="天災トランスポーター"]……
+[name="天災トランスポーター"]天災の動きが早まっている。嵐であることに変わりはないが、到達予定を三日から五日ではなく、六時間から十二時間に修正する必要があるな。
+[charslot(slot = "m", name = "avg_npc_496_1#1$1")]
+[name="怖がる村人"]わ、私たちはどうすれば……
+[charslot(slot = "m", name = "avg_npc_242")]
+[name="天災トランスポーター"]急いで避難してくれ。命を最優先にして、要らない物や重たい物は置いていくように。車隊への連絡経験は？　今連絡は取れるか？
+[charslot(slot = "m", name = "avg_npc_496_1#1$1")]
+[name="怖がる村人"]車隊と連絡は取れませんが、駄獣車ならどの家にもあります……
+[charslot(slot = "m", name = "avg_npc_242")]
+[name="天災トランスポーター"]じゃあ、車隊のことは忘れて、とにかく急いで駄獣車に乗ってこのエリアから離れてくれ。
+[charslot(slot = "m", name = "avg_npc_496_1#1$1")]
+[name="怖がる村人"]わ、わかりました！　ありがとう、トランスポーターさん！
+[charslot(slot = "m", name = "avg_npc_242")]
+[name="天災トランスポーター"]グレースロート、ロドスと連絡は取れるか？
+[dialog]
+[charslot]
+[PlaySound(key="$d_gen_transmissionget", volume=1)]
+[delay(time=1.5)]
+[charslot(slot = "m", name = "avg_367_swllow_1#1$1")]
+[name="グレースロート"]……問題ないわ。先にメッセージだけ送っておいた。
+[charslot(slot = "m", focus="n")]
+[name="泣いている子"]うぇ～ん……ママ……パパ……
+[CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
+[charslot(slot = "m", name = "avg_367_swllow_1#4$1")]
+[name="グレースロート"]待って、町の真ん中で泣いている子がいるわ。親はどこ？
+[dialog]
+[PlaySound(key="$rungeneral", volume=1)]
+[charslot(slot = "m", posfrom="0,0", posto="200,0", afrom=1, ato=0, duration=0.5)]
+[delay(time=1.5)]
+[Blocker(a=0.5, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=1, block=true)]
+[charslot]
+[charslot(slot = "r", name = "avg_npc_240")]
+[Blocker(a=0.5, r=0, g=0, b=0, fadetime=1, block=true)]
+[charslot(slot = "l", name = "avg_367_swllow_1#8$1", posfrom="-100,0", posto="100,0", duration=0.5, isblock= true)]
+[delay(time=0.5)]
+[charslot(slot = "l", name = "avg_367_swllow_1#8$1", focus="l")]
+[name="グレースロート"]坊や、どうしたの？　どうして泣いているの？
+[charslot(slot = "r", name = "avg_npc_240", focus="r")]
+[name="泣いている子"]うぅ……ひっく……
+[dialog]
+[PlaySound(key="$rungeneral", volume=1, loop=true, channel="r")]
+[StopSound(channel="r", fadetime=1)]
+[charslot(slot = "m", name = "avg_npc_242", posfrom="-500,0", posto="-400,0", duration=0.3, isblock= true)]
+[charslot(slot = "m", focus="m")]
+[name="天災トランスポーター"]坊や、落ち着いて。おうちの人はどうしたんだい？
+[charslot(slot = "r", name = "avg_npc_240", focus="r")]
+[name="泣いている子"]うぅ、パパとママは……ひっく……
+[name="泣いている子"]でも、帰りたくても帰れないよ。うわぁ～ん……
+[dialog]
+[PlaySound(key="$rungeneral", volume=1)]
+[charslot(slot = "l", name = "avg_367_swllow_1#1$1", posfrom="100,0", posto="300,0", afrom=1, ato=0, duration=0.5)]
+[delay(time=1)]
+[charslot]
+[charslot(slot = "r", name = "avg_npc_498_1#1$1", posfrom="200,0", posto="0,0", duration=0.5)]
+[delay(time=0.5)]
+[charslot(slot = "l", name = "avg_367_swllow_1#1$1", posfrom="-200,0", posto="0,0", duration=0.5)]
+[delay(time=1)]
+[charslot(slot = "l", name = "avg_367_swllow_1#1$1", focus="l")]
+[name="グレースロート"]そこのあんた、この子に何があったか知ってる？
+[dialog]
+[charslot(slot = "r", name = "avg_npc_498_1#1$1", focus="r")]
+[name="不安そうな村人"]……森に住んでいる感染者の子じゃないか？　どうしてここに？
+[name="不安そうな村人"]ったく、もうすぐ天災雲が来るってのに、家族も知らんぷりかよ。
+[dialog]
+[PlaySound(key="$rungeneral", volume=1)]
+[charslot(slot = "r", name = "avg_npc_498_1#1$1", posfrom="80,0", posto="-200,0", afrom=1, ato=0, duration=0.5)]
+[delay(time=1)]
+[charslot(duration=0.5, isblock=true)]
+「感染者の子」という言葉を聞いた瞬間、私とイアンは同時に一歩退がった。
+子どもの泣き声がどんどん大きくなる。
+[charslot(slot = "m", name = "avg_367_swllow_1#4$1")]
+[name="グレースロート"]森に住んでいるって……どういう意味？
+[charslot(slot = "m", name = "avg_npc_242")]
+[name="天災トランスポーター"]町の感染者は森に隔離されて暮らしてるんだ。感染者対策としてはまだ緩いほうだな。
+[charslot(slot = "m", name = "avg_367_swllow_1#4$1")]
+[name="グレースロート"]じゃあ、森に住む人たちは……
+[charslot(slot = "m", name = "avg_npc_242")]
+[name="天災トランスポーター"]彼らにも知らせるよう、ほかの人に頼んでおいた。
+[name="天災トランスポーター"]こういう時、人間は自分から行動するものだ。森に住む感染者も、天災雲を目の当たりにすれば、正確な情報が届いてなくても天災が迫っていることぐらいはわかる。
+[charslot(slot = "m", name = "avg_367_swllow_1#7$1")]
+[name="グレースロート"]とはいえ、半日以内に天災が到達することは知らないはず。もし、数時間でも避難が遅れたら……
+[dialog]
+[charslot]
+私は一歩足を踏み出すと、泣いている子のそばに戻った。
+[charslot(slot = "l", name = "avg_367_swllow_1#8$1", focus="l")]
+[charslot(slot = "r", name = "avg_npc_240", focus="n")]
+[name="グレースロート"]ねぇ、坊や……おうちの人はどうしたの？
+[charslot(slot = "r", name = "avg_npc_240", focus="r")]
+[name="泣いている子"]ママは寝こんでるの……パパは薬草を摘みに行ってて……うぅ……
+[charslot(slot = "l", name = "avg_367_swllow_1#8$1", focus="l")]
+[name="グレースロート"]二人は通信装置を持ってる？
+[charslot(slot = "r", name = "avg_npc_240", focus="r")]
+[name="泣いている子"]通信……装置？
+[charslot(slot = "l", name = "avg_367_swllow_1#1$1", focus="l")]
+[name="グレースロート"]こういう機械よ。音が出て、近くにいる人とお話ができるの。
+[charslot(slot = "r", name = "avg_npc_240", focus="r")]
+[name="泣いている子"]（首を横に振る）
+[dialog]
+[charslot]
+[PlaySound(key="$d_avg_audience_chaos", volume=1, loop=true, channel="a")]
+[charslot(slot = "m", name = "avg_npc_496_1#1$1", posfrom="-200,0", posto="0,0", duration=0.5)]
+[Delay(time=0.4)]
+[charslot(slot = "m", posfrom="0,0", posto="200,0", afrom=1, ato=0, duration=0.5, isblock=true)]
+[Delay(time=0.5)]
+[charslot]
+[charslot(slot = "m", name = "avg_npc_499_1#1$1", posfrom="-200,0", posto="0,0", duration=0.5)]
+[Delay(time=0.4)]
+[StopSound(channel="a", fadetime=3)]
+[charslot(slot = "m", posfrom="0,0", posto="200,0", afrom=1, ato=0, duration=0.5, isblock=true)]
+[Delay(time=1)]
+[charslot]
+[PlaySound(key="$rungeneral", volume=1, loop=true, channel="r")]
+[StopSound(channel="r", fadetime=1.5)]
+[charslot(slot = "m", name = "avg_npc_626_1#1$1", posfrom="-400,0", posto="-300,0", duration=0.5)]
+[Delay(time=0.1)]
+[charslot(slot = "r", name = "avg_367_swllow_1#1$1", posfrom="200,0", posto="-100,0", duration=0.5)]
+[StopSound(channel="a", fadetime=1)]
+[Delay(time=1)]
+[charslot(slot = "r", name = "avg_367_swllow_1#3$1", focus="r")]
+[name="グレースロート"]すみません！
+[charslot(slot = "m",  focus="m")]
+[name="感染者の村人"]何だ？　今忙しいんだ！
+[dialog]
+[charslot(slot = "m", posfrom="-300,0", posto="-100,0", duration=0.5)]
+[Delay(time=0.2)]
+[charslot(slot = "r", posfrom="-100,0", posto="0,0", duration=0.5)]
+[Delay(time=0.8)]
+[charslot(slot = "r", name = "avg_367_swllow_1#1$1", focus="r")]
+[name="グレースロート"]この子の両親は……
+[charslot(slot = "m",  focus="m")]
+[name="感染者の村人"]そんなことに構ってる暇はない！
+[charslot(slot = "r", name = "avg_367_swllow_1#1$1", focus="r")]
+[name="グレースロート"]天災の到達予定は六時間から十二時間後よ。まだ時間はあるわ！　この子の母親は寝こんでて、父親も薬草摘みに行ってる。お願い、知らせにいってくれない？
+[CameraShake(duration=0.3, xstrength=30, ystrength=30, vibrato=30, randomness=90, fadeout=true, block=false)]
+[charslot(slot = "m",  focus="m")]
+[name="感染者の村人"]三日から五日って言ってたのが、六時間から十二時間に変わったんだぞ！　今戻れば、いつ天災に襲われるともわからない！
+[dialog]
+[PlaySound(key="$rungeneral", volume=1)]
+[charslot(slot = "m", posfrom="0,0", posto="200,0", afrom=1, ato=0, duration=0.5)]
+[Delay(time=2)]
+[charslot(slot = "r", name = "avg_367_swllow_1#1$1", focus="r")]
+[name="グレースロート"]……イアン、何としても森の感染者に知らせないと。
+[charslot]
+[charslot(slot = "m", name = "avg_npc_242")]
+[name="天災トランスポーター"]周囲の源石の活性化が始まっている今、天災の中心に近づくような行動をすれば、活性源石の粉塵に身を曝す可能性が高まる。
+[name="天災トランスポーター"]遮断薬も防護装備もなしに、健康な人間を天災の方角に向かわせるなんて、殺人同様の行為だ。
+[charslot(slot = "m", name = "avg_367_swllow_1#1$1")]
+[name="グレースロート"]……
+[charslot(slot = "m", name = "avg_npc_242")]
+[name="天災トランスポーター"]それに……所詮は感染者だろ？
+[charslot(slot = "m", name = "avg_367_swllow_1#7$1")]
+[name="グレースロート"]イアン、あんた……
+[charslot(slot = "m", name = "avg_npc_242")]
+[name="天災トランスポーター"]俺たちは同じだ。
+[charslot(slot = "m", name = "avg_367_swllow_1#7$1")]
+[name="グレースロート"]……いいえ。
+[dialog]
+[stopmusic(fadetime=2)]
+[PlaySound(key="$d_gen_transmissionget", volume=1)]
+[delay(time=1.5)]
+[charslot(slot = "m", name = "avg_367_swllow_1#8$1")]
+[name="グレースロート"]こちらグレースロート。ブレイズ、今時間ある？
+[name="グレースロート"]ええ、北の町にいるわ。天災の正確な到達時間を知らされていない感染者たちが森にいるの。至急、遮断薬と防護装備が必要よ。
+[dialog]
+[delay(time=1)]
+[charslot(slot = "m", name = "avg_367_swllow_1#1$1")]
+[name="グレースロート"]……えっ？　ボイラーマンに一杯飲ませる必要はあるかって？
+[charslot(slot = "m", name = "avg_367_swllow_1#2$1")]
+[name="グレースロート"]時間がかからないのなら、あんたに任せる。以上よ。
+[dialog]
+[PlaySound(key="$transmission", volume=1)]
+[delay(time=2)]
+[StopSound(channel="d", fadetime=1)]
+[PlayMusic(intro="$drift_intro", key="$drift_loop", volume=0.6)]
+[charslot(slot = "m", name = "avg_npc_242")]
+[name="天災トランスポーター"]……
+[charslot(slot = "m", name = "avg_367_swllow_1#1$1")]
+[name="グレースロート"]ブレイズは来ないと思ってる？
+[charslot(slot = "m", name = "avg_npc_242")]
+[name="天災トランスポーター"]ロドスの人間との付き合いは君のほうが長い。
+[name="天災トランスポーター"]感染者の中にも道徳心を持つ人がいるってことは認めるが、それはそいつらが元から優しいからだ。
+[name="天災トランスポーター"]どうあれ、感染者ってのは……死に向かっている連中だ。
+[name="天災トランスポーター"]絶望に染まった彼らは、生き延びることに異常な執着を見せる……だから、暴力や卑劣な行為も厭わず、予想もつかないことをする。
+[charslot(slot = "m", name = "avg_367_swllow_1#1$1")]
+[name="グレースロート"]だからあんたは……後ろに退く選択をした。そして、感染者と接触しないようにした。
+[charslot(slot = "m", name = "avg_npc_242")]
+[name="天災トランスポーター"]その通り、俺は後ろに退く選択をした。
+[name="天災トランスポーター"]たとえ感染者と接触しなくても、俺にやれることはたくさんある。
+[name="天災トランスポーター"]天災で命を失う人や、天災で感染者になる人を減らす。それが俺の選択だ。
+[charslot(slot = "m", name = "avg_367_swllow_1#1$1")]
+[name="グレースロート"]……「全てはより多くの命を救うために」ってこと？
+[charslot(slot = "m", name = "avg_npc_242")]
+[name="天災トランスポーター"]君もその格言を知ってるんだな。ウォルモンドで聞いたのか？
+[charslot(slot = "m", name = "avg_367_swllow_1#1$1")]
+[name="グレースロート"]……
+[charslot(slot = "m", name = "avg_npc_242")]
+[name="天災トランスポーター"]残念ながら、危機契約を履行するトランスポーターとしては、俺はまだまだ不十分だ。
+[charslot(slot = "m", name = "avg_367_swllow_1#1$1")]
+[name="グレースロート"]あんたがまだまだ不十分でよかった。
+[charslot(slot = "m", name = "avg_npc_242")]
+[name="天災トランスポーター"]確かに一部の人間の行動には賛同できない。だが……
+[name="天災トランスポーター"]その通り、全てはより多くの命を救うため。
+[charslot(slot = "m", name = "avg_367_swllow_1#7$1")]
+[name="グレースロート"]感染者の命はどうなの？
+[charslot(slot = "m", name = "avg_npc_242")]
+[name="天災トランスポーター"]それも命だが……すでに傷つき枯れゆくだけの、短く危険な命だ。だから、健康な人の命と比べると、二の次にせざるを得ない。
+[charslot(slot = "m", name = "avg_367_swllow_1#7$1")]
+[name="グレースロート"]ブレイズの前では……いいえ、私の前でもそういう話はしないほうがいいわ。
+[charslot(slot = "m", name = "avg_npc_242")]
+[name="天災トランスポーター"]……
+[charslot(slot = "m", name = "avg_367_swllow_1#7$1")]
+[name="グレースロート"]さっき「盲目的な服従」って言ってたわね。
+[charslot(slot = "m", name = "avg_367_swllow_1#2$1")]
+[name="グレースロート"]この前も、私に同じようなことを言った人がいた。
+[dialog]
+[SoundVolume(volume=0, channel="d",fadetime=1)]
+[PlaySound(key="$flashback", volume=0.8)]
+[Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
+[Blocker(a=1, r=255, g=255, b=255, fadetime=0.5, block=true)]
+[charslot]
+[Background(image="bg_uptown_2",screenadapt="coverall")]
+[charslot(slot = "l", name = "char_1508_Faust_1#1", focus="l")]
+[charslot(slot = "r", name = "avg_367_swllow_1#7$1", focus="n")]
+[CameraEffect(effect="Grayscale", amount=0.8, keep=true)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
+[Delay(time=1)]
+[charslot(slot = "l", name = "char_1508_Faust_1#1", focus="l")]
+[name="ファウスト"]ただ命令に従い、誰かに追従するだけの奴は、最後には皆恐ろしいものに変わる。
+[charslot(slot = "r", name = "avg_367_swllow_1#7$1", focus="r")]
+[name="グレースロート"]どうして？
+[charslot(slot = "l", name = "char_1508_Faust_1#1", focus="l")]
+[name="ファウスト"]そんな奴らのほとんどは、盲目的に従いこそすれ、たじろぎ、震えることもあるだろう。誰かに依存しきっているというよりは、ただ考えることを止めているだけなんだ。
+[name="ファウスト"]……そうやって自分の方向を失った奴らは、他人の願望を叶えることで達成感と存在感を得るだけの機械と同じだ。
+[name="ファウスト"]機械のように起動して、作動し続けて、投げ込まれた願望を実現させて、周りのものを全てを喰らい、願望を投げ込んだ奴まで喰らい尽くす。
+[charslot(slot = "r", name = "avg_367_swllow_1#7$1", focus="r")]
+[name="グレースロート"]私は違う。
+[charslot(slot = "l", name = "char_1508_Faust_1#1", focus="l")]
+[name="ファウスト"]お前はまだ経験が浅い。
+[dialog]
+[PlaySound(key="$flashback", volume=0.8)]
+[Blocker(a=0, r=255, g=255, b=255, fadetime=0, block=true)]
+[Blocker(a=1, r=255, g=255, b=255, fadetime=0.5, block=true)]
+[charslot]
+[Background(image="bg_county_1",screenadapt="coverall")]
+[charslot(slot = "m", name = "avg_367_swllow_1#2$1")]
+[CameraEffect(effect="Grayscale", amount=0, keep=true)]
+[Blocker(a=0, r=255, g=255, b=255, fadetime=0.5)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=0.5, r=0, g=0, b=0, fadetime=0.5, block=true)]
+[Delay(time=1)]
+[SoundVolume(volume=0.8, channel="d",fadetime=1)]
+[name="グレースロート"]イアン、その人も感染者だった。しかも、ロドスの人間ではなく、ロドスの敵よ。
+[charslot(slot = "m", name = "avg_367_swllow_1#7$1")]
+[name="グレースロート"]あの頃は自分が盲目的に服従しているなんてわからなかったけど、今は違う。少なくとも……自分が何をしているのか、はっきり把握している。
+[name="グレースロート"]私はロドスで長年過ごしてきた。紆余曲折はあったけど、それでも今のロドスには普通の人も感染者も含め、友人や大切な人がいる。
+[charslot(slot = "m", name = "avg_npc_242")]
+[name="天災トランスポーター"]……
+[charslot(slot = "m", name = "avg_367_swllow_1#1$1")]
+[name="グレースロート"]イアン、あんただって感染者から逃げているんじゃないの？
+[name="グレースロート"]さっきあの子が感染者だって知った時も、会話の途中でブレイズが部屋に入ってきた時も……あんたは私より怖がっていた。
+[charslot(slot = "m", name = "avg_367_swllow_1#7$1")]
+[name="グレースロート"]昔の私たちは同じだったかもしれない。でも、今は違う。
+[name="グレースロート"]少なくとも私は、他者に対する恐怖や嫌悪の中で生きてはいない。
+[dialog]
+[charslot]
+[CameraShake(duration=0.3, xstrength=50, ystrength=50, vibrato=30, randomness=90, fadeout=true, block=false)]
+[PlaySound(key="$drift", volume=1)]
+[Delay(time=2)]
+[PlaySound(key="$d_avg_cardoorc", volume=1)]
+[Delay(time=1)]
+[PlaySound(key="$rungeneral", volume=1)]
+[charslot(slot = "m", name = "char_017_homura_3#7", duration=1.5, isblock=true)]
+[delay(time=0.5)]
+[name="ブレイズ"]お待たせ！
+[charslot(slot = "m", name = "avg_367_swllow_1#1$1")]
+[name="グレースロート"]遮断薬と防護装備は？
+[charslot(slot = "m", name = "char_017_homura_3#4")]
+[name="ブレイズ"]バッチリ持ってきたわよ。そこの人もいる？
+[charslot(slot = "m", name = "avg_367_swllow_1#1$1")]
+[name="グレースロート"]必要ないわ。彼は行かないから。
+[dialog]
+[PlaySound(key="$d_avg_cloakmovement", volume=1)]
+[charslot(duration=1, isblock=true)]
+[delay(time=1)]
+[charslot(slot = "m", name = "char_017_homura_3#4")]
+[name="ブレイズ"]んで、その人とまだ話があるの？
+[charslot(slot = "m", name = "avg_367_swllow_1#1$1")]
+[name="グレースロート"]ええ。
+[dialog]
+[charslot]
+[charslot(slot = "r", name = "avg_npc_242")]
+[delay(time=1)]
+[PlaySound(key="$d_gen_walk_n", volume=1)]
+[charslot(slot = "l", name = "avg_367_swllow_1#1$1", posfrom="-200,0", posto="0,0", duration=1.5, isblock=true)]
+[delay(time=0.5)]
+[charslot(slot = "l", name = "avg_367_swllow_1#1$1", focus="l")]
+[name="グレースロート"]イアン、もし私が森から帰ってきた時に感染者になっていたら……それでも護衛をやってほしいと思う？
+[charslot(slot = "r", name = "avg_npc_242", focus="r")]
+[name="天災トランスポーター"]そういう冗談はやめておいたほうがいい。心の動揺ってのは簡単に隠せないもんだ。声がひどく震えてるぜ。
+[charslot(slot = "l", name = "avg_367_swllow_1#10$1", focus="l")]
+[name="グレースロート"]そうね。確かにかなり動揺している。でも、怖いわけじゃない。
+[charslot(slot = "r", name = "avg_npc_242", focus="r")]
+[name="天災トランスポーター"]……
+[charslot(slot = "l", name = "avg_367_swllow_1#1$1", focus="l")]
+[name="グレースロート"]イアン、今度はあんたが私の質問に答える番よ。
+[charslot(slot = "r", name = "avg_npc_242", focus="r")]
+[name="天災トランスポーター"]無理だ。君が感染者になったら、もう護衛をやってもらいたいとは思わないだろう。
+[name="天災トランスポーター"]冷酷だと思われるかもしれないが……感染者というものに対する俺の態度が変わることはない。
+[charslot(slot = "l", name = "avg_367_swllow_1#7$1", focus="l")]
+[name="グレースロート"]感染者ときちんと腹を割って対話をしたこともないのに？
+[charslot(slot = "r", name = "avg_npc_242", focus="r")]
+[name="天災トランスポーター"]……そうだ。
+[charslot(slot = "l", name = "avg_367_swllow_1#2$1", focus="l")]
+[name="グレースロート"]わかった。これ以上話をする必要はなさそうね。
+[charslot(slot = "r", name = "avg_npc_242", focus="r")]
+[name="天災トランスポーター"]ロドスは……君を上手く教育したな。
+[charslot(slot = "l", name = "avg_367_swllow_1#9$1", focus="l")]
+[name="グレースロート"]褒め言葉として受け取っておくわ。
+[dialog]
+[PlaySound(key="$rungeneral", volume=1)]
+[charslot(slot = "l", posfrom="0,0", posto="300,0", afrom=1, ato=0, duration=0.5, isblock=true)]
+[delay(time=1)]
+[charslot]
+[charslot(slot = "m", name = "char_017_homura_3#9")]
+[name="ブレイズ"]グレースロート、待って！
+[dialog]
+[PlaySound(key="$rungeneral", volume=1)]
+[charslot(duration=0.5, isblock=true)]
+[delay(time=0.5)]
+[stopmusic(fadetime=2)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=2, block=true)]
+[charslot]
+[Background(image="bg_room_2",screenadapt="coverall")]
+[Delay(time=1)]
+[PlaySound(key="$d_avg_energywell", volume=0, loop=true, channel="a")]
+[SoundVolume(volume=0.2, channel="a",fadetime=1)]
+[Blocker(a=0.6, r=0, g=0, b=0, fadetime=2, block=true)]
+[Delay(time=1)]
+[Subtitle(text="あの子の両親は森の外れに住んでいた。私たちから警告を聞くと、憔悴した男は妻を背負って森から出ていった。", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="その時、町の中央の広場にいた彼らの息子は、まだ同じ場所で膝を抱えて座っていた。", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="結局、私とブレイズは森の中で風雨をしのげそうな場所を回り、二時間かけてその全てに情報を伝達した。", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="人っ子一人いなくなった町と森に天災がやって来たのは、ロドスが出航した四時間後のことだった。", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="そして、すでに必要な消毒や検査を終わらせた私は、宿舎のベッドに横たわると、夢の世界へと落ちていった。", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
+[subtitle]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
+[StopSound(channel="a", fadetime=3)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=3, block=true)]
+[charslot]
+[Background(image="bg_corridor",screenadapt="coverall")]
+[focusout(type="bg", id="bg_corridor", from=0, to=1, duration=1, block=false)]
+[PlayMusic(key="$calm_loop", volume=0.6)]
+[CameraEffect(effect="Grayscale", amount=0.8, keep=true)]
+[Blocker(a=0.6, r=0, g=0, b=0, fadetime=3, block=true)]
+[Delay(time=1)]
+[Subtitle(text="母さんに連れられてロドスに来たあの日、子どもだった私は巨大な艦船の中で色んな人と出会った。", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="感染者だというのになぜか無性に親しみを覚え、心の扉を開きたいと思えるアーミヤ。あまり姿を見かけないけど、常に説得力のある決断をするケルシー先生。", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="周囲を血祭りにするのが大好きなあの大柄なフェリーンとは、この前も一緒に知らない森を走り回ったっけ。", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="あとは、いつも忙しく立ち回っている寡黙なフィディア。そして、その身にまとった強烈な冷気で人を思わず尻込みさせてしまう白いコータス……", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
+[subtitle]
+[Blocker(a=1, r=0, g=0, b=0, fadetime=3, block=true)]
+[charslot]
+[Background]
+[CameraEffect(effect="Grayscale", amount=0, keep=true)]
+[Blocker(a=0, r=0, g=0, b=0, fadetime=0.5, block=true)]
+[Delay(time=1)]
+[Subtitle(text="私はわかっている。あの時の母さんは理性が揺らいでいた。いや、すでに崩れ去っていたのかもしれない……いずれにしろ、「正気」とは呼べない状態だった。", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="それでも、母さんは私をロドスに預けた。", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="もしほかの場所に、感染者が一人もいない場所に預けられていたらどうなっていただろう。そう考えたことが何度もある。", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
+[Subtitle(text="ただ、今になってあの虚ろな瞳を思い出してみると、その奥底には弱々しく揺れながらも、決して消えない光が宿っていた。", x=300, y=350, alignment="center", size=24, delay=0.04, width=700)]
+[subtitle]
+[Blocker(a=0, r=0,g=0, b=0, fadetime=0, block=true)]
+[Blocker(a=1, r=0,g=0, b=0, fadetime=2, block=true)]
+[stopmusic(fadetime=2)]
+[charslot]
+[Background]
+[Image]
