@@ -44940,6 +44940,900 @@
       }
     ]
   },
+  "skchr_chilc_1": {
+    "skillId": "skchr_chilc_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "Lockpicks",
+        "rangeId": null,
+        "description": "Stops attacking; after skill ends, obtain <@ba.vup>{ground}</>-<@ba.vup>{floor}</> DP randomly",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "initSp": 6,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_chilc_1",
+        "duration": 3.0,
+        "blackboard": [
+          {
+            "key": "mid_cost",
+            "value": 4.0,
+            "valueStr": null
+          },
+          {
+            "key": "step",
+            "value": 3.0,
+            "valueStr": null
+          },
+          {
+            "key": "prob_add",
+            "value": 0.4,
+            "valueStr": null
+          },
+          {
+            "key": "prob_stay",
+            "value": 0.2,
+            "valueStr": null
+          },
+          {
+            "key": "prob_minus",
+            "value": 0.4,
+            "valueStr": null
+          },
+          {
+            "key": "floor",
+            "value": 7.0,
+            "valueStr": null
+          },
+          {
+            "key": "ground",
+            "value": 1.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Lockpicks",
+        "rangeId": null,
+        "description": "Stops attacking; after skill ends, obtain <@ba.vup>{ground}</>-<@ba.vup>{floor}</> DP randomly",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 15,
+          "initSp": 7,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_chilc_1",
+        "duration": 3.0,
+        "blackboard": [
+          {
+            "key": "mid_cost",
+            "value": 4.0,
+            "valueStr": null
+          },
+          {
+            "key": "step",
+            "value": 3.0,
+            "valueStr": null
+          },
+          {
+            "key": "prob_add",
+            "value": 0.4,
+            "valueStr": null
+          },
+          {
+            "key": "prob_stay",
+            "value": 0.2,
+            "valueStr": null
+          },
+          {
+            "key": "prob_minus",
+            "value": 0.4,
+            "valueStr": null
+          },
+          {
+            "key": "floor",
+            "value": 7.0,
+            "valueStr": null
+          },
+          {
+            "key": "ground",
+            "value": 1.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Lockpicks",
+        "rangeId": null,
+        "description": "Stops attacking; after skill ends, obtain <@ba.vup>{ground}</>-<@ba.vup>{floor}</> DP randomly",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 14,
+          "initSp": 7,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_chilc_1",
+        "duration": 3.0,
+        "blackboard": [
+          {
+            "key": "mid_cost",
+            "value": 5.0,
+            "valueStr": null
+          },
+          {
+            "key": "step",
+            "value": 3.0,
+            "valueStr": null
+          },
+          {
+            "key": "prob_add",
+            "value": 0.4,
+            "valueStr": null
+          },
+          {
+            "key": "prob_stay",
+            "value": 0.2,
+            "valueStr": null
+          },
+          {
+            "key": "prob_minus",
+            "value": 0.4,
+            "valueStr": null
+          },
+          {
+            "key": "floor",
+            "value": 8.0,
+            "valueStr": null
+          },
+          {
+            "key": "ground",
+            "value": 2.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Lockpicks",
+        "rangeId": null,
+        "description": "Stops attacking; after skill ends, obtain <@ba.vup>{ground}</>-<@ba.vup>{floor}</> DP randomly",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 14,
+          "initSp": 8,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_chilc_1",
+        "duration": 3.0,
+        "blackboard": [
+          {
+            "key": "mid_cost",
+            "value": 5.0,
+            "valueStr": null
+          },
+          {
+            "key": "step",
+            "value": 3.0,
+            "valueStr": null
+          },
+          {
+            "key": "prob_add",
+            "value": 0.4,
+            "valueStr": null
+          },
+          {
+            "key": "prob_stay",
+            "value": 0.2,
+            "valueStr": null
+          },
+          {
+            "key": "prob_minus",
+            "value": 0.4,
+            "valueStr": null
+          },
+          {
+            "key": "floor",
+            "value": 8.0,
+            "valueStr": null
+          },
+          {
+            "key": "ground",
+            "value": 2.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Lockpicks",
+        "rangeId": null,
+        "description": "Stops attacking; after skill ends, obtain <@ba.vup>{ground}</>-<@ba.vup>{floor}</> DP randomly",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 13,
+          "initSp": 8,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_chilc_1",
+        "duration": 3.0,
+        "blackboard": [
+          {
+            "key": "mid_cost",
+            "value": 6.0,
+            "valueStr": null
+          },
+          {
+            "key": "step",
+            "value": 3.0,
+            "valueStr": null
+          },
+          {
+            "key": "prob_add",
+            "value": 0.4,
+            "valueStr": null
+          },
+          {
+            "key": "prob_stay",
+            "value": 0.2,
+            "valueStr": null
+          },
+          {
+            "key": "prob_minus",
+            "value": 0.4,
+            "valueStr": null
+          },
+          {
+            "key": "floor",
+            "value": 9.0,
+            "valueStr": null
+          },
+          {
+            "key": "ground",
+            "value": 3.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Lockpicks",
+        "rangeId": null,
+        "description": "Stops attacking; after skill ends, obtain <@ba.vup>{ground}</>-<@ba.vup>{floor}</> DP randomly",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 13,
+          "initSp": 9,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_chilc_1",
+        "duration": 3.0,
+        "blackboard": [
+          {
+            "key": "mid_cost",
+            "value": 6.0,
+            "valueStr": null
+          },
+          {
+            "key": "step",
+            "value": 3.0,
+            "valueStr": null
+          },
+          {
+            "key": "prob_add",
+            "value": 0.4,
+            "valueStr": null
+          },
+          {
+            "key": "prob_stay",
+            "value": 0.2,
+            "valueStr": null
+          },
+          {
+            "key": "prob_minus",
+            "value": 0.4,
+            "valueStr": null
+          },
+          {
+            "key": "floor",
+            "value": 9.0,
+            "valueStr": null
+          },
+          {
+            "key": "ground",
+            "value": 3.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Lockpicks",
+        "rangeId": null,
+        "description": "Stops attacking; after skill ends, obtain <@ba.vup>{ground}</>-<@ba.vup>{floor}</> DP randomly",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 12,
+          "initSp": 9,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_chilc_1",
+        "duration": 3.0,
+        "blackboard": [
+          {
+            "key": "mid_cost",
+            "value": 6.0,
+            "valueStr": null
+          },
+          {
+            "key": "step",
+            "value": 3.0,
+            "valueStr": null
+          },
+          {
+            "key": "prob_add",
+            "value": 0.4,
+            "valueStr": null
+          },
+          {
+            "key": "prob_stay",
+            "value": 0.2,
+            "valueStr": null
+          },
+          {
+            "key": "prob_minus",
+            "value": 0.4,
+            "valueStr": null
+          },
+          {
+            "key": "floor",
+            "value": 9.0,
+            "valueStr": null
+          },
+          {
+            "key": "ground",
+            "value": 3.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Lockpicks",
+        "rangeId": null,
+        "description": "Stops attacking; after skill ends, obtain <@ba.vup>{ground}</>-<@ba.vup>{floor}</> DP randomly",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 12,
+          "initSp": 10,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_chilc_1",
+        "duration": 3.0,
+        "blackboard": [
+          {
+            "key": "mid_cost",
+            "value": 7.0,
+            "valueStr": null
+          },
+          {
+            "key": "step",
+            "value": 3.0,
+            "valueStr": null
+          },
+          {
+            "key": "prob_add",
+            "value": 0.4,
+            "valueStr": null
+          },
+          {
+            "key": "prob_stay",
+            "value": 0.2,
+            "valueStr": null
+          },
+          {
+            "key": "prob_minus",
+            "value": 0.4,
+            "valueStr": null
+          },
+          {
+            "key": "floor",
+            "value": 10.0,
+            "valueStr": null
+          },
+          {
+            "key": "ground",
+            "value": 4.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Lockpicks",
+        "rangeId": null,
+        "description": "Stops attacking; after skill ends, obtain <@ba.vup>{ground}</>-<@ba.vup>{floor}</> DP randomly",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 11,
+          "initSp": 10,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_chilc_1",
+        "duration": 3.0,
+        "blackboard": [
+          {
+            "key": "mid_cost",
+            "value": 7.0,
+            "valueStr": null
+          },
+          {
+            "key": "step",
+            "value": 3.0,
+            "valueStr": null
+          },
+          {
+            "key": "prob_add",
+            "value": 0.4,
+            "valueStr": null
+          },
+          {
+            "key": "prob_stay",
+            "value": 0.2,
+            "valueStr": null
+          },
+          {
+            "key": "prob_minus",
+            "value": 0.4,
+            "valueStr": null
+          },
+          {
+            "key": "floor",
+            "value": 10.0,
+            "valueStr": null
+          },
+          {
+            "key": "ground",
+            "value": 4.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Lockpicks",
+        "rangeId": null,
+        "description": "Stops attacking; after skill ends, obtain <@ba.vup>{ground}</>-<@ba.vup>{floor}</> DP randomly",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WHEN_ATTACK",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "initSp": 10,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_chilc_1",
+        "duration": 3.0,
+        "blackboard": [
+          {
+            "key": "mid_cost",
+            "value": 7.0,
+            "valueStr": null
+          },
+          {
+            "key": "step",
+            "value": 3.0,
+            "valueStr": null
+          },
+          {
+            "key": "prob_add",
+            "value": 0.4,
+            "valueStr": null
+          },
+          {
+            "key": "prob_stay",
+            "value": 0.2,
+            "valueStr": null
+          },
+          {
+            "key": "prob_minus",
+            "value": 0.4,
+            "valueStr": null
+          },
+          {
+            "key": "floor",
+            "value": 10.0,
+            "valueStr": null
+          },
+          {
+            "key": "ground",
+            "value": 4.0,
+            "valueStr": null
+          }
+        ]
+      }
+    ]
+  },
+  "skchr_chilc_2": {
+    "skillId": "skchr_chilc_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "Improvisation",
+        "rangeId": null,
+        "description": "Gain <@ba.vup>{prob:0%}</> Physical Dodge, ASPD +<@ba.vup>{attack_speed}</>, and obtain <@ba.vup>{cost}</> DP with every attack",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 31,
+          "initSp": 11,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_chilc_2",
+        "duration": 10.0,
+        "blackboard": [
+          {
+            "key": "attack_speed",
+            "value": 35.0,
+            "valueStr": null
+          },
+          {
+            "key": "prob",
+            "value": 0.3,
+            "valueStr": null
+          },
+          {
+            "key": "cost",
+            "value": 1.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Improvisation",
+        "rangeId": null,
+        "description": "Gain <@ba.vup>{prob:0%}</> Physical Dodge, ASPD +<@ba.vup>{attack_speed}</>, and obtain <@ba.vup>{cost}</> DP with every attack",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "initSp": 11,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_chilc_2",
+        "duration": 10.0,
+        "blackboard": [
+          {
+            "key": "attack_speed",
+            "value": 37.0,
+            "valueStr": null
+          },
+          {
+            "key": "prob",
+            "value": 0.3,
+            "valueStr": null
+          },
+          {
+            "key": "cost",
+            "value": 1.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Improvisation",
+        "rangeId": null,
+        "description": "Gain <@ba.vup>{prob:0%}</> Physical Dodge, ASPD +<@ba.vup>{attack_speed}</>, and obtain <@ba.vup>{cost}</> DP with every attack",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 29,
+          "initSp": 11,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_chilc_2",
+        "duration": 10.0,
+        "blackboard": [
+          {
+            "key": "attack_speed",
+            "value": 39.0,
+            "valueStr": null
+          },
+          {
+            "key": "prob",
+            "value": 0.3,
+            "valueStr": null
+          },
+          {
+            "key": "cost",
+            "value": 1.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Improvisation",
+        "rangeId": null,
+        "description": "Gain <@ba.vup>{prob:0%}</> Physical Dodge, ASPD +<@ba.vup>{attack_speed}</>, and obtain <@ba.vup>{cost}</> DP with every attack",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "initSp": 12,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_chilc_2",
+        "duration": 10.0,
+        "blackboard": [
+          {
+            "key": "attack_speed",
+            "value": 42.0,
+            "valueStr": null
+          },
+          {
+            "key": "prob",
+            "value": 0.35,
+            "valueStr": null
+          },
+          {
+            "key": "cost",
+            "value": 1.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Improvisation",
+        "rangeId": null,
+        "description": "Gain <@ba.vup>{prob:0%}</> Physical Dodge, ASPD +<@ba.vup>{attack_speed}</>, and obtain <@ba.vup>{cost}</> DP with every attack",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "initSp": 12,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_chilc_2",
+        "duration": 10.0,
+        "blackboard": [
+          {
+            "key": "attack_speed",
+            "value": 44.0,
+            "valueStr": null
+          },
+          {
+            "key": "prob",
+            "value": 0.35,
+            "valueStr": null
+          },
+          {
+            "key": "cost",
+            "value": 1.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Improvisation",
+        "rangeId": null,
+        "description": "Gain <@ba.vup>{prob:0%}</> Physical Dodge, ASPD +<@ba.vup>{attack_speed}</>, and obtain <@ba.vup>{cost}</> DP with every attack",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "initSp": 12,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_chilc_2",
+        "duration": 10.0,
+        "blackboard": [
+          {
+            "key": "attack_speed",
+            "value": 46.0,
+            "valueStr": null
+          },
+          {
+            "key": "prob",
+            "value": 0.35,
+            "valueStr": null
+          },
+          {
+            "key": "cost",
+            "value": 1.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Improvisation",
+        "rangeId": null,
+        "description": "Gain <@ba.vup>{prob:0%}</> Physical Dodge, ASPD +<@ba.vup>{attack_speed}</>, and obtain <@ba.vup>{cost}</> DP with every attack",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "initSp": 14,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_chilc_2",
+        "duration": 10.0,
+        "blackboard": [
+          {
+            "key": "attack_speed",
+            "value": 50.0,
+            "valueStr": null
+          },
+          {
+            "key": "prob",
+            "value": 0.38,
+            "valueStr": null
+          },
+          {
+            "key": "cost",
+            "value": 1.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Improvisation",
+        "rangeId": null,
+        "description": "Gain <@ba.vup>{prob:0%}</> Physical Dodge, ASPD +<@ba.vup>{attack_speed}</>, and obtain <@ba.vup>{cost}</> DP with every attack",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "initSp": 15,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_chilc_2",
+        "duration": 10.0,
+        "blackboard": [
+          {
+            "key": "attack_speed",
+            "value": 54.0,
+            "valueStr": null
+          },
+          {
+            "key": "prob",
+            "value": 0.4,
+            "valueStr": null
+          },
+          {
+            "key": "cost",
+            "value": 1.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Improvisation",
+        "rangeId": null,
+        "description": "Gain <@ba.vup>{prob:0%}</> Physical Dodge, ASPD +<@ba.vup>{attack_speed}</>, and obtain <@ba.vup>{cost}</> DP with every attack",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 23,
+          "initSp": 16,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_chilc_2",
+        "duration": 10.0,
+        "blackboard": [
+          {
+            "key": "attack_speed",
+            "value": 57.0,
+            "valueStr": null
+          },
+          {
+            "key": "prob",
+            "value": 0.42,
+            "valueStr": null
+          },
+          {
+            "key": "cost",
+            "value": 1.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Improvisation",
+        "rangeId": null,
+        "description": "Gain <@ba.vup>{prob:0%}</> Physical Dodge, ASPD +<@ba.vup>{attack_speed}</>, and obtain <@ba.vup>{cost}</> DP with every attack",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "initSp": 17,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_chilc_2",
+        "duration": 10.0,
+        "blackboard": [
+          {
+            "key": "attack_speed",
+            "value": 60.0,
+            "valueStr": null
+          },
+          {
+            "key": "prob",
+            "value": 0.45,
+            "valueStr": null
+          },
+          {
+            "key": "cost",
+            "value": 1.0,
+            "valueStr": null
+          }
+        ]
+      }
+    ]
+  },
   "skchr_swire_1": {
     "skillId": "skchr_swire_1",
     "iconId": null,
@@ -49342,6 +50236,600 @@
           {
             "key": "attack@atk_scale",
             "value": 3.0,
+            "valueStr": null
+          }
+        ]
+      }
+    ]
+  },
+  "skchr_laios_1": {
+    "skillId": "skchr_laios_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "Cowardly Kensuke",
+        "rangeId": null,
+        "description": "When HP is above <@ba.vup>{peak_performance.hp_ratio:0%}</>, gains <$ba.strong>Vigor</> effect of <@ba.vup>+{peak_performance.atk:0%}</> ATK\nThe first time a Leader enemy appears on the field, Laios cannot attack for <@ba.vdown>15</> seconds",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_laios_1",
+        "duration": 15.0,
+        "blackboard": [
+          {
+            "key": "peak_performance.hp_ratio",
+            "value": 0.75,
+            "valueStr": null
+          },
+          {
+            "key": "peak_performance.atk",
+            "value": 0.25,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Cowardly Kensuke",
+        "rangeId": null,
+        "description": "When HP is above <@ba.vup>{peak_performance.hp_ratio:0%}</>, gains <$ba.strong>Vigor</> effect of <@ba.vup>+{peak_performance.atk:0%}</> ATK\nThe first time a Leader enemy appears on the field, Laios cannot attack for <@ba.vdown>15</> seconds",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_laios_1",
+        "duration": 15.0,
+        "blackboard": [
+          {
+            "key": "peak_performance.hp_ratio",
+            "value": 0.7,
+            "valueStr": null
+          },
+          {
+            "key": "peak_performance.atk",
+            "value": 0.25,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Cowardly Kensuke",
+        "rangeId": null,
+        "description": "When HP is above <@ba.vup>{peak_performance.hp_ratio:0%}</>, gains <$ba.strong>Vigor</> effect of <@ba.vup>+{peak_performance.atk:0%}</> ATK\nThe first time a Leader enemy appears on the field, Laios cannot attack for <@ba.vdown>15</> seconds",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_laios_1",
+        "duration": 15.0,
+        "blackboard": [
+          {
+            "key": "peak_performance.hp_ratio",
+            "value": 0.7,
+            "valueStr": null
+          },
+          {
+            "key": "peak_performance.atk",
+            "value": 0.3,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Cowardly Kensuke",
+        "rangeId": null,
+        "description": "When HP is above <@ba.vup>{peak_performance.hp_ratio:0%}</>, gains <$ba.strong>Vigor</> effect of <@ba.vup>+{peak_performance.atk:0%}</> ATK\nThe first time a Leader enemy appears on the field, Laios cannot attack for <@ba.vdown>15</> seconds",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_laios_1",
+        "duration": 15.0,
+        "blackboard": [
+          {
+            "key": "peak_performance.hp_ratio",
+            "value": 0.65,
+            "valueStr": null
+          },
+          {
+            "key": "peak_performance.atk",
+            "value": 0.3,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Cowardly Kensuke",
+        "rangeId": null,
+        "description": "When HP is above <@ba.vup>{peak_performance.hp_ratio:0%}</>, gains <$ba.strong>Vigor</> effect of <@ba.vup>+{peak_performance.atk:0%}</> ATK\nThe first time a Leader enemy appears on the field, Laios cannot attack for <@ba.vdown>15</> seconds",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_laios_1",
+        "duration": 15.0,
+        "blackboard": [
+          {
+            "key": "peak_performance.hp_ratio",
+            "value": 0.65,
+            "valueStr": null
+          },
+          {
+            "key": "peak_performance.atk",
+            "value": 0.35,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Cowardly Kensuke",
+        "rangeId": null,
+        "description": "When HP is above <@ba.vup>{peak_performance.hp_ratio:0%}</>, gains <$ba.strong>Vigor</> effect of <@ba.vup>+{peak_performance.atk:0%}</> ATK\nThe first time a Leader enemy appears on the field, Laios cannot attack for <@ba.vdown>15</> seconds",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_laios_1",
+        "duration": 15.0,
+        "blackboard": [
+          {
+            "key": "peak_performance.hp_ratio",
+            "value": 0.6,
+            "valueStr": null
+          },
+          {
+            "key": "peak_performance.atk",
+            "value": 0.35,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Cowardly Kensuke",
+        "rangeId": null,
+        "description": "When HP is above <@ba.vup>{peak_performance.hp_ratio:0%}</>, gains <$ba.strong>Vigor</> effect of <@ba.vup>+{peak_performance.atk:0%}</> ATK\nThe first time a Leader enemy appears on the field, Laios cannot attack for <@ba.vdown>15</> seconds",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_laios_1",
+        "duration": 15.0,
+        "blackboard": [
+          {
+            "key": "peak_performance.hp_ratio",
+            "value": 0.5,
+            "valueStr": null
+          },
+          {
+            "key": "peak_performance.atk",
+            "value": 0.5,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Cowardly Kensuke",
+        "rangeId": null,
+        "description": "When HP is above <@ba.vup>{peak_performance.hp_ratio:0%}</>, gains <$ba.strong>Vigor</> effect of <@ba.vup>+{peak_performance.atk:0%}</> ATK\nThe first time a Leader enemy appears on the field, Laios cannot attack for <@ba.vdown>15</> seconds",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_laios_1",
+        "duration": 15.0,
+        "blackboard": [
+          {
+            "key": "peak_performance.hp_ratio",
+            "value": 0.5,
+            "valueStr": null
+          },
+          {
+            "key": "peak_performance.atk",
+            "value": 0.55,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Cowardly Kensuke",
+        "rangeId": null,
+        "description": "When HP is above <@ba.vup>{peak_performance.hp_ratio:0%}</>, gains <$ba.strong>Vigor</> effect of <@ba.vup>+{peak_performance.atk:0%}</> ATK\nThe first time a Leader enemy appears on the field, Laios cannot attack for <@ba.vdown>15</> seconds",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_laios_1",
+        "duration": 15.0,
+        "blackboard": [
+          {
+            "key": "peak_performance.hp_ratio",
+            "value": 0.5,
+            "valueStr": null
+          },
+          {
+            "key": "peak_performance.atk",
+            "value": 0.6,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Cowardly Kensuke",
+        "rangeId": null,
+        "description": "When HP is above <@ba.vup>{peak_performance.hp_ratio:0%}</>, gains <$ba.strong>Vigor</> effect of <@ba.vup>+{peak_performance.atk:0%}</> ATK\nThe first time a Leader enemy appears on the field, Laios cannot attack for <@ba.vdown>15</> seconds",
+        "skillType": "PASSIVE",
+        "durationType": "NONE",
+        "spData": {
+          "spType": 8,
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 0,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_laios_1",
+        "duration": 15.0,
+        "blackboard": [
+          {
+            "key": "peak_performance.hp_ratio",
+            "value": 0.5,
+            "valueStr": null
+          },
+          {
+            "key": "peak_performance.atk",
+            "value": 0.7,
+            "valueStr": null
+          }
+        ]
+      }
+    ]
+  },
+  "skchr_laios_2": {
+    "skillId": "skchr_laios_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "Intimidation Tactics",
+        "rangeId": null,
+        "description": "Stops attacking; enemies blocked during skill are <$ba.tremble>Frightened</>. Once skill ends, immediately deals <@ba.vup>{atk_scale:0%}</> ATK as Physical damage to blocked enemies",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "initSp": 10,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_laios_2",
+        "duration": 10.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 2.8,
+            "valueStr": null
+          },
+          {
+            "key": "not_combat",
+            "value": 10.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Intimidation Tactics",
+        "rangeId": null,
+        "description": "Stops attacking; enemies blocked during skill are <$ba.tremble>Frightened</>. Once skill ends, immediately deals <@ba.vup>{atk_scale:0%}</> ATK as Physical damage to blocked enemies",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 29,
+          "initSp": 10,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_laios_2",
+        "duration": 10.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 2.9,
+            "valueStr": null
+          },
+          {
+            "key": "not_combat",
+            "value": 10.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Intimidation Tactics",
+        "rangeId": null,
+        "description": "Stops attacking; enemies blocked during skill are <$ba.tremble>Frightened</>. Once skill ends, immediately deals <@ba.vup>{atk_scale:0%}</> ATK as Physical damage to blocked enemies",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "initSp": 10,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_laios_2",
+        "duration": 10.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 3.0,
+            "valueStr": null
+          },
+          {
+            "key": "not_combat",
+            "value": 10.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Intimidation Tactics",
+        "rangeId": null,
+        "description": "Stops attacking; enemies blocked during skill are <$ba.tremble>Frightened</>. Once skill ends, immediately deals <@ba.vup>{atk_scale:0%}</> ATK as Physical damage to blocked enemies",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 27,
+          "initSp": 10,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_laios_2",
+        "duration": 10.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 3.2,
+            "valueStr": null
+          },
+          {
+            "key": "not_combat",
+            "value": 10.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Intimidation Tactics",
+        "rangeId": null,
+        "description": "Stops attacking; enemies blocked during skill are <$ba.tremble>Frightened</>. Once skill ends, immediately deals <@ba.vup>{atk_scale:0%}</> ATK as Physical damage to blocked enemies",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 26,
+          "initSp": 10,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_laios_2",
+        "duration": 10.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 3.4,
+            "valueStr": null
+          },
+          {
+            "key": "not_combat",
+            "value": 10.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Intimidation Tactics",
+        "rangeId": null,
+        "description": "Stops attacking; enemies blocked during skill are <$ba.tremble>Frightened</>. Once skill ends, immediately deals <@ba.vup>{atk_scale:0%}</> ATK as Physical damage to blocked enemies",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 24,
+          "initSp": 10,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_laios_2",
+        "duration": 10.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 3.6,
+            "valueStr": null
+          },
+          {
+            "key": "not_combat",
+            "value": 10.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Intimidation Tactics",
+        "rangeId": null,
+        "description": "Stops attacking; enemies blocked during skill are <$ba.tremble>Frightened</>. Once skill ends, immediately deals <@ba.vup>{atk_scale:0%}</> ATK as Physical damage to blocked enemies",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "initSp": 10,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_laios_2",
+        "duration": 10.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 3.8,
+            "valueStr": null
+          },
+          {
+            "key": "not_combat",
+            "value": 10.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Intimidation Tactics",
+        "rangeId": null,
+        "description": "Stops attacking; enemies blocked during skill are <$ba.tremble>Frightened</>. Once skill ends, immediately deals <@ba.vup>{atk_scale:0%}</> ATK as Physical damage to blocked enemies",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "initSp": 10,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_laios_2",
+        "duration": 10.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 4.0,
+            "valueStr": null
+          },
+          {
+            "key": "not_combat",
+            "value": 10.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Intimidation Tactics",
+        "rangeId": null,
+        "description": "Stops attacking; enemies blocked during skill are <$ba.tremble>Frightened</>. Once skill ends, immediately deals <@ba.vup>{atk_scale:0%}</> ATK as Physical damage to blocked enemies",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 18,
+          "initSp": 10,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_laios_2",
+        "duration": 10.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 4.2,
+            "valueStr": null
+          },
+          {
+            "key": "not_combat",
+            "value": 10.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Intimidation Tactics",
+        "rangeId": null,
+        "description": "Stops attacking; enemies blocked during skill are <$ba.tremble>Frightened</>. Once skill ends, immediately deals <@ba.vup>{atk_scale:0%}</> ATK as Physical damage to blocked enemies",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 16,
+          "initSp": 10,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_laios_2",
+        "duration": 10.0,
+        "blackboard": [
+          {
+            "key": "atk_scale",
+            "value": 4.5,
+            "valueStr": null
+          },
+          {
+            "key": "not_combat",
+            "value": 10.0,
             "valueStr": null
           }
         ]
@@ -98708,6 +100196,800 @@
           {
             "key": "attack@scale",
             "value": 0.6,
+            "valueStr": null
+          }
+        ]
+      }
+    ]
+  },
+  "skchr_sensi_1": {
+    "skillId": "skchr_sensi_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "A Meal For One",
+        "rangeId": "x-4",
+        "description": "Begins cooking and stops attacking for 3 seconds. After cooking is complete, restores HP equal to <@ba.vup>{heal_scale:0%}</> ATK to one allied unit within range, and grant them one of the following buffs at random: ATK <@ba.vup>+{atk:0%}</>, ASPD <@ba.vup>+{attack_speed:0}</>, or Max HP <@ba.vup>+{max_hp:0%}</> for <@ba.vup>{up_duration:0}</> seconds",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_sensi_1",
+        "duration": 3.0,
+        "blackboard": [
+          {
+            "key": "heal_scale",
+            "value": 1.9,
+            "valueStr": null
+          },
+          {
+            "key": "atk",
+            "value": 0.11,
+            "valueStr": null
+          },
+          {
+            "key": "attack_speed",
+            "value": 11.0,
+            "valueStr": null
+          },
+          {
+            "key": "max_hp",
+            "value": 0.16,
+            "valueStr": null
+          },
+          {
+            "key": "up_duration",
+            "value": 6.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "A Meal For One",
+        "rangeId": "x-4",
+        "description": "Begins cooking and stops attacking for 3 seconds. After cooking is complete, restores HP equal to <@ba.vup>{heal_scale:0%}</> ATK to one allied unit within range, and grant them one of the following buffs at random: ATK <@ba.vup>+{atk:0%}</>, ASPD <@ba.vup>+{attack_speed:0}</>, or Max HP <@ba.vup>+{max_hp:0%}</> for <@ba.vup>{up_duration:0}</> seconds",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_sensi_1",
+        "duration": 3.0,
+        "blackboard": [
+          {
+            "key": "heal_scale",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk",
+            "value": 0.12,
+            "valueStr": null
+          },
+          {
+            "key": "attack_speed",
+            "value": 12.0,
+            "valueStr": null
+          },
+          {
+            "key": "max_hp",
+            "value": 0.17,
+            "valueStr": null
+          },
+          {
+            "key": "up_duration",
+            "value": 6.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "A Meal For One",
+        "rangeId": "x-4",
+        "description": "Begins cooking and stops attacking for 3 seconds. After cooking is complete, restores HP equal to <@ba.vup>{heal_scale:0%}</> ATK to one allied unit within range, and grant them one of the following buffs at random: ATK <@ba.vup>+{atk:0%}</>, ASPD <@ba.vup>+{attack_speed:0}</>, or Max HP <@ba.vup>+{max_hp:0%}</> for <@ba.vup>{up_duration:0}</> seconds",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 10,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_sensi_1",
+        "duration": 3.0,
+        "blackboard": [
+          {
+            "key": "heal_scale",
+            "value": 2.1,
+            "valueStr": null
+          },
+          {
+            "key": "atk",
+            "value": 0.13,
+            "valueStr": null
+          },
+          {
+            "key": "attack_speed",
+            "value": 13.0,
+            "valueStr": null
+          },
+          {
+            "key": "max_hp",
+            "value": 0.18,
+            "valueStr": null
+          },
+          {
+            "key": "up_duration",
+            "value": 6.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "A Meal For One",
+        "rangeId": "x-4",
+        "description": "Begins cooking and stops attacking for 3 seconds. After cooking is complete, restores HP equal to <@ba.vup>{heal_scale:0%}</> ATK to one allied unit within range, and grant them one of the following buffs at random: ATK <@ba.vup>+{atk:0%}</>, ASPD <@ba.vup>+{attack_speed:0}</>, or Max HP <@ba.vup>+{max_hp:0%}</> for <@ba.vup>{up_duration:0}</> seconds",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_sensi_1",
+        "duration": 3.0,
+        "blackboard": [
+          {
+            "key": "heal_scale",
+            "value": 2.2,
+            "valueStr": null
+          },
+          {
+            "key": "atk",
+            "value": 0.14,
+            "valueStr": null
+          },
+          {
+            "key": "attack_speed",
+            "value": 14.0,
+            "valueStr": null
+          },
+          {
+            "key": "max_hp",
+            "value": 0.19,
+            "valueStr": null
+          },
+          {
+            "key": "up_duration",
+            "value": 7.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "A Meal For One",
+        "rangeId": "x-4",
+        "description": "Begins cooking and stops attacking for 3 seconds. After cooking is complete, restores HP equal to <@ba.vup>{heal_scale:0%}</> ATK to one allied unit within range, and grant them one of the following buffs at random: ATK <@ba.vup>+{atk:0%}</>, ASPD <@ba.vup>+{attack_speed:0}</>, or Max HP <@ba.vup>+{max_hp:0%}</> for <@ba.vup>{up_duration:0}</> seconds",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_sensi_1",
+        "duration": 3.0,
+        "blackboard": [
+          {
+            "key": "heal_scale",
+            "value": 2.3,
+            "valueStr": null
+          },
+          {
+            "key": "atk",
+            "value": 0.15,
+            "valueStr": null
+          },
+          {
+            "key": "attack_speed",
+            "value": 15.0,
+            "valueStr": null
+          },
+          {
+            "key": "max_hp",
+            "value": 0.2,
+            "valueStr": null
+          },
+          {
+            "key": "up_duration",
+            "value": 7.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "A Meal For One",
+        "rangeId": "x-4",
+        "description": "Begins cooking and stops attacking for 3 seconds. After cooking is complete, restores HP equal to <@ba.vup>{heal_scale:0%}</> ATK to one allied unit within range, and grant them one of the following buffs at random: ATK <@ba.vup>+{atk:0%}</>, ASPD <@ba.vup>+{attack_speed:0}</>, or Max HP <@ba.vup>+{max_hp:0%}</> for <@ba.vup>{up_duration:0}</> seconds",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_sensi_1",
+        "duration": 3.0,
+        "blackboard": [
+          {
+            "key": "heal_scale",
+            "value": 2.4,
+            "valueStr": null
+          },
+          {
+            "key": "atk",
+            "value": 0.16,
+            "valueStr": null
+          },
+          {
+            "key": "attack_speed",
+            "value": 16.0,
+            "valueStr": null
+          },
+          {
+            "key": "max_hp",
+            "value": 0.21,
+            "valueStr": null
+          },
+          {
+            "key": "up_duration",
+            "value": 7.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "A Meal For One",
+        "rangeId": "x-4",
+        "description": "Begins cooking and stops attacking for 3 seconds. After cooking is complete, restores HP equal to <@ba.vup>{heal_scale:0%}</> ATK to one allied unit within range, and grant them one of the following buffs at random: ATK <@ba.vup>+{atk:0%}</>, ASPD <@ba.vup>+{attack_speed:0}</>, or Max HP <@ba.vup>+{max_hp:0%}</> for <@ba.vup>{up_duration:0}</> seconds",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 8,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_sensi_1",
+        "duration": 3.0,
+        "blackboard": [
+          {
+            "key": "heal_scale",
+            "value": 2.5,
+            "valueStr": null
+          },
+          {
+            "key": "atk",
+            "value": 0.17,
+            "valueStr": null
+          },
+          {
+            "key": "attack_speed",
+            "value": 17.0,
+            "valueStr": null
+          },
+          {
+            "key": "max_hp",
+            "value": 0.22,
+            "valueStr": null
+          },
+          {
+            "key": "up_duration",
+            "value": 8.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "A Meal For One",
+        "rangeId": "x-4",
+        "description": "Begins cooking and stops attacking for 3 seconds. After cooking is complete, restores HP equal to <@ba.vup>{heal_scale:0%}</> ATK to one allied unit within range, and grant them one of the following buffs at random: ATK <@ba.vup>+{atk:0%}</>, ASPD <@ba.vup>+{attack_speed:0}</>, or Max HP <@ba.vup>+{max_hp:0%}</> for <@ba.vup>{up_duration:0}</> seconds",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_sensi_1",
+        "duration": 3.0,
+        "blackboard": [
+          {
+            "key": "heal_scale",
+            "value": 2.6,
+            "valueStr": null
+          },
+          {
+            "key": "atk",
+            "value": 0.18,
+            "valueStr": null
+          },
+          {
+            "key": "attack_speed",
+            "value": 18.0,
+            "valueStr": null
+          },
+          {
+            "key": "max_hp",
+            "value": 0.23,
+            "valueStr": null
+          },
+          {
+            "key": "up_duration",
+            "value": 8.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "A Meal For One",
+        "rangeId": "x-4",
+        "description": "Begins cooking and stops attacking for 3 seconds. After cooking is complete, restores HP equal to <@ba.vup>{heal_scale:0%}</> ATK to one allied unit within range, and grant them one of the following buffs at random: ATK <@ba.vup>+{atk:0%}</>, ASPD <@ba.vup>+{attack_speed:0}</>, or Max HP <@ba.vup>+{max_hp:0%}</> for <@ba.vup>{up_duration:0}</> seconds",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_sensi_1",
+        "duration": 3.0,
+        "blackboard": [
+          {
+            "key": "heal_scale",
+            "value": 2.7,
+            "valueStr": null
+          },
+          {
+            "key": "atk",
+            "value": 0.19,
+            "valueStr": null
+          },
+          {
+            "key": "attack_speed",
+            "value": 19.0,
+            "valueStr": null
+          },
+          {
+            "key": "max_hp",
+            "value": 0.24,
+            "valueStr": null
+          },
+          {
+            "key": "up_duration",
+            "value": 8.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "A Meal For One",
+        "rangeId": "x-4",
+        "description": "Begins cooking and stops attacking for 3 seconds. After cooking is complete, restores HP equal to <@ba.vup>{heal_scale:0%}</> ATK to one allied unit within range, and grant them one of the following buffs at random: ATK <@ba.vup>+{atk:0%}</>, ASPD <@ba.vup>+{attack_speed:0}</>, or Max HP <@ba.vup>+{max_hp:0%}</> for <@ba.vup>{up_duration:0}</> seconds",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 6,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_sensi_1",
+        "duration": 3.0,
+        "blackboard": [
+          {
+            "key": "heal_scale",
+            "value": 2.8,
+            "valueStr": null
+          },
+          {
+            "key": "atk",
+            "value": 0.2,
+            "valueStr": null
+          },
+          {
+            "key": "attack_speed",
+            "value": 20.0,
+            "valueStr": null
+          },
+          {
+            "key": "max_hp",
+            "value": 0.25,
+            "valueStr": null
+          },
+          {
+            "key": "up_duration",
+            "value": 8.0,
+            "valueStr": null
+          }
+        ]
+      }
+    ]
+  },
+  "skchr_sensi_2": {
+    "skillId": "skchr_sensi_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "Monster Meals For Many",
+        "rangeId": "x-4",
+        "description": "Begins cooking and stops attacking for 10 seconds. During cooking, all allied units within range recover HP equal to <@ba.vup>{tick_heal_scale:0%}</> of Senshi's ATK every second. Afterward, heal all allied units within a certain range once for <@ba.vup>{heal_scale:0%}</> ATK and restore <@ba.vup>{magic_sp:0}</> <$ba.magicpoint>Mana</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 35,
+          "initSp": 6,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_sensi_2",
+        "duration": 10.0,
+        "blackboard": [
+          {
+            "key": "tick_heal_scale",
+            "value": 0.26,
+            "valueStr": null
+          },
+          {
+            "key": "heal_scale",
+            "value": 1.1,
+            "valueStr": null
+          },
+          {
+            "key": "magic_sp",
+            "value": 6.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Monster Meals For Many",
+        "rangeId": "x-4",
+        "description": "Begins cooking and stops attacking for 10 seconds. During cooking, all allied units within range recover HP equal to <@ba.vup>{tick_heal_scale:0%}</> of Senshi's ATK every second. Afterward, heal all allied units within a certain range once for <@ba.vup>{heal_scale:0%}</> ATK and restore <@ba.vup>{magic_sp:0}</> <$ba.magicpoint>Mana</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "initSp": 6,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_sensi_2",
+        "duration": 10.0,
+        "blackboard": [
+          {
+            "key": "tick_heal_scale",
+            "value": 0.28,
+            "valueStr": null
+          },
+          {
+            "key": "heal_scale",
+            "value": 1.15,
+            "valueStr": null
+          },
+          {
+            "key": "magic_sp",
+            "value": 6.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Monster Meals For Many",
+        "rangeId": "x-4",
+        "description": "Begins cooking and stops attacking for 10 seconds. During cooking, all allied units within range recover HP equal to <@ba.vup>{tick_heal_scale:0%}</> of Senshi's ATK every second. Afterward, heal all allied units within a certain range once for <@ba.vup>{heal_scale:0%}</> ATK and restore <@ba.vup>{magic_sp:0}</> <$ba.magicpoint>Mana</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 32,
+          "initSp": 6,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_sensi_2",
+        "duration": 10.0,
+        "blackboard": [
+          {
+            "key": "tick_heal_scale",
+            "value": 0.3,
+            "valueStr": null
+          },
+          {
+            "key": "heal_scale",
+            "value": 1.2,
+            "valueStr": null
+          },
+          {
+            "key": "magic_sp",
+            "value": 6.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Monster Meals For Many",
+        "rangeId": "x-4",
+        "description": "Begins cooking and stops attacking for 10 seconds. During cooking, all allied units within range recover HP equal to <@ba.vup>{tick_heal_scale:0%}</> of Senshi's ATK every second. Afterward, heal all allied units within a certain range once for <@ba.vup>{heal_scale:0%}</> ATK and restore <@ba.vup>{magic_sp:0}</> <$ba.magicpoint>Mana</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "initSp": 6,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_sensi_2",
+        "duration": 10.0,
+        "blackboard": [
+          {
+            "key": "tick_heal_scale",
+            "value": 0.32,
+            "valueStr": null
+          },
+          {
+            "key": "heal_scale",
+            "value": 1.3,
+            "valueStr": null
+          },
+          {
+            "key": "magic_sp",
+            "value": 8.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Monster Meals For Many",
+        "rangeId": "x-4",
+        "description": "Begins cooking and stops attacking for 10 seconds. During cooking, all allied units within range recover HP equal to <@ba.vup>{tick_heal_scale:0%}</> of Senshi's ATK every second. Afterward, heal all allied units within a certain range once for <@ba.vup>{heal_scale:0%}</> ATK and restore <@ba.vup>{magic_sp:0}</> <$ba.magicpoint>Mana</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 28,
+          "initSp": 8,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_sensi_2",
+        "duration": 10.0,
+        "blackboard": [
+          {
+            "key": "tick_heal_scale",
+            "value": 0.34,
+            "valueStr": null
+          },
+          {
+            "key": "heal_scale",
+            "value": 1.35,
+            "valueStr": null
+          },
+          {
+            "key": "magic_sp",
+            "value": 8.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Monster Meals For Many",
+        "rangeId": "x-4",
+        "description": "Begins cooking and stops attacking for 10 seconds. During cooking, all allied units within range recover HP equal to <@ba.vup>{tick_heal_scale:0%}</> of Senshi's ATK every second. Afterward, heal all allied units within a certain range once for <@ba.vup>{heal_scale:0%}</> ATK and restore <@ba.vup>{magic_sp:0}</> <$ba.magicpoint>Mana</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "initSp": 8,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_sensi_2",
+        "duration": 10.0,
+        "blackboard": [
+          {
+            "key": "tick_heal_scale",
+            "value": 0.36,
+            "valueStr": null
+          },
+          {
+            "key": "heal_scale",
+            "value": 1.4,
+            "valueStr": null
+          },
+          {
+            "key": "magic_sp",
+            "value": 8.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Monster Meals For Many",
+        "rangeId": "x-4",
+        "description": "Begins cooking and stops attacking for 10 seconds. During cooking, all allied units within range recover HP equal to <@ba.vup>{tick_heal_scale:0%}</> of Senshi's ATK every second. Afterward, heal all allied units within a certain range once for <@ba.vup>{heal_scale:0%}</> ATK and restore <@ba.vup>{magic_sp:0}</> <$ba.magicpoint>Mana</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 25,
+          "initSp": 8,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_sensi_2",
+        "duration": 10.0,
+        "blackboard": [
+          {
+            "key": "tick_heal_scale",
+            "value": 0.38,
+            "valueStr": null
+          },
+          {
+            "key": "heal_scale",
+            "value": 1.5,
+            "valueStr": null
+          },
+          {
+            "key": "magic_sp",
+            "value": 10.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Monster Meals For Many",
+        "rangeId": "x-4",
+        "description": "Begins cooking and stops attacking for 10 seconds. During cooking, all allied units within range recover HP equal to <@ba.vup>{tick_heal_scale:0%}</> of Senshi's ATK every second. Afterward, heal all allied units within a certain range once for <@ba.vup>{heal_scale:0%}</> ATK and restore <@ba.vup>{magic_sp:0}</> <$ba.magicpoint>Mana</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "initSp": 10,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_sensi_2",
+        "duration": 10.0,
+        "blackboard": [
+          {
+            "key": "tick_heal_scale",
+            "value": 0.4,
+            "valueStr": null
+          },
+          {
+            "key": "heal_scale",
+            "value": 1.6,
+            "valueStr": null
+          },
+          {
+            "key": "magic_sp",
+            "value": 10.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Monster Meals For Many",
+        "rangeId": "x-4",
+        "description": "Begins cooking and stops attacking for 10 seconds. During cooking, all allied units within range recover HP equal to <@ba.vup>{tick_heal_scale:0%}</> of Senshi's ATK every second. Afterward, heal all allied units within a certain range once for <@ba.vup>{heal_scale:0%}</> ATK and restore <@ba.vup>{magic_sp:0}</> <$ba.magicpoint>Mana</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 22,
+          "initSp": 10,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_sensi_2",
+        "duration": 10.0,
+        "blackboard": [
+          {
+            "key": "tick_heal_scale",
+            "value": 0.42,
+            "valueStr": null
+          },
+          {
+            "key": "heal_scale",
+            "value": 1.7,
+            "valueStr": null
+          },
+          {
+            "key": "magic_sp",
+            "value": 10.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Monster Meals For Many",
+        "rangeId": "x-4",
+        "description": "Begins cooking and stops attacking for 10 seconds. During cooking, all allied units within range recover HP equal to <@ba.vup>{tick_heal_scale:0%}</> of Senshi's ATK every second. Afterward, heal all allied units within a certain range once for <@ba.vup>{heal_scale:0%}</> ATK and restore <@ba.vup>{magic_sp:0}</> <$ba.magicpoint>Mana</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 20,
+          "initSp": 10,
+          "increment": 1.0
+        },
+        "prefabId": "skchr_sensi_2",
+        "duration": 10.0,
+        "blackboard": [
+          {
+            "key": "tick_heal_scale",
+            "value": 0.45,
+            "valueStr": null
+          },
+          {
+            "key": "heal_scale",
+            "value": 1.8,
+            "valueStr": null
+          },
+          {
+            "key": "magic_sp",
+            "value": 10.0,
             "valueStr": null
           }
         ]
@@ -164217,6 +166499,1847 @@
           {
             "key": "atk",
             "value": 1.2,
+            "valueStr": null
+          }
+        ]
+      }
+    ]
+  },
+  "skchr_marcil_1": {
+    "skillId": "skchr_marcil_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "A Top Student's Abilities",
+        "rangeId": null,
+        "description": "After <$ba.chant>Chanting</> for a short time, activates the skill. Consumes <@ba.vdown>{sp_cost}</> <$ba.magicpoint>Mana</> every attack, and ATK <@ba.vup>+{atk:0%}</>. If there are no enemies within range, heals allied operators instead\n<@ba.rem>Skill can be manually deactivated</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "initSp": 25,
+          "increment": 0.0
+        },
+        "prefabId": "skchr_marcil_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "chant_duration",
+            "value": 1.5,
+            "valueStr": null
+          },
+          {
+            "key": "skill_cost_min_sp",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_init",
+            "value": 25.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk",
+            "value": 0.4,
+            "valueStr": null
+          },
+          {
+            "key": "sp_cost",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_max",
+            "value": 80.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "A Top Student's Abilities",
+        "rangeId": null,
+        "description": "After <$ba.chant>Chanting</> for a short time, activates the skill. Consumes <@ba.vdown>{sp_cost}</> <$ba.magicpoint>Mana</> every attack, and ATK <@ba.vup>+{atk:0%}</>. If there are no enemies within range, heals allied operators instead\n<@ba.rem>Skill can be manually deactivated</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "initSp": 25,
+          "increment": 0.0
+        },
+        "prefabId": "skchr_marcil_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "chant_duration",
+            "value": 1.5,
+            "valueStr": null
+          },
+          {
+            "key": "skill_cost_min_sp",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_init",
+            "value": 25.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk",
+            "value": 0.45,
+            "valueStr": null
+          },
+          {
+            "key": "sp_cost",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_max",
+            "value": 80.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "A Top Student's Abilities",
+        "rangeId": null,
+        "description": "After <$ba.chant>Chanting</> for a short time, activates the skill. Consumes <@ba.vdown>{sp_cost}</> <$ba.magicpoint>Mana</> every attack, and ATK <@ba.vup>+{atk:0%}</>. If there are no enemies within range, heals allied operators instead\n<@ba.rem>Skill can be manually deactivated</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "initSp": 25,
+          "increment": 0.0
+        },
+        "prefabId": "skchr_marcil_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "chant_duration",
+            "value": 1.5,
+            "valueStr": null
+          },
+          {
+            "key": "skill_cost_min_sp",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_init",
+            "value": 25.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk",
+            "value": 0.5,
+            "valueStr": null
+          },
+          {
+            "key": "sp_cost",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_max",
+            "value": 80.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "A Top Student's Abilities",
+        "rangeId": null,
+        "description": "After <$ba.chant>Chanting</> for a short time, activates the skill. Consumes <@ba.vdown>{sp_cost}</> <$ba.magicpoint>Mana</> every attack, and ATK <@ba.vup>+{atk:0%}</>. If there are no enemies within range, heals allied operators instead\n<@ba.rem>Skill can be manually deactivated</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "initSp": 25,
+          "increment": 0.0
+        },
+        "prefabId": "skchr_marcil_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "chant_duration",
+            "value": 1.5,
+            "valueStr": null
+          },
+          {
+            "key": "skill_cost_min_sp",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_init",
+            "value": 25.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk",
+            "value": 0.55,
+            "valueStr": null
+          },
+          {
+            "key": "sp_cost",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_max",
+            "value": 80.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "A Top Student's Abilities",
+        "rangeId": null,
+        "description": "After <$ba.chant>Chanting</> for a short time, activates the skill. Consumes <@ba.vdown>{sp_cost}</> <$ba.magicpoint>Mana</> every attack, and ATK <@ba.vup>+{atk:0%}</>. If there are no enemies within range, heals allied operators instead\n<@ba.rem>Skill can be manually deactivated</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "initSp": 25,
+          "increment": 0.0
+        },
+        "prefabId": "skchr_marcil_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "chant_duration",
+            "value": 1.5,
+            "valueStr": null
+          },
+          {
+            "key": "skill_cost_min_sp",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_init",
+            "value": 25.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk",
+            "value": 0.6,
+            "valueStr": null
+          },
+          {
+            "key": "sp_cost",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_max",
+            "value": 80.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "A Top Student's Abilities",
+        "rangeId": null,
+        "description": "After <$ba.chant>Chanting</> for a short time, activates the skill. Consumes <@ba.vdown>{sp_cost}</> <$ba.magicpoint>Mana</> every attack, and ATK <@ba.vup>+{atk:0%}</>. If there are no enemies within range, heals allied operators instead\n<@ba.rem>Skill can be manually deactivated</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "initSp": 25,
+          "increment": 0.0
+        },
+        "prefabId": "skchr_marcil_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "chant_duration",
+            "value": 1.5,
+            "valueStr": null
+          },
+          {
+            "key": "skill_cost_min_sp",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_init",
+            "value": 25.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk",
+            "value": 0.7,
+            "valueStr": null
+          },
+          {
+            "key": "sp_cost",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_max",
+            "value": 80.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "A Top Student's Abilities",
+        "rangeId": null,
+        "description": "After <$ba.chant>Chanting</> for a short time, activates the skill. Consumes <@ba.vdown>{sp_cost}</> <$ba.magicpoint>Mana</> every attack, and ATK <@ba.vup>+{atk:0%}</>. If there are no enemies within range, heals allied operators instead\n<@ba.rem>Skill can be manually deactivated</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "initSp": 25,
+          "increment": 0.0
+        },
+        "prefabId": "skchr_marcil_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "chant_duration",
+            "value": 1.5,
+            "valueStr": null
+          },
+          {
+            "key": "skill_cost_min_sp",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_init",
+            "value": 25.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk",
+            "value": 0.85,
+            "valueStr": null
+          },
+          {
+            "key": "sp_cost",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_max",
+            "value": 80.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "A Top Student's Abilities",
+        "rangeId": null,
+        "description": "After <$ba.chant>Chanting</> for a short time, activates the skill. Consumes <@ba.vdown>{sp_cost}</> <$ba.magicpoint>Mana</> every attack, and ATK <@ba.vup>+{atk:0%}</>. If there are no enemies within range, heals allied operators instead\n<@ba.rem>Skill can be manually deactivated</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "initSp": 25,
+          "increment": 0.0
+        },
+        "prefabId": "skchr_marcil_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "chant_duration",
+            "value": 1.5,
+            "valueStr": null
+          },
+          {
+            "key": "skill_cost_min_sp",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_init",
+            "value": 25.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "sp_cost",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_max",
+            "value": 80.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "A Top Student's Abilities",
+        "rangeId": null,
+        "description": "After <$ba.chant>Chanting</> for a short time, activates the skill. Consumes <@ba.vdown>{sp_cost}</> <$ba.magicpoint>Mana</> every attack, and ATK <@ba.vup>+{atk:0%}</>. If there are no enemies within range, heals allied operators instead\n<@ba.rem>Skill can be manually deactivated</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "initSp": 25,
+          "increment": 0.0
+        },
+        "prefabId": "skchr_marcil_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "chant_duration",
+            "value": 1.5,
+            "valueStr": null
+          },
+          {
+            "key": "skill_cost_min_sp",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_init",
+            "value": 25.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk",
+            "value": 1.2,
+            "valueStr": null
+          },
+          {
+            "key": "sp_cost",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_max",
+            "value": 80.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "A Top Student's Abilities",
+        "rangeId": null,
+        "description": "After <$ba.chant>Chanting</> for a short time, activates the skill. Consumes <@ba.vdown>{sp_cost}</> <$ba.magicpoint>Mana</> every attack, and ATK <@ba.vup>+{atk:0%}</>. If there are no enemies within range, heals allied operators instead\n<@ba.rem>Skill can be manually deactivated</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "initSp": 25,
+          "increment": 0.0
+        },
+        "prefabId": "skchr_marcil_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "chant_duration",
+            "value": 1.5,
+            "valueStr": null
+          },
+          {
+            "key": "skill_cost_min_sp",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_init",
+            "value": 25.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk",
+            "value": 1.4,
+            "valueStr": null
+          },
+          {
+            "key": "sp_cost",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_max",
+            "value": 80.0,
+            "valueStr": null
+          }
+        ]
+      }
+    ]
+  },
+  "skchr_marcil_2": {
+    "skillId": "skchr_marcil_2",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "Summon Familiar",
+        "rangeId": null,
+        "description": "After <$ba.chant>Chanting</> for <@ba.vdown>{chant_duration}</>s, consumes <@ba.vdown>{sp_cost}</> <$ba.magicpoint>Mana</> to create a familiar to attack; ATK <@ba.vup>+{atk:0%}</>, attacks <$ba.sluggish>Slow</> all targets for <@ba.vup>{attack@sluggish}</>s.\nSkill can be activated again to upgrade the familiar; attack range <@ba.vup>+1</>, ASPD <@ba.vup>+{attack_speed}</>, attacks <$ba.stun>Stun</> the main target for <@ba.vup>{attack@stun}</>s\n<@ba.rem>Unlimited duration. Skill can be manually deactivated during first activation</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "initSp": 10,
+          "increment": 0.0
+        },
+        "prefabId": "skchr_marcil_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "chant_duration",
+            "value": 11.0,
+            "valueStr": null
+          },
+          {
+            "key": "skill_cost_min_sp",
+            "value": 35.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_init",
+            "value": 10.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk",
+            "value": 0.4,
+            "valueStr": null
+          },
+          {
+            "key": "attack@sluggish",
+            "value": 0.5,
+            "valueStr": null
+          },
+          {
+            "key": "attack_speed",
+            "value": 30.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@stun",
+            "value": 0.5,
+            "valueStr": null
+          },
+          {
+            "key": "sp_cost",
+            "value": 35.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_max",
+            "value": 80.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Summon Familiar",
+        "rangeId": null,
+        "description": "After <$ba.chant>Chanting</> for <@ba.vdown>{chant_duration}</>s, consumes <@ba.vdown>{sp_cost}</> <$ba.magicpoint>Mana</> to create a familiar to attack; ATK <@ba.vup>+{atk:0%}</>, attacks <$ba.sluggish>Slow</> all targets for <@ba.vup>{attack@sluggish}</>s.\nSkill can be activated again to upgrade the familiar; attack range <@ba.vup>+1</>, ASPD <@ba.vup>+{attack_speed}</>, attacks <$ba.stun>Stun</> the main target for <@ba.vup>{attack@stun}</>s\n<@ba.rem>Unlimited duration. Skill can be manually deactivated during first activation</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "initSp": 10,
+          "increment": 0.0
+        },
+        "prefabId": "skchr_marcil_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "chant_duration",
+            "value": 11.0,
+            "valueStr": null
+          },
+          {
+            "key": "skill_cost_min_sp",
+            "value": 35.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_init",
+            "value": 10.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk",
+            "value": 0.45,
+            "valueStr": null
+          },
+          {
+            "key": "attack@sluggish",
+            "value": 0.5,
+            "valueStr": null
+          },
+          {
+            "key": "attack_speed",
+            "value": 30.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@stun",
+            "value": 0.5,
+            "valueStr": null
+          },
+          {
+            "key": "sp_cost",
+            "value": 35.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_max",
+            "value": 80.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Summon Familiar",
+        "rangeId": null,
+        "description": "After <$ba.chant>Chanting</> for <@ba.vdown>{chant_duration}</>s, consumes <@ba.vdown>{sp_cost}</> <$ba.magicpoint>Mana</> to create a familiar to attack; ATK <@ba.vup>+{atk:0%}</>, attacks <$ba.sluggish>Slow</> all targets for <@ba.vup>{attack@sluggish}</>s.\nSkill can be activated again to upgrade the familiar; attack range <@ba.vup>+1</>, ASPD <@ba.vup>+{attack_speed}</>, attacks <$ba.stun>Stun</> the main target for <@ba.vup>{attack@stun}</>s\n<@ba.rem>Unlimited duration. Skill can be manually deactivated during first activation</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "initSp": 10,
+          "increment": 0.0
+        },
+        "prefabId": "skchr_marcil_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "chant_duration",
+            "value": 11.0,
+            "valueStr": null
+          },
+          {
+            "key": "skill_cost_min_sp",
+            "value": 35.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_init",
+            "value": 10.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk",
+            "value": 0.5,
+            "valueStr": null
+          },
+          {
+            "key": "attack@sluggish",
+            "value": 0.5,
+            "valueStr": null
+          },
+          {
+            "key": "attack_speed",
+            "value": 30.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@stun",
+            "value": 0.5,
+            "valueStr": null
+          },
+          {
+            "key": "sp_cost",
+            "value": 35.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_max",
+            "value": 80.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Summon Familiar",
+        "rangeId": null,
+        "description": "After <$ba.chant>Chanting</> for <@ba.vdown>{chant_duration}</>s, consumes <@ba.vdown>{sp_cost}</> <$ba.magicpoint>Mana</> to create a familiar to attack; ATK <@ba.vup>+{atk:0%}</>, attacks <$ba.sluggish>Slow</> all targets for <@ba.vup>{attack@sluggish}</>s.\nSkill can be activated again to upgrade the familiar; attack range <@ba.vup>+1</>, ASPD <@ba.vup>+{attack_speed}</>, attacks <$ba.stun>Stun</> the main target for <@ba.vup>{attack@stun}</>s\n<@ba.rem>Unlimited duration. Skill can be manually deactivated during first activation</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "initSp": 10,
+          "increment": 0.0
+        },
+        "prefabId": "skchr_marcil_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "chant_duration",
+            "value": 11.0,
+            "valueStr": null
+          },
+          {
+            "key": "skill_cost_min_sp",
+            "value": 35.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_init",
+            "value": 10.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk",
+            "value": 0.55,
+            "valueStr": null
+          },
+          {
+            "key": "attack@sluggish",
+            "value": 0.5,
+            "valueStr": null
+          },
+          {
+            "key": "attack_speed",
+            "value": 35.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@stun",
+            "value": 0.5,
+            "valueStr": null
+          },
+          {
+            "key": "sp_cost",
+            "value": 35.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_max",
+            "value": 80.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Summon Familiar",
+        "rangeId": null,
+        "description": "After <$ba.chant>Chanting</> for <@ba.vdown>{chant_duration}</>s, consumes <@ba.vdown>{sp_cost}</> <$ba.magicpoint>Mana</> to create a familiar to attack; ATK <@ba.vup>+{atk:0%}</>, attacks <$ba.sluggish>Slow</> all targets for <@ba.vup>{attack@sluggish}</>s.\nSkill can be activated again to upgrade the familiar; attack range <@ba.vup>+1</>, ASPD <@ba.vup>+{attack_speed}</>, attacks <$ba.stun>Stun</> the main target for <@ba.vup>{attack@stun}</>s\n<@ba.rem>Unlimited duration. Skill can be manually deactivated during first activation</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "initSp": 10,
+          "increment": 0.0
+        },
+        "prefabId": "skchr_marcil_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "chant_duration",
+            "value": 11.0,
+            "valueStr": null
+          },
+          {
+            "key": "skill_cost_min_sp",
+            "value": 35.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_init",
+            "value": 10.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk",
+            "value": 0.6,
+            "valueStr": null
+          },
+          {
+            "key": "attack@sluggish",
+            "value": 0.5,
+            "valueStr": null
+          },
+          {
+            "key": "attack_speed",
+            "value": 35.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@stun",
+            "value": 0.5,
+            "valueStr": null
+          },
+          {
+            "key": "sp_cost",
+            "value": 35.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_max",
+            "value": 80.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Summon Familiar",
+        "rangeId": null,
+        "description": "After <$ba.chant>Chanting</> for <@ba.vdown>{chant_duration}</>s, consumes <@ba.vdown>{sp_cost}</> <$ba.magicpoint>Mana</> to create a familiar to attack; ATK <@ba.vup>+{atk:0%}</>, attacks <$ba.sluggish>Slow</> all targets for <@ba.vup>{attack@sluggish}</>s.\nSkill can be activated again to upgrade the familiar; attack range <@ba.vup>+1</>, ASPD <@ba.vup>+{attack_speed}</>, attacks <$ba.stun>Stun</> the main target for <@ba.vup>{attack@stun}</>s\n<@ba.rem>Unlimited duration. Skill can be manually deactivated during first activation</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "initSp": 10,
+          "increment": 0.0
+        },
+        "prefabId": "skchr_marcil_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "chant_duration",
+            "value": 11.0,
+            "valueStr": null
+          },
+          {
+            "key": "skill_cost_min_sp",
+            "value": 35.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_init",
+            "value": 10.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk",
+            "value": 0.65,
+            "valueStr": null
+          },
+          {
+            "key": "attack@sluggish",
+            "value": 0.5,
+            "valueStr": null
+          },
+          {
+            "key": "attack_speed",
+            "value": 35.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@stun",
+            "value": 0.5,
+            "valueStr": null
+          },
+          {
+            "key": "sp_cost",
+            "value": 35.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_max",
+            "value": 80.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Summon Familiar",
+        "rangeId": null,
+        "description": "After <$ba.chant>Chanting</> for <@ba.vdown>{chant_duration}</>s, consumes <@ba.vdown>{sp_cost}</> <$ba.magicpoint>Mana</> to create a familiar to attack; ATK <@ba.vup>+{atk:0%}</>, attacks <$ba.sluggish>Slow</> all targets for <@ba.vup>{attack@sluggish}</>s.\nSkill can be activated again to upgrade the familiar; attack range <@ba.vup>+1</>, ASPD <@ba.vup>+{attack_speed}</>, attacks <$ba.stun>Stun</> the main target for <@ba.vup>{attack@stun}</>s\n<@ba.rem>Unlimited duration. Skill can be manually deactivated during first activation</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "initSp": 10,
+          "increment": 0.0
+        },
+        "prefabId": "skchr_marcil_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "chant_duration",
+            "value": 11.0,
+            "valueStr": null
+          },
+          {
+            "key": "skill_cost_min_sp",
+            "value": 35.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_init",
+            "value": 10.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk",
+            "value": 0.7,
+            "valueStr": null
+          },
+          {
+            "key": "attack@sluggish",
+            "value": 0.5,
+            "valueStr": null
+          },
+          {
+            "key": "attack_speed",
+            "value": 45.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@stun",
+            "value": 0.5,
+            "valueStr": null
+          },
+          {
+            "key": "sp_cost",
+            "value": 35.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_max",
+            "value": 80.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Summon Familiar",
+        "rangeId": null,
+        "description": "After <$ba.chant>Chanting</> for <@ba.vdown>{chant_duration}</>s, consumes <@ba.vdown>{sp_cost}</> <$ba.magicpoint>Mana</> to create a familiar to attack; ATK <@ba.vup>+{atk:0%}</>, attacks <$ba.sluggish>Slow</> all targets for <@ba.vup>{attack@sluggish}</>s.\nSkill can be activated again to upgrade the familiar; attack range <@ba.vup>+1</>, ASPD <@ba.vup>+{attack_speed}</>, attacks <$ba.stun>Stun</> the main target for <@ba.vup>{attack@stun}</>s\n<@ba.rem>Unlimited duration. Skill can be manually deactivated during first activation</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "initSp": 10,
+          "increment": 0.0
+        },
+        "prefabId": "skchr_marcil_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "chant_duration",
+            "value": 11.0,
+            "valueStr": null
+          },
+          {
+            "key": "skill_cost_min_sp",
+            "value": 35.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_init",
+            "value": 10.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk",
+            "value": 0.8,
+            "valueStr": null
+          },
+          {
+            "key": "attack@sluggish",
+            "value": 0.5,
+            "valueStr": null
+          },
+          {
+            "key": "attack_speed",
+            "value": 50.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@stun",
+            "value": 0.5,
+            "valueStr": null
+          },
+          {
+            "key": "sp_cost",
+            "value": 35.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_max",
+            "value": 80.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Summon Familiar",
+        "rangeId": null,
+        "description": "After <$ba.chant>Chanting</> for <@ba.vdown>{chant_duration}</>s, consumes <@ba.vdown>{sp_cost}</> <$ba.magicpoint>Mana</> to create a familiar to attack; ATK <@ba.vup>+{atk:0%}</>, attacks <$ba.sluggish>Slow</> all targets for <@ba.vup>{attack@sluggish}</>s.\nSkill can be activated again to upgrade the familiar; attack range <@ba.vup>+1</>, ASPD <@ba.vup>+{attack_speed}</>, attacks <$ba.stun>Stun</> the main target for <@ba.vup>{attack@stun}</>s\n<@ba.rem>Unlimited duration. Skill can be manually deactivated during first activation</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "initSp": 10,
+          "increment": 0.0
+        },
+        "prefabId": "skchr_marcil_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "chant_duration",
+            "value": 11.0,
+            "valueStr": null
+          },
+          {
+            "key": "skill_cost_min_sp",
+            "value": 35.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_init",
+            "value": 10.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk",
+            "value": 0.9,
+            "valueStr": null
+          },
+          {
+            "key": "attack@sluggish",
+            "value": 0.5,
+            "valueStr": null
+          },
+          {
+            "key": "attack_speed",
+            "value": 55.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@stun",
+            "value": 0.5,
+            "valueStr": null
+          },
+          {
+            "key": "sp_cost",
+            "value": 35.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_max",
+            "value": 80.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Summon Familiar",
+        "rangeId": null,
+        "description": "After <$ba.chant>Chanting</> for <@ba.vdown>{chant_duration}</>s, consumes <@ba.vdown>{sp_cost}</> <$ba.magicpoint>Mana</> to create a familiar to attack; ATK <@ba.vup>+{atk:0%}</>, attacks <$ba.sluggish>Slow</> all targets for <@ba.vup>{attack@sluggish}</>s.\nSkill can be activated again to upgrade the familiar; attack range <@ba.vup>+1</>, ASPD <@ba.vup>+{attack_speed}</>, attacks <$ba.stun>Stun</> the main target for <@ba.vup>{attack@stun}</>s\n<@ba.rem>Unlimited duration. Skill can be manually deactivated during first activation</>",
+        "skillType": "AUTO",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "initSp": 10,
+          "increment": 0.0
+        },
+        "prefabId": "skchr_marcil_2",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "chant_duration",
+            "value": 11.0,
+            "valueStr": null
+          },
+          {
+            "key": "skill_cost_min_sp",
+            "value": 35.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_init",
+            "value": 10.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@sluggish",
+            "value": 0.5,
+            "valueStr": null
+          },
+          {
+            "key": "attack_speed",
+            "value": 60.0,
+            "valueStr": null
+          },
+          {
+            "key": "attack@stun",
+            "value": 0.5,
+            "valueStr": null
+          },
+          {
+            "key": "sp_cost",
+            "value": 35.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_max",
+            "value": 80.0,
+            "valueStr": null
+          }
+        ]
+      }
+    ]
+  },
+  "skchr_marcil_3": {
+    "skillId": "skchr_marcil_3",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "Explosion Magic",
+        "rangeId": null,
+        "description": "After <$ba.chant>Chanting</> for <@ba.vdown>{chant_duration}</>s, consumes <@ba.vdown>{skill_cost_min_sp}</> <$ba.magicpoint>Mana</> to create an explosion in front of the unit at max range; explosion deals <@ba.vup>{atk_scale:0%}</> ATK as Arts damage to surrounding enemies and causes high ground tiles to collapse, <$ba.stun>Stunning</> them for <@ba.vup>{stun}</>s\n<$ba.chant>Chanting</> can be extended for <@ba.vdown>{extra_chant_duration}</>s; upon completion, consumes <@ba.vdown>all remaining</> <$ba.magicpoint>Mana</>; for every <@ba.vdown>{sp_cost_extra}</> additional <$ba.magicpoint>Mana</> consumed, create 1 additional explosion\n<@ba.rem>Extended chanting can be manually deactivated</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "initSp": 40,
+          "increment": 0.0
+        },
+        "prefabId": "skchr_marcil_3",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "chant_duration",
+            "value": 5.0,
+            "valueStr": null
+          },
+          {
+            "key": "extra_chant_duration",
+            "value": 10.0,
+            "valueStr": null
+          },
+          {
+            "key": "skill_cost_min_sp",
+            "value": 8.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_max",
+            "value": 80.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_init",
+            "value": 40.0,
+            "valueStr": null
+          },
+          {
+            "key": "sp_cost_extra",
+            "value": 8.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 2.8,
+            "valueStr": null
+          },
+          {
+            "key": "interval",
+            "value": 0.45,
+            "valueStr": null
+          },
+          {
+            "key": "stun",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "trig_cnt",
+            "value": 49.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Explosion Magic",
+        "rangeId": null,
+        "description": "After <$ba.chant>Chanting</> for <@ba.vdown>{chant_duration}</>s, consumes <@ba.vdown>{skill_cost_min_sp}</> <$ba.magicpoint>Mana</> to create an explosion in front of the unit at max range; explosion deals <@ba.vup>{atk_scale:0%}</> ATK as Arts damage to surrounding enemies and causes high ground tiles to collapse, <$ba.stun>Stunning</> them for <@ba.vup>{stun}</>s\n<$ba.chant>Chanting</> can be extended for <@ba.vdown>{extra_chant_duration}</>s; upon completion, consumes <@ba.vdown>all remaining</> <$ba.magicpoint>Mana</>; for every <@ba.vdown>{sp_cost_extra}</> additional <$ba.magicpoint>Mana</> consumed, create 1 additional explosion\n<@ba.rem>Extended chanting can be manually deactivated</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "initSp": 40,
+          "increment": 0.0
+        },
+        "prefabId": "skchr_marcil_3",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "chant_duration",
+            "value": 5.0,
+            "valueStr": null
+          },
+          {
+            "key": "extra_chant_duration",
+            "value": 10.0,
+            "valueStr": null
+          },
+          {
+            "key": "skill_cost_min_sp",
+            "value": 8.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_max",
+            "value": 80.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_init",
+            "value": 40.0,
+            "valueStr": null
+          },
+          {
+            "key": "sp_cost_extra",
+            "value": 8.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 2.9,
+            "valueStr": null
+          },
+          {
+            "key": "interval",
+            "value": 0.45,
+            "valueStr": null
+          },
+          {
+            "key": "stun",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "trig_cnt",
+            "value": 49.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Explosion Magic",
+        "rangeId": null,
+        "description": "After <$ba.chant>Chanting</> for <@ba.vdown>{chant_duration}</>s, consumes <@ba.vdown>{skill_cost_min_sp}</> <$ba.magicpoint>Mana</> to create an explosion in front of the unit at max range; explosion deals <@ba.vup>{atk_scale:0%}</> ATK as Arts damage to surrounding enemies and causes high ground tiles to collapse, <$ba.stun>Stunning</> them for <@ba.vup>{stun}</>s\n<$ba.chant>Chanting</> can be extended for <@ba.vdown>{extra_chant_duration}</>s; upon completion, consumes <@ba.vdown>all remaining</> <$ba.magicpoint>Mana</>; for every <@ba.vdown>{sp_cost_extra}</> additional <$ba.magicpoint>Mana</> consumed, create 1 additional explosion\n<@ba.rem>Extended chanting can be manually deactivated</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "initSp": 40,
+          "increment": 0.0
+        },
+        "prefabId": "skchr_marcil_3",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "chant_duration",
+            "value": 5.0,
+            "valueStr": null
+          },
+          {
+            "key": "extra_chant_duration",
+            "value": 10.0,
+            "valueStr": null
+          },
+          {
+            "key": "skill_cost_min_sp",
+            "value": 8.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_max",
+            "value": 80.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_init",
+            "value": 40.0,
+            "valueStr": null
+          },
+          {
+            "key": "sp_cost_extra",
+            "value": 8.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 3.0,
+            "valueStr": null
+          },
+          {
+            "key": "interval",
+            "value": 0.45,
+            "valueStr": null
+          },
+          {
+            "key": "stun",
+            "value": 2.0,
+            "valueStr": null
+          },
+          {
+            "key": "trig_cnt",
+            "value": 49.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Explosion Magic",
+        "rangeId": null,
+        "description": "After <$ba.chant>Chanting</> for <@ba.vdown>{chant_duration}</>s, consumes <@ba.vdown>{skill_cost_min_sp}</> <$ba.magicpoint>Mana</> to create an explosion in front of the unit at max range; explosion deals <@ba.vup>{atk_scale:0%}</> ATK as Arts damage to surrounding enemies and causes high ground tiles to collapse, <$ba.stun>Stunning</> them for <@ba.vup>{stun}</>s\n<$ba.chant>Chanting</> can be extended for <@ba.vdown>{extra_chant_duration}</>s; upon completion, consumes <@ba.vdown>all remaining</> <$ba.magicpoint>Mana</>; for every <@ba.vdown>{sp_cost_extra}</> additional <$ba.magicpoint>Mana</> consumed, create 1 additional explosion\n<@ba.rem>Extended chanting can be manually deactivated</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "initSp": 40,
+          "increment": 0.0
+        },
+        "prefabId": "skchr_marcil_3",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "chant_duration",
+            "value": 5.0,
+            "valueStr": null
+          },
+          {
+            "key": "extra_chant_duration",
+            "value": 10.0,
+            "valueStr": null
+          },
+          {
+            "key": "skill_cost_min_sp",
+            "value": 8.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_max",
+            "value": 80.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_init",
+            "value": 40.0,
+            "valueStr": null
+          },
+          {
+            "key": "sp_cost_extra",
+            "value": 8.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 3.1,
+            "valueStr": null
+          },
+          {
+            "key": "interval",
+            "value": 0.45,
+            "valueStr": null
+          },
+          {
+            "key": "stun",
+            "value": 3.0,
+            "valueStr": null
+          },
+          {
+            "key": "trig_cnt",
+            "value": 49.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Explosion Magic",
+        "rangeId": null,
+        "description": "After <$ba.chant>Chanting</> for <@ba.vdown>{chant_duration}</>s, consumes <@ba.vdown>{skill_cost_min_sp}</> <$ba.magicpoint>Mana</> to create an explosion in front of the unit at max range; explosion deals <@ba.vup>{atk_scale:0%}</> ATK as Arts damage to surrounding enemies and causes high ground tiles to collapse, <$ba.stun>Stunning</> them for <@ba.vup>{stun}</>s\n<$ba.chant>Chanting</> can be extended for <@ba.vdown>{extra_chant_duration}</>s; upon completion, consumes <@ba.vdown>all remaining</> <$ba.magicpoint>Mana</>; for every <@ba.vdown>{sp_cost_extra}</> additional <$ba.magicpoint>Mana</> consumed, create 1 additional explosion\n<@ba.rem>Extended chanting can be manually deactivated</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "initSp": 40,
+          "increment": 0.0
+        },
+        "prefabId": "skchr_marcil_3",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "chant_duration",
+            "value": 5.0,
+            "valueStr": null
+          },
+          {
+            "key": "extra_chant_duration",
+            "value": 10.0,
+            "valueStr": null
+          },
+          {
+            "key": "skill_cost_min_sp",
+            "value": 8.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_max",
+            "value": 80.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_init",
+            "value": 40.0,
+            "valueStr": null
+          },
+          {
+            "key": "sp_cost_extra",
+            "value": 8.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 3.2,
+            "valueStr": null
+          },
+          {
+            "key": "interval",
+            "value": 0.45,
+            "valueStr": null
+          },
+          {
+            "key": "stun",
+            "value": 3.0,
+            "valueStr": null
+          },
+          {
+            "key": "trig_cnt",
+            "value": 49.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Explosion Magic",
+        "rangeId": null,
+        "description": "After <$ba.chant>Chanting</> for <@ba.vdown>{chant_duration}</>s, consumes <@ba.vdown>{skill_cost_min_sp}</> <$ba.magicpoint>Mana</> to create an explosion in front of the unit at max range; explosion deals <@ba.vup>{atk_scale:0%}</> ATK as Arts damage to surrounding enemies and causes high ground tiles to collapse, <$ba.stun>Stunning</> them for <@ba.vup>{stun}</>s\n<$ba.chant>Chanting</> can be extended for <@ba.vdown>{extra_chant_duration}</>s; upon completion, consumes <@ba.vdown>all remaining</> <$ba.magicpoint>Mana</>; for every <@ba.vdown>{sp_cost_extra}</> additional <$ba.magicpoint>Mana</> consumed, create 1 additional explosion\n<@ba.rem>Extended chanting can be manually deactivated</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "initSp": 40,
+          "increment": 0.0
+        },
+        "prefabId": "skchr_marcil_3",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "chant_duration",
+            "value": 5.0,
+            "valueStr": null
+          },
+          {
+            "key": "extra_chant_duration",
+            "value": 10.0,
+            "valueStr": null
+          },
+          {
+            "key": "skill_cost_min_sp",
+            "value": 8.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_max",
+            "value": 80.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_init",
+            "value": 40.0,
+            "valueStr": null
+          },
+          {
+            "key": "sp_cost_extra",
+            "value": 8.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 3.3,
+            "valueStr": null
+          },
+          {
+            "key": "interval",
+            "value": 0.45,
+            "valueStr": null
+          },
+          {
+            "key": "stun",
+            "value": 3.0,
+            "valueStr": null
+          },
+          {
+            "key": "trig_cnt",
+            "value": 49.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Explosion Magic",
+        "rangeId": null,
+        "description": "After <$ba.chant>Chanting</> for <@ba.vdown>{chant_duration}</>s, consumes <@ba.vdown>{skill_cost_min_sp}</> <$ba.magicpoint>Mana</> to create an explosion in front of the unit at max range; explosion deals <@ba.vup>{atk_scale:0%}</> ATK as Arts damage to surrounding enemies and causes high ground tiles to collapse, <$ba.stun>Stunning</> them for <@ba.vup>{stun}</>s\n<$ba.chant>Chanting</> can be extended for <@ba.vdown>{extra_chant_duration}</>s; upon completion, consumes <@ba.vdown>all remaining</> <$ba.magicpoint>Mana</>; for every <@ba.vdown>{sp_cost_extra}</> additional <$ba.magicpoint>Mana</> consumed, create 1 additional explosion\n<@ba.rem>Extended chanting can be manually deactivated</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "initSp": 40,
+          "increment": 0.0
+        },
+        "prefabId": "skchr_marcil_3",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "chant_duration",
+            "value": 5.0,
+            "valueStr": null
+          },
+          {
+            "key": "extra_chant_duration",
+            "value": 10.0,
+            "valueStr": null
+          },
+          {
+            "key": "skill_cost_min_sp",
+            "value": 8.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_max",
+            "value": 80.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_init",
+            "value": 40.0,
+            "valueStr": null
+          },
+          {
+            "key": "sp_cost_extra",
+            "value": 8.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 3.4,
+            "valueStr": null
+          },
+          {
+            "key": "interval",
+            "value": 0.45,
+            "valueStr": null
+          },
+          {
+            "key": "stun",
+            "value": 3.0,
+            "valueStr": null
+          },
+          {
+            "key": "trig_cnt",
+            "value": 49.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Explosion Magic",
+        "rangeId": null,
+        "description": "After <$ba.chant>Chanting</> for <@ba.vdown>{chant_duration}</>s, consumes <@ba.vdown>{skill_cost_min_sp}</> <$ba.magicpoint>Mana</> to create an explosion in front of the unit at max range; explosion deals <@ba.vup>{atk_scale:0%}</> ATK as Arts damage to surrounding enemies and causes high ground tiles to collapse, <$ba.stun>Stunning</> them for <@ba.vup>{stun}</>s\n<$ba.chant>Chanting</> can be extended for <@ba.vdown>{extra_chant_duration}</>s; upon completion, consumes <@ba.vdown>all remaining</> <$ba.magicpoint>Mana</>; for every <@ba.vdown>{sp_cost_extra}</> additional <$ba.magicpoint>Mana</> consumed, create 1 additional explosion\n<@ba.rem>Extended chanting can be manually deactivated</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "initSp": 40,
+          "increment": 0.0
+        },
+        "prefabId": "skchr_marcil_3",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "chant_duration",
+            "value": 5.0,
+            "valueStr": null
+          },
+          {
+            "key": "extra_chant_duration",
+            "value": 10.0,
+            "valueStr": null
+          },
+          {
+            "key": "skill_cost_min_sp",
+            "value": 8.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_max",
+            "value": 80.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_init",
+            "value": 40.0,
+            "valueStr": null
+          },
+          {
+            "key": "sp_cost_extra",
+            "value": 8.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 3.5,
+            "valueStr": null
+          },
+          {
+            "key": "interval",
+            "value": 0.45,
+            "valueStr": null
+          },
+          {
+            "key": "stun",
+            "value": 3.5,
+            "valueStr": null
+          },
+          {
+            "key": "trig_cnt",
+            "value": 49.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Explosion Magic",
+        "rangeId": null,
+        "description": "After <$ba.chant>Chanting</> for <@ba.vdown>{chant_duration}</>s, consumes <@ba.vdown>{skill_cost_min_sp}</> <$ba.magicpoint>Mana</> to create an explosion in front of the unit at max range; explosion deals <@ba.vup>{atk_scale:0%}</> ATK as Arts damage to surrounding enemies and causes high ground tiles to collapse, <$ba.stun>Stunning</> them for <@ba.vup>{stun}</>s\n<$ba.chant>Chanting</> can be extended for <@ba.vdown>{extra_chant_duration}</>s; upon completion, consumes <@ba.vdown>all remaining</> <$ba.magicpoint>Mana</>; for every <@ba.vdown>{sp_cost_extra}</> additional <$ba.magicpoint>Mana</> consumed, create 1 additional explosion\n<@ba.rem>Extended chanting can be manually deactivated</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "initSp": 40,
+          "increment": 0.0
+        },
+        "prefabId": "skchr_marcil_3",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "chant_duration",
+            "value": 5.0,
+            "valueStr": null
+          },
+          {
+            "key": "extra_chant_duration",
+            "value": 10.0,
+            "valueStr": null
+          },
+          {
+            "key": "skill_cost_min_sp",
+            "value": 8.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_max",
+            "value": 80.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_init",
+            "value": 40.0,
+            "valueStr": null
+          },
+          {
+            "key": "sp_cost_extra",
+            "value": 8.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 3.7,
+            "valueStr": null
+          },
+          {
+            "key": "interval",
+            "value": 0.45,
+            "valueStr": null
+          },
+          {
+            "key": "stun",
+            "value": 3.5,
+            "valueStr": null
+          },
+          {
+            "key": "trig_cnt",
+            "value": 49.0,
+            "valueStr": null
+          }
+        ]
+      },
+      {
+        "name": "Explosion Magic",
+        "rangeId": null,
+        "description": "After <$ba.chant>Chanting</> for <@ba.vdown>{chant_duration}</>s, consumes <@ba.vdown>{skill_cost_min_sp}</> <$ba.magicpoint>Mana</> to create an explosion in front of the unit at max range; explosion deals <@ba.vup>{atk_scale:0%}</> ATK as Arts damage to surrounding enemies and causes high ground tiles to collapse, <$ba.stun>Stunning</> them for <@ba.vup>{stun}</>s\n<$ba.chant>Chanting</> can be extended for <@ba.vdown>{extra_chant_duration}</>s; upon completion, consumes <@ba.vdown>all remaining</> <$ba.magicpoint>Mana</>; for every <@ba.vdown>{sp_cost_extra}</> additional <$ba.magicpoint>Mana</> consumed, create 1 additional explosion\n<@ba.rem>Extended chanting can be manually deactivated</>",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 80,
+          "initSp": 40,
+          "increment": 0.0
+        },
+        "prefabId": "skchr_marcil_3",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "chant_duration",
+            "value": 5.0,
+            "valueStr": null
+          },
+          {
+            "key": "extra_chant_duration",
+            "value": 10.0,
+            "valueStr": null
+          },
+          {
+            "key": "skill_cost_min_sp",
+            "value": 8.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_max",
+            "value": 80.0,
+            "valueStr": null
+          },
+          {
+            "key": "mana_init",
+            "value": 40.0,
+            "valueStr": null
+          },
+          {
+            "key": "sp_cost_extra",
+            "value": 8.0,
+            "valueStr": null
+          },
+          {
+            "key": "atk_scale",
+            "value": 3.9,
+            "valueStr": null
+          },
+          {
+            "key": "interval",
+            "value": 0.45,
+            "valueStr": null
+          },
+          {
+            "key": "stun",
+            "value": 4.0,
+            "valueStr": null
+          },
+          {
+            "key": "trig_cnt",
+            "value": 49.0,
             "valueStr": null
           }
         ]
@@ -265273,6 +269396,174 @@
             "key": "live_duration",
             "value": 85.0,
             "valueStr": null
+          }
+        ]
+      }
+    ]
+  },
+  "sktok_trpot_1": {
+    "skillId": "sktok_trpot_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "Food's Ready!",
+        "rangeId": "0-1",
+        "description": "After cooking for 5s, fill everyone up, granting all Operators +30% ATK and slowly restoring their HP until ingredients are used up",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 100,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_trpot_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "chant_duration",
+            "value": 5.0,
+            "valueStr": null
+          },
+          {
+            "key": "sp_cost",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "interval",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "skill_cost_min_sp",
+            "value": 100.0,
+            "valueStr": null
+          }
+        ]
+      }
+    ]
+  },
+  "sktok_trbox_1": {
+    "skillId": "sktok_trbox_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "Open It Up!",
+        "rangeId": "0-1",
+        "description": "Open the 'Treasure Chest' and obtain the treasure within",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_trbox_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "cost_group_1",
+            "value": 0.2,
+            "valueStr": null
+          },
+          {
+            "key": "cost_value_1",
+            "value": 15.0,
+            "valueStr": null
+          },
+          {
+            "key": "cost_group_2",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "cost_value_2",
+            "value": 5.0,
+            "valueStr": null
+          },
+          {
+            "key": "token_group_1",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "token_cnt_1",
+            "value": 0.0,
+            "valueStr": "trap_173_slfrut|trap_173_slfrut"
+          },
+          {
+            "key": "enemy_key",
+            "value": 0.0,
+            "valueStr": "none"
+          }
+        ]
+      }
+    ]
+  },
+  "sktok_trrbox_1": {
+    "skillId": "sktok_trrbox_1",
+    "iconId": null,
+    "hidden": false,
+    "levels": [
+      {
+        "name": "Open It Up!",
+        "rangeId": "0-1",
+        "description": "Open the 'Treasure Chest' and obtain the treasure within",
+        "skillType": "MANUAL",
+        "durationType": "NONE",
+        "spData": {
+          "spType": "INCREASE_WITH_TIME",
+          "levelUpCost": null,
+          "maxChargeTime": 1,
+          "spCost": 30,
+          "initSp": 0,
+          "increment": 1.0
+        },
+        "prefabId": "sktok_trrbox_1",
+        "duration": -1.0,
+        "blackboard": [
+          {
+            "key": "cost_group_1",
+            "value": 0.2,
+            "valueStr": null
+          },
+          {
+            "key": "cost_value_1",
+            "value": 15.0,
+            "valueStr": null
+          },
+          {
+            "key": "cost_group_2",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "cost_value_2",
+            "value": 5.0,
+            "valueStr": null
+          },
+          {
+            "key": "token_group_1",
+            "value": 1.0,
+            "valueStr": null
+          },
+          {
+            "key": "token_cnt_1",
+            "value": 0.0,
+            "valueStr": "trap_173_slfrut|trap_173_slfrut"
+          },
+          {
+            "key": "enemy_key",
+            "value": 0.0,
+            "valueStr": "none"
           }
         ]
       }

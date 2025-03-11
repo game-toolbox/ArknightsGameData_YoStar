@@ -38,6 +38,47 @@
       "recType": "CAN_COMPLETE",
       "isPageEntry": false
     },
+    "act36side": {
+      "id": "act36side",
+      "type": "TYPE_ACT36SIDE",
+      "displayType": "NONE",
+      "name": "테라밥",
+      "startTime": 1741590000,
+      "endTime": 1742756399,
+      "rewardEndTime": 1743361199,
+      "displayOnHome": true,
+      "hasStage": true,
+      "templateShopId": "shop_act36side",
+      "medalGroupId": null,
+      "ungroupedMedalIds": [
+        "medal_hidden_36side_01",
+        "medal_hidden_36side_02"
+      ],
+      "isReplicate": false,
+      "needFixedSync": false,
+      "trapDomainId": null,
+      "recType": "SPECIAL",
+      "isPageEntry": false
+    },
+    "act42sign": {
+      "id": "act42sign",
+      "type": "CHECKIN_ONLY",
+      "displayType": "NONE",
+      "name": "테라 마물 맛기행",
+      "startTime": 1741590000,
+      "endTime": 1742756399,
+      "rewardEndTime": 1742756399,
+      "displayOnHome": false,
+      "hasStage": false,
+      "templateShopId": null,
+      "medalGroupId": null,
+      "ungroupedMedalIds": null,
+      "isReplicate": false,
+      "needFixedSync": false,
+      "trapDomainId": null,
+      "recType": "CAN_COMPLETE",
+      "isPageEntry": false
+    },
     "act17mini": {
       "id": "act17mini",
       "type": "MINISTORY",
@@ -3676,6 +3717,13 @@
       "actTopBarColor": "ff6801",
       "actTopBarText": "달맞이 길일 출석 이벤트"
     },
+    "act42sign": {
+      "actId": "act42sign",
+      "isPopupAfterCheckin": false,
+      "showTopBarMenu": true,
+      "actTopBarColor": "b93636",
+      "actTopBarText": "테라 마물\n맛기행"
+    },
     "act40sign": {
       "actId": "act40sign",
       "isPopupAfterCheckin": false,
@@ -4345,6 +4393,8 @@
   "zoneToActivity": {
     "act28sre_zone1": "act28sre",
     "act28sre_zone2": "act28sre",
+    "act36side_zone1": "act36side",
+    "act36side_zone2": "act36side",
     "act17mini_zone1": "act17mini",
     "act27sre_zone1": "act27sre",
     "act27sre_zone2": "act27sre",
@@ -5301,6 +5351,721 @@
         {
           "type": "ACTIVITY_ITEM",
           "id": "act28side_token_box_rep_1",
+          "count": 120
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "36sideActivity_1",
+      "sortId": 1,
+      "description": "DT-1 클리어",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act36side_01",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act36side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act36side_token_recipe",
+          "count": 50
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "36sideActivity_2",
+      "sortId": 2,
+      "description": "DT-2 클리어",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act36side_02",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act36side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act36side_token_recipe",
+          "count": 50
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "36sideActivity_3",
+      "sortId": 3,
+      "description": "DT-3 클리어",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act36side_03",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act36side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act36side_token_recipe",
+          "count": 60
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "36sideActivity_4",
+      "sortId": 4,
+      "description": "DT-4 클리어",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act36side_04",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act36side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act36side_token_recipe",
+          "count": 60
+        },
+        {
+          "type": "CHAR",
+          "id": "char_4143_sensi",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "36sideActivity_5",
+      "sortId": 5,
+      "description": "DT-5 클리어",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act36side_05",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act36side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act36side_token_recipe",
+          "count": 60
+        },
+        {
+          "type": "FURN",
+          "id": "furni_rhodesKitchen_carpet_01",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "36sideActivity_6",
+      "sortId": 6,
+      "description": "3★ 평가로 DT-5 클리어",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act36side_05",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act36side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "mod_unlock_token",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "36sideActivity_7",
+      "sortId": 7,
+      "description": "DT-6 클리어",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act36side_06",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act36side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act36side_token_recipe",
+          "count": 70
+        },
+        {
+          "type": "FURN",
+          "id": "furni_rhodesKitchen_stove_01",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "36sideActivity_8",
+      "sortId": 8,
+      "description": "3★ 평가로 DT-6 클리어",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act36side_06",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act36side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "FURN",
+          "id": "furni_rhodesKitchen_ceilingCabinet_01",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "36sideActivity_9",
+      "sortId": 9,
+      "description": "DT-7 클리어",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act36side_07",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act36side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act36side_token_recipe",
+          "count": 70
+        },
+        {
+          "type": "FURN",
+          "id": "furni_rhodesKitchen_floor_01",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "36sideActivity_10",
+      "sortId": 10,
+      "description": "3★ 평가로 DT-7 클리어",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act36side_07",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act36side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "FURN",
+          "id": "furni_rhodesKitchen_festTable_01",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "36sideActivity_11",
+      "sortId": 11,
+      "description": "DT-8 클리어",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act36side_08",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act36side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act36side_token_recipe",
+          "count": 70
+        },
+        {
+          "type": "FURN",
+          "id": "furni_rhodesKitchen_teaTable_01",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "36sideActivity_12",
+      "sortId": 12,
+      "description": "3★ 평가로 DT-8 클리어",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act36side_08",
+        "3"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act36side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "MATERIAL",
+          "id": "mod_unlock_token",
+          "count": 1
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "36sideActivity_13",
+      "sortId": 13,
+      "description": "DT-EX-1 클리어",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act36side_ex01",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act36side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act36side_token_recipe",
+          "count": 50
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "36sideActivity_14",
+      "sortId": 14,
+      "description": "DT-EX-2 클리어",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act36side_ex02",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act36side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act36side_token_recipe",
+          "count": 50
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "36sideActivity_15",
+      "sortId": 15,
+      "description": "DT-EX-3 클리어",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act36side_ex03",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act36side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act36side_token_recipe",
+          "count": 70
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "36sideActivity_16",
+      "sortId": 16,
+      "description": "DT-EX-4 클리어",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act36side_ex04",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act36side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act36side_token_recipe",
+          "count": 70
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "36sideActivity_17",
+      "sortId": 17,
+      "description": "DT-EX-5 클리어",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act36side_ex05",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act36side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act36side_token_recipe",
+          "count": 70
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "36sideActivity_18",
+      "sortId": 18,
+      "description": "DT-EX-6 클리어",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act36side_ex06",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act36side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act36side_token_recipe",
+          "count": 70
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "36sideActivity_19",
+      "sortId": 19,
+      "description": "DT-EX-7 클리어",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act36side_ex07",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act36side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act36side_token_recipe",
+          "count": 80
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "36sideActivity_20",
+      "sortId": 20,
+      "description": "DT-EX-8 클리어",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteAnyStage",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act36side_ex08",
+        "2"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act36side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act36side_token_recipe",
+          "count": 100
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "36sideActivity_21",
+      "sortId": 21,
+      "description": "이벤트 스테이지 15회 클리어 (튜토리얼 스테이지 제외)",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act36side_01^act36side_02^act36side_03^act36side_04^act36side_05^act36side_06^act36side_07^act36side_08^act36side_ex01^act36side_ex01#f#^act36side_ex02^act36side_ex02#f#^act36side_ex03^act36side_ex03#f#^act36side_ex04^act36side_ex04#f#^act36side_ex05^act36side_ex05#f#^act36side_ex06^act36side_ex06#f#^act36side_ex07^act36side_ex07#f#^act36side_ex08^act36side_ex08#f#",
+        "15"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act36side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act36side_token_recipe",
+          "count": 80
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "36sideActivity_22",
+      "sortId": 22,
+      "description": "이벤트 스테이지 45회 클리어 (튜토리얼 스테이지 제외)",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act36side_01^act36side_02^act36side_03^act36side_04^act36side_05^act36side_06^act36side_07^act36side_08^act36side_ex01^act36side_ex01#f#^act36side_ex02^act36side_ex02#f#^act36side_ex03^act36side_ex03#f#^act36side_ex04^act36side_ex04#f#^act36side_ex05^act36side_ex05#f#^act36side_ex06^act36side_ex06#f#^act36side_ex07^act36side_ex07#f#^act36side_ex08^act36side_ex08#f#",
+        "45"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act36side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act36side_token_recipe",
+          "count": 100
+        }
+      ],
+      "backImagePath": null,
+      "foldId": null,
+      "haveSubMissionToUnlock": false
+    },
+    {
+      "id": "36sideActivity_23",
+      "sortId": 23,
+      "description": "이벤트 스테이지 85회 클리어 (튜토리얼 스테이지 제외)",
+      "type": "ACTIVITY",
+      "itemBgType": "COMMON",
+      "preMissionIds": null,
+      "template": "CompleteStageAct",
+      "templateType": "0",
+      "param": [
+        "0",
+        "act36side_01^act36side_02^act36side_03^act36side_04^act36side_05^act36side_06^act36side_07^act36side_08^act36side_ex01^act36side_ex01#f#^act36side_ex02^act36side_ex02#f#^act36side_ex03^act36side_ex03#f#^act36side_ex04^act36side_ex04#f#^act36side_ex05^act36side_ex05#f#^act36side_ex06^act36side_ex06#f#^act36side_ex07^act36side_ex07#f#^act36side_ex08^act36side_ex08#f#",
+        "85"
+      ],
+      "unlockCondition": null,
+      "unlockParam": null,
+      "missionGroup": "act36side",
+      "toPage": null,
+      "periodicalPoint": 0,
+      "rewards": [
+        {
+          "type": "ACTIVITY_ITEM",
+          "id": "act36side_token_recipe",
           "count": 120
         }
       ],
@@ -68878,6 +69643,41 @@
       "endTs": 1741892399
     },
     {
+      "id": "act36side",
+      "title": null,
+      "type": "ACTIVITY",
+      "preMissionGroup": null,
+      "period": null,
+      "rewards": [],
+      "missionIds": [
+        "36sideActivity_1",
+        "36sideActivity_2",
+        "36sideActivity_3",
+        "36sideActivity_4",
+        "36sideActivity_5",
+        "36sideActivity_6",
+        "36sideActivity_7",
+        "36sideActivity_8",
+        "36sideActivity_9",
+        "36sideActivity_10",
+        "36sideActivity_11",
+        "36sideActivity_12",
+        "36sideActivity_13",
+        "36sideActivity_14",
+        "36sideActivity_15",
+        "36sideActivity_16",
+        "36sideActivity_17",
+        "36sideActivity_18",
+        "36sideActivity_19",
+        "36sideActivity_20",
+        "36sideActivity_21",
+        "36sideActivity_22",
+        "36sideActivity_23"
+      ],
+      "startTs": 1741590000,
+      "endTs": 1743361199
+    },
+    {
       "id": "act27sre",
       "title": null,
       "type": "ACTIVITY",
@@ -72176,6 +72976,205 @@
           },
           "initOption": "Options0"
         },
+        "extraCheckinList": null
+      },
+      "act42sign": {
+        "checkInList": {
+          "0": {
+            "itemList": [
+              {
+                "id": "LINKAGE_TKT_GACHA_10_5401",
+                "count": 1,
+                "type": "LINKAGE_TKT_GACHA_10"
+              },
+              {
+                "id": "ap_supply_lt_120",
+                "count": 1,
+                "type": "AP_SUPPLY"
+              }
+            ],
+            "order": 1,
+            "color": 0,
+            "keyItem": 1,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "1": {
+            "itemList": [
+              {
+                "id": "4003",
+                "count": 200,
+                "type": "DIAMOND_SHD"
+              },
+              {
+                "id": "mod_update_token_1",
+                "count": 10,
+                "type": "MATERIAL"
+              }
+            ],
+            "order": 2,
+            "color": 0,
+            "keyItem": 0,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "2": {
+            "itemList": [
+              {
+                "id": "2003",
+                "count": 20,
+                "type": "CARD_EXP"
+              },
+              {
+                "id": "7002",
+                "count": 5,
+                "type": "TKT_INST_FIN"
+              }
+            ],
+            "order": 3,
+            "color": 0,
+            "keyItem": 0,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "3": {
+            "itemList": [
+              {
+                "id": "4003",
+                "count": 200,
+                "type": "DIAMOND_SHD"
+              },
+              {
+                "id": "3401",
+                "count": 300,
+                "type": "MATERIAL"
+              }
+            ],
+            "order": 4,
+            "color": 0,
+            "keyItem": 0,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "4": {
+            "itemList": [
+              {
+                "id": "avatar_activity_DT",
+                "count": 1,
+                "type": "PLAYER_AVATAR"
+              },
+              {
+                "id": "3003",
+                "count": 20,
+                "type": "MATERIAL"
+              }
+            ],
+            "order": 5,
+            "color": 0,
+            "keyItem": 1,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "5": {
+            "itemList": [
+              {
+                "id": "3302",
+                "count": 20,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "2004",
+                "count": 10,
+                "type": "CARD_EXP"
+              }
+            ],
+            "order": 6,
+            "color": 0,
+            "keyItem": 0,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "6": {
+            "itemList": [
+              {
+                "id": "4003",
+                "count": 200,
+                "type": "DIAMOND_SHD"
+              },
+              {
+                "id": "4001",
+                "count": 30000,
+                "type": "GOLD"
+              }
+            ],
+            "order": 7,
+            "color": 0,
+            "keyItem": 0,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "7": {
+            "itemList": [
+              {
+                "id": "LINKAGE_TKT_GACHA_10_5401",
+                "count": 1,
+                "type": "LINKAGE_TKT_GACHA_10"
+              },
+              {
+                "id": "mod_update_token_2",
+                "count": 3,
+                "type": "MATERIAL"
+              }
+            ],
+            "order": 8,
+            "color": 0,
+            "keyItem": 1,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "8": {
+            "itemList": [
+              {
+                "id": "32001",
+                "count": 1,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "7001",
+                "count": 5,
+                "type": "TKT_RECRUIT"
+              }
+            ],
+            "order": 9,
+            "color": 0,
+            "keyItem": 0,
+            "showItemOrder": 0,
+            "isDynItem": false
+          },
+          "9": {
+            "itemList": [
+              {
+                "id": "mod_unlock_token",
+                "count": 1,
+                "type": "MATERIAL"
+              },
+              {
+                "id": "3303",
+                "count": 8,
+                "type": "MATERIAL"
+              }
+            ],
+            "order": 10,
+            "color": 0,
+            "keyItem": 0,
+            "showItemOrder": 0,
+            "isDynItem": false
+          }
+        },
+        "apSupplyOutOfDateDict": {
+          "ap_supply_lt_120": 1743361199
+        },
+        "dynCheckInData": null,
         "extraCheckinList": null
       },
       "act40sign": {
@@ -160386,7 +161385,284 @@
       }
     },
     "VEC_BREAK": {},
-    "TYPE_ACT36SIDE": {}
+    "TYPE_ACT36SIDE": {
+      "act36side": {
+        "zoneAdditionData": {
+          "act36side_zone1": {
+            "zoneId": "act36side_zone1",
+            "zoneIconId": "act36side_1",
+            "unlockText": "미개방",
+            "displayTime": 1741590000
+          },
+          "act36side_zone2": {
+            "zoneId": "act36side_zone2",
+            "zoneIconId": "act36side_2",
+            "unlockText": "[마물 맛기행] 완료 후 개방",
+            "displayTime": 1741590000
+          }
+        },
+        "enemyHandbookData": {
+          "handbook_enemy_trslim": {
+            "enemyHandbookId": "handbook_enemy_trslim",
+            "spriteId": "handbook_enemy_trslim",
+            "sortId": 1,
+            "foodTypeId": "food_type_can_eat",
+            "foodAmountId": "food_amount_medium"
+          },
+          "handbook_enemy_slime": {
+            "enemyHandbookId": "handbook_enemy_slime",
+            "spriteId": "handbook_enemy_slime",
+            "sortId": 2,
+            "foodTypeId": "food_type_can_eat",
+            "foodAmountId": "food_amount_few"
+          },
+          "handbook_enemy_bigbo": {
+            "enemyHandbookId": "handbook_enemy_bigbo",
+            "spriteId": "handbook_enemy_bigbo",
+            "sortId": 3,
+            "foodTypeId": "food_type_cant_eat",
+            "foodAmountId": null
+          },
+          "handbook_enemy_bslime": {
+            "enemyHandbookId": "handbook_enemy_bslime",
+            "spriteId": "handbook_enemy_bslime",
+            "sortId": 4,
+            "foodTypeId": "food_type_can_eat",
+            "foodAmountId": "food_amount_few"
+          },
+          "handbook_enemy_trtrsl": {
+            "enemyHandbookId": "handbook_enemy_trtrsl",
+            "spriteId": "handbook_enemy_trtrsl",
+            "sortId": 5,
+            "foodTypeId": "food_type_can_eat",
+            "foodAmountId": "food_amount_medium"
+          },
+          "handbook_enemy_trwlpl": {
+            "enemyHandbookId": "handbook_enemy_trwlpl",
+            "spriteId": "handbook_enemy_trwlpl",
+            "sortId": 6,
+            "foodTypeId": "food_type_can_eat",
+            "foodAmountId": "food_amount_medium"
+          },
+          "handbook_enemy_ccsbr": {
+            "enemyHandbookId": "handbook_enemy_ccsbr",
+            "spriteId": "handbook_enemy_ccsbr",
+            "sortId": 7,
+            "foodTypeId": "food_type_cant_eat",
+            "foodAmountId": null
+          },
+          "handbook_enemy_ccspm": {
+            "enemyHandbookId": "handbook_enemy_ccspm",
+            "spriteId": "handbook_enemy_ccspm",
+            "sortId": 8,
+            "foodTypeId": "food_type_cant_eat",
+            "foodAmountId": null
+          },
+          "handbook_enemy_mcmstr": {
+            "enemyHandbookId": "handbook_enemy_mcmstr",
+            "spriteId": "handbook_enemy_mcmstr",
+            "sortId": 9,
+            "foodTypeId": "food_type_fuzzy",
+            "foodAmountId": "food_amount_many"
+          },
+          "handbook_enemy_mslime": {
+            "enemyHandbookId": "handbook_enemy_mslime",
+            "spriteId": "handbook_enemy_mslime",
+            "sortId": 10,
+            "foodTypeId": "food_type_can_eat",
+            "foodAmountId": "food_amount_few"
+          },
+          "handbook_enemy_trsmsb": {
+            "enemyHandbookId": "handbook_enemy_trsmsb",
+            "spriteId": "handbook_enemy_trsmsb",
+            "sortId": 11,
+            "foodTypeId": "food_type_cant_eat",
+            "foodAmountId": null
+          },
+          "handbook_enemy_trsmgi": {
+            "enemyHandbookId": "handbook_enemy_trsmgi",
+            "spriteId": "handbook_enemy_trsmgi",
+            "sortId": 12,
+            "foodTypeId": "food_type_cant_eat",
+            "foodAmountId": null
+          },
+          "handbook_enemy_trspsb": {
+            "enemyHandbookId": "handbook_enemy_trspsb",
+            "spriteId": "handbook_enemy_trspsb",
+            "sortId": 13,
+            "foodTypeId": "food_type_cant_eat",
+            "foodAmountId": null
+          },
+          "handbook_enemy_spsbr": {
+            "enemyHandbookId": "handbook_enemy_spsbr",
+            "spriteId": "handbook_enemy_spsbr",
+            "sortId": 14,
+            "foodTypeId": "food_type_cant_eat",
+            "foodAmountId": null
+          },
+          "handbook_enemy_spklr": {
+            "enemyHandbookId": "handbook_enemy_spklr",
+            "spriteId": "handbook_enemy_spklr",
+            "sortId": 15,
+            "foodTypeId": "food_type_cant_eat",
+            "foodAmountId": null
+          },
+          "handbook_enemy_trbbox": {
+            "enemyHandbookId": "handbook_enemy_trbbox",
+            "spriteId": "handbook_enemy_trbbox",
+            "sortId": 16,
+            "foodTypeId": "food_type_fuzzy",
+            "foodAmountId": "food_amount_many"
+          },
+          "handbook_enemy_dshond": {
+            "enemyHandbookId": "handbook_enemy_dshond",
+            "spriteId": "handbook_enemy_dshond",
+            "sortId": 17,
+            "foodTypeId": "food_type_fuzzy",
+            "foodAmountId": "food_amount_few"
+          },
+          "handbook_enemy_dssbr": {
+            "enemyHandbookId": "handbook_enemy_dssbr",
+            "spriteId": "handbook_enemy_dssbr",
+            "sortId": 18,
+            "foodTypeId": "food_type_fuzzy",
+            "foodAmountId": "food_amount_medium"
+          },
+          "handbook_enemy_dsurch": {
+            "enemyHandbookId": "handbook_enemy_dsurch",
+            "spriteId": "handbook_enemy_dsurch",
+            "sortId": 19,
+            "foodTypeId": "food_type_fuzzy",
+            "foodAmountId": "food_amount_many"
+          },
+          "handbook_enemy_trdiam": {
+            "enemyHandbookId": "handbook_enemy_trdiam",
+            "spriteId": "handbook_enemy_trdiam",
+            "sortId": 20,
+            "foodTypeId": "food_type_can_eat",
+            "foodAmountId": "food_amount_medium"
+          },
+          "handbook_enemy_bombd": {
+            "enemyHandbookId": "handbook_enemy_bombd",
+            "spriteId": "handbook_enemy_bombd",
+            "sortId": 21,
+            "foodTypeId": "food_type_cant_eat",
+            "foodAmountId": null
+          },
+          "handbook_enemy_diaman": {
+            "enemyHandbookId": "handbook_enemy_diaman",
+            "spriteId": "handbook_enemy_diaman",
+            "sortId": 22,
+            "foodTypeId": "food_type_can_eat",
+            "foodAmountId": "food_amount_medium"
+          },
+          "handbook_enemy_mob_2": {
+            "enemyHandbookId": "handbook_enemy_mob_2",
+            "spriteId": "handbook_enemy_mob_2",
+            "sortId": 23,
+            "foodTypeId": "food_type_cant_eat",
+            "foodAmountId": null
+          },
+          "handbook_enemy_mocock_2": {
+            "enemyHandbookId": "handbook_enemy_mocock_2",
+            "spriteId": "handbook_enemy_mocock_2",
+            "sortId": 24,
+            "foodTypeId": "food_type_cant_eat",
+            "foodAmountId": null
+          },
+          "handbook_enemy_laxe_2": {
+            "enemyHandbookId": "handbook_enemy_laxe_2",
+            "spriteId": "handbook_enemy_laxe_2",
+            "sortId": 25,
+            "foodTypeId": "food_type_cant_eat",
+            "foodAmountId": null
+          },
+          "handbook_enemy_snslime_2": {
+            "enemyHandbookId": "handbook_enemy_snslime_2",
+            "spriteId": "handbook_enemy_snslime_2",
+            "sortId": 26,
+            "foodTypeId": "food_type_can_eat",
+            "foodAmountId": "food_amount_few"
+          },
+          "handbook_enemy_aslime_2": {
+            "enemyHandbookId": "handbook_enemy_aslime_2",
+            "spriteId": "handbook_enemy_aslime_2",
+            "sortId": 27,
+            "foodTypeId": "food_type_can_eat",
+            "foodAmountId": "food_amount_few"
+          },
+          "handbook_enemy_mhslim_2": {
+            "enemyHandbookId": "handbook_enemy_mhslim_2",
+            "spriteId": "handbook_enemy_mhslim_2",
+            "sortId": 28,
+            "foodTypeId": "food_type_can_eat",
+            "foodAmountId": "food_amount_few"
+          },
+          "handbook_enemy_spbow_2": {
+            "enemyHandbookId": "handbook_enemy_spbow_2",
+            "spriteId": "handbook_enemy_spbow_2",
+            "sortId": 29,
+            "foodTypeId": "food_type_cant_eat",
+            "foodAmountId": null
+          },
+          "handbook_enemy_mhboar": {
+            "enemyHandbookId": "handbook_enemy_mhboar",
+            "spriteId": "handbook_enemy_mhboar",
+            "sortId": 30,
+            "foodTypeId": "food_type_can_eat",
+            "foodAmountId": "food_amount_medium"
+          },
+          "handbook_enemy_lslime": {
+            "enemyHandbookId": "handbook_enemy_lslime",
+            "spriteId": "handbook_enemy_lslime",
+            "sortId": 31,
+            "foodTypeId": "food_type_can_eat",
+            "foodAmountId": "food_amount_many"
+          }
+        },
+        "tokenHandbookData": {
+          "handbook_token_slfrut": {
+            "tokenHandbookId": "handbook_token_slfrut",
+            "spriteId": "handbook_token_slfrut",
+            "sortId": 1,
+            "tokenAbility": "<@token.highlight>냄비에 투하</> 시 식재료 획득, 또는 오퍼레이터에게 <@token.highlight>단독 사용</> 시 SP 획득",
+            "tokenDescrption": "반짝 벌레가 <@token.highlight>도주하기 전</>에 처치, 식탐 꽃이 <@token.highlight>반짝 벌레를 소화하는 동안</>에 처치, 열매 도둑이 <@token.highlight>반짝 열매를 휴대하는 동안</>에 처치"
+          },
+          "handbook_token_smfrut": {
+            "tokenHandbookId": "handbook_token_smfrut",
+            "spriteId": "handbook_token_smfrut",
+            "sortId": 2,
+            "tokenAbility": "<@token.highlight>냄비에 투하</> 시 식재료 대량 획득, 식사 후 아군 오퍼레이터의 스킬 자동 발동, 스킬 종료 후 랜덤 위치에 재배치, 오퍼레이터에게 <@token.highlight>단독 사용</> 시 SP 대량 획득, 상기 효과 전부 획득",
+            "tokenDescrption": "반짝 벌레가 <@token.highlight>배고픈 사람</>에게 피격된 후, <@token.highlight>도주하기 전</>에 처치"
+          },
+          "handbook_token_frutwn": {
+            "tokenHandbookId": "handbook_token_frutwn",
+            "spriteId": "handbook_token_frutwn",
+            "sortId": 3,
+            "tokenAbility": "<@token.highlight>냄비에 투하</> 시 식사 후 모든 아군 오퍼레이터의 공격 속도가 대폭 증가하고, 일정 시간 후 공격 속도가 감소하는 효과 반복, 오퍼레이터에게 <@token.highlight>단독 사용</> 시 상기 효과 전부 획득",
+            "tokenDescrption": "반짝 열매를 먹은 <@token.highlight>'밍딩'</>을 <@token.highlight>놓아줌</>"
+          },
+          "handbook_token_tentcl": {
+            "tokenHandbookId": "handbook_token_tentcl",
+            "spriteId": "handbook_token_tentcl",
+            "sortId": 4,
+            "tokenAbility": "<@token.highlight>냄비에 투하</> 시 식사 후 모든 아군 오퍼레이터의 공격력 대폭 증가, 동시에 초당 신경 손상 회복, 오퍼레이터에게 <@token.highlight>단독 사용</> 시 공격력 증가, 초당 신경 손상을 받음",
+            "tokenDescrption": "<@token.highlight>비명 상자</> 처지"
+          },
+          "handbook_token_frfrut": {
+            "tokenHandbookId": "handbook_token_frfrut",
+            "spriteId": "handbook_token_frfrut",
+            "sortId": 5,
+            "tokenAbility": "<@token.highlight>냄비에 투하</> 시 식사 후 모든 아군 오퍼레이터의 최대 HP 대폭 증가, 오퍼레이터에게 <@token.highlight>단독 사용</> 시 최대 HP 증가",
+            "tokenDescrption": "반짝 열매가 <@token.highlight>폭탄 드론</>에 폭파, 반짝 열매가 <@token.highlight>열펌프 통로</>에 익음"
+          }
+        },
+        "constData": {
+          "rewardFailed": "그림책을 모두 채워 보상을 받아가세요!",
+          "rewardReceiveNumber": 27
+        }
+      }
+    }
   },
   "extraData": {
     "MAINLINE_BP": {
@@ -160409,6 +161685,9 @@
   "activityItems": {
     "act28sre": [
       "act28side_token_box_rep_1"
+    ],
+    "act36side": [
+      "act36side_token_recipe"
     ],
     "act17mini": [
       "act17mini_token_ash"
@@ -165938,6 +167217,25 @@
         }
       ],
       "startTs": 1739516400
+    },
+    {
+      "id": "dis_side_36",
+      "type": "ACTIVITY",
+      "funcId": "act36side",
+      "endTs": 1742756399,
+      "sortId": 91,
+      "itemId": "act36side_token_recipe",
+      "timeNodes": [
+        {
+          "title": "<테라밥> 이벤트 개방 중",
+          "ts": 1741590000
+        },
+        {
+          "title": "'테라 요리 탐방' 내 스테이지 개방 중",
+          "ts": 1742194800
+        }
+      ],
+      "startTs": 1741590000
     },
     {
       "id": "dis_side_28_sre",
@@ -184147,6 +185445,27 @@
       "titleType": "COMMON",
       "coinType": "COMMON",
       "coinBackColor": "98985e"
+    },
+    "act36side": {
+      "bigRewardType": "ILLUST_CHAR_REWARD",
+      "bigRewardParamList": [
+        "char_4143_sensi",
+        "DT-4 클리어 시 획득",
+        "a49271",
+        "-25,30"
+      ],
+      "isMissionListCommonType": true,
+      "isMissionItemCommonType": false,
+      "missionItemMainColor": null,
+      "isMissionItemCompleteUseMainColor": false,
+      "missionItemCompleteColor": null,
+      "isMissionRewardItemCommonType": true,
+      "isClaimAllBtnCommonType": false,
+      "claimAllBtnMainColor": null,
+      "claimAllBtnTips": null,
+      "titleType": "COMMON",
+      "coinType": "CUSTOM",
+      "coinBackColor": null
     },
     "act27sre": {
       "bigRewardType": "ILLUST_CHAR_REWARD",

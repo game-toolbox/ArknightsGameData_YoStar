@@ -579,7 +579,7 @@
       "char_4063_quartz": {
         "charId": "char_4063_quartz",
         "canBeFree": true,
-        "uniEquipId": null,
+        "uniEquipId": "uniequip_002_quartz",
         "recruitType": "FREE"
       },
       "char_491_humus": {
@@ -993,7 +993,7 @@
       "char_4083_chimes": {
         "charId": "char_4083_chimes",
         "canBeFree": true,
-        "uniEquipId": null,
+        "uniEquipId": "uniequip_002_chimes",
         "recruitType": "FREE"
       },
       "char_4131_odda": {
@@ -2211,7 +2211,7 @@
       "char_4088_hodrer": {
         "charId": "char_4088_hodrer",
         "canBeFree": true,
-        "uniEquipId": null,
+        "uniEquipId": "uniequip_002_hodrer",
         "recruitType": "FREE"
       },
       "char_4147_mitm": {
@@ -2247,7 +2247,7 @@
       "char_4145_ulpia": {
         "charId": "char_4145_ulpia",
         "canBeFree": true,
-        "uniEquipId": null,
+        "uniEquipId": "uniequip_002_ulpia",
         "recruitType": "FREE"
       },
       "char_4140_lasher": {
@@ -2272,6 +2272,30 @@
         "charId": "char_4058_pepe",
         "canBeFree": true,
         "uniEquipId": null,
+        "recruitType": "FREE"
+      },
+      "char_4144_chilc": {
+        "charId": "char_4144_chilc",
+        "canBeFree": false,
+        "uniEquipId": "uniequip_002_chilc",
+        "recruitType": "FREE"
+      },
+      "char_4142_laios": {
+        "charId": "char_4142_laios",
+        "canBeFree": false,
+        "uniEquipId": "uniequip_002_laios",
+        "recruitType": "FREE"
+      },
+      "char_4143_sensi": {
+        "charId": "char_4143_sensi",
+        "canBeFree": false,
+        "uniEquipId": "uniequip_002_sensi",
+        "recruitType": "FREE"
+      },
+      "char_4141_marcil": {
+        "charId": "char_4141_marcil",
+        "canBeFree": false,
+        "uniEquipId": "uniequip_002_marcil",
         "recruitType": "FREE"
       }
     }

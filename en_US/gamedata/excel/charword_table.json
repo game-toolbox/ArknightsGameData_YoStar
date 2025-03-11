@@ -203766,6 +203766,2385 @@
       "placeType": "ANNIVERSARY",
       "voiceAsset": "char_4058_pepe/CN_044"
     },
+    "char_4142_laios_CN_001": {
+      "charWordId": "char_4142_laios_CN_001",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_001",
+      "voiceText": "Oh! This machine carries people's voices straight over, and l can talk back to them too! That 'photocopier' over there can produce exact replicas of anything painted on paper... Is my job to learn to use all of them? I'd love to know how they work!",
+      "voiceTitle": "Appointed as Assistant",
+      "voiceIndex": 1,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_PLACE",
+      "voiceAsset": "char_4142_laios/CN_001"
+    },
+    "char_4142_laios_CN_002": {
+      "charWordId": "char_4142_laios_CN_002",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_002",
+      "voiceText": "Do you like the brined sandworm, Kay? How about this gloompincer mushroom pâté? Just as good? I've got garlic fin shiokara here, do you like that too? I'm so glad I meet you here! Come on, let's look for more new mon—whaaagh?! Vulcan? What are you doing? Where are you taking me?!",
+      "voiceTitle": "Talk 1",
+      "voiceIndex": 2,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4142_laios/CN_002"
+    },
+    "char_4142_laios_CN_003": {
+      "charWordId": "char_4142_laios_CN_003",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_003",
+      "voiceText": "Doctor! I'm behind this door! The little room next to you! I need your help, Mon3tr's sick... it's not eating anything I feed it. Do you have any ideas? What? But Dr. Kal'tsit saw how good friends we were and asked me to look after it for her. What do you mean she was keeping me shut in here? You're lying, right?",
+      "voiceTitle": "Talk 2",
+      "voiceIndex": 3,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4142_laios/CN_003"
+    },
+    "char_4142_laios_CN_004": {
+      "charWordId": "char_4142_laios_CN_004",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_004",
+      "voiceText": "Orchid said a big flick on the forehead of whoever steps out of line is how you manage your party members, but Fang told me really earnestly that it should start with living up to your leadership responsibilities. Then they made me talk about what I think matters most in a leader. To tell the truth... I think what matters most is that everyone can trust each other.",
+      "voiceTitle": "Talk 3",
+      "voiceIndex": 4,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4142_laios/CN_004"
+    },
+    "char_4142_laios_CN_005": {
+      "charWordId": "char_4142_laios_CN_005",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_005",
+      "voiceText": "Monsters have talons so they can hunt, and look cute so they can trick adventurers. By observing how monsters act, you get to know them. They always put themselves on full display, while humans are nothing like them... I'm more of a fan of monsters after all.",
+      "voiceTitle": "Talk after Promotion 1",
+      "voiceIndex": 5,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 1
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4142_laios/CN_005"
+    },
+    "char_4142_laios_CN_006": {
+      "charWordId": "char_4142_laios_CN_006",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_006",
+      "voiceText": "When I was young, I once got possessed by a spirit. Falin was the one who banished it, but because of that, our neighbors shunned her, and our father even kicked her out of the village. Later on, she ran away from school and went to the dungeon with me, but I couldn't protect her like I should have... I'm going to rescue her. I will rescue her.",
+      "voiceTitle": "Talk after Promotion 2",
+      "voiceIndex": 6,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 2
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4142_laios/CN_006"
+    },
+    "char_4142_laios_CN_007": {
+      "charWordId": "char_4142_laios_CN_007",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_007",
+      "voiceText": "Be careful, Elysium gave me this Liberi egg to look after. He told me it'll hatch in a few days—oooh! It's doing it, it's hatching! A little damp chick just popped out! Is this what Liberi look like when they're young? What's so funny, Doctor... Elysium was playing a prank on me?",
+      "voiceTitle": "Talk after Trust Increase 1",
+      "voiceIndex": 7,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 40
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4142_laios/CN_007"
+    },
+    "char_4142_laios_CN_008": {
+      "charWordId": "char_4142_laios_CN_008",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_008",
+      "voiceText": "Marcille always hates eating monsters, and Chilchuck once got betrayed by his own party... I was fully resolved to save Falin all on my own, and yet they still decided to stick with me despite everything. I'm really grateful to them for that.",
+      "voiceTitle": "Talk after Trust Increase 2",
+      "voiceIndex": 8,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 100
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4142_laios/CN_008"
+    },
+    "char_4142_laios_CN_009": {
+      "charWordId": "char_4142_laios_CN_009",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_009",
+      "voiceText": "I never imagined there'd be anyone except Senshi, but so many operators are interested in monsters! Plus, they want to come with me and see what it's like in the dungeon. If we have the ability to teleport back and forth, I bet Falin will want to visit as well and make friends with you all, and then we'll go on a tour around Terra!",
+      "voiceTitle": "Talk after Trust Increase 3",
+      "voiceIndex": 9,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 200
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4142_laios/CN_009"
+    },
+    "char_4142_laios_CN_010": {
+      "charWordId": "char_4142_laios_CN_010",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_010",
+      "voiceText": "Huh, I think Kensuke's asleep as well... So adorable…",
+      "voiceTitle": "Idle",
+      "voiceIndex": 10,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_WAIT",
+      "voiceAsset": "char_4142_laios/CN_010"
+    },
+    "char_4142_laios_CN_011": {
+      "charWordId": "char_4142_laios_CN_011",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_011",
+      "voiceText": "I noticed! You're interested in cooking monsters too, aren't you? I have sandworm & needlefly meatballs here, do you wanna try some?",
+      "voiceTitle": "Onboard",
+      "voiceIndex": 11,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "GACHA",
+      "voiceAsset": "char_4142_laios/CN_011"
+    },
+    "char_4142_laios_CN_012": {
+      "charWordId": "char_4142_laios_CN_012",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_012",
+      "voiceText": "These monsters just get neater and neater...",
+      "voiceTitle": "Watching Battle Record",
+      "voiceIndex": 12,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "LEVEL_UP",
+      "voiceAsset": "char_4142_laios/CN_012"
+    },
+    "char_4142_laios_CN_013": {
+      "charWordId": "char_4142_laios_CN_013",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_013",
+      "voiceText": "Thank you for letting me on! Excuse me, Doctor, is there some reason I haven't met any operators lately? ...What? They filed complaints against me? For getting too much plumage and fur from them? They think I'm weird? I—I just wanted to make a collection of specimens—",
+      "voiceTitle": "Promotion 1",
+      "voiceIndex": 13,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 1
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "EVOLVE_ONE",
+      "voiceAsset": "char_4142_laios/CN_013"
+    },
+    "char_4142_laios_CN_014": {
+      "charWordId": "char_4142_laios_CN_014",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_014",
+      "voiceText": "I totally grasp how to get along with the operators here now, and I'm confident I'll blend in with everyone soon. Here are some seven-headed, super-undefeatable monster figures made by myself, and I'll send them out later to make up for everything.",
+      "voiceTitle": "Promotion 2",
+      "voiceIndex": 14,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 2
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "EVOLVE_TWO",
+      "voiceAsset": "char_4142_laios/CN_014"
+    },
+    "char_4142_laios_CN_017": {
+      "charWordId": "char_4142_laios_CN_017",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_017",
+      "voiceText": "Weapons, armor, medicine, food, cookware, sleeping pads... We don't need the sleeping pads? Oh, alright.",
+      "voiceTitle": "Added to Squad",
+      "voiceIndex": 17,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "SQUAD",
+      "voiceAsset": "char_4142_laios/CN_017"
+    },
+    "char_4142_laios_CN_018": {
+      "charWordId": "char_4142_laios_CN_018",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_018",
+      "voiceText": "Got it. I'll perform my duty.",
+      "voiceTitle": "Appointed as Squad Leader",
+      "voiceIndex": 18,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "SQUAD_FIRST",
+      "voiceAsset": "char_4142_laios/CN_018"
+    },
+    "char_4142_laios_CN_019": {
+      "charWordId": "char_4142_laios_CN_019",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_019",
+      "voiceText": "Yup, my belly's nice and full. Everything's gonna be fine this time.",
+      "voiceTitle": "Depart",
+      "voiceIndex": 19,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_START",
+      "voiceAsset": "char_4142_laios/CN_019"
+    },
+    "char_4142_laios_CN_020": {
+      "charWordId": "char_4142_laios_CN_020",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_020",
+      "voiceText": "Whoa! Kensuke's shaking!",
+      "voiceTitle": "Begin Operation",
+      "voiceIndex": 20,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_FACE_ENEMY",
+      "voiceAsset": "char_4142_laios/CN_020"
+    },
+    "char_4142_laios_CN_021": {
+      "charWordId": "char_4142_laios_CN_021",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_021",
+      "voiceText": "What are your monsters like here?",
+      "voiceTitle": "Selecting Operator 1",
+      "voiceIndex": 21,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SELECT",
+      "voiceAsset": "char_4142_laios/CN_021"
+    },
+    "char_4142_laios_CN_022": {
+      "charWordId": "char_4142_laios_CN_022",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_022",
+      "voiceText": "It'd be great if we could encounter a new species.",
+      "voiceTitle": "Selecting Operator 2",
+      "voiceIndex": 22,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SELECT",
+      "voiceAsset": "char_4142_laios/CN_022"
+    },
+    "char_4142_laios_CN_023": {
+      "charWordId": "char_4142_laios_CN_023",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_023",
+      "voiceText": "Let me check for any carnivorous monster dung...",
+      "voiceTitle": "Deployment 1",
+      "voiceIndex": 23,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_PLACE",
+      "voiceAsset": "char_4142_laios/CN_023"
+    },
+    "char_4142_laios_CN_024": {
+      "charWordId": "char_4142_laios_CN_024",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_024",
+      "voiceText": "The terrain here is totally different to the dungeon...",
+      "voiceTitle": "Deployment 2",
+      "voiceIndex": 24,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_PLACE",
+      "voiceAsset": "char_4142_laios/CN_024"
+    },
+    "char_4142_laios_CN_025": {
+      "charWordId": "char_4142_laios_CN_025",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_025",
+      "voiceText": "RAAAAAAAAAAAAAAAH!! RAAH! RAAAAGH!!",
+      "voiceTitle": "During Combat",
+      "voiceIndex": 25,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SKILL_1",
+      "voiceAsset": "char_4142_laios/CN_025"
+    },
+    "char_4142_laios_CN_029": {
+      "charWordId": "char_4142_laios_CN_029",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_029",
+      "voiceText": "Ahh, I have to note down everything we learned today. Terra's got so many kinds of monsters...!",
+      "voiceTitle": "4-star Result",
+      "voiceIndex": 29,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "FOUR_STAR",
+      "voiceAsset": "char_4142_laios/CN_029"
+    },
+    "char_4142_laios_CN_030": {
+      "charWordId": "char_4142_laios_CN_030",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_030",
+      "voiceText": "Senshi, are those monsters edible?",
+      "voiceTitle": "3-star Result",
+      "voiceIndex": 30,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "THREE_STAR",
+      "voiceAsset": "char_4142_laios/CN_030"
+    },
+    "char_4142_laios_CN_031": {
+      "charWordId": "char_4142_laios_CN_031",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_031",
+      "voiceText": "Cheer up, Doctor. Just watch, we'll succeed next time.",
+      "voiceTitle": "Sub 3-star Result",
+      "voiceIndex": 31,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "TWO_STAR",
+      "voiceAsset": "char_4142_laios/CN_031"
+    },
+    "char_4142_laios_CN_032": {
+      "charWordId": "char_4142_laios_CN_032",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_032",
+      "voiceText": "Fighting on an empty stomach is a recipe for party wipes...",
+      "voiceTitle": "Operation Failure",
+      "voiceIndex": 32,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "LOSE",
+      "voiceAsset": "char_4142_laios/CN_032"
+    },
+    "char_4142_laios_CN_033": {
+      "charWordId": "char_4142_laios_CN_033",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_033",
+      "voiceText": "Alright, let's ask Chilchuck to map out this place!",
+      "voiceTitle": "Assigned to Facility",
+      "voiceIndex": 33,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BUILDING_PLACE",
+      "voiceAsset": "char_4142_laios/CN_033"
+    },
+    "char_4142_laios_CN_034": {
+      "charWordId": "char_4142_laios_CN_034",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_034",
+      "voiceText": "...Kensuke?",
+      "voiceTitle": "Tap",
+      "voiceIndex": 34,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BUILDING_TOUCHING",
+      "voiceAsset": "char_4142_laios/CN_034"
+    },
+    "char_4142_laios_CN_036": {
+      "charWordId": "char_4142_laios_CN_036",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_036",
+      "voiceText": "This metal crab can't right itself. Look, it's sooo cute.",
+      "voiceTitle": "Trust Tap",
+      "voiceIndex": 36,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BUILDING_FAVOR_BUBBLE",
+      "voiceAsset": "char_4142_laios/CN_036"
+    },
+    "char_4142_laios_CN_037": {
+      "charWordId": "char_4142_laios_CN_037",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_037",
+      "voiceText": "Arknights.",
+      "voiceTitle": "Title",
+      "voiceIndex": 37,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "LOADING_PANEL",
+      "voiceAsset": "char_4142_laios/CN_037"
+    },
+    "char_4142_laios_CN_038": {
+      "charWordId": "char_4142_laios_CN_038",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_038",
+      "voiceText": "When Marcille was taking our photograph just now, she left a spot next to her for Falin. I wonder what kind of souvenir I should get her... How about this needlefly pâté? Really, you don't think so? You don't understand. This is made from a monster from another world!",
+      "voiceTitle": "New Year's blessing",
+      "voiceIndex": 38,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "NEW_YEAR",
+      "voiceAsset": "char_4142_laios/CN_038"
+    },
+    "char_4142_laios_CN_042": {
+      "charWordId": "char_4142_laios_CN_042",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_042",
+      "voiceText": "I have a shiny mouth...? Right, I just ate a fluorescent Originium Slug gummy.",
+      "voiceTitle": "Greeting",
+      "voiceIndex": 42,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "GREETING",
+      "voiceAsset": "char_4142_laios/CN_042"
+    },
+    "char_4142_laios_CN_044": {
+      "charWordId": "char_4142_laios_CN_044",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_044",
+      "voiceText": "They say so long as you defeat the Lunatic Magician of the dungeon, all that lies within is yours. When I was in the depths before, I wasn't thinking at all about why I was down there, or what it was that I truly wanted... but meeting you all made me realize just what it's like to have a goal in life.",
+      "voiceTitle": "Anniversary Celebration",
+      "voiceIndex": 44,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "ANNIVERSARY",
+      "voiceAsset": "char_4142_laios/CN_044"
+    },
+    "char_4141_marcil_CN_001": {
+      "charWordId": "char_4141_marcil_CN_001",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_001",
+      "voiceText": "I did this all the time back in magic school, and I've mastered how to use all your magical tools, so you can leave everything to me! ...Someone blew up that Originium flashlight? *ahem* Well, it wasn't me!",
+      "voiceTitle": "Appointed as Assistant",
+      "voiceIndex": 1,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_PLACE",
+      "voiceAsset": "char_4141_marcil/CN_001"
+    },
+    "char_4141_marcil_CN_002": {
+      "charWordId": "char_4141_marcil_CN_002",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_002",
+      "voiceText": "Canned sandworm? Lemon fin-mint noon tea? Sea Terror jerky?... NOOO! NO, NO, ABSOLUTELY NOT! ABSOLUTELY NOT!",
+      "voiceTitle": "Talk 1",
+      "voiceIndex": 2,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4141_marcil/CN_002"
+    },
+    "char_4141_marcil_CN_003": {
+      "charWordId": "char_4141_marcil_CN_003",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_003",
+      "voiceText": "Here, your summary on healing magic compared to restorative Arts. What? You thought I'd take longer to finish? Heh-heh! Back in school, when I was developing a new healing magic, I'd read through tons of papers like that every day. So the next time you have any work like this, just let me handle it!",
+      "voiceTitle": "Talk 2",
+      "voiceIndex": 3,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4141_marcil/CN_003"
+    },
+    "char_4141_marcil_CN_004": {
+      "charWordId": "char_4141_marcil_CN_004",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_004",
+      "voiceText": "Seventh Night's Awakened'? 'Fiend of the Night'? Do you really have members with such titles? Sounds like they walked straight out of some ancient legend. Awakened in a banquet of blood and darkness, a lonely moon glimmering in his blood-red pupils, surrounded by countless... Huh? Who was that man being dragged away by the ear?",
+      "voiceTitle": "Talk 3",
+      "voiceIndex": 4,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4141_marcil/CN_004"
+    },
+    "char_4141_marcil_CN_005": {
+      "charWordId": "char_4141_marcil_CN_005",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_005",
+      "voiceText": "My gosh, these vegetables are so fresh! No soil at all, just water? I never knew you could garden with such devices! Having one of these in the dungeon would solve everything! ...You need electricity to run it...? Well, I'll pedal a whole generator if that's what it takes!",
+      "voiceTitle": "Talk after Promotion 1",
+      "voiceIndex": 5,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 1
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4141_marcil/CN_005"
+    },
+    "char_4141_marcil_CN_006": {
+      "charWordId": "char_4141_marcil_CN_006",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_006",
+      "voiceText": "It's true Familiar Creation is a dangerous magic, but I saw those children in the Medical Department and... They saw me as a mighty sorceress from the dungeon! And the one who can summon these little things to play with them! Aww, look how much they love it.",
+      "voiceTitle": "Talk after Promotion 2",
+      "voiceIndex": 6,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 2
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4141_marcil/CN_006"
+    },
+    "char_4141_marcil_CN_007": {
+      "charWordId": "char_4141_marcil_CN_007",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_007",
+      "voiceText": "Just a moment ago, I saw Laios eating yet another monster I've never seen. It was tall as a half-foot, covered in thorns, and it squirted poison. Doctor, how long until food poisoning symptoms show? Never mind, I'll just pay a visit to the Medical Department and get prepared beforehand...",
+      "voiceTitle": "Talk after Trust Increase 1",
+      "voiceIndex": 7,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 40
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4141_marcil/CN_007"
+    },
+    "char_4141_marcil_CN_008": {
+      "charWordId": "char_4141_marcil_CN_008",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_008",
+      "voiceText": "I learned how to make this straw grasshopper in a handicraft class. When we go back, I'll give it to Falin. The first time we hanged out together, she caught a grasshopper live, and she took me to see a real dungeon, and we ate raspberries... That was the day we became friends. I'll always remember it.",
+      "voiceTitle": "Talk after Trust Increase 2",
+      "voiceIndex": 8,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 100
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4141_marcil/CN_008"
+    },
+    "char_4141_marcil_CN_009": {
+      "charWordId": "char_4141_marcil_CN_009",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_009",
+      "voiceText": "Doctor, can you show me how you use that thing you call a camera? I want to take a photograph of us—you, Laios and everyone. When we go back, I'll show it to Falin and tell her about each one of you. Am—am I doing it right? Laios, huddle up a little more. Three, two, one,  cheese—",
+      "voiceTitle": "Talk after Trust Increase 3",
+      "voiceIndex": 9,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 200
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4141_marcil/CN_009"
+    },
+    "char_4141_marcil_CN_010": {
+      "charWordId": "char_4141_marcil_CN_010",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_010",
+      "voiceText": "...I wonder if my sleeping bag's still on the fifth floor... and the really valuable soap... *snzzz*... *snzzz*...",
+      "voiceTitle": "Idle",
+      "voiceIndex": 10,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_WAIT",
+      "voiceAsset": "char_4141_marcil/CN_010"
+    },
+    "char_4141_marcil_CN_011": {
+      "charWordId": "char_4141_marcil_CN_011",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_011",
+      "voiceText": "Thank you for helping us in finding a way back! Oh, yes, and my party may not look it but they're all wonderful people, and if they do anything strange, er, please try and forgive them...",
+      "voiceTitle": "Onboard",
+      "voiceIndex": 11,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "GACHA",
+      "voiceAsset": "char_4141_marcil/CN_011"
+    },
+    "char_4141_marcil_CN_012": {
+      "charWordId": "char_4141_marcil_CN_012",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_012",
+      "voiceText": "Is this really the time rewind magic which allows you to relive the past? On a scale this big? How is it done? Can you teach me?",
+      "voiceTitle": "Watching Battle Record",
+      "voiceIndex": 12,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "LEVEL_UP",
+      "voiceAsset": "char_4141_marcil/CN_012"
+    },
+    "char_4141_marcil_CN_013": {
+      "charWordId": "char_4141_marcil_CN_013",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_013",
+      "voiceText": "So in other words, I have the permissions now to borrow all the books on advanced Originium Arts theory? Wow! Thank you!",
+      "voiceTitle": "Promotion 1",
+      "voiceIndex": 13,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 1
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "EVOLVE_ONE",
+      "voiceAsset": "char_4141_marcil/CN_013"
+    },
+    "char_4141_marcil_CN_014": {
+      "charWordId": "char_4141_marcil_CN_014",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_014",
+      "voiceText": "When I tell Falin about everything that's happened to us, she's sure to be excited... And that's just one more reason we have to make it back, and save her!",
+      "voiceTitle": "Promotion 2",
+      "voiceIndex": 14,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 2
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "EVOLVE_TWO",
+      "voiceAsset": "char_4141_marcil/CN_014"
+    },
+    "char_4141_marcil_CN_017": {
+      "charWordId": "char_4141_marcil_CN_017",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_017",
+      "voiceText": "Magic tome, staff, repair tools... Done. Everything's packed and I'm ready to go.",
+      "voiceTitle": "Added to Squad",
+      "voiceIndex": 17,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "SQUAD",
+      "voiceAsset": "char_4141_marcil/CN_017"
+    },
+    "char_4141_marcil_CN_018": {
+      "charWordId": "char_4141_marcil_CN_018",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_018",
+      "voiceText": "Huh? Wait a moment, our leader's always been Laios.",
+      "voiceTitle": "Appointed as Squad Leader",
+      "voiceIndex": 18,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "SQUAD_FIRST",
+      "voiceAsset": "char_4141_marcil/CN_018"
+    },
+    "char_4141_marcil_CN_019": {
+      "charWordId": "char_4141_marcil_CN_019",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_019",
+      "voiceText": "Let's go. As long we have a battle plan, I can make it work.",
+      "voiceTitle": "Depart",
+      "voiceIndex": 19,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_START",
+      "voiceAsset": "char_4141_marcil/CN_019"
+    },
+    "char_4141_marcil_CN_020": {
+      "charWordId": "char_4141_marcil_CN_020",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_020",
+      "voiceText": "Don't worry, I just ate my fill. My mana is in tip-top shape.",
+      "voiceTitle": "Begin Operation",
+      "voiceIndex": 20,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_FACE_ENEMY",
+      "voiceAsset": "char_4141_marcil/CN_020"
+    },
+    "char_4141_marcil_CN_021": {
+      "charWordId": "char_4141_marcil_CN_021",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_021",
+      "voiceText": "Take it easy. Just leave it to me.",
+      "voiceTitle": "Selecting Operator 1",
+      "voiceIndex": 21,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SELECT",
+      "voiceAsset": "char_4141_marcil/CN_021"
+    },
+    "char_4141_marcil_CN_022": {
+      "charWordId": "char_4141_marcil_CN_022",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_022",
+      "voiceText": "Do you want me to ready a magic circle?",
+      "voiceTitle": "Selecting Operator 2",
+      "voiceIndex": 22,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SELECT",
+      "voiceAsset": "char_4141_marcil/CN_022"
+    },
+    "char_4141_marcil_CN_023": {
+      "charWordId": "char_4141_marcil_CN_023",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_023",
+      "voiceText": "I've never seen all these monsters before...",
+      "voiceTitle": "Deployment 1",
+      "voiceIndex": 23,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_PLACE",
+      "voiceAsset": "char_4141_marcil/CN_023"
+    },
+    "char_4141_marcil_CN_024": {
+      "charWordId": "char_4141_marcil_CN_024",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_024",
+      "voiceText": "Over there, right?",
+      "voiceTitle": "Deployment 2",
+      "voiceIndex": 24,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_PLACE",
+      "voiceAsset": "char_4141_marcil/CN_024"
+    },
+    "char_4141_marcil_CN_025": {
+      "charWordId": "char_4141_marcil_CN_025",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_025",
+      "voiceText": "Ever since my last familiar channeling, my arm's been sore...",
+      "voiceTitle": "In Battle 1",
+      "voiceIndex": 25,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SKILL_1",
+      "voiceAsset": "char_4141_marcil/CN_025"
+    },
+    "char_4141_marcil_CN_026": {
+      "charWordId": "char_4141_marcil_CN_026",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_026",
+      "voiceText": "Fall back, let me handle this! I'll wipe them all out!",
+      "voiceTitle": "In Battle 2",
+      "voiceIndex": 26,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SKILL_2",
+      "voiceAsset": "char_4141_marcil/CN_026"
+    },
+    "char_4141_marcil_CN_027": {
+      "charWordId": "char_4141_marcil_CN_027",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_027",
+      "voiceText": "Exhausting your mana is dangerous. Be careful how you plan your tactics, you know.",
+      "voiceTitle": "In Battle 3",
+      "voiceIndex": 27,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SKILL_3",
+      "voiceAsset": "char_4141_marcil/CN_027"
+    },
+    "char_4141_marcil_CN_028": {
+      "charWordId": "char_4141_marcil_CN_028",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_028",
+      "voiceText": "I can see the monsters! Just give me a moment to aim...!",
+      "voiceTitle": "In Battle 4",
+      "voiceIndex": 28,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SKILL_4",
+      "voiceAsset": "char_4141_marcil/CN_028"
+    },
+    "char_4141_marcil_CN_029": {
+      "charWordId": "char_4141_marcil_CN_029",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_029",
+      "voiceText": "Heh-heh! And THAT'S why I was top of my class.",
+      "voiceTitle": "4-star Result",
+      "voiceIndex": 29,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "FOUR_STAR",
+      "voiceAsset": "char_4141_marcil/CN_029"
+    },
+    "char_4141_marcil_CN_030": {
+      "charWordId": "char_4141_marcil_CN_030",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_030",
+      "voiceText": "I know for a fact Rhodes Island has regular cuisine! Why are Laios and Senshi still rushing to cook up the monsters we defeat?!",
+      "voiceTitle": "3-star Result",
+      "voiceIndex": 30,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "THREE_STAR",
+      "voiceAsset": "char_4141_marcil/CN_030"
+    },
+    "char_4141_marcil_CN_031": {
+      "charWordId": "char_4141_marcil_CN_031",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_031",
+      "voiceText": "Phew, still alive. I almost ended up a full-course meal for the monsters...",
+      "voiceTitle": "Sub 3-star Result",
+      "voiceIndex": 31,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "TWO_STAR",
+      "voiceAsset": "char_4141_marcil/CN_031"
+    },
+    "char_4141_marcil_CN_032": {
+      "charWordId": "char_4141_marcil_CN_032",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_032",
+      "voiceText": "AHHHHHH! RUN FOR IT!!",
+      "voiceTitle": "Operation Failure",
+      "voiceIndex": 32,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "LOSE",
+      "voiceAsset": "char_4141_marcil/CN_032"
+    },
+    "char_4141_marcil_CN_033": {
+      "charWordId": "char_4141_marcil_CN_033",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_033",
+      "voiceText": "I have to say, it's just like a dungeon in here...",
+      "voiceTitle": "Assigned to Facility",
+      "voiceIndex": 33,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BUILDING_PLACE",
+      "voiceAsset": "char_4141_marcil/CN_033"
+    },
+    "char_4141_marcil_CN_034": {
+      "charWordId": "char_4141_marcil_CN_034",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_034",
+      "voiceText": "EYAARGH! ...Oh, thank heavens, I thought you were a man-eating plant!",
+      "voiceTitle": "Tap",
+      "voiceIndex": 34,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BUILDING_TOUCHING",
+      "voiceAsset": "char_4141_marcil/CN_034"
+    },
+    "char_4141_marcil_CN_036": {
+      "charWordId": "char_4141_marcil_CN_036",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_036",
+      "voiceText": "Are you heading to the Library too? Excellent, let's go together!",
+      "voiceTitle": "Trust Tap",
+      "voiceIndex": 36,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BUILDING_FAVOR_BUBBLE",
+      "voiceAsset": "char_4141_marcil/CN_036"
+    },
+    "char_4141_marcil_CN_037": {
+      "charWordId": "char_4141_marcil_CN_037",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_037",
+      "voiceText": "Arknights.",
+      "voiceTitle": "Title",
+      "voiceIndex": 37,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "LOADING_PANEL",
+      "voiceAsset": "char_4141_marcil/CN_037"
+    },
+    "char_4141_marcil_CN_038": {
+      "charWordId": "char_4141_marcil_CN_038",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_038",
+      "voiceText": "It feels like it was just yesterday that we got here. I've already gotten the hang of that camera you showed me how to use! Right, we should take another photo today, with all my new friends—a big group photo altogether. Falin will love hearing all our stories!",
+      "voiceTitle": "New Year's blessing",
+      "voiceIndex": 38,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "NEW_YEAR",
+      "voiceAsset": "char_4141_marcil/CN_038"
+    },
+    "char_4141_marcil_CN_042": {
+      "charWordId": "char_4141_marcil_CN_042",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_042",
+      "voiceText": "Doctor, how did you sleep last night? If you've been having bad dreams, then you want to check for Nightmares in your pillow—that's what we do before sleeping in the dungeon!",
+      "voiceTitle": "Greeting",
+      "voiceIndex": 42,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "GREETING",
+      "voiceAsset": "char_4141_marcil/CN_042"
+    },
+    "char_4141_marcil_CN_044": {
+      "charWordId": "char_4141_marcil_CN_044",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_044",
+      "voiceText": "I studied the theory of maladies and injuries in magic school, and took up developing healing magic as well. I know just how excruciating it is to battle with a seemingly incurable disease. Doctor, if you're ever in need, I'll be there to give all the help I can.",
+      "voiceTitle": "Anniversary Celebration",
+      "voiceIndex": 44,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "ANNIVERSARY",
+      "voiceAsset": "char_4141_marcil/CN_044"
+    },
+    "char_4144_chilc_CN_001": {
+      "charWordId": "char_4144_chilc_CN_001",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_001",
+      "voiceText": "Uh-huh... I see. Hand me this paperwork. I'll sort it out. What? Don't tell me 'I know you can do this'. I'm not a child!",
+      "voiceTitle": "Appointed as Assistant",
+      "voiceIndex": 1,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_PLACE",
+      "voiceAsset": "char_4144_chilc/CN_001"
+    },
+    "char_4144_chilc_CN_002": {
+      "charWordId": "char_4144_chilc_CN_002",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_002",
+      "voiceText": "Tch... I had a feeling, but actually hearing the doc dissect my numbers during the checkup was another thing. I need a while away from any missions with Senshi and Laios. Can't keep eating with them at this rate.",
+      "voiceTitle": "Talk 1",
+      "voiceIndex": 2,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4144_chilc/CN_002"
+    },
+    "char_4144_chilc_CN_003": {
+      "charWordId": "char_4144_chilc_CN_003",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_003",
+      "voiceText": "I see your face, and I know what you're thinking—'I didn't even know you could eat this!' or something like that. I was reluctant at first, but then I got used to it. Spend enough time with them, and you will too. Uh, not that getting used to it matters or anything, I mean.",
+      "voiceTitle": "Talk 2",
+      "voiceIndex": 3,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4144_chilc/CN_003"
+    },
+    "char_4144_chilc_CN_004": {
+      "charWordId": "char_4144_chilc_CN_004",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_004",
+      "voiceText": "*sigh* This is what I get for hanging around Laios and Senshi. Now everyone thinks I'm some monster-loving wacko too. What's that you've got there, Doctor? Senshi's brand new pièce de résistance? ...You look excited, too. Don't tell me you're one of them?",
+      "voiceTitle": "Talk 3",
+      "voiceIndex": 4,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4144_chilc/CN_004"
+    },
+    "char_4144_chilc_CN_005": {
+      "charWordId": "char_4144_chilc_CN_005",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_005",
+      "voiceText": "Okay. It's dawned on me that Durins look young because they're actually young—Myrtle more than anyone. That girl is practically a child. I had a brief conversation with her, and she decided I was lying about not being her age—give me a break!",
+      "voiceTitle": "Talk after Promotion 1",
+      "voiceIndex": 5,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 1
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4144_chilc/CN_005"
+    },
+    "char_4144_chilc_CN_006": {
+      "charWordId": "char_4144_chilc_CN_006",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_006",
+      "voiceText": "Doctor, Terran mimics are much easier to tell than the dungeon kind. Watch, all it takes to lure one is some bait, just wait for it to bite and you can—ha! Nailed it... Tch, didn't expect there's another one!",
+      "voiceTitle": "Talk after Promotion 2",
+      "voiceIndex": 6,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 2
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4144_chilc/CN_006"
+    },
+    "char_4144_chilc_CN_007": {
+      "charWordId": "char_4144_chilc_CN_007",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_007",
+      "voiceText": "I used to manage a guild too, you know. It keeps me on my feet every day, but sometimes even my own kind don't see the point. With Rhodes Island being such a big organization, you should learn to unwind every now and then. Wanna go grab a drink? It's not like the work will run off while you're away, so we may as well relax for now.",
+      "voiceTitle": "Talk after Trust Increase 1",
+      "voiceIndex": 7,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 40
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4144_chilc/CN_007"
+    },
+    "char_4144_chilc_CN_008": {
+      "charWordId": "char_4144_chilc_CN_008",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_008",
+      "voiceText": "Laios and the others believe that giving all you've got equals a happy ending. As if it's ever that simple—what a bunch of morons. You're smart, Doctor. You don't believe in that either, right? ...Come again? I am NOT worried for them!",
+      "voiceTitle": "Talk after Trust Increase 2",
+      "voiceIndex": 8,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 100
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4144_chilc/CN_008"
+    },
+    "char_4144_chilc_CN_009": {
+      "charWordId": "char_4144_chilc_CN_009",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_009",
+      "voiceText": "You want to try dungeoneering? Considering the combat skills you have, you can never have too many extra lives. Okay, how about this? If you really wanna go, then you must follow <i>my</i> instructions when it comes to pathfinding and operation strategies. I'm the expert. For anything else, you and Laios can make it up.",
+      "voiceTitle": "Talk after Trust Increase 3",
+      "voiceIndex": 9,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 200
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4144_chilc/CN_009"
+    },
+    "char_4144_chilc_CN_010": {
+      "charWordId": "char_4144_chilc_CN_010",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_010",
+      "voiceText": "I know I'm sick of Senshi yapping about having a healthy diet, but you might actually need the lecture from him.",
+      "voiceTitle": "Idle",
+      "voiceIndex": 10,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_WAIT",
+      "voiceAsset": "char_4144_chilc/CN_010"
+    },
+    "char_4144_chilc_CN_011": {
+      "charWordId": "char_4144_chilc_CN_011",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_011",
+      "voiceText": "I've read through the contract. The terms all look solid, and so do the benefits. If you can pay me upfront, I'll be glad to work with you. I'm being blunt here for good reason—it benefits us all that we hash this out in advance, doesn't it?",
+      "voiceTitle": "Onboard",
+      "voiceIndex": 11,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "GACHA",
+      "voiceAsset": "char_4144_chilc/CN_011"
+    },
+    "char_4144_chilc_CN_012": {
+      "charWordId": "char_4144_chilc_CN_012",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_012",
+      "voiceText": "You're not gonna try and put me in combat, are you?",
+      "voiceTitle": "Watching Battle Record",
+      "voiceIndex": 12,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "LEVEL_UP",
+      "voiceAsset": "char_4144_chilc/CN_012"
+    },
+    "char_4144_chilc_CN_013": {
+      "charWordId": "char_4144_chilc_CN_013",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_013",
+      "voiceText": "Thanks. I'll do however much I'm paid for.",
+      "voiceTitle": "Promotion 1",
+      "voiceIndex": 13,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 1
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "EVOLVE_ONE",
+      "voiceAsset": "char_4144_chilc/CN_013"
+    },
+    "char_4144_chilc_CN_014": {
+      "charWordId": "char_4144_chilc_CN_014",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_014",
+      "voiceText": "The viciousness of Terra gives dungeons a real run for their money. On top of that, you have some nasty mimics too... Doctor, you ever see a suspicious chest, don't sit on it. Let me deal with it. Understand?",
+      "voiceTitle": "Promotion 2",
+      "voiceIndex": 14,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 2
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "EVOLVE_TWO",
+      "voiceAsset": "char_4144_chilc/CN_014"
+    },
+    "char_4144_chilc_CN_017": {
+      "charWordId": "char_4144_chilc_CN_017",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_017",
+      "voiceText": "Let's be clear, I'm just the scout. Don't count on me for combat.",
+      "voiceTitle": "Added to Squad",
+      "voiceIndex": 17,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "SQUAD",
+      "voiceAsset": "char_4144_chilc/CN_017"
+    },
+    "char_4144_chilc_CN_018": {
+      "charWordId": "char_4144_chilc_CN_018",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_018",
+      "voiceText": "This isn't my forte, but I'll try.",
+      "voiceTitle": "Appointed as Squad Leader",
+      "voiceIndex": 18,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "SQUAD_FIRST",
+      "voiceAsset": "char_4144_chilc/CN_018"
+    },
+    "char_4144_chilc_CN_019": {
+      "charWordId": "char_4144_chilc_CN_019",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_019",
+      "voiceText": "Let's go. I've got the route planned.",
+      "voiceTitle": "Depart",
+      "voiceIndex": 19,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_START",
+      "voiceAsset": "char_4144_chilc/CN_019"
+    },
+    "char_4144_chilc_CN_020": {
+      "charWordId": "char_4144_chilc_CN_020",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_020",
+      "voiceText": "I hear footsteps.",
+      "voiceTitle": "Begin Operation",
+      "voiceIndex": 20,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_FACE_ENEMY",
+      "voiceAsset": "char_4144_chilc/CN_020"
+    },
+    "char_4144_chilc_CN_021": {
+      "charWordId": "char_4144_chilc_CN_021",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_021",
+      "voiceText": "Anyone need a lock picked?",
+      "voiceTitle": "Selecting Operator 1",
+      "voiceIndex": 21,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SELECT",
+      "voiceAsset": "char_4144_chilc/CN_021"
+    },
+    "char_4144_chilc_CN_022": {
+      "charWordId": "char_4144_chilc_CN_022",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_022",
+      "voiceText": "I scouted this part. All clear.",
+      "voiceTitle": "Selecting Operator 2",
+      "voiceIndex": 22,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SELECT",
+      "voiceAsset": "char_4144_chilc/CN_022"
+    },
+    "char_4144_chilc_CN_023": {
+      "charWordId": "char_4144_chilc_CN_023",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_023",
+      "voiceText": "Hey, this is a LOT of enemies!",
+      "voiceTitle": "Deployment 1",
+      "voiceIndex": 23,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_PLACE",
+      "voiceAsset": "char_4144_chilc/CN_023"
+    },
+    "char_4144_chilc_CN_024": {
+      "charWordId": "char_4144_chilc_CN_024",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_024",
+      "voiceText": "Doctor, this is a mistake, right?!",
+      "voiceTitle": "Deployment 2",
+      "voiceIndex": 24,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_PLACE",
+      "voiceAsset": "char_4144_chilc/CN_024"
+    },
+    "char_4144_chilc_CN_025": {
+      "charWordId": "char_4144_chilc_CN_025",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_025",
+      "voiceText": "You asked for it!",
+      "voiceTitle": "In Battle 1",
+      "voiceIndex": 25,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SKILL_1",
+      "voiceAsset": "char_4144_chilc/CN_025"
+    },
+    "char_4144_chilc_CN_026": {
+      "charWordId": "char_4144_chilc_CN_026",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_026",
+      "voiceText": "Don't count on me to do any serious damage!",
+      "voiceTitle": "In Battle 2",
+      "voiceIndex": 26,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SKILL_2",
+      "voiceAsset": "char_4144_chilc/CN_026"
+    },
+    "char_4144_chilc_CN_027": {
+      "charWordId": "char_4144_chilc_CN_027",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_027",
+      "voiceText": "Cover me already!",
+      "voiceTitle": "In Battle 3",
+      "voiceIndex": 27,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SKILL_3",
+      "voiceAsset": "char_4144_chilc/CN_027"
+    },
+    "char_4144_chilc_CN_028": {
+      "charWordId": "char_4144_chilc_CN_028",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_028",
+      "voiceText": "They just keep coming!",
+      "voiceTitle": "In Battle 4",
+      "voiceIndex": 28,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SKILL_4",
+      "voiceAsset": "char_4144_chilc/CN_028"
+    },
+    "char_4144_chilc_CN_029": {
+      "charWordId": "char_4144_chilc_CN_029",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_029",
+      "voiceText": "Doctor, give me a heads-up about this sort of mission next time. Because I'm not coming again.",
+      "voiceTitle": "4-star Result",
+      "voiceIndex": 29,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "FOUR_STAR",
+      "voiceAsset": "char_4144_chilc/CN_029"
+    },
+    "char_4144_chilc_CN_030": {
+      "charWordId": "char_4144_chilc_CN_030",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_030",
+      "voiceText": "Good wrap-up, and I'm a little hungry too. Times like this call for... tch, they're tainting me.",
+      "voiceTitle": "3-star Result",
+      "voiceIndex": 30,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "THREE_STAR",
+      "voiceAsset": "char_4144_chilc/CN_030"
+    },
+    "char_4144_chilc_CN_031": {
+      "charWordId": "char_4144_chilc_CN_031",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_031",
+      "voiceText": "You guys recover for now, I'll keep watch. Don't worry, if anyone approaches, I'll hear.",
+      "voiceTitle": "Sub 3-star Result",
+      "voiceIndex": 31,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "TWO_STAR",
+      "voiceAsset": "char_4144_chilc/CN_031"
+    },
+    "char_4144_chilc_CN_032": {
+      "charWordId": "char_4144_chilc_CN_032",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_032",
+      "voiceText": "Good thing I secured our escape route... everyone follow me!",
+      "voiceTitle": "Operation Failure",
+      "voiceIndex": 32,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "LOSE",
+      "voiceAsset": "char_4144_chilc/CN_032"
+    },
+    "char_4144_chilc_CN_033": {
+      "charWordId": "char_4144_chilc_CN_033",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_033",
+      "voiceText": "Time I mapped out Rhodes Island.",
+      "voiceTitle": "Assigned to Facility",
+      "voiceIndex": 33,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BUILDING_PLACE",
+      "voiceAsset": "char_4144_chilc/CN_033"
+    },
+    "char_4144_chilc_CN_034": {
+      "charWordId": "char_4144_chilc_CN_034",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_034",
+      "voiceText": "Hey!",
+      "voiceTitle": "Tap",
+      "voiceIndex": 34,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BUILDING_TOUCHING",
+      "voiceAsset": "char_4144_chilc/CN_034"
+    },
+    "char_4144_chilc_CN_036": {
+      "charWordId": "char_4144_chilc_CN_036",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_036",
+      "voiceText": "Doctor, go for a round?",
+      "voiceTitle": "Trust Tap",
+      "voiceIndex": 36,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BUILDING_FAVOR_BUBBLE",
+      "voiceAsset": "char_4144_chilc/CN_036"
+    },
+    "char_4144_chilc_CN_037": {
+      "charWordId": "char_4144_chilc_CN_037",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_037",
+      "voiceText": "Arknights.",
+      "voiceTitle": "Title",
+      "voiceIndex": 37,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "LOADING_PANEL",
+      "voiceAsset": "char_4144_chilc/CN_037"
+    },
+    "char_4144_chilc_CN_038": {
+      "charWordId": "char_4144_chilc_CN_038",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_038",
+      "voiceText": "A party? Count me out. Some Durin buddies got hold of some good booze, I'll go meet with them and we're getting ourselves smashed. If you want a round yourself, you're free to come by. Oh yeah, and Happy New Year.",
+      "voiceTitle": "New Year's blessing",
+      "voiceIndex": 38,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "NEW_YEAR",
+      "voiceAsset": "char_4144_chilc/CN_038"
+    },
+    "char_4144_chilc_CN_042": {
+      "charWordId": "char_4144_chilc_CN_042",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_042",
+      "voiceText": "Doctor, you're not here just to see me, are you?",
+      "voiceTitle": "Greeting",
+      "voiceIndex": 42,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "GREETING",
+      "voiceAsset": "char_4144_chilc/CN_042"
+    },
+    "char_4144_chilc_CN_044": {
+      "charWordId": "char_4144_chilc_CN_044",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_044",
+      "voiceText": "To be honest, I was pretty skeptical of you at first. People who say they'll help for nothing are usually up to some pretty shocking stuff behind your back. Now? Now I believe a do-gooder <i>can</i> be real, I'll say that...",
+      "voiceTitle": "Anniversary Celebration",
+      "voiceIndex": 44,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "ANNIVERSARY",
+      "voiceAsset": "char_4144_chilc/CN_044"
+    },
+    "char_4143_sensi_CN_001": {
+      "charWordId": "char_4143_sensi_CN_001",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_001",
+      "voiceText": "Can't say I wrap my head around your job. Anything you want me to cook? Rice omelette, veggie stew, barbecue?",
+      "voiceTitle": "Appointed as Assistant",
+      "voiceIndex": 1,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_PLACE",
+      "voiceAsset": "char_4143_sensi/CN_001"
+    },
+    "char_4143_sensi_CN_002": {
+      "charWordId": "char_4143_sensi_CN_002",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_002",
+      "voiceText": "Take a deep breath! Skyfire, young lady, your body heat'll burn a fritter at this rate! Gummy, wonderful cookies you made—Goldenglow, why's your popcorn all stuck in your hair? There now, let me think how to go about this…",
+      "voiceTitle": "Talk 1",
+      "voiceIndex": 2,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4143_sensi/CN_002"
+    },
+    "char_4143_sensi_CN_003": {
+      "charWordId": "char_4143_sensi_CN_003",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_003",
+      "voiceText": "AH-CHOO! I was going to see inside the greenhouse where they raise the metal crabs, and fancy Marcille and Perfumer having a talk in there! I thought I'd slip out, but Marcille dragged me right back in to spray all these fancy smells on my beard. Now I can't even whiff an onion! AH-CHOO!",
+      "voiceTitle": "Talk 2",
+      "voiceIndex": 3,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4143_sensi/CN_003"
+    },
+    "char_4143_sensi_CN_004": {
+      "charWordId": "char_4143_sensi_CN_004",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_004",
+      "voiceText": "Is this your kitchen? This is... unmistakably magic! Originium cookers, full-automatic ovens, an eight-burner range with temperature control—Aye, they're all for lazy people who lack of dedication to cooking. Take them away at once!",
+      "voiceTitle": "Talk 3",
+      "voiceIndex": 4,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4143_sensi/CN_004"
+    },
+    "char_4143_sensi_CN_005": {
+      "charWordId": "char_4143_sensi_CN_005",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_005",
+      "voiceText": "If you want a sturdy body, you can't go ignoring your diet. Biotransformative Arts, helping you build up body strength in no time, you say? ...Your body'll get dull if you keep trying to take short-cuts. There's a difference between convenience and laziness, aye?",
+      "voiceTitle": "Talk after Promotion 1",
+      "voiceIndex": 5,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 1
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4143_sensi/CN_005"
+    },
+    "char_4143_sensi_CN_006": {
+      "charWordId": "char_4143_sensi_CN_006",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_006",
+      "voiceText": "Just cleaned your kitchen, gave the crops a sprinkling, and put everything I cleaned out into the composter. I eat the food your grow here, and I put my effort back into this land. Makes me feel like I'm a part of it that way. Couldn't be more satisfied.",
+      "voiceTitle": "Talk after Promotion 2",
+      "voiceIndex": 6,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 2
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4143_sensi/CN_006"
+    },
+    "char_4143_sensi_CN_007": {
+      "charWordId": "char_4143_sensi_CN_007",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_007",
+      "voiceText": "The first time I went to that 'gym' place, they said they never saw a Durin as strong as me, and asked me how I got that way. I told them I just cook everyday. What's that? Now they're all in the kitchen tossing up stir-frys? Well, I'm pleased as punch to get so many people interested in cooking.",
+      "voiceTitle": "Talk after Trust Increase 1",
+      "voiceIndex": 7,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 40
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4143_sensi/CN_007"
+    },
+    "char_4143_sensi_CN_008": {
+      "charWordId": "char_4143_sensi_CN_008",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_008",
+      "voiceText": "Makes me happy to see Laios's bunch eating proper everyday now. That said, Doctor, I hear that you've been eating nothing but instant food lately, using your busy schedule as an excuse, and that's no way to stay healthy! You want balanced nutrition, and that'll only start with more fresh veggies and good-quality proteins!",
+      "voiceTitle": "Talk after Trust Increase 2",
+      "voiceIndex": 8,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 100
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4143_sensi/CN_008"
+    },
+    "char_4143_sensi_CN_009": {
+      "charWordId": "char_4143_sensi_CN_009",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_009",
+      "voiceText": "I might scratch my head at the things you all do everyday, but I respect you mightily for all the patients you'll take on. It warms the cockles of my heart too to see them enjoy my food so much. If we find any way to hop between here and the dungeon, I'll be coming back to visit you all.",
+      "voiceTitle": "Talk after Trust Increase 3",
+      "voiceIndex": 9,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 200
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4143_sensi/CN_009"
+    },
+    "char_4143_sensi_CN_010": {
+      "charWordId": "char_4143_sensi_CN_010",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_010",
+      "voiceText": "Hmm, fine amount of sleep. Good, good.",
+      "voiceTitle": "Idle",
+      "voiceIndex": 10,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_WAIT",
+      "voiceAsset": "char_4143_sensi/CN_010"
+    },
+    "char_4143_sensi_CN_011": {
+      "charWordId": "char_4143_sensi_CN_011",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_011",
+      "voiceText": "Hmm. Clean stovetops, all the utensils, nice and hot flames, and you store your ingredients well... Looks like you know the value of a healthy diet. I like the place you've got!",
+      "voiceTitle": "Onboard",
+      "voiceIndex": 11,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "GACHA",
+      "voiceAsset": "char_4143_sensi/CN_011"
+    },
+    "char_4143_sensi_CN_012": {
+      "charWordId": "char_4143_sensi_CN_012",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_012",
+      "voiceText": "I was wondering when did I lose my rare spice collection. That's when it happened!",
+      "voiceTitle": "Watching Battle Record",
+      "voiceIndex": 12,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "LEVEL_UP",
+      "voiceAsset": "char_4143_sensi/CN_012"
+    },
+    "char_4143_sensi_CN_013": {
+      "charWordId": "char_4143_sensi_CN_013",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_013",
+      "voiceText": "Be it with magic or Originium Arts, people have been trying to save the effort of cooking so long they've forgotten how to start a fire. Proper use of a flint and tinder, that's the most essential skill to grasp!",
+      "voiceTitle": "Promotion 1",
+      "voiceIndex": 13,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 1
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "EVOLVE_ONE",
+      "voiceAsset": "char_4143_sensi/CN_013"
+    },
+    "char_4143_sensi_CN_014": {
+      "charWordId": "char_4143_sensi_CN_014",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_014",
+      "voiceText": "Sami-style kebabs, Seaborn full courses, Ink Spirit jams and wines, I've done it all. Just give me the ingredients, and I can make you them to try... Speak up? You say we can't be eating those things, now?",
+      "voiceTitle": "Promotion 2",
+      "voiceIndex": 14,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 2
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "EVOLVE_TWO",
+      "voiceAsset": "char_4143_sensi/CN_014"
+    },
+    "char_4143_sensi_CN_017": {
+      "charWordId": "char_4143_sensi_CN_017",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_017",
+      "voiceText": "One second, I'll double-check I've got all my kitchenware and weapons.",
+      "voiceTitle": "Added to Squad",
+      "voiceIndex": 17,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "SQUAD",
+      "voiceAsset": "char_4143_sensi/CN_017"
+    },
+    "char_4143_sensi_CN_018": {
+      "charWordId": "char_4143_sensi_CN_018",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_018",
+      "voiceText": "Chin up, I've got it in me to protect the few of you.",
+      "voiceTitle": "Appointed as Squad Leader",
+      "voiceIndex": 18,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "SQUAD_FIRST",
+      "voiceAsset": "char_4143_sensi/CN_018"
+    },
+    "char_4143_sensi_CN_019": {
+      "charWordId": "char_4143_sensi_CN_019",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_019",
+      "voiceText": "I'm ready!",
+      "voiceTitle": "Depart",
+      "voiceIndex": 19,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_START",
+      "voiceAsset": "char_4143_sensi/CN_019"
+    },
+    "char_4143_sensi_CN_020": {
+      "charWordId": "char_4143_sensi_CN_020",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_020",
+      "voiceText": "That's more monsters than I imagined...",
+      "voiceTitle": "Begin Operation",
+      "voiceIndex": 20,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_FACE_ENEMY",
+      "voiceAsset": "char_4143_sensi/CN_020"
+    },
+    "char_4143_sensi_CN_021": {
+      "charWordId": "char_4143_sensi_CN_021",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_021",
+      "voiceText": "What's the problem, you hungry?",
+      "voiceTitle": "Selecting Operator 1",
+      "voiceIndex": 21,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SELECT",
+      "voiceAsset": "char_4143_sensi/CN_021"
+    },
+    "char_4143_sensi_CN_022": {
+      "charWordId": "char_4143_sensi_CN_022",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_022",
+      "voiceText": "Don't you worry, I know what to do.",
+      "voiceTitle": "Selecting Operator 2",
+      "voiceIndex": 22,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SELECT",
+      "voiceAsset": "char_4143_sensi/CN_022"
+    },
+    "char_4143_sensi_CN_023": {
+      "charWordId": "char_4143_sensi_CN_023",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_023",
+      "voiceText": "Nice spot. Wouldn't mind cooking here later.",
+      "voiceTitle": "Deployment 1",
+      "voiceIndex": 23,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_PLACE",
+      "voiceAsset": "char_4143_sensi/CN_023"
+    },
+    "char_4143_sensi_CN_024": {
+      "charWordId": "char_4143_sensi_CN_024",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_024",
+      "voiceText": "Aye, you leave this to me!",
+      "voiceTitle": "Deployment 2",
+      "voiceIndex": 24,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_PLACE",
+      "voiceAsset": "char_4143_sensi/CN_024"
+    },
+    "char_4143_sensi_CN_025": {
+      "charWordId": "char_4143_sensi_CN_025",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_025",
+      "voiceText": "Now, what's the best dish to make...?",
+      "voiceTitle": "In Battle 1",
+      "voiceIndex": 25,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SKILL_1",
+      "voiceAsset": "char_4143_sensi/CN_025"
+    },
+    "char_4143_sensi_CN_026": {
+      "charWordId": "char_4143_sensi_CN_026",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_026",
+      "voiceText": "I'll just taste for salt.",
+      "voiceTitle": "In Battle 2",
+      "voiceIndex": 26,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SKILL_2",
+      "voiceAsset": "char_4143_sensi/CN_026"
+    },
+    "char_4143_sensi_CN_027": {
+      "charWordId": "char_4143_sensi_CN_027",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_027",
+      "voiceText": "Add your ingredients in turns...",
+      "voiceTitle": "In Battle 3",
+      "voiceIndex": 27,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SKILL_3",
+      "voiceAsset": "char_4143_sensi/CN_027"
+    },
+    "char_4143_sensi_CN_028": {
+      "charWordId": "char_4143_sensi_CN_028",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_028",
+      "voiceText": "Just a little longer, and it's done!",
+      "voiceTitle": "In Battle 4",
+      "voiceIndex": 28,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SKILL_4",
+      "voiceAsset": "char_4143_sensi/CN_028"
+    },
+    "char_4143_sensi_CN_029": {
+      "charWordId": "char_4143_sensi_CN_029",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_029",
+      "voiceText": "Phew, I haven't tussled with a monster that tough in a long while.",
+      "voiceTitle": "4-star Result",
+      "voiceIndex": 29,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "FOUR_STAR",
+      "voiceAsset": "char_4143_sensi/CN_029"
+    },
+    "char_4143_sensi_CN_030": {
+      "charWordId": "char_4143_sensi_CN_030",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_030",
+      "voiceText": "I'm going to see with Laios if there's a way to cook these monsters. You interested, Doctor?",
+      "voiceTitle": "3-star Result",
+      "voiceIndex": 30,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "THREE_STAR",
+      "voiceAsset": "char_4143_sensi/CN_030"
+    },
+    "char_4143_sensi_CN_031": {
+      "charWordId": "char_4143_sensi_CN_031",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_031",
+      "voiceText": "Seems I added something funny by mistake...",
+      "voiceTitle": "Sub 3-star Result",
+      "voiceIndex": 31,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "TWO_STAR",
+      "voiceAsset": "char_4143_sensi/CN_031"
+    },
+    "char_4143_sensi_CN_032": {
+      "charWordId": "char_4143_sensi_CN_032",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_032",
+      "voiceText": "...Get running!",
+      "voiceTitle": "Operation Failure",
+      "voiceIndex": 32,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "LOSE",
+      "voiceAsset": "char_4143_sensi/CN_032"
+    },
+    "char_4143_sensi_CN_033": {
+      "charWordId": "char_4143_sensi_CN_033",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_033",
+      "voiceText": "Which way's the kitchen?",
+      "voiceTitle": "Assigned to Facility",
+      "voiceIndex": 33,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BUILDING_PLACE",
+      "voiceAsset": "char_4143_sensi/CN_033"
+    },
+    "char_4143_sensi_CN_034": {
+      "charWordId": "char_4143_sensi_CN_034",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_034",
+      "voiceText": "Are you poking me? Hmm... I say you're not going to get anything poking through my beard.",
+      "voiceTitle": "Tap",
+      "voiceIndex": 34,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BUILDING_TOUCHING",
+      "voiceAsset": "char_4143_sensi/CN_034"
+    },
+    "char_4143_sensi_CN_036": {
+      "charWordId": "char_4143_sensi_CN_036",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_036",
+      "voiceText": "Like it? You want me to ladle you some more?",
+      "voiceTitle": "Trust Tap",
+      "voiceIndex": 36,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BUILDING_FAVOR_BUBBLE",
+      "voiceAsset": "char_4143_sensi/CN_036"
+    },
+    "char_4143_sensi_CN_037": {
+      "charWordId": "char_4143_sensi_CN_037",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_037",
+      "voiceText": "Arknights.",
+      "voiceTitle": "Title",
+      "voiceIndex": 37,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "LOADING_PANEL",
+      "voiceAsset": "char_4143_sensi/CN_037"
+    },
+    "char_4143_sensi_CN_038": {
+      "charWordId": "char_4143_sensi_CN_038",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_038",
+      "voiceText": "If you want to make a dish for the operators, I recommend you go with hotpot. You can put in all kinds of stewing ingredients. It can feed a whole table at once, and it's simple to make. Come with me, I'll teach you how the tastiest hotpot's made.",
+      "voiceTitle": "New Year's blessing",
+      "voiceIndex": 38,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "NEW_YEAR",
+      "voiceAsset": "char_4143_sensi/CN_038"
+    },
+    "char_4143_sensi_CN_042": {
+      "charWordId": "char_4143_sensi_CN_042",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_042",
+      "voiceText": "Just in time, it's done. Come give my work a taste.",
+      "voiceTitle": "Greeting",
+      "voiceIndex": 42,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "GREETING",
+      "voiceAsset": "char_4143_sensi/CN_042"
+    },
+    "char_4143_sensi_CN_044": {
+      "charWordId": "char_4143_sensi_CN_044",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_044",
+      "voiceText": "This whole journey's been one endless surprise... Laios and Marcille are both much tougher than I'd thought, Chilchuck's really acting like a grown-up now, and I've made plenty of exciting new friends. It's been a fulfilling time, this.",
+      "voiceTitle": "Anniversary Celebration",
+      "voiceIndex": 44,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "ANNIVERSARY",
+      "voiceAsset": "char_4143_sensi/CN_044"
+    },
     "char_113_cqbw_epoque#7_CN_001": {
       "charWordId": "char_113_cqbw_epoque#7_CN_001",
       "wordKey": "char_113_cqbw_epoque#7",
@@ -230316,6 +232695,14 @@
             "Lee Ji-young"
           ],
           "voicePath": null
+        },
+        "EN": {
+          "wordkey": "char_436_whispr",
+          "voiceLangType": "EN",
+          "cvName": [
+            "Sam Slade"
+          ],
+          "voicePath": null
         }
       }
     },
@@ -231048,6 +233435,14 @@
             "Yi Sae-ah"
           ],
           "voicePath": null
+        },
+        "EN": {
+          "wordkey": "char_363_toddi",
+          "voiceLangType": "EN",
+          "cvName": [
+            "Annes Elwy"
+          ],
+          "voicePath": null
         }
       }
     },
@@ -231449,6 +233844,14 @@
             "Yoon Mi-na"
           ],
           "voicePath": null
+        },
+        "EN": {
+          "wordkey": "char_478_kirara",
+          "voiceLangType": "EN",
+          "cvName": [
+            "Summer Natsuki"
+          ],
+          "voicePath": null
         }
       }
     },
@@ -231528,6 +233931,14 @@
           "voiceLangType": "KR",
           "cvName": [
             "Kim Ha-young"
+          ],
+          "voicePath": null
+        },
+        "EN": {
+          "wordkey": "char_451_robin",
+          "voiceLangType": "EN",
+          "cvName": [
+            "Kari Wahlgren"
           ],
           "voicePath": null
         }
@@ -238926,6 +241337,70 @@
         }
       }
     },
+    "char_4141_marcil": {
+      "wordkeys": [
+        "char_4141_marcil"
+      ],
+      "charId": "char_4141_marcil",
+      "dict": {
+        "LINKAGE": {
+          "wordkey": "char_4141_marcil",
+          "voiceLangType": "LINKAGE",
+          "cvName": [
+            "Sembongi Sayaka"
+          ],
+          "voicePath": "Audio/Sound_Beta_2/Voice/"
+        }
+      }
+    },
+    "char_4143_sensi": {
+      "wordkeys": [
+        "char_4143_sensi"
+      ],
+      "charId": "char_4143_sensi",
+      "dict": {
+        "LINKAGE": {
+          "wordkey": "char_4143_sensi",
+          "voiceLangType": "LINKAGE",
+          "cvName": [
+            "Hiroshi Naka"
+          ],
+          "voicePath": "Audio/Sound_Beta_2/Voice/"
+        }
+      }
+    },
+    "char_4144_chilc": {
+      "wordkeys": [
+        "char_4144_chilc"
+      ],
+      "charId": "char_4144_chilc",
+      "dict": {
+        "LINKAGE": {
+          "wordkey": "char_4144_chilc",
+          "voiceLangType": "LINKAGE",
+          "cvName": [
+            "Asuna Tomari"
+          ],
+          "voicePath": "Audio/Sound_Beta_2/Voice/"
+        }
+      }
+    },
+    "char_4142_laios": {
+      "wordkeys": [
+        "char_4142_laios"
+      ],
+      "charId": "char_4142_laios",
+      "dict": {
+        "LINKAGE": {
+          "wordkey": "char_4142_laios",
+          "voiceLangType": "LINKAGE",
+          "cvName": [
+            "Kentaro Kumagai"
+          ],
+          "voicePath": "Audio/Sound_Beta_2/Voice/"
+        }
+      }
+    },
     "char_311_mudrok#1": {
       "wordkeys": [
         "char_311_mudrok#1"
@@ -239263,7 +241738,11 @@
   "newTagList": [
     "char_4146_nymph",
     "char_4147_mitm",
-    "char_4151_tinman"
+    "char_4151_tinman",
+    "char_4141_marcil",
+    "char_4143_sensi",
+    "char_4144_chilc",
+    "char_4142_laios"
   ],
   "voiceLangTypeDict": {
     "CN_MANDARIN": {
@@ -239688,7 +242167,11 @@
     "char_4058_pepe": "JP",
     "char_4138_narant": "JP",
     "char_4139_papyrs": "JP",
-    "char_4140_lasher": "JP"
+    "char_4140_lasher": "JP",
+    "char_4141_marcil": "LINKAGE",
+    "char_4143_sensi": "LINKAGE",
+    "char_4144_chilc": "LINKAGE",
+    "char_4142_laios": "LINKAGE"
   },
   "startTimeWithTypeDict": {
     "CN_TOPOLECT": [
@@ -240465,6 +242948,15 @@
       }
     ],
     "LINKAGE": [
+      {
+        "timestamp": 1741626000,
+        "charSet": [
+          "char_4141_marcil",
+          "char_4143_sensi",
+          "char_4144_chilc",
+          "char_4142_laios"
+        ]
+      },
       {
         "timestamp": 1725555600,
         "charSet": [

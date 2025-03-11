@@ -203766,6 +203766,2385 @@
       "placeType": "ANNIVERSARY",
       "voiceAsset": "char_4058_pepe/CN_044"
     },
+    "char_4142_laios_CN_001": {
+      "charWordId": "char_4142_laios_CN_001",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_001",
+      "voiceText": "오오! 이건 목소리를 전달하고 그 자리에 없는 사람과도 연락하기 위한 도구인가? 그리고 이 '복사기'라는 건, 종이에 그린 그림을 완전하게 복제할 수 있는 도구이고…… 내가 이런 걸 쓰면서 조수로 일해야 하는 거지? 일단은 이게 작동하는 원리를 알고 싶어!",
+      "voiceTitle": "어시스턴트 임명",
+      "voiceIndex": 1,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_PLACE",
+      "voiceAsset": "char_4142_laios/CN_001"
+    },
+    "char_4142_laios_CN_002": {
+      "charWordId": "char_4142_laios_CN_002",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_002",
+      "voiceText": "케오베, 이 갯지렁이 절임은 맛이 어땠어? 맛있어? 그럼 이 글룸핀서에 버섯 소스를 쓴 건? 이것도 맛있어? 그럼 마늘에 버무린 린수 소시지는…… 이것도 좋다고? 널 만나서 정말 행운이야! 부디 나랑 함께 새로운 마물을 찾으러…… 우왓, 벌컨 씨! 뭐 하는 거야?! 어디로 끌고 가려고?!",
+      "voiceTitle": "대화 1",
+      "voiceIndex": 2,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4142_laios/CN_002"
+    },
+    "char_4142_laios_CN_003": {
+      "charWordId": "char_4142_laios_CN_003",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_003",
+      "voiceText": "박사! 이리 와봐, 여기 좁은 방이야! 나 좀 도와줄래? Mon3tr가 병에 걸렸는지 뭘 줘도 안 먹어! 뭔가 좋은 방법이…… 응? 아, 켈시 선생님이 여기서 나오지 말라고 했거든. Mon3tr랑 친해졌으니까 좀 돌봐달라고 한 것 같은데, 아닌가?",
+      "voiceTitle": "대화 2",
+      "voiceIndex": 3,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4142_laios/CN_003"
+    },
+    "char_4142_laios_CN_004": {
+      "charWordId": "char_4142_laios_CN_004",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_004",
+      "voiceText": "팀을 이끄는 요령은, 말 안 듣는 녀석을 용서하지 않는 거라고 오키드 씨가 그러더라. 그런데 팽 씨가 열심히 얘기했던 건, 대장으로서 책임을 확실하게 지는 게 중요하다는 거였고. 그 두 사람은 날 사이에 두고 대장에게 가장 중요한 점이 뭔지 계속 토론했었는데, 난 솔직히 모두가 서로를 신뢰하는 게 제일 중요하다고 생각해.",
+      "voiceTitle": "대화 3",
+      "voiceIndex": 4,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4142_laios/CN_004"
+    },
+    "char_4142_laios_CN_005": {
+      "charWordId": "char_4142_laios_CN_005",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_005",
+      "voiceText": "마물은 사냥을 위해 날카로운 발톱을 기르고, 모험가를 유혹하기 위해 매력적인 모습으로 의태하지. 행동을 관찰해 보면 이해가 된다는 점에서, 마물은 솔직한 생물이야. 하지만 인간은 그렇지 않지…… 나는 역시, 마물이 더 좋아.",
+      "voiceTitle": "1차 정예화 후 대화",
+      "voiceIndex": 5,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 1
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4142_laios/CN_005"
+    },
+    "char_4142_laios_CN_006": {
+      "charWordId": "char_4142_laios_CN_006",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_006",
+      "voiceText": "어릴 때 유령에게 습격당할 뻔한 적이 있었어. 파린이 쫓아 줬지만, 그 일 이후로 마을 사람들에게 따돌림당해서, 멀리 있는 학교로 쫓겨나는 처지가 돼버렸지. 거기서 정착할 수도 있었는데, 파린은 학교 생활을 버리고 날 따라와 줬어…… 그리고 날 감싸다가 드래곤에게 잡아먹히고 말았지. 그러니까, 난 반드시 파린을 구해 낼 거야!",
+      "voiceTitle": "2차 정예화 후 대화",
+      "voiceIndex": 6,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 2
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4142_laios/CN_006"
+    },
+    "char_4142_laios_CN_007": {
+      "charWordId": "char_4142_laios_CN_007",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_007",
+      "voiceText": "조심해. 여기 있는 건 리베리족의 알이야. 엘리시움이 부화시켜 달라고 부탁했거든. 며칠만 있으면 나올 거라고…… 오오, 진짜로 부화했어! 리베리족 아기는 이렇게 병아리처럼 생겼나? ……응? 박사, 왜 웃는…… 엉? 엘리시움한테 속았다고?",
+      "voiceTitle": "신뢰도 상승 후 대화 1",
+      "voiceIndex": 7,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 40
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4142_laios/CN_007"
+    },
+    "char_4142_laios_CN_008": {
+      "charWordId": "char_4142_laios_CN_008",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_008",
+      "voiceText": "마르실은 마물식을 싫어하고, 칠책은 동정으로 일하는 타입은 아니야. 원래는 나 혼자서 파린을 구하러 가려고 했는데, 흔쾌히 동행해 준 마르실과 칠책에게는 정말로 감사하고 있어.",
+      "voiceTitle": "신뢰도 상승 후 대화 2",
+      "voiceIndex": 8,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 100
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4142_laios/CN_008"
+    },
+    "char_4142_laios_CN_009": {
+      "charWordId": "char_4142_laios_CN_009",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_009",
+      "voiceText": "센시 외에도 마물에 관심 있는 사람이 이렇게 많을 줄이야. 게다가 함께 던전에 가 보고 싶다고도 생각하는구나. 만약 진짜로 여기랑 던전을 왔다 갔다 할 수 있다면 파린도 분명 너희와 함께 테라를 여행하고 싶다고 할 거야.",
+      "voiceTitle": "신뢰도 상승 후 대화 3",
+      "voiceIndex": 9,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 200
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4142_laios/CN_009"
+    },
+    "char_4142_laios_CN_010": {
+      "charWordId": "char_4142_laios_CN_010",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_010",
+      "voiceText": "음, 검돌이도 잠들어버린 것 같고…… 나도 그만 잘까.",
+      "voiceTitle": "방치",
+      "voiceIndex": 10,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_WAIT",
+      "voiceAsset": "char_4142_laios/CN_010"
+    },
+    "char_4142_laios_CN_011": {
+      "charWordId": "char_4142_laios_CN_011",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_011",
+      "voiceText": "지금 문득 깨달았는데, 사실은 너도 마물 요리에 관심 있는 거 아니야? 이 미트볼은 갯지렁이랑 니들플라이로 만든 건데 먹어 볼래?",
+      "voiceTitle": "오퍼레이터 입사",
+      "voiceIndex": 11,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "GACHA",
+      "voiceAsset": "char_4142_laios/CN_011"
+    },
+    "char_4142_laios_CN_012": {
+      "charWordId": "char_4142_laios_CN_012",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_012",
+      "voiceText": "이 마물들, 진짜 보면 볼수록 재밌네……",
+      "voiceTitle": "작전기록 학습",
+      "voiceIndex": 12,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "LEVEL_UP",
+      "voiceAsset": "char_4142_laios/CN_012"
+    },
+    "char_4142_laios_CN_013": {
+      "charWordId": "char_4142_laios_CN_013",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_013",
+      "voiceText": "인정해 줘서 고마워! 근데 박사, 요즘 다른 오퍼레이터들이 잘 안 보이는데, 이유가 뭘까? 어? 걔네 깃털이랑 모피를 마구 모으는 게 이상해서 그렇다고? 나, 난 그냥 표본으로 삼으려 했을 뿐인데……",
+      "voiceTitle": "1차 정예화 (승진)",
+      "voiceIndex": 13,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 1
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "EVOLVE_ONE",
+      "voiceAsset": "char_4142_laios/CN_013"
+    },
+    "char_4142_laios_CN_014": {
+      "charWordId": "char_4142_laios_CN_014",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_014",
+      "voiceText": "최근에야 드디어 나도 여기 사람들을 대하는 법을 알았으니까, 오퍼레이터들과도 잘 지낼 수 있을 거야. 이거 한 번 볼래? 내가 직접 만든 일곱 머리 무적의 마물 모형이야. 나중에 사과의 의미로 모두에게 나눠 줄까 해.",
+      "voiceTitle": "2차 정예화 (승진)",
+      "voiceIndex": 14,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 2
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "EVOLVE_TWO",
+      "voiceAsset": "char_4142_laios/CN_014"
+    },
+    "char_4142_laios_CN_017": {
+      "charWordId": "char_4142_laios_CN_017",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_017",
+      "voiceText": "무기와 방어구, 약과 식량, 조리 도구랑 침낭……은 필요 없다고? 알았어.",
+      "voiceTitle": "팀 배치",
+      "voiceIndex": 17,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "SQUAD",
+      "voiceAsset": "char_4142_laios/CN_017"
+    },
+    "char_4142_laios_CN_018": {
+      "charWordId": "char_4142_laios_CN_018",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_018",
+      "voiceText": "알았어, 맡은 이상 열심히 해 볼게.",
+      "voiceTitle": "팀장 임명",
+      "voiceIndex": 18,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "SQUAD_FIRST",
+      "voiceAsset": "char_4142_laios/CN_018"
+    },
+    "char_4142_laios_CN_019": {
+      "charWordId": "char_4142_laios_CN_019",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_019",
+      "voiceText": "응, 배도 부르니까 괜찮을 거야.",
+      "voiceTitle": "작전 출발",
+      "voiceIndex": 19,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_START",
+      "voiceAsset": "char_4142_laios/CN_019"
+    },
+    "char_4142_laios_CN_020": {
+      "charWordId": "char_4142_laios_CN_020",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_020",
+      "voiceText": "윽, 검돌이가 떨고 있어……!",
+      "voiceTitle": "작전 개시",
+      "voiceIndex": 20,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_FACE_ENEMY",
+      "voiceAsset": "char_4142_laios/CN_020"
+    },
+    "char_4142_laios_CN_021": {
+      "charWordId": "char_4142_laios_CN_021",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_021",
+      "voiceText": "여기 마물은 어떻게 생겼을까?",
+      "voiceTitle": "오퍼레이터 선택 1",
+      "voiceIndex": 21,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SELECT",
+      "voiceAsset": "char_4142_laios/CN_021"
+    },
+    "char_4142_laios_CN_022": {
+      "charWordId": "char_4142_laios_CN_022",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_022",
+      "voiceText": "새로운 종을 만날 수 있다면 좋을 텐데.",
+      "voiceTitle": "오퍼레이터 선택 2",
+      "voiceIndex": 22,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SELECT",
+      "voiceAsset": "char_4142_laios/CN_022"
+    },
+    "char_4142_laios_CN_023": {
+      "charWordId": "char_4142_laios_CN_023",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_023",
+      "voiceText": "우선 육식 마물의 똥이 없는지 확인하자……",
+      "voiceTitle": "배치 1",
+      "voiceIndex": 23,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_PLACE",
+      "voiceAsset": "char_4142_laios/CN_023"
+    },
+    "char_4142_laios_CN_024": {
+      "charWordId": "char_4142_laios_CN_024",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_024",
+      "voiceText": "이 주변 지형은 미궁 내부와는 완전히 다르네……",
+      "voiceTitle": "배치 2",
+      "voiceIndex": 24,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_PLACE",
+      "voiceAsset": "char_4142_laios/CN_024"
+    },
+    "char_4142_laios_CN_025": {
+      "charWordId": "char_4142_laios_CN_025",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_025",
+      "voiceText": "꾸에에에에엑!",
+      "voiceTitle": "작전 중",
+      "voiceIndex": 25,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SKILL_1",
+      "voiceAsset": "char_4142_laios/CN_025"
+    },
+    "char_4142_laios_CN_029": {
+      "charWordId": "char_4142_laios_CN_029",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_029",
+      "voiceText": "오오! 오늘 수확은 나중에 꼭 기록해야겠어. 테라의 마물은 진짜 다양하구나……!",
+      "voiceTitle": "고난이도 작전 종료",
+      "voiceIndex": 29,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "FOUR_STAR",
+      "voiceAsset": "char_4142_laios/CN_029"
+    },
+    "char_4142_laios_CN_030": {
+      "charWordId": "char_4142_laios_CN_030",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_030",
+      "voiceText": "센시, 저 마물 먹을 수 있을까?",
+      "voiceTitle": "3★ 작전 종료",
+      "voiceIndex": 30,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "THREE_STAR",
+      "voiceAsset": "char_4142_laios/CN_030"
+    },
+    "char_4142_laios_CN_031": {
+      "charWordId": "char_4142_laios_CN_031",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_031",
+      "voiceText": "너무 풀 죽지 마, 박사. 다음엔 분명 잘될 거야.",
+      "voiceTitle": "비 3★ 작전 종료",
+      "voiceIndex": 31,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "TWO_STAR",
+      "voiceAsset": "char_4142_laios/CN_031"
+    },
+    "char_4142_laios_CN_032": {
+      "charWordId": "char_4142_laios_CN_032",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_032",
+      "voiceText": "공복으로 싸우려 들다간, 전멸할 위험도 있어……",
+      "voiceTitle": "작전 실패",
+      "voiceIndex": 32,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "LOSE",
+      "voiceAsset": "char_4142_laios/CN_032"
+    },
+    "char_4142_laios_CN_033": {
+      "charWordId": "char_4142_laios_CN_033",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_033",
+      "voiceText": "좋아, 칠책에게 여기 지도를 만들어 달라고 하자!",
+      "voiceTitle": "시설에 배치",
+      "voiceIndex": 33,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BUILDING_PLACE",
+      "voiceAsset": "char_4142_laios/CN_033"
+    },
+    "char_4142_laios_CN_034": {
+      "charWordId": "char_4142_laios_CN_034",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_034",
+      "voiceText": "……검돌아?",
+      "voiceTitle": "터치",
+      "voiceIndex": 34,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BUILDING_TOUCHING",
+      "voiceAsset": "char_4142_laios/CN_034"
+    },
+    "char_4142_laios_CN_036": {
+      "charWordId": "char_4142_laios_CN_036",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_036",
+      "voiceText": "작은 메탈 크랩은 뒤집히면 스스로 못 일어나는구나. 재밌네.",
+      "voiceTitle": "신뢰도 터치",
+      "voiceIndex": 36,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BUILDING_FAVOR_BUBBLE",
+      "voiceAsset": "char_4142_laios/CN_036"
+    },
+    "char_4142_laios_CN_037": {
+      "charWordId": "char_4142_laios_CN_037",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_037",
+      "voiceText": "명일방주",
+      "voiceTitle": "타이틀",
+      "voiceIndex": 37,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "LOADING_PANEL",
+      "voiceAsset": "char_4142_laios/CN_037"
+    },
+    "char_4142_laios_CN_038": {
+      "charWordId": "char_4142_laios_CN_038",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_038",
+      "voiceText": "아까 사진 찍을 때 마르실이 옆에 파린의 자리를 비워 놨어. 그리고 난 파린에게 무슨 선물을 줄까 고민인데…… 이 니들플라이 미트 소스 병조림은 어떨까? 엥, 안 돼? 모처럼 이세계 마물로 만든 건데.",
+      "voiceTitle": "새해",
+      "voiceIndex": 38,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "NEW_YEAR",
+      "voiceAsset": "char_4142_laios/CN_038"
+    },
+    "char_4142_laios_CN_042": {
+      "charWordId": "char_4142_laios_CN_042",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_042",
+      "voiceText": "입 주변이 빛난다고……? 아~ 아까 형광 원석충 젤리를 먹어서 그럴 거야.",
+      "voiceTitle": "인사",
+      "voiceIndex": 42,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "GREETING",
+      "voiceAsset": "char_4142_laios/CN_042"
+    },
+    "char_4142_laios_CN_044": {
+      "charWordId": "char_4142_laios_CN_044",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_044",
+      "voiceText": "광란의 마술사를 쓰러트리면 미궁의 전부를 손에 넣을 수 있다고 해. 예전에 미궁의 심층까지 갔을 땐, 내가 그곳을 목표로 삼은 이유도, 뭘 얻고 싶은지도 생각한 적이 없었어. 하지만 너희와 만나고 알았어. 목표가 있는 인생이란 이런 것이란 걸.",
+      "voiceTitle": "애니버서리",
+      "voiceIndex": 44,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "ANNIVERSARY",
+      "voiceAsset": "char_4142_laios/CN_044"
+    },
+    "char_4141_marcil_CN_001": {
+      "charWordId": "char_4141_marcil_CN_001",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_001",
+      "voiceText": "마술학교에서 연구했던 거랑 대체로 비슷하려나. 이곳의 마술 도구 사용법은 전부 익혔으니까 걱정 말고 나한테 맡겨! ……오리지늄 손전등을 폭발시킨 사람이 있었다고? 크흠, 그거 나 아냐!",
+      "voiceTitle": "어시스턴트 임명",
+      "voiceIndex": 1,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_PLACE",
+      "voiceAsset": "char_4141_marcil/CN_001"
+    },
+    "char_4141_marcil_CN_002": {
+      "charWordId": "char_4141_marcil_CN_002",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_002",
+      "voiceText": "갯지렁이 통조림? 레몬 삼백초 정오차? 게다가 말린 시테러까지? ……못 먹어! 아니 그러니까, 진짜 무리! 난 저어얼대로 안 먹을 거야!",
+      "voiceTitle": "대화 1",
+      "voiceIndex": 2,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4141_marcil/CN_002"
+    },
+    "char_4141_marcil_CN_003": {
+      "charWordId": "char_4141_marcil_CN_003",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_003",
+      "voiceText": "자, 회복 마법과 치유 회복계 아츠의 비교 정리, 다 됐어. 응? 이렇게 빨리 끝낼 줄 몰랐다고? 흐흥, 학교에서 새로운 치료술을 개발할 때도, 매일 이 정도 자료를 훑어봤었거든. 이런 일이 또 있으면 다음에도 맡겨 줘!",
+      "voiceTitle": "대화 2",
+      "voiceIndex": 3,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4141_marcil/CN_003"
+    },
+    "char_4141_marcil_CN_004": {
+      "charWordId": "char_4141_marcil_CN_004",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_004",
+      "voiceText": "'일곱 번째 밤에 깨어난 마군'에 '동야의 마왕'? 그렇게 전설적인 사람이 정말로 여기 있어? 선혈과 암흑의 축제 속에서 각성한 그의 진홍빛 눈동자를 달빛이 비추고, 그 주위에는 무수한…… 어머? 저기 귀 붙잡혀서 끌려가는 남자는 누구야?",
+      "voiceTitle": "대화 3",
+      "voiceIndex": 4,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4141_marcil/CN_004"
+    },
+    "char_4141_marcil_CN_005": {
+      "charWordId": "char_4141_marcil_CN_005",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_005",
+      "voiceText": "음~ 이 야채 정말 신선하다! 여기 장치를 쓰면 진짜 흙 없이 물만으로 야채를 키울 수 있는 거구나. 미궁에도 이게 있으면 좋을 텐데! ……움직이는 데 전기가 필요하다고? 이런 야채를 먹을 수 있다면 발전기든 뭐든 돌려야지!",
+      "voiceTitle": "1차 정예화 후 대화",
+      "voiceIndex": 5,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 1
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4141_marcil/CN_005"
+    },
+    "char_4141_marcil_CN_006": {
+      "charWordId": "char_4141_marcil_CN_006",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_006",
+      "voiceText": "사역마 소환은 신중하게 다뤄야 하는 마법이긴 하지만…… 입원 중인 아이들은 좀처럼 볼 수 없는 광경일 테니까. 적어도 자그마한 놀이 상대라도 만들어 주고 싶었어. 봐봐, 아주 마음에 드나 봐.",
+      "voiceTitle": "2차 정예화 후 대화",
+      "voiceIndex": 6,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 2
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4141_marcil/CN_006"
+    },
+    "char_4141_marcil_CN_007": {
+      "charWordId": "char_4141_marcil_CN_007",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_007",
+      "voiceText": "……아까 라이오스가 또 처음 보는 마물을 먹고 있는 걸 봤는데. 라이오스의 반 정도 되는 크기에, 온몸이 가시투성이고 독을 쏘는 녀석 말이야. ……저기 박사, 식중독은 얼마나 지나야 증상이 나타날까? 아냐, 됐어. 의료부에 물어보고 올게……",
+      "voiceTitle": "신뢰도 상승 후 대화 1",
+      "voiceIndex": 7,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 40
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4141_marcil/CN_007"
+    },
+    "char_4141_marcil_CN_008": {
+      "charWordId": "char_4141_marcil_CN_008",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_008",
+      "voiceText": "이건 짚으로 만든 메뚜기야. 여기서 수공예를 배웠을 때 만들었는데, 가져가서 파린에게 줄 생각이야. 옛날에 걔랑 처음 놀았을 때 파린이 진짜 미궁에 데려가 줬거든. 그때 메뚜기를 잡기도 했어. 그 후엔 던전 안에서 산딸기를 먹기도 하고…… 그게 걔와 친구가 되었던 날의 추억이야. 계속 기억하고 있었어.",
+      "voiceTitle": "신뢰도 상승 후 대화 2",
+      "voiceIndex": 8,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 100
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4141_marcil/CN_008"
+    },
+    "char_4141_marcil_CN_009": {
+      "charWordId": "char_4141_marcil_CN_009",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_009",
+      "voiceText": "박사, 그 카메라라는 도구의 사용법을 가르쳐 줄래? 우리 멤버들도 불러서 다 같이 사진을 찍고 싶어. 언젠가 저쪽으로 돌아가면, 그 사진을 파린에게 보여 주면서 당신들을 소개하고 싶어. 그러니까, 사용법이…… 이거 맞아? 그럼 라이오스, 더 붙어! 찍는다! 3, 2, 1, 스마일~",
+      "voiceTitle": "신뢰도 상승 후 대화 3",
+      "voiceIndex": 9,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 200
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4141_marcil/CN_009"
+    },
+    "char_4141_marcil_CN_010": {
+      "charWordId": "char_4141_marcil_CN_010",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_010",
+      "voiceText": "내 침낭, 아직도 지하 5층에 있으려나…… 그 비싼 비누도…… 새근…… 새근……",
+      "voiceTitle": "방치",
+      "voiceIndex": 10,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_WAIT",
+      "voiceAsset": "char_4141_marcil/CN_010"
+    },
+    "char_4141_marcil_CN_011": {
+      "charWordId": "char_4141_marcil_CN_011",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_011",
+      "voiceText": "저쪽으로 돌아갈 방법을 함께 찾아 주는 거지? 고마워! 그리고 그…… 내 동료들은 다들 근본은 좋은 사람들이니까, 이상한 짓을 해도 그…… 너그럽게 봐줬으면 좋겠어……",
+      "voiceTitle": "오퍼레이터 입사",
+      "voiceIndex": 11,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "GACHA",
+      "voiceAsset": "char_4141_marcil/CN_011"
+    },
+    "char_4141_marcil_CN_012": {
+      "charWordId": "char_4141_marcil_CN_012",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_012",
+      "voiceText": "이거 설마, 과거에 일어난 일을 재현하는 마법이야? 그런 걸 이렇게나 많이 쓸 수 있는 거야? 무슨 원리지? 괜찮으면 방법을 알려 줄래?",
+      "voiceTitle": "작전기록 학습",
+      "voiceIndex": 12,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "LEVEL_UP",
+      "voiceAsset": "char_4141_marcil/CN_012"
+    },
+    "char_4141_marcil_CN_013": {
+      "charWordId": "char_4141_marcil_CN_013",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_013",
+      "voiceText": "그러니까, 저번보다 권한이 올라갔으니 그 상급 아츠 이론서도 읽을 수 있게 됐다는 거지? 고마워!",
+      "voiceTitle": "1차 정예화 (승진)",
+      "voiceIndex": 13,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 1
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "EVOLVE_ONE",
+      "voiceAsset": "char_4141_marcil/CN_013"
+    },
+    "char_4141_marcil_CN_014": {
+      "charWordId": "char_4141_marcil_CN_014",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_014",
+      "voiceText": "지금까지 일어난 일은 멋진 여행담이 될 것 같아. 파린에게 얘기하면 틀림없이 기쁘게 들어줄 거야…… 그러니까 반드시 저쪽으로 돌아가서 구해야 해!",
+      "voiceTitle": "2차 정예화 (승진)",
+      "voiceIndex": 14,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 2
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "EVOLVE_TWO",
+      "voiceAsset": "char_4141_marcil/CN_014"
+    },
+    "char_4141_marcil_CN_017": {
+      "charWordId": "char_4141_marcil_CN_017",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_017",
+      "voiceText": "마술서랑 지팡이, 그리고 지팡이 수리 도구…… 응, 준비 완료! 언제든지 출발할 수 있어.",
+      "voiceTitle": "팀 배치",
+      "voiceIndex": 17,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "SQUAD",
+      "voiceAsset": "char_4141_marcil/CN_017"
+    },
+    "char_4141_marcil_CN_018": {
+      "charWordId": "char_4141_marcil_CN_018",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_018",
+      "voiceText": "내가 리더라고? 라이오스가 아니라?",
+      "voiceTitle": "팀장 임명",
+      "voiceIndex": 18,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "SQUAD_FIRST",
+      "voiceAsset": "char_4141_marcil/CN_018"
+    },
+    "char_4141_marcil_CN_019": {
+      "charWordId": "char_4141_marcil_CN_019",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_019",
+      "voiceText": "가자. 작전 계획만 있으면, 확실하게 실행할 수 있으니까.",
+      "voiceTitle": "작전 출발",
+      "voiceIndex": 19,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_START",
+      "voiceAsset": "char_4141_marcil/CN_019"
+    },
+    "char_4141_marcil_CN_020": {
+      "charWordId": "char_4141_marcil_CN_020",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_020",
+      "voiceText": "걱정 마. 방금 배부르게 먹었으니까, 마력은 충분히 여유 있어.",
+      "voiceTitle": "작전 개시",
+      "voiceIndex": 20,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_FACE_ENEMY",
+      "voiceAsset": "char_4141_marcil/CN_020"
+    },
+    "char_4141_marcil_CN_021": {
+      "charWordId": "char_4141_marcil_CN_021",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_021",
+      "voiceText": "괜찮아, 맡겨줘!",
+      "voiceTitle": "오퍼레이터 선택 1",
+      "voiceIndex": 21,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SELECT",
+      "voiceAsset": "char_4141_marcil/CN_021"
+    },
+    "char_4141_marcil_CN_022": {
+      "charWordId": "char_4141_marcil_CN_022",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_022",
+      "voiceText": "마법진을 미리 준비하는 게 좋으려나?",
+      "voiceTitle": "오퍼레이터 선택 2",
+      "voiceIndex": 22,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SELECT",
+      "voiceAsset": "char_4141_marcil/CN_022"
+    },
+    "char_4141_marcil_CN_023": {
+      "charWordId": "char_4141_marcil_CN_023",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_023",
+      "voiceText": "처음 보는 마물이 잔뜩……",
+      "voiceTitle": "배치 1",
+      "voiceIndex": 23,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_PLACE",
+      "voiceAsset": "char_4141_marcil/CN_023"
+    },
+    "char_4141_marcil_CN_024": {
+      "charWordId": "char_4141_marcil_CN_024",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_024",
+      "voiceText": "저걸 노리는 거지?",
+      "voiceTitle": "배치 2",
+      "voiceIndex": 24,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_PLACE",
+      "voiceAsset": "char_4141_marcil/CN_024"
+    },
+    "char_4141_marcil_CN_025": {
+      "charWordId": "char_4141_marcil_CN_025",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_025",
+      "voiceText": "지난번에 사역마를 쓴 이후로, 계속 팔이 무겁단 말이지……",
+      "voiceTitle": "작전 중 1",
+      "voiceIndex": 25,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SKILL_1",
+      "voiceAsset": "char_4141_marcil/CN_025"
+    },
+    "char_4141_marcil_CN_026": {
+      "charWordId": "char_4141_marcil_CN_026",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_026",
+      "voiceText": "물러나! 내가 할게! 한꺼번에 처리해 줄 테니까!",
+      "voiceTitle": "작전 중 2",
+      "voiceIndex": 26,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SKILL_2",
+      "voiceAsset": "char_4141_marcil/CN_026"
+    },
+    "char_4141_marcil_CN_027": {
+      "charWordId": "char_4141_marcil_CN_027",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_027",
+      "voiceText": "마력이 소진되면 위험하니까, 전략은 신중하게 생각해 줘.",
+      "voiceTitle": "작전 중 3",
+      "voiceIndex": 27,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SKILL_3",
+      "voiceAsset": "char_4141_marcil/CN_027"
+    },
+    "char_4141_marcil_CN_028": {
+      "charWordId": "char_4141_marcil_CN_028",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_028",
+      "voiceText": "찾았다, 마물……! 정확하게 조준해서……!",
+      "voiceTitle": "작전 중 4",
+      "voiceIndex": 28,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SKILL_4",
+      "voiceAsset": "char_4141_marcil/CN_028"
+    },
+    "char_4141_marcil_CN_029": {
+      "charWordId": "char_4141_marcil_CN_029",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_029",
+      "voiceText": "흐흥~! 내가 있어서 다행이었지?",
+      "voiceTitle": "고난이도 작전 종료",
+      "voiceIndex": 29,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "FOUR_STAR",
+      "voiceAsset": "char_4141_marcil/CN_029"
+    },
+    "char_4141_marcil_CN_030": {
+      "charWordId": "char_4141_marcil_CN_030",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_030",
+      "voiceText": "로도스 아일랜드에는 평범한 식사도 있는데, 라이오스랑 센시는 왜 마물을 요리하려고 하는 거야?!",
+      "voiceTitle": "3★ 작전 종료",
+      "voiceIndex": 30,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "THREE_STAR",
+      "voiceAsset": "char_4141_marcil/CN_030"
+    },
+    "char_4141_marcil_CN_031": {
+      "charWordId": "char_4141_marcil_CN_031",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_031",
+      "voiceText": "아아, 다행이야. 조금만 늦었으면 우리가 마물 밥이 될 뻔했어……",
+      "voiceTitle": "비 3★ 작전 종료",
+      "voiceIndex": 31,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "TWO_STAR",
+      "voiceAsset": "char_4141_marcil/CN_031"
+    },
+    "char_4141_marcil_CN_032": {
+      "charWordId": "char_4141_marcil_CN_032",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_032",
+      "voiceText": "꺄아아악! 도망쳐, 빨리!!",
+      "voiceTitle": "작전 실패",
+      "voiceIndex": 32,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "LOSE",
+      "voiceAsset": "char_4141_marcil/CN_032"
+    },
+    "char_4141_marcil_CN_033": {
+      "charWordId": "char_4141_marcil_CN_033",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_033",
+      "voiceText": "여긴 정말 미궁 같네……",
+      "voiceTitle": "시설에 배치",
+      "voiceIndex": 33,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BUILDING_PLACE",
+      "voiceAsset": "char_4141_marcil/CN_033"
+    },
+    "char_4141_marcil_CN_034": {
+      "charWordId": "char_4141_marcil_CN_034",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_034",
+      "voiceText": "우왓?! ……깜짝이야. 식인 식물인 줄 알았잖아!",
+      "voiceTitle": "터치",
+      "voiceIndex": 34,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BUILDING_TOUCHING",
+      "voiceAsset": "char_4141_marcil/CN_034"
+    },
+    "char_4141_marcil_CN_036": {
+      "charWordId": "char_4141_marcil_CN_036",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_036",
+      "voiceText": "너도 도서관에 가는 중이야? 좋아, 같이 가자!",
+      "voiceTitle": "신뢰도 터치",
+      "voiceIndex": 36,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BUILDING_FAVOR_BUBBLE",
+      "voiceAsset": "char_4141_marcil/CN_036"
+    },
+    "char_4141_marcil_CN_037": {
+      "charWordId": "char_4141_marcil_CN_037",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_037",
+      "voiceText": "명일방주",
+      "voiceTitle": "타이틀",
+      "voiceIndex": 37,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "LOADING_PANEL",
+      "voiceAsset": "char_4141_marcil/CN_037"
+    },
+    "char_4141_marcil_CN_038": {
+      "charWordId": "char_4141_marcil_CN_038",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_038",
+      "voiceText": "설마 이렇게 오래 로도스에 있게 될 줄이야. 아무튼 전에 배운 카메라 사용법은 이제 완벽하게 익혔으니까, 오늘도 한 장 찍자! 물론 새로 생긴 친구도 함께, 다 같이 기념사진이 될 만한 걸로. 파린도 분명 우리 추억 이야기를 기쁘게 들어줄 거야!",
+      "voiceTitle": "새해",
+      "voiceIndex": 38,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "NEW_YEAR",
+      "voiceAsset": "char_4141_marcil/CN_038"
+    },
+    "char_4141_marcil_CN_042": {
+      "charWordId": "char_4141_marcil_CN_042",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_042",
+      "voiceText": "박사, 어젠 잘 잤어? 혹시 꿈자리가 뒤숭숭하다면 베개 안에 나이트메어가 없는지 확인해 봐. 우린 미궁에서 그렇게 했거든.",
+      "voiceTitle": "인사",
+      "voiceIndex": 42,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "GREETING",
+      "voiceAsset": "char_4141_marcil/CN_042"
+    },
+    "char_4141_marcil_CN_044": {
+      "charWordId": "char_4141_marcil_CN_044",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_044",
+      "voiceText": "나는 마술학교에서 병이나 상처의 원인에 관해 연구하기도 했었고, 치료술 개발 같은 것도 담당했었어. 그래서 난치병과 싸우는 어려움은 잘 알고 있어. 박사, 내 도움이 필요하면, 가능한 한 힘이 되어 줄게.",
+      "voiceTitle": "애니버서리",
+      "voiceIndex": 44,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "ANNIVERSARY",
+      "voiceAsset": "char_4141_marcil/CN_044"
+    },
+    "char_4144_chilc_CN_001": {
+      "charWordId": "char_4144_chilc_CN_001",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_001",
+      "voiceText": "음…… 알았어. 이 서류는 나한테 맡겨. 뭐? 기특하다고? 어린애 취급하지 말라고!",
+      "voiceTitle": "어시스턴트 임명",
+      "voiceIndex": 1,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_PLACE",
+      "voiceAsset": "char_4144_chilc/CN_001"
+    },
+    "char_4144_chilc_CN_002": {
+      "charWordId": "char_4144_chilc_CN_002",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_002",
+      "voiceText": "쯧…… 어쩐지 느낌이 안 좋더라니, 신체검사 결과는 역시나 충격이었다니까. 아무래도 당분간 라이오스나 센시와 일하는 건 피해야겠는데. 이대로 그 녀석들과 어울려 다니면 큰일이 날 것 같단 말이지.",
+      "voiceTitle": "대화 1",
+      "voiceIndex": 2,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4144_chilc/CN_002"
+    },
+    "char_4144_chilc_CN_003": {
+      "charWordId": "char_4144_chilc_CN_003",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_003",
+      "voiceText": "“그런 걸 먹는 거냐!”라고 생각했지? 표정을 보면 알아. 나도 처음엔 일일이 놀라기도 했는데, 점점 익숙해져 버렸지…… 그 녀석들이랑 오래 지내다 보면 너도 그렇게 될지 몰라. 아, 물론 그러지 않아도 되지만.",
+      "voiceTitle": "대화 2",
+      "voiceIndex": 3,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4144_chilc/CN_003"
+    },
+    "char_4144_chilc_CN_004": {
+      "charWordId": "char_4144_chilc_CN_004",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_004",
+      "voiceText": "하, 라이오스랑 센시 때문에, 지금은 나까지 마물을 좋아하는 괴짜라고 오해받는단 말이지…… 박사, 뭘 들고 있는 거야? 센시의 최신 요리? 역작이라고? 왜 기뻐하는 건데. 설마 너도 그쪽인 건 아니지?",
+      "voiceTitle": "대화 3",
+      "voiceIndex": 4,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4144_chilc/CN_004"
+    },
+    "char_4144_chilc_CN_005": {
+      "charWordId": "char_4144_chilc_CN_005",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_005",
+      "voiceText": "이제 대충은 알 것 같은데, 젊어 보이는 두린족은 진짜로 나이가 많지 않은 것 같아. 특히 그 머틀은 완전히 애잖아. 그런 주제에 전에 잠깐 대화했을 땐, 내가 나이를 속인 자기 또래라고 착각해서는…… 야, 웃지 마!",
+      "voiceTitle": "1차 정예화 후 대화",
+      "voiceIndex": 5,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 1
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4144_chilc/CN_005"
+    },
+    "char_4144_chilc_CN_006": {
+      "charWordId": "char_4144_chilc_CN_006",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_006",
+      "voiceText": "테라의 미믹은 미궁의 미믹보다 훨씬 알기 쉬운데, 박사. 봐봐, 이렇게 먹이로 유인하면 금방 알 수 있어. 이거에 낚여서 다가오면…… 읏차! 좋아, 이걸로…… 쳇, 하나 더 있다!",
+      "voiceTitle": "2차 정예화 후 대화",
+      "voiceIndex": 6,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 2
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4144_chilc/CN_006"
+    },
+    "char_4144_chilc_CN_007": {
+      "charWordId": "char_4144_chilc_CN_007",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_007",
+      "voiceText": "나도 저쪽에선 조합을 운영했어. 매일 여기저기 뛰어다녀야 했고 주위의 이해를 받지 못하는 일도 있었지. 넌 이렇게 커다란 로도스를 관리하고 있으니까, 가끔은 휴식이란 것도 필요하겠지. 그런 의미에서, 술이라도 마시러 갈까? 어차피 해야 할 일에서 도망칠 수도 없으니까, 이 참에 좀 릴랙스 하자고.",
+      "voiceTitle": "신뢰도 상승 후 대화 1",
+      "voiceIndex": 7,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 40
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4144_chilc/CN_007"
+    },
+    "char_4144_chilc_CN_008": {
+      "charWordId": "char_4144_chilc_CN_008",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_008",
+      "voiceText": "라이오스네들은 필사적으로 하면 반드시 보상받는다고 생각하는 것 같은데, 진짜 멍청한 놈들이라니까. 세상만사 그렇게 쉽게 되는 게 아니란 말이지. 박사, 너처럼 똑똑한 사람이라면 무슨 말인지 이해되지? ……뭐? 그 녀석들 걱정하는 거 아니거든!",
+      "voiceTitle": "신뢰도 상승 후 대화 2",
+      "voiceIndex": 8,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 100
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4144_chilc/CN_008"
+    },
+    "char_4144_chilc_CN_009": {
+      "charWordId": "char_4144_chilc_CN_009",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_009",
+      "voiceText": "미궁에서 모험해 보고 싶다고? 네 실력으론 목숨이 아무리 몇 개라도 모자랄 거야. 어쩔 수 없지. 그렇게 가고 싶으면 미궁 내부 루트나 행동에 관해선 내 말을 따라. 이래 봬도 전문가거든. 그 외의 일은 너랑 라이오스의 판단에 맡길게.",
+      "voiceTitle": "신뢰도 상승 후 대화 3",
+      "voiceIndex": 9,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 200
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4144_chilc/CN_009"
+    },
+    "char_4144_chilc_CN_010": {
+      "charWordId": "char_4144_chilc_CN_010",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_010",
+      "voiceText": "건강한 식생활이 어쩌고 저쩌고 하는 건 센시의 말버릇이야. 난 이미 질리도록 들었지만, 넌 더 잔소리를 들어야 할지도 모르겠네.",
+      "voiceTitle": "방치",
+      "voiceIndex": 10,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_WAIT",
+      "voiceAsset": "char_4144_chilc/CN_010"
+    },
+    "char_4144_chilc_CN_011": {
+      "charWordId": "char_4144_chilc_CN_011",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_011",
+      "voiceText": "계약서는 읽었어. 내용은 확실하고, 대우도 나쁘지 않네. 선불로 주겠다면 기꺼이 협력해 줄게. 나쁘게 생각하진 말라고. 이런 건 먼저 확실하게 해 두는 게 서로를 위한 거니까. 그렇지?",
+      "voiceTitle": "오퍼레이터 입사",
+      "voiceIndex": 11,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "GACHA",
+      "voiceAsset": "char_4144_chilc/CN_011"
+    },
+    "char_4144_chilc_CN_012": {
+      "charWordId": "char_4144_chilc_CN_012",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_012",
+      "voiceText": "설마 나한테 싸우라는 건 아니지?",
+      "voiceTitle": "작전기록 학습",
+      "voiceIndex": 12,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "LEVEL_UP",
+      "voiceAsset": "char_4144_chilc/CN_012"
+    },
+    "char_4144_chilc_CN_013": {
+      "charWordId": "char_4144_chilc_CN_013",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_013",
+      "voiceText": "고마워. 받은 보수만큼은 제대로 일하도록 하지.",
+      "voiceTitle": "1차 정예화 (승진)",
+      "voiceIndex": 13,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 1
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "EVOLVE_ONE",
+      "voiceAsset": "char_4144_chilc/CN_013"
+    },
+    "char_4144_chilc_CN_014": {
+      "charWordId": "char_4144_chilc_CN_014",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_014",
+      "voiceText": "테라는 미궁만큼이나 위험한 곳이군. 게다가 여기에도 그 망할 미믹이 있고…… 박사, 수상한 보물 상자를 발견하면 함부로 앉지 말고, 나한테 처리를 맡겨줘. 알겠지?",
+      "voiceTitle": "2차 정예화 (승진)",
+      "voiceIndex": 14,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 2
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "EVOLVE_TWO",
+      "voiceAsset": "char_4144_chilc/CN_014"
+    },
+    "char_4144_chilc_CN_017": {
+      "charWordId": "char_4144_chilc_CN_017",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_017",
+      "voiceText": "미리 말하는데, 난 정찰만 할 거야. 싸우는 건 기대하지 마.",
+      "voiceTitle": "팀 배치",
+      "voiceIndex": 17,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "SQUAD",
+      "voiceAsset": "char_4144_chilc/CN_017"
+    },
+    "char_4144_chilc_CN_018": {
+      "charWordId": "char_4144_chilc_CN_018",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_018",
+      "voiceText": "잘하는 분야는 아니지만, 할 수 있는 만큼은 해 볼게.",
+      "voiceTitle": "팀장 임명",
+      "voiceIndex": 18,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "SQUAD_FIRST",
+      "voiceAsset": "char_4144_chilc/CN_018"
+    },
+    "char_4144_chilc_CN_019": {
+      "charWordId": "char_4144_chilc_CN_019",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_019",
+      "voiceText": "루트는 정해졌어. 가자.",
+      "voiceTitle": "작전 출발",
+      "voiceIndex": 19,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_START",
+      "voiceAsset": "char_4144_chilc/CN_019"
+    },
+    "char_4144_chilc_CN_020": {
+      "charWordId": "char_4144_chilc_CN_020",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_020",
+      "voiceText": "발소리가 들렸어.",
+      "voiceTitle": "작전 개시",
+      "voiceIndex": 20,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_FACE_ENEMY",
+      "voiceAsset": "char_4144_chilc/CN_020"
+    },
+    "char_4144_chilc_CN_021": {
+      "charWordId": "char_4144_chilc_CN_021",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_021",
+      "voiceText": "자물쇠라도 따 줄까?",
+      "voiceTitle": "오퍼레이터 선택 1",
+      "voiceIndex": 21,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SELECT",
+      "voiceAsset": "char_4144_chilc/CN_021"
+    },
+    "char_4144_chilc_CN_022": {
+      "charWordId": "char_4144_chilc_CN_022",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_022",
+      "voiceText": "정찰하고 왔어. 함정은 없어.",
+      "voiceTitle": "오퍼레이터 선택 2",
+      "voiceIndex": 22,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SELECT",
+      "voiceAsset": "char_4144_chilc/CN_022"
+    },
+    "char_4144_chilc_CN_023": {
+      "charWordId": "char_4144_chilc_CN_023",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_023",
+      "voiceText": "야, 적이 너무 많잖아!",
+      "voiceTitle": "배치 1",
+      "voiceIndex": 23,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_PLACE",
+      "voiceAsset": "char_4144_chilc/CN_023"
+    },
+    "char_4144_chilc_CN_024": {
+      "charWordId": "char_4144_chilc_CN_024",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_024",
+      "voiceText": "뭔가 잘못된 거지? 박사!",
+      "voiceTitle": "배치 2",
+      "voiceIndex": 24,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_PLACE",
+      "voiceAsset": "char_4144_chilc/CN_024"
+    },
+    "char_4144_chilc_CN_025": {
+      "charWordId": "char_4144_chilc_CN_025",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_025",
+      "voiceText": "내 탓으로 돌리지 말라고!",
+      "voiceTitle": "작전 중 1",
+      "voiceIndex": 25,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SKILL_1",
+      "voiceAsset": "char_4144_chilc/CN_025"
+    },
+    "char_4144_chilc_CN_026": {
+      "charWordId": "char_4144_chilc_CN_026",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_026",
+      "voiceText": "별 타격은 못 주니까! 기대하지 마!",
+      "voiceTitle": "작전 중 2",
+      "voiceIndex": 26,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SKILL_2",
+      "voiceAsset": "char_4144_chilc/CN_026"
+    },
+    "char_4144_chilc_CN_027": {
+      "charWordId": "char_4144_chilc_CN_027",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_027",
+      "voiceText": "빨리 지원해 줘!",
+      "voiceTitle": "작전 중 3",
+      "voiceIndex": 27,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SKILL_3",
+      "voiceAsset": "char_4144_chilc/CN_027"
+    },
+    "char_4144_chilc_CN_028": {
+      "charWordId": "char_4144_chilc_CN_028",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_028",
+      "voiceText": "대체 언제 끝나는 거야!",
+      "voiceTitle": "작전 중 4",
+      "voiceIndex": 28,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SKILL_4",
+      "voiceAsset": "char_4144_chilc/CN_028"
+    },
+    "char_4144_chilc_CN_029": {
+      "charWordId": "char_4144_chilc_CN_029",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_029",
+      "voiceText": "다음에 이런 임무가 있을 땐 미리 말해 줘, 박사. 절대로 참가하지 않을 거니까.",
+      "voiceTitle": "고난이도 작전 종료",
+      "voiceIndex": 29,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "FOUR_STAR",
+      "voiceAsset": "char_4144_chilc/CN_029"
+    },
+    "char_4144_chilc_CN_030": {
+      "charWordId": "char_4144_chilc_CN_030",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_030",
+      "voiceText": "무사히 끝났군. 배도 출출하니 이럴 때야말로 뭔가 먹…… 쳇, 그 녀석들한테 옮았나.",
+      "voiceTitle": "3★ 작전 종료",
+      "voiceIndex": 30,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "THREE_STAR",
+      "voiceAsset": "char_4144_chilc/CN_030"
+    },
+    "char_4144_chilc_CN_031": {
+      "charWordId": "char_4144_chilc_CN_031",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_031",
+      "voiceText": "너희는 먼저 쉬어. 내가 경계할 테니까. 걱정 마. 접근하는 녀석이 있으면 내가 바로 알아차릴 테니까.",
+      "voiceTitle": "비 3★ 작전 종료",
+      "voiceIndex": 31,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "TWO_STAR",
+      "voiceAsset": "char_4144_chilc/CN_031"
+    },
+    "char_4144_chilc_CN_032": {
+      "charWordId": "char_4144_chilc_CN_032",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_032",
+      "voiceText": "철수 경로를 미리 확인해 두길 잘했군…… 이쪽이야, 따라와!",
+      "voiceTitle": "작전 실패",
+      "voiceIndex": 32,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "LOSE",
+      "voiceAsset": "char_4144_chilc/CN_032"
+    },
+    "char_4144_chilc_CN_033": {
+      "charWordId": "char_4144_chilc_CN_033",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_033",
+      "voiceText": "로도스 아일랜드 지도를 만들어 둘까.",
+      "voiceTitle": "시설에 배치",
+      "voiceIndex": 33,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BUILDING_PLACE",
+      "voiceAsset": "char_4144_chilc/CN_033"
+    },
+    "char_4144_chilc_CN_034": {
+      "charWordId": "char_4144_chilc_CN_034",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_034",
+      "voiceText": "야!",
+      "voiceTitle": "터치",
+      "voiceIndex": 34,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BUILDING_TOUCHING",
+      "voiceAsset": "char_4144_chilc/CN_034"
+    },
+    "char_4144_chilc_CN_036": {
+      "charWordId": "char_4144_chilc_CN_036",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_036",
+      "voiceText": "박사, 한잔할래?",
+      "voiceTitle": "신뢰도 터치",
+      "voiceIndex": 36,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BUILDING_FAVOR_BUBBLE",
+      "voiceAsset": "char_4144_chilc/CN_036"
+    },
+    "char_4144_chilc_CN_037": {
+      "charWordId": "char_4144_chilc_CN_037",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_037",
+      "voiceText": "명일방주",
+      "voiceTitle": "타이틀",
+      "voiceIndex": 37,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "LOADING_PANEL",
+      "voiceAsset": "char_4144_chilc/CN_037"
+    },
+    "char_4144_chilc_CN_038": {
+      "charWordId": "char_4144_chilc_CN_038",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_038",
+      "voiceText": "파티? 안 갈래. 오늘은 드물게도 선약이 있거든. 듣자 하니 두린족 녀석들이 좋은 술을 얻었다나. 한잔하고 싶으면 우리한테 와도 돼. 아 맞다, 올해도 잘 부탁해.",
+      "voiceTitle": "새해",
+      "voiceIndex": 38,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "NEW_YEAR",
+      "voiceAsset": "char_4144_chilc/CN_038"
+    },
+    "char_4144_chilc_CN_042": {
+      "charWordId": "char_4144_chilc_CN_042",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_042",
+      "voiceText": "일부러 내 얼굴을 보러 온 건 아니지? 박사.",
+      "voiceTitle": "인사",
+      "voiceIndex": 42,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "GREETING",
+      "voiceAsset": "char_4144_chilc/CN_042"
+    },
+    "char_4144_chilc_CN_044": {
+      "charWordId": "char_4144_chilc_CN_044",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_044",
+      "voiceText": "솔직히 처음엔 너희를 의심했어. 대가도 없이 남을 돕겠다고 지껄이는 녀석들은, 뒤에서 남에게 말 못 할 짓을 하는 게 세상 이치니까. 지금? 뭐, 적어도 그런 사람 좋은 녀석이 실존할 가능성 정도는 믿게 됐지……",
+      "voiceTitle": "애니버서리",
+      "voiceIndex": 44,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "ANNIVERSARY",
+      "voiceAsset": "char_4144_chilc/CN_044"
+    },
+    "char_4143_sensi_CN_001": {
+      "charWordId": "char_4143_sensi_CN_001",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_001",
+      "voiceText": "……자네 업무는 잘 모르겠네만, 먹고 싶은 게 있으면 만들어 주겠네. 오므라이스? 야채수프? 아니면 숯불 구이?",
+      "voiceTitle": "어시스턴트 임명",
+      "voiceIndex": 1,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_PLACE",
+      "voiceAsset": "char_4143_sensi/CN_001"
+    },
+    "char_4143_sensi_CN_002": {
+      "charWordId": "char_4143_sensi_CN_002",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_002",
+      "voiceText": "진정하고 심호흡하게, 스카이파이어! 거기서 더 체온이 오르면 튀김이 타 버릴 걸세! 오, 굼. 자네가 만든 쿠키는 훌륭하군…… 그런데 골든글로우. 자네가 만드는 팝콘은 왜 그렇게 머리카락에 달라붙는 건가? 음…… 해결책을 생각해 보겠네. 잠시만 시간을 주게나……",
+      "voiceTitle": "대화 1",
+      "voiceIndex": 2,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4143_sensi/CN_002"
+    },
+    "char_4143_sensi_CN_003": {
+      "charWordId": "char_4143_sensi_CN_003",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_003",
+      "voiceText": "흐에취! ……실은 메탈 크랩을 사육하는 온실을 보러 가려했네만, 거기서 마르실과 퍼퓨머가 내 수염 냄새에 대해서 열심히 의논하는 걸 듣고 말았다네. 좋지 않은 낌새를 느끼고 자리를 뜨려 했는데, 거기서 마르실에게 들켜서 끌려가는 바람에 이상한 걸 수염에 묻히게 됐지…… 그 향기 때문에 양파 냄새도 못 맡는 상태라네! 흐엣취!",
+      "voiceTitle": "대화 2",
+      "voiceIndex": 3,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4143_sensi/CN_003"
+    },
+    "char_4143_sensi_CN_004": {
+      "charWordId": "char_4143_sensi_CN_004",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_004",
+      "voiceText": "여기가 자네들 주방인가. 오리지늄을 사용한 밥솥, 전자동 오븐, 온도 제어 가능 8구짜리 화덕이라니……! 흠, 제법 좋은 요리를 만들 수 있겠어.",
+      "voiceTitle": "대화 3",
+      "voiceIndex": 4,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4143_sensi/CN_004"
+    },
+    "char_4143_sensi_CN_005": {
+      "charWordId": "char_4143_sensi_CN_005",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_005",
+      "voiceText": "강한 몸을 만들려면 식사를 소홀히 해선 안 되네. 뭐라고? 생체 변환계 아츠를 쓰면 쉽게 근육을 만들 수 있다……? 으음. 뭔가를 손쉽게 얻으면 다른 뭔가가 둔해지지. 편리와 안이는 다르다네. 그렇게 생각하지 않나?",
+      "voiceTitle": "1차 정예화 후 대화",
+      "voiceIndex": 5,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 1
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4143_sensi/CN_005"
+    },
+    "char_4143_sensi_CN_006": {
+      "charWordId": "char_4143_sensi_CN_006",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_006",
+      "voiceText": "수원지를 깨끗이 관리하고, 그 물을 작물에 주고, 여기저기서 나온 폐자재는 회수용 창고로. 여기서 자란 걸 먹고, 또 직접 이 세계에 나눠 주는, 그런 삶을 살고 있다 보면, 나도 이 세계의 일부가 된 것 같아서 기쁘다네.",
+      "voiceTitle": "2차 정예화 후 대화",
+      "voiceIndex": 6,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 2
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4143_sensi/CN_006"
+    },
+    "char_4143_sensi_CN_007": {
+      "charWordId": "char_4143_sensi_CN_007",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_007",
+      "voiceText": "'체육관'이라는 곳에 처음 가 봤네만, 안에 있던 자들이 이렇게 힘이 센 두린족은 처음 본다며 어떻게 단련했는지 묻더군…… 그저 매일 요리를 해 먹는다고 대답했네만. 음? 그 뒤로는 다들 주방에서 냄비를 흔들고 있다고? 많은 인간이 요리에 관심을 가지는 건 기쁜 일이지.",
+      "voiceTitle": "신뢰도 상승 후 대화 1",
+      "voiceIndex": 7,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 40
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4143_sensi/CN_007"
+    },
+    "char_4143_sensi_CN_008": {
+      "charWordId": "char_4143_sensi_CN_008",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_008",
+      "voiceText": "요즘은 라이오스 쪽도 매일 제대로 된 요리를 먹고 있어서 기쁘다네. 그런데 박사, 듣자 하니 자네는 바쁘다는 이유로 즉석식품만 먹는다던데. 그래서는 건강에 무척 나쁘다네! 영양 균형을 고려해서, 신선한 야채나 질 좋은 단백질을 섭취해야지!",
+      "voiceTitle": "신뢰도 상승 후 대화 2",
+      "voiceIndex": 8,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 100
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4143_sensi/CN_008"
+    },
+    "char_4143_sensi_CN_009": {
+      "charWordId": "char_4143_sensi_CN_009",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_009",
+      "voiceText": "자네들이 매일 뭘 하는지는 모르네. 하지만 이렇게 많은 환자를 돌보는 건 존경스러워. 병실에 있는 자들이 내 요리를 기쁘게 먹어 줘서 나 역시 기쁘다네. 만약 이곳과 미궁을 왕래하는 방법이 발견된다면, 그땐 또 상황을 보러 오겠네.",
+      "voiceTitle": "신뢰도 상승 후 대화 3",
+      "voiceIndex": 9,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 200
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4143_sensi/CN_009"
+    },
+    "char_4143_sensi_CN_010": {
+      "charWordId": "char_4143_sensi_CN_010",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_010",
+      "voiceText": "흠. 수면의 질은 양호하군. 좋아.",
+      "voiceTitle": "방치",
+      "voiceIndex": 10,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_WAIT",
+      "voiceAsset": "char_4143_sensi/CN_010"
+    },
+    "char_4143_sensi_CN_011": {
+      "charWordId": "char_4143_sensi_CN_011",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_011",
+      "voiceText": "음. 잘 갖춰진 각종 조리 도구에 충분한 화력이 나오는 청결한 화덕, 재료 비축도 문제없고…… 아무래도 너희도 요리를 진지하게 생각하는가 보군. 난 이곳이 마음에 들었네!",
+      "voiceTitle": "오퍼레이터 입사",
+      "voiceIndex": 11,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "GACHA",
+      "voiceAsset": "char_4143_sensi/CN_011"
+    },
+    "char_4143_sensi_CN_012": {
+      "charWordId": "char_4143_sensi_CN_012",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_012",
+      "voiceText": "내 비장의 죠미료를 어디선가 잃어버렸나 했더니, 이때였나!",
+      "voiceTitle": "작전기록 학습",
+      "voiceIndex": 12,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "LEVEL_UP",
+      "voiceAsset": "char_4143_sensi/CN_012"
+    },
+    "char_4143_sensi_CN_013": {
+      "charWordId": "char_4143_sensi_CN_013",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_013",
+      "voiceText": "마법이건 아츠건 간에, 요리에 이용해서 수고를 덜 생각만 한다면 언젠가 사람은 불을 피우는 방법을 잊어버리게 되겠지. 부싯돌과 장작을 쓰는 법은 꼭 습득해야 할 기술이네!",
+      "voiceTitle": "1차 정예화 (승진)",
+      "voiceIndex": 13,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 1
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "EVOLVE_ONE",
+      "voiceAsset": "char_4143_sensi/CN_013"
+    },
+    "char_4143_sensi_CN_014": {
+      "charWordId": "char_4143_sensi_CN_014",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_014",
+      "voiceText": "사미풍 꼬치구이나 시본 풀 코스, 묵량 잼과 와인이라면 만들어본 적 있지. 재료만 있으면 지금이라도 대접할 수 있네만…… 뭐? 원래는 다 못 먹는 것들이라고?",
+      "voiceTitle": "2차 정예화 (승진)",
+      "voiceIndex": 14,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 2
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "EVOLVE_TWO",
+      "voiceAsset": "char_4143_sensi/CN_014"
+    },
+    "char_4143_sensi_CN_017": {
+      "charWordId": "char_4143_sensi_CN_017",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_017",
+      "voiceText": "잠깐 기다리게. 조리 도구와 무기가 갖춰졌는지 확인하고 싶군.",
+      "voiceTitle": "팀 배치",
+      "voiceIndex": 17,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "SQUAD",
+      "voiceAsset": "char_4143_sensi/CN_017"
+    },
+    "char_4143_sensi_CN_018": {
+      "charWordId": "char_4143_sensi_CN_018",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_018",
+      "voiceText": "걱정 말게. 자네들을 지키는 것쯤은 나도 할 수 있어.",
+      "voiceTitle": "팀장 임명",
+      "voiceIndex": 18,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "SQUAD_FIRST",
+      "voiceAsset": "char_4143_sensi/CN_018"
+    },
+    "char_4143_sensi_CN_019": {
+      "charWordId": "char_4143_sensi_CN_019",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_019",
+      "voiceText": "준비 완료일세!",
+      "voiceTitle": "작전 출발",
+      "voiceIndex": 19,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_START",
+      "voiceAsset": "char_4143_sensi/CN_019"
+    },
+    "char_4143_sensi_CN_020": {
+      "charWordId": "char_4143_sensi_CN_020",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_020",
+      "voiceText": "생각보다 마물이 많군……",
+      "voiceTitle": "작전 개시",
+      "voiceIndex": 20,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_FACE_ENEMY",
+      "voiceAsset": "char_4143_sensi/CN_020"
+    },
+    "char_4143_sensi_CN_021": {
+      "charWordId": "char_4143_sensi_CN_021",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_021",
+      "voiceText": "왜, 배고픈가?",
+      "voiceTitle": "오퍼레이터 선택 1",
+      "voiceIndex": 21,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SELECT",
+      "voiceAsset": "char_4143_sensi/CN_021"
+    },
+    "char_4143_sensi_CN_022": {
+      "charWordId": "char_4143_sensi_CN_022",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_022",
+      "voiceText": "걱정 말게. 방법은 알고 있으니.",
+      "voiceTitle": "오퍼레이터 선택 2",
+      "voiceIndex": 22,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SELECT",
+      "voiceAsset": "char_4143_sensi/CN_022"
+    },
+    "char_4143_sensi_CN_023": {
+      "charWordId": "char_4143_sensi_CN_023",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_023",
+      "voiceText": "나쁘지 않은 배치야. 나중에 여기서 식사를 만들도록 하세.",
+      "voiceTitle": "배치 1",
+      "voiceIndex": 23,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_PLACE",
+      "voiceAsset": "char_4143_sensi/CN_023"
+    },
+    "char_4143_sensi_CN_024": {
+      "charWordId": "char_4143_sensi_CN_024",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_024",
+      "voiceText": "여기는 나한테 맡기게나!",
+      "voiceTitle": "배치 2",
+      "voiceIndex": 24,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_PLACE",
+      "voiceAsset": "char_4143_sensi/CN_024"
+    },
+    "char_4143_sensi_CN_025": {
+      "charWordId": "char_4143_sensi_CN_025",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_025",
+      "voiceText": "자, 뭘 만들었는가……",
+      "voiceTitle": "작전 중 1",
+      "voiceIndex": 25,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SKILL_1",
+      "voiceAsset": "char_4143_sensi/CN_025"
+    },
+    "char_4143_sensi_CN_026": {
+      "charWordId": "char_4143_sensi_CN_026",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_026",
+      "voiceText": "어디, 간을 좀 보도록 하지.",
+      "voiceTitle": "작전 중 2",
+      "voiceIndex": 26,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SKILL_2",
+      "voiceAsset": "char_4143_sensi/CN_026"
+    },
+    "char_4143_sensi_CN_027": {
+      "charWordId": "char_4143_sensi_CN_027",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_027",
+      "voiceText": "재료를 몇 차례에 나눠서 투입하고……",
+      "voiceTitle": "작전 중 3",
+      "voiceIndex": 27,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SKILL_3",
+      "voiceAsset": "char_4143_sensi/CN_027"
+    },
+    "char_4143_sensi_CN_028": {
+      "charWordId": "char_4143_sensi_CN_028",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_028",
+      "voiceText": "잠시 기다리게, 곧 완성일세!",
+      "voiceTitle": "작전 중 4",
+      "voiceIndex": 28,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SKILL_4",
+      "voiceAsset": "char_4143_sensi/CN_028"
+    },
+    "char_4143_sensi_CN_029": {
+      "charWordId": "char_4143_sensi_CN_029",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_029",
+      "voiceText": "흠, 이렇게 버거운 마물을 만나는 건 꽤 오랜만이군.",
+      "voiceTitle": "고난이도 작전 종료",
+      "voiceIndex": 29,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "FOUR_STAR",
+      "voiceAsset": "char_4143_sensi/CN_029"
+    },
+    "char_4143_sensi_CN_030": {
+      "charWordId": "char_4143_sensi_CN_030",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_030",
+      "voiceText": "박사. 이 마물을 요리할 수 있는지 라이오스랑 시험해 보고 싶은데, 자네도 관심 있나?",
+      "voiceTitle": "3★ 작전 종료",
+      "voiceIndex": 30,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "THREE_STAR",
+      "voiceAsset": "char_4143_sensi/CN_030"
+    },
+    "char_4143_sensi_CN_031": {
+      "charWordId": "char_4143_sensi_CN_031",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_031",
+      "voiceText": "아무래도 무심코 뭔가 좋지 않은 재료를 넣어 버린 것 같군……",
+      "voiceTitle": "비 3★ 작전 종료",
+      "voiceIndex": 31,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "TWO_STAR",
+      "voiceAsset": "char_4143_sensi/CN_031"
+    },
+    "char_4143_sensi_CN_032": {
+      "charWordId": "char_4143_sensi_CN_032",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_032",
+      "voiceText": "……철수하세!",
+      "voiceTitle": "작전 실패",
+      "voiceIndex": 32,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "LOSE",
+      "voiceAsset": "char_4143_sensi/CN_032"
+    },
+    "char_4143_sensi_CN_033": {
+      "charWordId": "char_4143_sensi_CN_033",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_033",
+      "voiceText": "주방까지는 어떻게 가면 되나?",
+      "voiceTitle": "시설에 배치",
+      "voiceIndex": 33,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BUILDING_PLACE",
+      "voiceAsset": "char_4143_sensi/CN_033"
+    },
+    "char_4143_sensi_CN_034": {
+      "charWordId": "char_4143_sensi_CN_034",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_034",
+      "voiceText": "……지금 날 찔렀나? 음…… 수염 안을 휘저어 봤자 아무것도 안 나올 걸세.",
+      "voiceTitle": "터치",
+      "voiceIndex": 34,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BUILDING_TOUCHING",
+      "voiceAsset": "char_4143_sensi/CN_034"
+    },
+    "char_4143_sensi_CN_036": {
+      "charWordId": "char_4143_sensi_CN_036",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_036",
+      "voiceText": "맛있나? 더 있다네.",
+      "voiceTitle": "신뢰도 터치",
+      "voiceIndex": 36,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BUILDING_FAVOR_BUBBLE",
+      "voiceAsset": "char_4143_sensi/CN_036"
+    },
+    "char_4143_sensi_CN_037": {
+      "charWordId": "char_4143_sensi_CN_037",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_037",
+      "voiceText": "명일방주",
+      "voiceTitle": "타이틀",
+      "voiceIndex": 37,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "LOADING_PANEL",
+      "voiceAsset": "char_4143_sensi/CN_037"
+    },
+    "char_4143_sensi_CN_038": {
+      "charWordId": "char_4143_sensi_CN_038",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_038",
+      "voiceText": "오퍼레이터들에게 직접 만든 요리를 대접하겠다면 샤부샤부가 좋겠군. 조리가 쉬우면서도 다양한 재료를 넣을 수 있어서, 함께 한 냄비에 둘러앉아 먹는 것도 가능하니 말일세. 자, 따라오게. 가장 맛있는 샤부샤부를 만드는 법을 알려 주겠네.",
+      "voiceTitle": "새해",
+      "voiceIndex": 38,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "NEW_YEAR",
+      "voiceAsset": "char_4143_sensi/CN_038"
+    },
+    "char_4143_sensi_CN_042": {
+      "charWordId": "char_4143_sensi_CN_042",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_042",
+      "voiceText": "완성됐네! 자, 먹어 보게.",
+      "voiceTitle": "인사",
+      "voiceIndex": 42,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "GREETING",
+      "voiceAsset": "char_4143_sensi/CN_042"
+    },
+    "char_4143_sensi_CN_044": {
+      "charWordId": "char_4143_sensi_CN_044",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_044",
+      "voiceText": "정말이지, 이건 전혀 예상이 안 되는 여행이야…… 라이오스와 마르실은 생각보다 훨씬 견실해졌고, 칠책도 최근 어른다워졌지. 난 여기서 재밌는 친구들을 많이 만나기도 했고, 이런 경험도 하게 되어서 아주 만족스럽다네.",
+      "voiceTitle": "애니버서리",
+      "voiceIndex": 44,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "ANNIVERSARY",
+      "voiceAsset": "char_4143_sensi/CN_044"
+    },
     "char_113_cqbw_epoque#7_CN_001": {
       "charWordId": "char_113_cqbw_epoque#7_CN_001",
       "wordKey": "char_113_cqbw_epoque#7",
@@ -230316,6 +232695,14 @@
             "이지영"
           ],
           "voicePath": null
+        },
+        "EN": {
+          "wordkey": "char_436_whispr",
+          "voiceLangType": "EN",
+          "cvName": [
+            "Sam Slade"
+          ],
+          "voicePath": null
         }
       }
     },
@@ -231048,6 +233435,14 @@
             "이새아"
           ],
           "voicePath": null
+        },
+        "EN": {
+          "wordkey": "char_363_toddi",
+          "voiceLangType": "EN",
+          "cvName": [
+            "Annes Elwy"
+          ],
+          "voicePath": null
         }
       }
     },
@@ -231449,6 +233844,14 @@
             "윤미나"
           ],
           "voicePath": null
+        },
+        "EN": {
+          "wordkey": "char_478_kirara",
+          "voiceLangType": "EN",
+          "cvName": [
+            "Summer Natsuki"
+          ],
+          "voicePath": null
         }
       }
     },
@@ -231528,6 +233931,14 @@
           "voiceLangType": "KR",
           "cvName": [
             "김하영"
+          ],
+          "voicePath": null
+        },
+        "EN": {
+          "wordkey": "char_451_robin",
+          "voiceLangType": "EN",
+          "cvName": [
+            "Kari Wahlgren"
           ],
           "voicePath": null
         }
@@ -238925,6 +241336,70 @@
         }
       }
     },
+    "char_4141_marcil": {
+      "wordkeys": [
+        "char_4141_marcil"
+      ],
+      "charId": "char_4141_marcil",
+      "dict": {
+        "LINKAGE": {
+          "wordkey": "char_4141_marcil",
+          "voiceLangType": "LINKAGE",
+          "cvName": [
+            "센본기 사야카"
+          ],
+          "voicePath": "Audio/Sound_Beta_2/Voice/"
+        }
+      }
+    },
+    "char_4143_sensi": {
+      "wordkeys": [
+        "char_4143_sensi"
+      ],
+      "charId": "char_4143_sensi",
+      "dict": {
+        "LINKAGE": {
+          "wordkey": "char_4143_sensi",
+          "voiceLangType": "LINKAGE",
+          "cvName": [
+            "나카 히로시"
+          ],
+          "voicePath": "Audio/Sound_Beta_2/Voice/"
+        }
+      }
+    },
+    "char_4144_chilc": {
+      "wordkeys": [
+        "char_4144_chilc"
+      ],
+      "charId": "char_4144_chilc",
+      "dict": {
+        "LINKAGE": {
+          "wordkey": "char_4144_chilc",
+          "voiceLangType": "LINKAGE",
+          "cvName": [
+            "토마리 아스나"
+          ],
+          "voicePath": "Audio/Sound_Beta_2/Voice/"
+        }
+      }
+    },
+    "char_4142_laios": {
+      "wordkeys": [
+        "char_4142_laios"
+      ],
+      "charId": "char_4142_laios",
+      "dict": {
+        "LINKAGE": {
+          "wordkey": "char_4142_laios",
+          "voiceLangType": "LINKAGE",
+          "cvName": [
+            "쿠마가이 켄타로"
+          ],
+          "voicePath": "Audio/Sound_Beta_2/Voice/"
+        }
+      }
+    },
     "char_311_mudrok#1": {
       "wordkeys": [
         "char_311_mudrok#1"
@@ -239258,7 +241733,11 @@
   "newTagList": [
     "char_4146_nymph",
     "char_4147_mitm",
-    "char_4151_tinman"
+    "char_4151_tinman",
+    "char_4141_marcil",
+    "char_4143_sensi",
+    "char_4144_chilc",
+    "char_4142_laios"
   ],
   "voiceLangTypeDict": {
     "CN_MANDARIN": {
@@ -239683,7 +242162,11 @@
     "char_4058_pepe": "JP",
     "char_4138_narant": "JP",
     "char_4139_papyrs": "JP",
-    "char_4140_lasher": "JP"
+    "char_4140_lasher": "JP",
+    "char_4141_marcil": "LINKAGE",
+    "char_4143_sensi": "LINKAGE",
+    "char_4144_chilc": "LINKAGE",
+    "char_4142_laios": "LINKAGE"
   },
   "startTimeWithTypeDict": {
     "CN_TOPOLECT": [
@@ -240454,6 +242937,15 @@
       }
     ],
     "LINKAGE": [
+      {
+        "timestamp": 1741590000,
+        "charSet": [
+          "char_4141_marcil",
+          "char_4143_sensi",
+          "char_4144_chilc",
+          "char_4142_laios"
+        ]
+      },
       {
         "timestamp": 1725519600,
         "charSet": [

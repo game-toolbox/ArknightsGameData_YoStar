@@ -203766,6 +203766,2385 @@
       "placeType": "ANNIVERSARY",
       "voiceAsset": "char_4058_pepe/CN_044"
     },
+    "char_4142_laios_CN_001": {
+      "charWordId": "char_4142_laios_CN_001",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_001",
+      "voiceText": "おお！これは声を伝達して、その場にいない人とも連絡を取るための道具なのか。それで、こっちの「コピー機」というのは、紙に描いた絵を完全に複製できる道具、と――俺は助手として、こういうものを使って仕事をしないといけないんだな？まずはこれが動く仕組みを知りたいところだ！",
+      "voiceTitle": "秘書任命",
+      "voiceIndex": 1,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_PLACE",
+      "voiceAsset": "char_4142_laios/CN_001"
+    },
+    "char_4142_laios_CN_002": {
+      "charWordId": "char_4142_laios_CN_002",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_002",
+      "voiceText": "ケオベ、この生の砂虫漬け、味はどうだった？美味しい？それなら、こっちの鉗獣とキノコのソースは？美味いか！だったら、ニンニクと和えた鱗獣ソーセージは……これも好きだって？君に会えたのは本当に幸運だった！ぜひとも、新しい魔物を探しに――うわあっ、ヴァルカンさん何を！？俺をどこに連れていくつもりなんだ！？",
+      "voiceTitle": "会話1",
+      "voiceIndex": 2,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4142_laios/CN_002"
+    },
+    "char_4142_laios_CN_003": {
+      "charWordId": "char_4142_laios_CN_003",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_003",
+      "voiceText": "ドクター！来てくれ、この狭い部屋だ！助けてくれないか！Mon3trが病気になってしまったようで、何をあげても食べないんだ！何かいい方法は……ん？ああ、ケルシー先生にここから出るなと言われてな。Mon3trと仲良くなったから世話を頼まれたんだと思っていたが、違うのか？",
+      "voiceTitle": "会話2",
+      "voiceIndex": 3,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4142_laios/CN_003"
+    },
+    "char_4142_laios_CN_004": {
+      "charWordId": "char_4142_laios_CN_004",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_004",
+      "voiceText": "チームをまとめあげるコツは、言うことを聞かない奴に容赦をしないことだとオーキッドさんは言っていた。一方でフェンさんが熱心に話してくれたことには、隊長としての責任をきちんと背負うことこそが肝要、だそうだ。二人は俺を挟んで、隊長にとって一番重要なことは何かを議論していたが、俺は正直、全員が信頼し合うことが一番大切だと思うよ。",
+      "voiceTitle": "会話3",
+      "voiceIndex": 4,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4142_laios/CN_004"
+    },
+    "char_4142_laios_CN_005": {
+      "charWordId": "char_4142_laios_CN_005",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_005",
+      "voiceText": "魔物は狩りをするために鋭い爪を生やし、冒険者を惑わすために魅力的な姿に擬態する。行動を観察すれば理解が進むという点では、魔物は素直な生き物だ。でも、人間はそうはいかない……俺はやっぱり、魔物のほうが好きだな。",
+      "voiceTitle": "昇進後会話1",
+      "voiceIndex": 5,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 1
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4142_laios/CN_005"
+    },
+    "char_4142_laios_CN_006": {
+      "charWordId": "char_4142_laios_CN_006",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_006",
+      "voiceText": "俺が子供の頃、幽霊に襲われかけたことがあってさ。ファリンが追い払ってくれたんだが、その一件以来妹は村人から疎まれ、遠方の学校へ追いやられる羽目になってしまった。そこで落ち着くこともできたのに、ファリンは学校生活を捨て俺についてきてくれて……そして俺を庇って竜に食われてしまった。だからこそ、俺は絶対にファリンを助け出してみせる！",
+      "voiceTitle": "昇進後会話2",
+      "voiceIndex": 6,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 2
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4142_laios/CN_006"
+    },
+    "char_4142_laios_CN_007": {
+      "charWordId": "char_4142_laios_CN_007",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_007",
+      "voiceText": "気を付けてくれ。ここにあるのはリーベリの卵なんだ。エリジウムから、孵化させてほしいと頼まれたんだ。あと数日で出てくるだろうって――おおっ、本当に孵ったぞ！リーベリの赤ん坊は、こういうヒナみたいな姿をしているのか？……ん？ドクター、何を笑って……え？エリジウムに騙されてる？",
+      "voiceTitle": "信頼上昇後会話1",
+      "voiceIndex": 7,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 40
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4142_laios/CN_007"
+    },
+    "char_4142_laios_CN_008": {
+      "charWordId": "char_4142_laios_CN_008",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_008",
+      "voiceText": "マルシルは魔物食が苦手だし、チルチャックは同情で仕事はしない。元々は、俺一人でファリンを助けに行こうと思っていたくらいなのに、快く同行してくれたマルシルとチルチャックには本当に感謝しているんだ。",
+      "voiceTitle": "信頼上昇後会話2",
+      "voiceIndex": 8,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 100
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4142_laios/CN_008"
+    },
+    "char_4142_laios_CN_009": {
+      "charWordId": "char_4142_laios_CN_009",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_009",
+      "voiceText": "まさかセンシ以外にも、魔物に興味のある人がこんなにいるとは。しかも彼らは、一緒に迷宮へ行ってみたいとまで思ってくれているんだ。もし、ここと迷宮の間を本当に行き来できるなら、ファリンもきっと君たちと共にテラを旅して回りたいと言うだろうなぁ。",
+      "voiceTitle": "信頼上昇後会話3",
+      "voiceIndex": 9,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 200
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4142_laios/CN_009"
+    },
+    "char_4142_laios_CN_010": {
+      "charWordId": "char_4142_laios_CN_010",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_010",
+      "voiceText": "うーん、ケン助も寝てしまったみたいだ……俺もそろそろ眠るかな。",
+      "voiceTitle": "放置",
+      "voiceIndex": 10,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_WAIT",
+      "voiceAsset": "char_4142_laios/CN_010"
+    },
+    "char_4142_laios_CN_011": {
+      "charWordId": "char_4142_laios_CN_011",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_011",
+      "voiceText": "今ふと気付いたんだが、実は君も魔物料理に興味があるのでは？このミートボールは砂虫とハリノミで作ったんだが、食べてみないか？",
+      "voiceTitle": "入職会話",
+      "voiceIndex": 11,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "GACHA",
+      "voiceAsset": "char_4142_laios/CN_011"
+    },
+    "char_4142_laios_CN_012": {
+      "charWordId": "char_4142_laios_CN_012",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_012",
+      "voiceText": "この魔物たち、本当に見れば見るほど面白いなぁ……",
+      "voiceTitle": "経験値上昇",
+      "voiceIndex": 12,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "LEVEL_UP",
+      "voiceAsset": "char_4142_laios/CN_012"
+    },
+    "char_4142_laios_CN_013": {
+      "charWordId": "char_4142_laios_CN_013",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_013",
+      "voiceText": "認めてくれてありがとう！しかしドクター、最近あまり他のオペレーターを見かけないんだが、どうしてだろう？えっ、彼らの羽や被毛をやたらと集めるのはおかしいから、だって？お、俺はただ標本にしようと思っただけで――",
+      "voiceTitle": "昇進Ⅰ",
+      "voiceIndex": 13,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 1
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "EVOLVE_ONE",
+      "voiceAsset": "char_4142_laios/CN_013"
+    },
+    "char_4142_laios_CN_014": {
+      "charWordId": "char_4142_laios_CN_014",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_014",
+      "voiceText": "俺も最近ようやくここの人達との接し方がわかってきたし、オペレーターたちともうまくやっていけるはずなんだ。ほら、これを見てくれ。これは俺が作った、七つの頭を持つ無敵の魔物の模型なんだが、あとでお詫びとしてみんなに配ろうと思ってる。",
+      "voiceTitle": "昇進Ⅱ",
+      "voiceIndex": 14,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 2
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "EVOLVE_TWO",
+      "voiceAsset": "char_4142_laios/CN_014"
+    },
+    "char_4142_laios_CN_017": {
+      "charWordId": "char_4142_laios_CN_017",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_017",
+      "voiceText": "武器に防具、薬に食料、調理道具に寝袋……は、いらないか？わかった。",
+      "voiceTitle": "編成",
+      "voiceIndex": 17,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "SQUAD",
+      "voiceAsset": "char_4142_laios/CN_017"
+    },
+    "char_4142_laios_CN_018": {
+      "charWordId": "char_4142_laios_CN_018",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_018",
+      "voiceText": "わかった、任されたからには頑張るよ。",
+      "voiceTitle": "隊長任命",
+      "voiceIndex": 18,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "SQUAD_FIRST",
+      "voiceAsset": "char_4142_laios/CN_018"
+    },
+    "char_4142_laios_CN_019": {
+      "charWordId": "char_4142_laios_CN_019",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_019",
+      "voiceText": "うん、腹もいっぱいだし、大丈夫だろう。",
+      "voiceTitle": "作戦準備",
+      "voiceIndex": 19,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_START",
+      "voiceAsset": "char_4142_laios/CN_019"
+    },
+    "char_4142_laios_CN_020": {
+      "charWordId": "char_4142_laios_CN_020",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_020",
+      "voiceText": "うっ、ケン助が震えている……！",
+      "voiceTitle": "戦闘開始",
+      "voiceIndex": 20,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_FACE_ENEMY",
+      "voiceAsset": "char_4142_laios/CN_020"
+    },
+    "char_4142_laios_CN_021": {
+      "charWordId": "char_4142_laios_CN_021",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_021",
+      "voiceText": "ここの魔物はどんな姿をしてるんだろう？",
+      "voiceTitle": "選択時1",
+      "voiceIndex": 21,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SELECT",
+      "voiceAsset": "char_4142_laios/CN_021"
+    },
+    "char_4142_laios_CN_022": {
+      "charWordId": "char_4142_laios_CN_022",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_022",
+      "voiceText": "新種に会えるといいんだが。",
+      "voiceTitle": "選択時2",
+      "voiceIndex": 22,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SELECT",
+      "voiceAsset": "char_4142_laios/CN_022"
+    },
+    "char_4142_laios_CN_023": {
+      "charWordId": "char_4142_laios_CN_023",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_023",
+      "voiceText": "まずは肉食の魔物のフンがないかを確かめよう……",
+      "voiceTitle": "配置1",
+      "voiceIndex": 23,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_PLACE",
+      "voiceAsset": "char_4142_laios/CN_023"
+    },
+    "char_4142_laios_CN_024": {
+      "charWordId": "char_4142_laios_CN_024",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_024",
+      "voiceText": "この辺りの地形は、迷宮内とはまるで違うな……",
+      "voiceTitle": "配置2",
+      "voiceIndex": 24,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_PLACE",
+      "voiceAsset": "char_4142_laios/CN_024"
+    },
+    "char_4142_laios_CN_025": {
+      "charWordId": "char_4142_laios_CN_025",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_025",
+      "voiceText": "クエーーーッッ！",
+      "voiceTitle": "作戦中",
+      "voiceIndex": 25,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SKILL_1",
+      "voiceAsset": "char_4142_laios/CN_025"
+    },
+    "char_4142_laios_CN_029": {
+      "charWordId": "char_4142_laios_CN_029",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_029",
+      "voiceText": "おおっ、今日の収穫は後で必ず記録しておかないと。テラの魔物は本当に多種多様だな……！",
+      "voiceTitle": "高難度作戦クリア",
+      "voiceIndex": 29,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "FOUR_STAR",
+      "voiceAsset": "char_4142_laios/CN_029"
+    },
+    "char_4142_laios_CN_030": {
+      "charWordId": "char_4142_laios_CN_030",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_030",
+      "voiceText": "センシ、あの魔物、食べられるかな？",
+      "voiceTitle": "★3で戦闘終了",
+      "voiceIndex": 30,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "THREE_STAR",
+      "voiceAsset": "char_4142_laios/CN_030"
+    },
+    "char_4142_laios_CN_031": {
+      "charWordId": "char_4142_laios_CN_031",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_031",
+      "voiceText": "そう落ち込むな、ドクター。次はきっとうまくいくよ。",
+      "voiceTitle": "★2以下戦闘終了",
+      "voiceIndex": 31,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "TWO_STAR",
+      "voiceAsset": "char_4142_laios/CN_031"
+    },
+    "char_4142_laios_CN_032": {
+      "charWordId": "char_4142_laios_CN_032",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_032",
+      "voiceText": "空腹で戦いに挑めば、全滅の危険もある……",
+      "voiceTitle": "作戦失敗",
+      "voiceIndex": 32,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "LOSE",
+      "voiceAsset": "char_4142_laios/CN_032"
+    },
+    "char_4142_laios_CN_033": {
+      "charWordId": "char_4142_laios_CN_033",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_033",
+      "voiceText": "よし、チルチャックにここの地図を作ってもらおう！",
+      "voiceTitle": "基地配属",
+      "voiceIndex": 33,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BUILDING_PLACE",
+      "voiceAsset": "char_4142_laios/CN_033"
+    },
+    "char_4142_laios_CN_034": {
+      "charWordId": "char_4142_laios_CN_034",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_034",
+      "voiceText": "……ケン助？",
+      "voiceTitle": "タッチ1",
+      "voiceIndex": 34,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BUILDING_TOUCHING",
+      "voiceAsset": "char_4142_laios/CN_034"
+    },
+    "char_4142_laios_CN_036": {
+      "charWordId": "char_4142_laios_CN_036",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_036",
+      "voiceText": "小さなハガネガニって、ひっくり返ったら自力では起き上がれないのか。面白いなあ。",
+      "voiceTitle": "信頼タッチ",
+      "voiceIndex": 36,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BUILDING_FAVOR_BUBBLE",
+      "voiceAsset": "char_4142_laios/CN_036"
+    },
+    "char_4142_laios_CN_037": {
+      "charWordId": "char_4142_laios_CN_037",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_037",
+      "voiceText": "アークナイツ。",
+      "voiceTitle": "タイトルコール",
+      "voiceIndex": 37,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "LOADING_PANEL",
+      "voiceAsset": "char_4142_laios/CN_037"
+    },
+    "char_4142_laios_CN_038": {
+      "charWordId": "char_4142_laios_CN_038",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_038",
+      "voiceText": "さっき写真を撮った時、マルシルが隣にファリンのスペースを空けておいてくれたんだ。それで俺は、ファリンへのお土産を何にしようか考えてるんだが……このハリノミミートソースの瓶詰なんてどうだろう？えっ、ダメか？せっかく異世界の魔物で作ったものなのに。",
+      "voiceTitle": "新年",
+      "voiceIndex": 38,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "NEW_YEAR",
+      "voiceAsset": "char_4142_laios/CN_038"
+    },
+    "char_4142_laios_CN_042": {
+      "charWordId": "char_4142_laios_CN_042",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_042",
+      "voiceText": "口の周りが光ってるって……？ああ、さっき蛍殻オリジムシのグミを食べたからだろう。",
+      "voiceTitle": "挨拶",
+      "voiceIndex": 42,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "GREETING",
+      "voiceAsset": "char_4142_laios/CN_042"
+    },
+    "char_4142_laios_CN_044": {
+      "charWordId": "char_4142_laios_CN_044",
+      "wordKey": "char_4142_laios",
+      "charId": "char_4142_laios",
+      "voiceId": "CN_044",
+      "voiceText": "狂乱の魔術師を倒せば、迷宮のすべてが手に入ると言われている。以前迷宮の深層まで行った時には、自分がそこを目指す理由も、何を得たいと思っているかも考えたことはなかったんだ。でも、君たちと知り合ってわかったよ。目標のある人生というのは、こういうものなのだと。",
+      "voiceTitle": "周年",
+      "voiceIndex": 44,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "ANNIVERSARY",
+      "voiceAsset": "char_4142_laios/CN_044"
+    },
+    "char_4141_marcil_CN_001": {
+      "charWordId": "char_4141_marcil_CN_001",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_001",
+      "voiceText": "魔術学校で研究していたことと大体似てるかな。ここの魔術道具の使い方は全部憶えたから、安心して私に任せて！……源石式の懐中電灯を爆発させた人がいたって？こほんっ、それは私じゃないから！",
+      "voiceTitle": "秘書任命",
+      "voiceIndex": 1,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_PLACE",
+      "voiceAsset": "char_4141_marcil/CN_001"
+    },
+    "char_4141_marcil_CN_002": {
+      "charWordId": "char_4141_marcil_CN_002",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_002",
+      "voiceText": "砂虫の缶詰？レモンドクダミの正午茶？それに干し恐魚まで？……無理――！いやいや、絶対無理！私は絶っ対、食べないからね！",
+      "voiceTitle": "会話1",
+      "voiceIndex": 2,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4141_marcil/CN_002"
+    },
+    "char_4141_marcil_CN_003": {
+      "charWordId": "char_4141_marcil_CN_003",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_003",
+      "voiceText": "はい、回復魔法と治療系アーツの比較まとめ、出来上がったよ。え？こんなに早く終わると思ってなかった？ふふん、学校で新しい治療術を開発してた頃も、毎日このくらいの資料に目を通してたからね。またこういう仕事があったら、次も任せて！",
+      "voiceTitle": "会話2",
+      "voiceIndex": 3,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4141_marcil/CN_003"
+    },
+    "char_4141_marcil_CN_004": {
+      "charWordId": "char_4141_marcil_CN_004",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_004",
+      "voiceText": "「第七夜に覚醒（めざ）めし魔王」で、「東夜の魔王」？そんな伝説の人が、本当にここにいるの？鮮血と暗黒の盛宴（フィースト）の中で目覚めた彼の真紅の瞳を月光が照らし、その周囲には無数の……って、あれ？あそこで耳をつままれて連行されてる男の人、誰？",
+      "voiceTitle": "会話3",
+      "voiceIndex": 4,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4141_marcil/CN_004"
+    },
+    "char_4141_marcil_CN_005": {
+      "charWordId": "char_4141_marcil_CN_005",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_005",
+      "voiceText": "んー、この野菜すっごく新鮮！ここの装置を使えば、土もないのに水だけで、本当に野菜が育てられるんだね。迷宮にもこれがあればいいのに！……動かすのに電気が必要って？こんな野菜が食べられるなら、発電機でもなんでも漕ぐよ！",
+      "voiceTitle": "昇進後会話1",
+      "voiceIndex": 5,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 1
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4141_marcil/CN_005"
+    },
+    "char_4141_marcil_CN_006": {
+      "charWordId": "char_4141_marcil_CN_006",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_006",
+      "voiceText": "使い魔召喚は、確かに慎重に扱わなきゃいけない術だけど……入院中の子供達にとっては滅多に見られない光景だと思うから。せめて小さな遊び相手を作ってあげたかったの。ほら見て、すっごく気に入ってくれたみたい。",
+      "voiceTitle": "昇進後会話2",
+      "voiceIndex": 6,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 2
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4141_marcil/CN_006"
+    },
+    "char_4141_marcil_CN_007": {
+      "charWordId": "char_4141_marcil_CN_007",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_007",
+      "voiceText": "……さっき、またライオスが見たこともない魔物を食べてるとこを見たんだけど。ライオスの半分くらいの大きさで、全身トゲだらけの、毒を吐くやつ。ねえドクター、食中毒ってどのくらいで症状が出るのかな？ううん、やっぱりいい。医療部で聞いてくるから……",
+      "voiceTitle": "信頼上昇後会話1",
+      "voiceIndex": 7,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 40
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4141_marcil/CN_007"
+    },
+    "char_4141_marcil_CN_008": {
+      "charWordId": "char_4141_marcil_CN_008",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_008",
+      "voiceText": "これは藁で作ったバッタ。こっちで手芸を教えてもらった時に作ったから、持って帰ってファリンにあげるつもり。昔あの子と初めて一緒に遊んだ時、ファリンは、本当の迷宮に連れて行ってくれて。その途中でバッタを捕まえてたりもしてたんだ。そのあとは、ダンジョンの中で並んで木苺を食べたりもして……それが、あの子と友達になった日の思い出。私、ずっと覚えてるんだ。",
+      "voiceTitle": "信頼上昇後会話2",
+      "voiceIndex": 8,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 100
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4141_marcil/CN_008"
+    },
+    "char_4141_marcil_CN_009": {
+      "charWordId": "char_4141_marcil_CN_009",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_009",
+      "voiceText": "ドクター、あのカメラっていう道具の使い方を教えてくれる？ライオスたちも呼んで、みんなで一緒に写真を撮りたくて。いつか向こうに戻ったら、その写真をファリンに見せて、あなたたちのことを紹介したいの。ええと、使い方は……これで合ってる？じゃあライオス、もっと寄って！いくよ、3、2、1――笑って～。",
+      "voiceTitle": "信頼上昇後会話3",
+      "voiceIndex": 9,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 200
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4141_marcil/CN_009"
+    },
+    "char_4141_marcil_CN_010": {
+      "charWordId": "char_4141_marcil_CN_010",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_010",
+      "voiceText": "……私の寝袋、まだ地下五階にあるのかな……あの高かった石鹸も……すぅ……すぅ……",
+      "voiceTitle": "放置",
+      "voiceIndex": 10,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_WAIT",
+      "voiceAsset": "char_4141_marcil/CN_010"
+    },
+    "char_4141_marcil_CN_011": {
+      "charWordId": "char_4141_marcil_CN_011",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_011",
+      "voiceText": "向こうに帰る方法を一緒に探してくれるんだよね、ありがとう！それでその、私の仲間たちってみんな根はいい人だから、変なことをやらかしちゃっても、えっと、大目に見てもらえると嬉しいな……",
+      "voiceTitle": "入職会話",
+      "voiceIndex": 11,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "GACHA",
+      "voiceAsset": "char_4141_marcil/CN_011"
+    },
+    "char_4141_marcil_CN_012": {
+      "charWordId": "char_4141_marcil_CN_012",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_012",
+      "voiceText": "これってまさか、過去に起きたことを再現する魔法？そんなものを、こんなにたくさん使えるの？原理はどうなってるんだろ。よかったら、やり方を教えてくれない？",
+      "voiceTitle": "経験値上昇",
+      "voiceIndex": 12,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "LEVEL_UP",
+      "voiceAsset": "char_4141_marcil/CN_012"
+    },
+    "char_4141_marcil_CN_013": {
+      "charWordId": "char_4141_marcil_CN_013",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_013",
+      "voiceText": "つまり、前より権限が上がったから、あの上級アーツの理論書も読めるようになったってことだよね？ありがとう！",
+      "voiceTitle": "昇進Ⅰ",
+      "voiceIndex": 13,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 1
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "EVOLVE_ONE",
+      "voiceAsset": "char_4141_marcil/CN_013"
+    },
+    "char_4141_marcil_CN_014": {
+      "charWordId": "char_4141_marcil_CN_014",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_014",
+      "voiceText": "これまで起きたことは、いい土産話になりそう。ファリンに話したらきっと喜んで聞いてくれると思う……だから絶対、向こうに戻って助け出さないと！",
+      "voiceTitle": "昇進Ⅱ",
+      "voiceIndex": 14,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 2
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "EVOLVE_TWO",
+      "voiceAsset": "char_4141_marcil/CN_014"
+    },
+    "char_4141_marcil_CN_017": {
+      "charWordId": "char_4141_marcil_CN_017",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_017",
+      "voiceText": "魔術書に杖、それから杖の修理道具も……うん、準備万端！いつでも出発できるよ。",
+      "voiceTitle": "編成",
+      "voiceIndex": 17,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "SQUAD",
+      "voiceAsset": "char_4141_marcil/CN_017"
+    },
+    "char_4141_marcil_CN_018": {
+      "charWordId": "char_4141_marcil_CN_018",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_018",
+      "voiceText": "私がリーダー？ライオスじゃなくて？",
+      "voiceTitle": "隊長任命",
+      "voiceIndex": 18,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "SQUAD_FIRST",
+      "voiceAsset": "char_4141_marcil/CN_018"
+    },
+    "char_4141_marcil_CN_019": {
+      "charWordId": "char_4141_marcil_CN_019",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_019",
+      "voiceText": "行こう。作戦計画さえあれば、ちゃんと実行できるから。",
+      "voiceTitle": "作戦準備",
+      "voiceIndex": 19,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_START",
+      "voiceAsset": "char_4141_marcil/CN_019"
+    },
+    "char_4141_marcil_CN_020": {
+      "charWordId": "char_4141_marcil_CN_020",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_020",
+      "voiceText": "安心して。お腹いっぱい食べたばかりだし、魔力は十分余裕があるよ。",
+      "voiceTitle": "戦闘開始",
+      "voiceIndex": 20,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_FACE_ENEMY",
+      "voiceAsset": "char_4141_marcil/CN_020"
+    },
+    "char_4141_marcil_CN_021": {
+      "charWordId": "char_4141_marcil_CN_021",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_021",
+      "voiceText": "大丈夫、私に任せて！",
+      "voiceTitle": "選択時1",
+      "voiceIndex": 21,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SELECT",
+      "voiceAsset": "char_4141_marcil/CN_021"
+    },
+    "char_4141_marcil_CN_022": {
+      "charWordId": "char_4141_marcil_CN_022",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_022",
+      "voiceText": "先に魔法陣を準備しといたほうがいいかな？",
+      "voiceTitle": "選択時2",
+      "voiceIndex": 22,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SELECT",
+      "voiceAsset": "char_4141_marcil/CN_022"
+    },
+    "char_4141_marcil_CN_023": {
+      "charWordId": "char_4141_marcil_CN_023",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_023",
+      "voiceText": "見たことない魔物がたくさん……",
+      "voiceTitle": "配置1",
+      "voiceIndex": 23,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_PLACE",
+      "voiceAsset": "char_4141_marcil/CN_023"
+    },
+    "char_4141_marcil_CN_024": {
+      "charWordId": "char_4141_marcil_CN_024",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_024",
+      "voiceText": "狙いはあれだよね？",
+      "voiceTitle": "配置2",
+      "voiceIndex": 24,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_PLACE",
+      "voiceAsset": "char_4141_marcil/CN_024"
+    },
+    "char_4141_marcil_CN_025": {
+      "charWordId": "char_4141_marcil_CN_025",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_025",
+      "voiceText": "前回使い魔を使った時から、ずっと腕がだるいんだよね……",
+      "voiceTitle": "作戦中1",
+      "voiceIndex": 25,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SKILL_1",
+      "voiceAsset": "char_4141_marcil/CN_025"
+    },
+    "char_4141_marcil_CN_026": {
+      "charWordId": "char_4141_marcil_CN_026",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_026",
+      "voiceText": "下がって！私がやる！まとめて片付けてあげるから！",
+      "voiceTitle": "作戦中2",
+      "voiceIndex": 26,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SKILL_2",
+      "voiceAsset": "char_4141_marcil/CN_026"
+    },
+    "char_4141_marcil_CN_027": {
+      "charWordId": "char_4141_marcil_CN_027",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_027",
+      "voiceText": "魔力切れを起こすと危ないから、戦略は慎重に考えて。",
+      "voiceTitle": "作戦中3",
+      "voiceIndex": 27,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SKILL_3",
+      "voiceAsset": "char_4141_marcil/CN_027"
+    },
+    "char_4141_marcil_CN_028": {
+      "charWordId": "char_4141_marcil_CN_028",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_028",
+      "voiceText": "いた、魔物……！狙いを定めて……！",
+      "voiceTitle": "作戦中4",
+      "voiceIndex": 28,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SKILL_4",
+      "voiceAsset": "char_4141_marcil/CN_028"
+    },
+    "char_4141_marcil_CN_029": {
+      "charWordId": "char_4141_marcil_CN_029",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_029",
+      "voiceText": "ふっふーん！私がいて良かったでしょ？",
+      "voiceTitle": "高難度作戦クリア",
+      "voiceIndex": 29,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "FOUR_STAR",
+      "voiceAsset": "char_4141_marcil/CN_029"
+    },
+    "char_4141_marcil_CN_030": {
+      "charWordId": "char_4141_marcil_CN_030",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_030",
+      "voiceText": "ロドスには普通の食事がちゃんとあるのに、ライオスもセンシもどうして魔物を料理しようとするわけ！？",
+      "voiceTitle": "★3で戦闘終了",
+      "voiceIndex": 30,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "THREE_STAR",
+      "voiceAsset": "char_4141_marcil/CN_030"
+    },
+    "char_4141_marcil_CN_031": {
+      "charWordId": "char_4141_marcil_CN_031",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_031",
+      "voiceText": "ああよかった、もうちょっとでこっちが魔物のご飯になるとこだった……",
+      "voiceTitle": "★2以下戦闘終了",
+      "voiceIndex": 31,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "TWO_STAR",
+      "voiceAsset": "char_4141_marcil/CN_031"
+    },
+    "char_4141_marcil_CN_032": {
+      "charWordId": "char_4141_marcil_CN_032",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_032",
+      "voiceText": "ぎゃあああっ！逃げなきゃ、早く！！",
+      "voiceTitle": "作戦失敗",
+      "voiceIndex": 32,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "LOSE",
+      "voiceAsset": "char_4141_marcil/CN_032"
+    },
+    "char_4141_marcil_CN_033": {
+      "charWordId": "char_4141_marcil_CN_033",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_033",
+      "voiceText": "ここってほんと迷宮みたいだよね……",
+      "voiceTitle": "基地配属",
+      "voiceIndex": 33,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BUILDING_PLACE",
+      "voiceAsset": "char_4141_marcil/CN_033"
+    },
+    "char_4141_marcil_CN_034": {
+      "charWordId": "char_4141_marcil_CN_034",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_034",
+      "voiceText": "わあっ！？……びっくりした、人喰い植物かと思ったじゃん！",
+      "voiceTitle": "タッチ1",
+      "voiceIndex": 34,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BUILDING_TOUCHING",
+      "voiceAsset": "char_4141_marcil/CN_034"
+    },
+    "char_4141_marcil_CN_036": {
+      "charWordId": "char_4141_marcil_CN_036",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_036",
+      "voiceText": "あなたも図書館に行くところ？いいよ、一緒に行こ！",
+      "voiceTitle": "信頼タッチ",
+      "voiceIndex": 36,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BUILDING_FAVOR_BUBBLE",
+      "voiceAsset": "char_4141_marcil/CN_036"
+    },
+    "char_4141_marcil_CN_037": {
+      "charWordId": "char_4141_marcil_CN_037",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_037",
+      "voiceText": "アークナイツ。",
+      "voiceTitle": "タイトルコール",
+      "voiceIndex": 37,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "LOADING_PANEL",
+      "voiceAsset": "char_4141_marcil/CN_037"
+    },
+    "char_4141_marcil_CN_038": {
+      "charWordId": "char_4141_marcil_CN_038",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_038",
+      "voiceText": "まさかこんなに長くロドスにいることになるなんてね。とりあえず、前に教えてもらったカメラの使い方はもうバッチリだし、今日も一枚写真を撮ろうよ！もちろん新しくできた友達も一緒に、みんなで記念になるやつをね。ファリンもきっと、私たちの思い出話を喜んで聞いてくれるはずだから！",
+      "voiceTitle": "新年",
+      "voiceIndex": 38,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "NEW_YEAR",
+      "voiceAsset": "char_4141_marcil/CN_038"
+    },
+    "char_4141_marcil_CN_042": {
+      "charWordId": "char_4141_marcil_CN_042",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_042",
+      "voiceText": "ドクター、昨日はよく眠れた？もしも夢見が悪いようなら、枕の中に夢魔（ナイトメア）がいないか確かめてみて――私たち、迷宮ではそうしてたから。",
+      "voiceTitle": "挨拶",
+      "voiceIndex": 42,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "GREETING",
+      "voiceAsset": "char_4141_marcil/CN_042"
+    },
+    "char_4141_marcil_CN_044": {
+      "charWordId": "char_4141_marcil_CN_044",
+      "wordKey": "char_4141_marcil",
+      "charId": "char_4141_marcil",
+      "voiceId": "CN_044",
+      "voiceText": "私、魔術学校では病気や怪我の要因に関する研究に携わってたし、治療術の開発なんかも担当してたんだ。だから、難病と闘う難しさはよくわかってる。ドクター、私の助けが必要なら、できる限り力を貸すからね。",
+      "voiceTitle": "周年",
+      "voiceIndex": 44,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "ANNIVERSARY",
+      "voiceAsset": "char_4141_marcil/CN_044"
+    },
+    "char_4144_chilc_CN_001": {
+      "charWordId": "char_4144_chilc_CN_001",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_001",
+      "voiceText": "んー……わかった。この書類は任せとけ。は？偉いね、だぁ？子ども扱いするんじゃねーよ！",
+      "voiceTitle": "秘書任命",
+      "voiceIndex": 1,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_PLACE",
+      "voiceAsset": "char_4144_chilc/CN_001"
+    },
+    "char_4144_chilc_CN_002": {
+      "charWordId": "char_4144_chilc_CN_002",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_002",
+      "voiceText": "チッ……そんな気はしてたが、身体検査の結果を聞かされた時はさすがに衝撃だったね。しばらくは、センシやライオスと仕事に行くのを避けないとな。このままあいつらに付き合ってたら、まずいことになるぞ。",
+      "voiceTitle": "会話1",
+      "voiceIndex": 2,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4144_chilc/CN_002"
+    },
+    "char_4144_chilc_CN_003": {
+      "charWordId": "char_4144_chilc_CN_003",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_003",
+      "voiceText": "「そんなもん食うのか！」とか思ってんだろ？お前の表情見りゃわかるよ。俺も初めはいちいち驚いたりしたもんだが、だんだん慣れてきちまった……。あいつらとの付き合いが長くなればお前もそうなるかもな。いや、もちろん慣れなくたっていいんだが。",
+      "voiceTitle": "会話2",
+      "voiceIndex": 3,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4144_chilc/CN_003"
+    },
+    "char_4144_chilc_CN_004": {
+      "charWordId": "char_4144_chilc_CN_004",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_004",
+      "voiceText": "はぁ、ライオスとセンシのせいで、今じゃ俺まで魔物趣味の変人だと思われてんだよな……ドクター、何持ってんだ？センシの最新作？力作だって？なんで嬉しそうにしてんだよ、まさかお前もそっち側じゃねーだろうな？",
+      "voiceTitle": "会話3",
+      "voiceIndex": 4,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4144_chilc/CN_004"
+    },
+    "char_4144_chilc_CN_005": {
+      "charWordId": "char_4144_chilc_CN_005",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_005",
+      "voiceText": "なんとなくわかってきたんだが、若く見えるドゥリン人ってのは実際歳いってないらしいな。特にあのテンニンカなんて、まるっきり子供だろ。そのくせ、前に少し話したら、俺のことをサバ読んだ同年代だと勘違いしやがって――おい、笑うなって！",
+      "voiceTitle": "昇進後会話1",
+      "voiceIndex": 5,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 1
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4144_chilc/CN_005"
+    },
+    "char_4144_chilc_CN_006": {
+      "charWordId": "char_4144_chilc_CN_006",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_006",
+      "voiceText": "テラのミミックは迷宮のよりずっとわかりやすいな、ドクター。ほら、こうやって餌でおびき寄せりゃすぐわかる。釣られて近づいてきたら――よっと！おし、これで……チッ、もう一匹いやがった！",
+      "voiceTitle": "昇進後会話2",
+      "voiceIndex": 6,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 2
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4144_chilc/CN_006"
+    },
+    "char_4144_chilc_CN_007": {
+      "charWordId": "char_4144_chilc_CN_007",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_007",
+      "voiceText": "俺も向こうじゃ組合を仕切っててさ。毎日色んな場所を駆けずり回らなきゃならなかったし、周囲の理解を得られないことだってあった。お前はこんなでっかいロドスを仕切ってるわけだし、たまには息抜きが必要だろ。ってわけで、飲みに行かないか？どうせやるべきことからは逃げられないんだし、今のうちにリラックスしとこうぜ。",
+      "voiceTitle": "信頼上昇後会話1",
+      "voiceIndex": 7,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 40
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4144_chilc/CN_007"
+    },
+    "char_4144_chilc_CN_008": {
+      "charWordId": "char_4144_chilc_CN_008",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_008",
+      "voiceText": "ライオスたちは必死にやれば絶対報われると思ってるみたいだが、ほんとバカだよな。世の中そう簡単に行くかっての。ドクター、お前みたいに賢い奴ならわかるだろ？……は？別にあいつらの心配してるわけじゃねーよ！",
+      "voiceTitle": "信頼上昇後会話2",
+      "voiceIndex": 8,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 100
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4144_chilc/CN_008"
+    },
+    "char_4144_chilc_CN_009": {
+      "charWordId": "char_4144_chilc_CN_009",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_009",
+      "voiceText": "迷宮で冒険してみたい、だぁ？お前の腕じゃ命がいくつあったって足んねえぞ。仕方ないな。そんなに行きたいなら、迷宮内のルート取りと行動については俺に従えよ。これでも専門家だからな。そのほかのことについては、お前とライオスの判断に任せるよ。",
+      "voiceTitle": "信頼上昇後会話3",
+      "voiceIndex": 9,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 200
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4144_chilc/CN_009"
+    },
+    "char_4144_chilc_CN_010": {
+      "charWordId": "char_4144_chilc_CN_010",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_010",
+      "voiceText": "健康的な食生活がどうこう言うのはセンシの口癖なんだ。俺はとっくに聞き飽きてるが、お前はもっと口うるさく言われとくべきかもな。",
+      "voiceTitle": "放置",
+      "voiceIndex": 10,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_WAIT",
+      "voiceAsset": "char_4144_chilc/CN_010"
+    },
+    "char_4144_chilc_CN_011": {
+      "charWordId": "char_4144_chilc_CN_011",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_011",
+      "voiceText": "契約書は見せてもらったよ。内容はちゃんとしてるし、待遇だって悪くない。前払いでなら喜んで協力してやろう。悪く思うなよ、こういうのは先にはっきりさせといたほうがお互いのためだからな。そうだろ？",
+      "voiceTitle": "入職会話",
+      "voiceIndex": 11,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "GACHA",
+      "voiceAsset": "char_4144_chilc/CN_011"
+    },
+    "char_4144_chilc_CN_012": {
+      "charWordId": "char_4144_chilc_CN_012",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_012",
+      "voiceText": "まさか俺を戦わせるつもりじゃないよな？",
+      "voiceTitle": "経験値上昇",
+      "voiceIndex": 12,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "LEVEL_UP",
+      "voiceAsset": "char_4144_chilc/CN_012"
+    },
+    "char_4144_chilc_CN_013": {
+      "charWordId": "char_4144_chilc_CN_013",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_013",
+      "voiceText": "ありがとう。受け取った報酬分はきっちり働かせてもらうぜ。",
+      "voiceTitle": "昇進Ⅰ",
+      "voiceIndex": 13,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 1
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "EVOLVE_ONE",
+      "voiceAsset": "char_4144_chilc/CN_013"
+    },
+    "char_4144_chilc_CN_014": {
+      "charWordId": "char_4144_chilc_CN_014",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_014",
+      "voiceText": "テラってのは迷宮と同じくらい危ない場所だよな。そのうえ、ここにもあのクソったれのミミックがいやがるし……ドクター、怪しい宝箱を見かけた時はほいほい腰かけたりせずに、こっちに処理を任せろよ。いいな？",
+      "voiceTitle": "昇進Ⅱ",
+      "voiceIndex": 14,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 2
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "EVOLVE_TWO",
+      "voiceAsset": "char_4144_chilc/CN_014"
+    },
+    "char_4144_chilc_CN_017": {
+      "charWordId": "char_4144_chilc_CN_017",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_017",
+      "voiceText": "先に言っとくが、俺は偵察するだけだからな。戦いまでは期待するなよ。",
+      "voiceTitle": "編成",
+      "voiceIndex": 17,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "SQUAD",
+      "voiceAsset": "char_4144_chilc/CN_017"
+    },
+    "char_4144_chilc_CN_018": {
+      "charWordId": "char_4144_chilc_CN_018",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_018",
+      "voiceText": "得意分野じゃないが、やれるだけやってみるよ。",
+      "voiceTitle": "隊長任命",
+      "voiceIndex": 18,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "SQUAD_FIRST",
+      "voiceAsset": "char_4144_chilc/CN_018"
+    },
+    "char_4144_chilc_CN_019": {
+      "charWordId": "char_4144_chilc_CN_019",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_019",
+      "voiceText": "ルートは決まった。行くぞ。",
+      "voiceTitle": "作戦準備",
+      "voiceIndex": 19,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_START",
+      "voiceAsset": "char_4144_chilc/CN_019"
+    },
+    "char_4144_chilc_CN_020": {
+      "charWordId": "char_4144_chilc_CN_020",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_020",
+      "voiceText": "足音が聞こえた。",
+      "voiceTitle": "戦闘開始",
+      "voiceIndex": 20,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_FACE_ENEMY",
+      "voiceAsset": "char_4144_chilc/CN_020"
+    },
+    "char_4144_chilc_CN_021": {
+      "charWordId": "char_4144_chilc_CN_021",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_021",
+      "voiceText": "鍵でも開けてほしいのか？",
+      "voiceTitle": "選択時1",
+      "voiceIndex": 21,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SELECT",
+      "voiceAsset": "char_4144_chilc/CN_021"
+    },
+    "char_4144_chilc_CN_022": {
+      "charWordId": "char_4144_chilc_CN_022",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_022",
+      "voiceText": "偵察してきた。罠はない。",
+      "voiceTitle": "選択時2",
+      "voiceIndex": 22,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SELECT",
+      "voiceAsset": "char_4144_chilc/CN_022"
+    },
+    "char_4144_chilc_CN_023": {
+      "charWordId": "char_4144_chilc_CN_023",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_023",
+      "voiceText": "おい、敵多すぎだろ！",
+      "voiceTitle": "配置1",
+      "voiceIndex": 23,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_PLACE",
+      "voiceAsset": "char_4144_chilc/CN_023"
+    },
+    "char_4144_chilc_CN_024": {
+      "charWordId": "char_4144_chilc_CN_024",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_024",
+      "voiceText": "何かの間違いだよな、ドクター！？",
+      "voiceTitle": "配置2",
+      "voiceIndex": 24,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_PLACE",
+      "voiceAsset": "char_4144_chilc/CN_024"
+    },
+    "char_4144_chilc_CN_025": {
+      "charWordId": "char_4144_chilc_CN_025",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_025",
+      "voiceText": "俺のせいにすんじゃねえぞ！",
+      "voiceTitle": "作戦中1",
+      "voiceIndex": 25,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SKILL_1",
+      "voiceAsset": "char_4144_chilc/CN_025"
+    },
+    "char_4144_chilc_CN_026": {
+      "charWordId": "char_4144_chilc_CN_026",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_026",
+      "voiceText": "大した打撃は与えられねえからな！期待すんなよ！",
+      "voiceTitle": "作戦中2",
+      "voiceIndex": 26,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SKILL_2",
+      "voiceAsset": "char_4144_chilc/CN_026"
+    },
+    "char_4144_chilc_CN_027": {
+      "charWordId": "char_4144_chilc_CN_027",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_027",
+      "voiceText": "早く援護してくれ！",
+      "voiceTitle": "作戦中3",
+      "voiceIndex": 27,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SKILL_3",
+      "voiceAsset": "char_4144_chilc/CN_027"
+    },
+    "char_4144_chilc_CN_028": {
+      "charWordId": "char_4144_chilc_CN_028",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_028",
+      "voiceText": "いつになったら終わるんだよ！",
+      "voiceTitle": "作戦中4",
+      "voiceIndex": 28,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SKILL_4",
+      "voiceAsset": "char_4144_chilc/CN_028"
+    },
+    "char_4144_chilc_CN_029": {
+      "charWordId": "char_4144_chilc_CN_029",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_029",
+      "voiceText": "次こういう任務がある時は先に言ってくれよ、ドクター。絶対参加しねえから。",
+      "voiceTitle": "高難度作戦クリア",
+      "voiceIndex": 29,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "FOUR_STAR",
+      "voiceAsset": "char_4144_chilc/CN_029"
+    },
+    "char_4144_chilc_CN_030": {
+      "charWordId": "char_4144_chilc_CN_030",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_030",
+      "voiceText": "無事に終わったな。小腹も空いたし、こういう時こそ何か食べ……チッ、あいつらのがうつっちまったな。",
+      "voiceTitle": "★3で戦闘終了",
+      "voiceIndex": 30,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "THREE_STAR",
+      "voiceAsset": "char_4144_chilc/CN_030"
+    },
+    "char_4144_chilc_CN_031": {
+      "charWordId": "char_4144_chilc_CN_031",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_031",
+      "voiceText": "お前らは先に休んでろ、俺が警戒しておくから。安心しろ、近付いてくる奴がいたら俺がすぐに気付く。",
+      "voiceTitle": "★2以下戦闘終了",
+      "voiceIndex": 31,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "TWO_STAR",
+      "voiceAsset": "char_4144_chilc/CN_031"
+    },
+    "char_4144_chilc_CN_032": {
+      "charWordId": "char_4144_chilc_CN_032",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_032",
+      "voiceText": "撤退ルートを事前に確認しといてよかったな……こっちだ、ついてこい！",
+      "voiceTitle": "作戦失敗",
+      "voiceIndex": 32,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "LOSE",
+      "voiceAsset": "char_4144_chilc/CN_032"
+    },
+    "char_4144_chilc_CN_033": {
+      "charWordId": "char_4144_chilc_CN_033",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_033",
+      "voiceText": "ロドスの地図、作っておくか。",
+      "voiceTitle": "基地配属",
+      "voiceIndex": 33,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BUILDING_PLACE",
+      "voiceAsset": "char_4144_chilc/CN_033"
+    },
+    "char_4144_chilc_CN_034": {
+      "charWordId": "char_4144_chilc_CN_034",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_034",
+      "voiceText": "おいっ！",
+      "voiceTitle": "タッチ1",
+      "voiceIndex": 34,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BUILDING_TOUCHING",
+      "voiceAsset": "char_4144_chilc/CN_034"
+    },
+    "char_4144_chilc_CN_036": {
+      "charWordId": "char_4144_chilc_CN_036",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_036",
+      "voiceText": "ドクター、一杯どうだ？",
+      "voiceTitle": "信頼タッチ",
+      "voiceIndex": 36,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BUILDING_FAVOR_BUBBLE",
+      "voiceAsset": "char_4144_chilc/CN_036"
+    },
+    "char_4144_chilc_CN_037": {
+      "charWordId": "char_4144_chilc_CN_037",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_037",
+      "voiceText": "アークナイツ。",
+      "voiceTitle": "タイトルコール",
+      "voiceIndex": 37,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "LOADING_PANEL",
+      "voiceAsset": "char_4144_chilc/CN_037"
+    },
+    "char_4144_chilc_CN_038": {
+      "charWordId": "char_4144_chilc_CN_038",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_038",
+      "voiceText": "パーティー？やめとくよ。今日は珍しく先約があってさ。なんでも、ドゥリンの連中が良い酒を手に入れたんだと。ま、一杯飲みたきゃ俺たちのところに顔出してもいいぜ。っとそうだ、今年もよろしくな。",
+      "voiceTitle": "新年",
+      "voiceIndex": 38,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "NEW_YEAR",
+      "voiceAsset": "char_4144_chilc/CN_038"
+    },
+    "char_4144_chilc_CN_042": {
+      "charWordId": "char_4144_chilc_CN_042",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_042",
+      "voiceText": "わざわざ俺の顔見に来たわけじゃないよな？ドクター。",
+      "voiceTitle": "挨拶",
+      "voiceIndex": 42,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "GREETING",
+      "voiceAsset": "char_4144_chilc/CN_042"
+    },
+    "char_4144_chilc_CN_044": {
+      "charWordId": "char_4144_chilc_CN_044",
+      "wordKey": "char_4144_chilc",
+      "charId": "char_4144_chilc",
+      "voiceId": "CN_044",
+      "voiceText": "正直、最初はお前らのことは疑ってた。見返りもなく他人を助けようなんて抜かす奴らは、その裏で人に言えないようなことやってんのが相場だからな。今？ま、少なくともそういうお人よしが実在する可能性くらいは信じ始めたよ……",
+      "voiceTitle": "周年",
+      "voiceIndex": 44,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "ANNIVERSARY",
+      "voiceAsset": "char_4144_chilc/CN_044"
+    },
+    "char_4143_sensi_CN_001": {
+      "charWordId": "char_4143_sensi_CN_001",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_001",
+      "voiceText": "……お前の仕事のことはよくわからんが、食べたいものがあれば作ってやろう。オムライスか、野菜スープか、それとも炭火焼肉か？",
+      "voiceTitle": "秘書任命",
+      "voiceIndex": 1,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_PLACE",
+      "voiceAsset": "char_4143_sensi/CN_001"
+    },
+    "char_4143_sensi_CN_002": {
+      "charWordId": "char_4143_sensi_CN_002",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_002",
+      "voiceText": "落ち着いて深呼吸しろ、スカイフレア！それ以上体温が上がれば、揚げ物が焦げてしまうぞ！おお、グムよ、お前の作ったクッキーは素晴らしいな――ところで、ゴールデングロー。お前の作るポップコーンは、なぜそうも髪の毛にくっつくのだ？ウーム、解決法を考えてみよう。しばし時間をくれ……",
+      "voiceTitle": "会話1",
+      "voiceIndex": 2,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4143_sensi/CN_002"
+    },
+    "char_4143_sensi_CN_003": {
+      "charWordId": "char_4143_sensi_CN_003",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_003",
+      "voiceText": "ぶわっくしょん！……実はハガネガニを飼育している温室を見に行こうとしたのだが、そこでマルシルとパフューマーがわしのヒゲの匂いについて熱心に話し合っているのを聞いてしまってな。よからぬ気配を感じてその場を離れようとしたところで、マルシルに見つかり引き戻されて、妙なものをヒゲに吹きかけられてしまった……その香りのせいでタマネギの匂いもわからん始末だ！ぶわっくしょん！",
+      "voiceTitle": "会話2",
+      "voiceIndex": 3,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4143_sensi/CN_003"
+    },
+    "char_4143_sensi_CN_004": {
+      "charWordId": "char_4143_sensi_CN_004",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_004",
+      "voiceText": "ここがお前たちの厨房か。源石（オリジニウム）を使った炊飯器に、全自動式のオーブン、温度制御のできる八口コンロとな……！フーム、なかなかよい料理が作れそうだ。",
+      "voiceTitle": "会話3",
+      "voiceIndex": 4,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4143_sensi/CN_004"
+    },
+    "char_4143_sensi_CN_005": {
+      "charWordId": "char_4143_sensi_CN_005",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_005",
+      "voiceText": "強い身体を作るためには、食事をおろそかにしてはいかん。なに？生体変化系のアーツを使えば簡単に筋肉をつけられる……？ウーム。何かを手軽に済ませると何かが鈍る。便利と安易は違う、そうは思わんか？",
+      "voiceTitle": "昇進後会話1",
+      "voiceIndex": 5,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 1
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4143_sensi/CN_005"
+    },
+    "char_4143_sensi_CN_006": {
+      "charWordId": "char_4143_sensi_CN_006",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_006",
+      "voiceText": "水場を綺麗にし、そこで得た水を作物に与え、あちこちから出てきた廃材は回収倉庫へ。ここで育ったものを食べ、自らもこの世界に分け与える、そうした暮らしをしていると、わしもこの世界の一部になれたように思えて、それが嬉しい。",
+      "voiceTitle": "昇進後会話2",
+      "voiceIndex": 6,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 2
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4143_sensi/CN_006"
+    },
+    "char_4143_sensi_CN_007": {
+      "charWordId": "char_4143_sensi_CN_007",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_007",
+      "voiceText": "「ジム」という場所に初めて行ってみたのだが、中にいた者に、こうも力持ちなドゥリン人は見たことがない、どうやって鍛えているのかと聞かれてな……ただ日々の料理をこなしているだけだと答えたが。なに？彼らはあの後、皆厨房で鍋を振っている？多くの人間が料理に興味を持ってくれるのは喜ばしいことだ。",
+      "voiceTitle": "信頼上昇後会話1",
+      "voiceIndex": 7,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 40
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4143_sensi/CN_007"
+    },
+    "char_4143_sensi_CN_008": {
+      "charWordId": "char_4143_sensi_CN_008",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_008",
+      "voiceText": "近頃は、ライオスたちも毎日きちんとしたものを食べていてわしは嬉しい。だがドクター、聞くところによると、お前は多忙を理由に即席食品ばかり食べているそうだな。それではあまりに不健康だ！栄養バランスを考えて、新鮮な野菜と良質なタンパク質を取らねばならんぞ！",
+      "voiceTitle": "信頼上昇後会話2",
+      "voiceIndex": 8,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 100
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4143_sensi/CN_008"
+    },
+    "char_4143_sensi_CN_009": {
+      "charWordId": "char_4143_sensi_CN_009",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_009",
+      "voiceText": "お前たちが毎日何をしているかはよくわからん。だが、これほど多くの病人の面倒を見ているとは、尊敬に値する。病室の者たちはわしの料理を喜んで食べてくれるし、わしもそれは嬉しく思う。もし、ここと迷宮を行き来する方法が見つかったなら、その時はまた様子を見に来るとしよう。",
+      "voiceTitle": "信頼上昇後会話3",
+      "voiceIndex": 9,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "FAVOR",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 200
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "HOME_SHOW",
+      "voiceAsset": "char_4143_sensi/CN_009"
+    },
+    "char_4143_sensi_CN_010": {
+      "charWordId": "char_4143_sensi_CN_010",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_010",
+      "voiceText": "ふむ、睡眠の質は良好だな。よしよし。",
+      "voiceTitle": "放置",
+      "voiceIndex": 10,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "HOME_WAIT",
+      "voiceAsset": "char_4143_sensi/CN_010"
+    },
+    "char_4143_sensi_CN_011": {
+      "charWordId": "char_4143_sensi_CN_011",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_011",
+      "voiceText": "うむ。各種揃った調理道具に、清潔で十分な火力を持つかまど、食材の備蓄も文句なし……どうやら、お前たちも料理のことをきちんと考えているようだな。わしはこの場所が気に入ったぞ！",
+      "voiceTitle": "入職会話",
+      "voiceIndex": 11,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "GACHA",
+      "voiceAsset": "char_4143_sensi/CN_011"
+    },
+    "char_4143_sensi_CN_012": {
+      "charWordId": "char_4143_sensi_CN_012",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_012",
+      "voiceText": "秘蔵の調味料をどこかで失くしたと思っていたが、この時か！",
+      "voiceTitle": "経験値上昇",
+      "voiceIndex": 12,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "LEVEL_UP",
+      "voiceAsset": "char_4143_sensi/CN_012"
+    },
+    "char_4143_sensi_CN_013": {
+      "charWordId": "char_4143_sensi_CN_013",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_013",
+      "voiceText": "魔法にせよアーツにせよ、料理に用いて手間を省こうとばかりしていれば、いずれ人々は火の起こし方を忘れてしまうことだろう。火打石と薪の使い方こそ身に着けるべきスキルだ！",
+      "voiceTitle": "昇進Ⅰ",
+      "voiceIndex": 13,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 1
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "EVOLVE_ONE",
+      "voiceAsset": "char_4143_sensi/CN_013"
+    },
+    "char_4143_sensi_CN_014": {
+      "charWordId": "char_4143_sensi_CN_014",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_014",
+      "voiceText": "サーミ風の串焼きに、シーボーンのフルコース、墨魎のジャムとワインであれば作ったことがあるぞ。材料さえあれば、すぐにでも振舞ってやれるのだが……ん？どれも本来は食べられないものなのか？",
+      "voiceTitle": "昇進Ⅱ",
+      "voiceIndex": 14,
+      "voiceType": "ONLY_TEXT",
+      "unlockType": "AWAKE",
+      "unlockParam": [
+        {
+          "valueStr": null,
+          "valueInt": 2
+        },
+        {
+          "valueStr": null,
+          "valueInt": 1
+        }
+      ],
+      "lockDescription": null,
+      "placeType": "EVOLVE_TWO",
+      "voiceAsset": "char_4143_sensi/CN_014"
+    },
+    "char_4143_sensi_CN_017": {
+      "charWordId": "char_4143_sensi_CN_017",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_017",
+      "voiceText": "少し待て。調理道具と武器が揃っているかを確かめたい。",
+      "voiceTitle": "編成",
+      "voiceIndex": 17,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "SQUAD",
+      "voiceAsset": "char_4143_sensi/CN_017"
+    },
+    "char_4143_sensi_CN_018": {
+      "charWordId": "char_4143_sensi_CN_018",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_018",
+      "voiceText": "案ずるな。お前たちを守るくらいはわしにもできる。",
+      "voiceTitle": "隊長任命",
+      "voiceIndex": 18,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "SQUAD_FIRST",
+      "voiceAsset": "char_4143_sensi/CN_018"
+    },
+    "char_4143_sensi_CN_019": {
+      "charWordId": "char_4143_sensi_CN_019",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_019",
+      "voiceText": "準備完了じゃ！",
+      "voiceTitle": "作戦準備",
+      "voiceIndex": 19,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_START",
+      "voiceAsset": "char_4143_sensi/CN_019"
+    },
+    "char_4143_sensi_CN_020": {
+      "charWordId": "char_4143_sensi_CN_020",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_020",
+      "voiceText": "思っていたより魔物が多いのう……",
+      "voiceTitle": "戦闘開始",
+      "voiceIndex": 20,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_FACE_ENEMY",
+      "voiceAsset": "char_4143_sensi/CN_020"
+    },
+    "char_4143_sensi_CN_021": {
+      "charWordId": "char_4143_sensi_CN_021",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_021",
+      "voiceText": "どうした、腹が減ったのか？",
+      "voiceTitle": "選択時1",
+      "voiceIndex": 21,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SELECT",
+      "voiceAsset": "char_4143_sensi/CN_021"
+    },
+    "char_4143_sensi_CN_022": {
+      "charWordId": "char_4143_sensi_CN_022",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_022",
+      "voiceText": "案ずるな。やりかたはわかっている。",
+      "voiceTitle": "選択時2",
+      "voiceIndex": 22,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SELECT",
+      "voiceAsset": "char_4143_sensi/CN_022"
+    },
+    "char_4143_sensi_CN_023": {
+      "charWordId": "char_4143_sensi_CN_023",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_023",
+      "voiceText": "悪くない配置だ。後ほどここで、食事を作ろう。",
+      "voiceTitle": "配置1",
+      "voiceIndex": 23,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_PLACE",
+      "voiceAsset": "char_4143_sensi/CN_023"
+    },
+    "char_4143_sensi_CN_024": {
+      "charWordId": "char_4143_sensi_CN_024",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_024",
+      "voiceText": "この場はわしに任せておけ！",
+      "voiceTitle": "配置2",
+      "voiceIndex": 24,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_PLACE",
+      "voiceAsset": "char_4143_sensi/CN_024"
+    },
+    "char_4143_sensi_CN_025": {
+      "charWordId": "char_4143_sensi_CN_025",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_025",
+      "voiceText": "さて、何を作ったものか……",
+      "voiceTitle": "作戦中1",
+      "voiceIndex": 25,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SKILL_1",
+      "voiceAsset": "char_4143_sensi/CN_025"
+    },
+    "char_4143_sensi_CN_026": {
+      "charWordId": "char_4143_sensi_CN_026",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_026",
+      "voiceText": "どれ、塩加減を見てみよう。",
+      "voiceTitle": "作戦中2",
+      "voiceIndex": 26,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SKILL_2",
+      "voiceAsset": "char_4143_sensi/CN_026"
+    },
+    "char_4143_sensi_CN_027": {
+      "charWordId": "char_4143_sensi_CN_027",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_027",
+      "voiceText": "食材を数回に分けて投入し……",
+      "voiceTitle": "作戦中3",
+      "voiceIndex": 27,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SKILL_3",
+      "voiceAsset": "char_4143_sensi/CN_027"
+    },
+    "char_4143_sensi_CN_028": {
+      "charWordId": "char_4143_sensi_CN_028",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_028",
+      "voiceText": "しばし待て、もうすぐ完成じゃ！",
+      "voiceTitle": "作戦中4",
+      "voiceIndex": 28,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BATTLE_SKILL_4",
+      "voiceAsset": "char_4143_sensi/CN_028"
+    },
+    "char_4143_sensi_CN_029": {
+      "charWordId": "char_4143_sensi_CN_029",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_029",
+      "voiceText": "フーム、これほど手強い魔物に遭うのは随分と久し振りだ。",
+      "voiceTitle": "高難度作戦クリア",
+      "voiceIndex": 29,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "FOUR_STAR",
+      "voiceAsset": "char_4143_sensi/CN_029"
+    },
+    "char_4143_sensi_CN_030": {
+      "charWordId": "char_4143_sensi_CN_030",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_030",
+      "voiceText": "ドクター。この魔物を料理できないか、ライオスと試すことにしたのだが、お前も興味はあるか？",
+      "voiceTitle": "★3で戦闘終了",
+      "voiceIndex": 30,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "THREE_STAR",
+      "voiceAsset": "char_4143_sensi/CN_030"
+    },
+    "char_4143_sensi_CN_031": {
+      "charWordId": "char_4143_sensi_CN_031",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_031",
+      "voiceText": "どうやら、何か良くない食材をうっかり入れてしまったようだな……",
+      "voiceTitle": "★2以下戦闘終了",
+      "voiceIndex": 31,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "TWO_STAR",
+      "voiceAsset": "char_4143_sensi/CN_031"
+    },
+    "char_4143_sensi_CN_032": {
+      "charWordId": "char_4143_sensi_CN_032",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_032",
+      "voiceText": "……撤退じゃ！",
+      "voiceTitle": "作戦失敗",
+      "voiceIndex": 32,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "LOSE",
+      "voiceAsset": "char_4143_sensi/CN_032"
+    },
+    "char_4143_sensi_CN_033": {
+      "charWordId": "char_4143_sensi_CN_033",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_033",
+      "voiceText": "厨房まではどう行けばいい？",
+      "voiceTitle": "基地配属",
+      "voiceIndex": 33,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BUILDING_PLACE",
+      "voiceAsset": "char_4143_sensi/CN_033"
+    },
+    "char_4143_sensi_CN_034": {
+      "charWordId": "char_4143_sensi_CN_034",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_034",
+      "voiceText": "……今、わしをつついたか？ウーム……ヒゲの中を掻き回しても、何も出てはこないと思うぞ。",
+      "voiceTitle": "タッチ1",
+      "voiceIndex": 34,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BUILDING_TOUCHING",
+      "voiceAsset": "char_4143_sensi/CN_034"
+    },
+    "char_4143_sensi_CN_036": {
+      "charWordId": "char_4143_sensi_CN_036",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_036",
+      "voiceText": "美味いか？おかわりもあるぞ。",
+      "voiceTitle": "信頼タッチ",
+      "voiceIndex": 36,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "BUILDING_FAVOR_BUBBLE",
+      "voiceAsset": "char_4143_sensi/CN_036"
+    },
+    "char_4143_sensi_CN_037": {
+      "charWordId": "char_4143_sensi_CN_037",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_037",
+      "voiceText": "アークナイツ。",
+      "voiceTitle": "タイトルコール",
+      "voiceIndex": 37,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "LOADING_PANEL",
+      "voiceAsset": "char_4143_sensi/CN_037"
+    },
+    "char_4143_sensi_CN_038": {
+      "charWordId": "char_4143_sensi_CN_038",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_038",
+      "voiceText": "オペレーターたちに手料理を振舞うのならば、しゃぶしゃぶにするといいだろう。調理が簡単でありながら、様々な食材を入れることができ、皆で同じ鍋をつつくこともできるからな。さあ、ついてこい。一番美味いしゃぶしゃぶの作り方を教えてやろう。",
+      "voiceTitle": "新年",
+      "voiceIndex": 38,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "NEW_YEAR",
+      "voiceAsset": "char_4143_sensi/CN_038"
+    },
+    "char_4143_sensi_CN_042": {
+      "charWordId": "char_4143_sensi_CN_042",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_042",
+      "voiceText": "完成じゃ！さあ、食べてみなさい。",
+      "voiceTitle": "挨拶",
+      "voiceIndex": 42,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "GREETING",
+      "voiceAsset": "char_4143_sensi/CN_042"
+    },
+    "char_4143_sensi_CN_044": {
+      "charWordId": "char_4143_sensi_CN_044",
+      "wordKey": "char_4143_sensi",
+      "charId": "char_4143_sensi",
+      "voiceId": "CN_044",
+      "voiceText": "つくづく、これはまったく予想のつかない旅だ……ライオスとマルシルは思っていたよりずっとしっかりしていたし、チルチャックもこの頃大人びてきた。わしはここでたくさんの面白い友と出会えたし、このような経験ができて、とても満足だ。",
+      "voiceTitle": "周年",
+      "voiceIndex": 44,
+      "voiceType": "ENUM",
+      "unlockType": "DIRECT",
+      "unlockParam": [],
+      "lockDescription": null,
+      "placeType": "ANNIVERSARY",
+      "voiceAsset": "char_4143_sensi/CN_044"
+    },
     "char_113_cqbw_epoque#7_CN_001": {
       "charWordId": "char_113_cqbw_epoque#7_CN_001",
       "wordKey": "char_113_cqbw_epoque#7",
@@ -230316,6 +232695,14 @@
             "이지영"
           ],
           "voicePath": null
+        },
+        "EN": {
+          "wordkey": "char_436_whispr",
+          "voiceLangType": "EN",
+          "cvName": [
+            "Sam Slade"
+          ],
+          "voicePath": null
         }
       }
     },
@@ -231048,6 +233435,14 @@
             "이새아"
           ],
           "voicePath": null
+        },
+        "EN": {
+          "wordkey": "char_363_toddi",
+          "voiceLangType": "EN",
+          "cvName": [
+            "Annes Elwy"
+          ],
+          "voicePath": null
         }
       }
     },
@@ -231449,6 +233844,14 @@
             "윤미나"
           ],
           "voicePath": null
+        },
+        "EN": {
+          "wordkey": "char_478_kirara",
+          "voiceLangType": "EN",
+          "cvName": [
+            "Summer Natsuki"
+          ],
+          "voicePath": null
         }
       }
     },
@@ -231528,6 +233931,14 @@
           "voiceLangType": "KR",
           "cvName": [
             "김하영"
+          ],
+          "voicePath": null
+        },
+        "EN": {
+          "wordkey": "char_451_robin",
+          "voiceLangType": "EN",
+          "cvName": [
+            "Kari Wahlgren"
           ],
           "voicePath": null
         }
@@ -238925,6 +241336,70 @@
         }
       }
     },
+    "char_4141_marcil": {
+      "wordkeys": [
+        "char_4141_marcil"
+      ],
+      "charId": "char_4141_marcil",
+      "dict": {
+        "LINKAGE": {
+          "wordkey": "char_4141_marcil",
+          "voiceLangType": "LINKAGE",
+          "cvName": [
+            "千本木彩花"
+          ],
+          "voicePath": "Audio/Sound_Beta_2/Voice/"
+        }
+      }
+    },
+    "char_4143_sensi": {
+      "wordkeys": [
+        "char_4143_sensi"
+      ],
+      "charId": "char_4143_sensi",
+      "dict": {
+        "LINKAGE": {
+          "wordkey": "char_4143_sensi",
+          "voiceLangType": "LINKAGE",
+          "cvName": [
+            "中博史"
+          ],
+          "voicePath": "Audio/Sound_Beta_2/Voice/"
+        }
+      }
+    },
+    "char_4144_chilc": {
+      "wordkeys": [
+        "char_4144_chilc"
+      ],
+      "charId": "char_4144_chilc",
+      "dict": {
+        "LINKAGE": {
+          "wordkey": "char_4144_chilc",
+          "voiceLangType": "LINKAGE",
+          "cvName": [
+            "泊明日菜"
+          ],
+          "voicePath": "Audio/Sound_Beta_2/Voice/"
+        }
+      }
+    },
+    "char_4142_laios": {
+      "wordkeys": [
+        "char_4142_laios"
+      ],
+      "charId": "char_4142_laios",
+      "dict": {
+        "LINKAGE": {
+          "wordkey": "char_4142_laios",
+          "voiceLangType": "LINKAGE",
+          "cvName": [
+            "熊谷健太郎"
+          ],
+          "voicePath": "Audio/Sound_Beta_2/Voice/"
+        }
+      }
+    },
     "char_311_mudrok#1": {
       "wordkeys": [
         "char_311_mudrok#1"
@@ -239258,7 +241733,11 @@
   "newTagList": [
     "char_4146_nymph",
     "char_4147_mitm",
-    "char_4151_tinman"
+    "char_4151_tinman",
+    "char_4141_marcil",
+    "char_4143_sensi",
+    "char_4144_chilc",
+    "char_4142_laios"
   ],
   "voiceLangTypeDict": {
     "CN_MANDARIN": {
@@ -239683,7 +242162,11 @@
     "char_4058_pepe": "JP",
     "char_4138_narant": "JP",
     "char_4139_papyrs": "JP",
-    "char_4140_lasher": "JP"
+    "char_4140_lasher": "JP",
+    "char_4141_marcil": "LINKAGE",
+    "char_4143_sensi": "LINKAGE",
+    "char_4144_chilc": "LINKAGE",
+    "char_4142_laios": "LINKAGE"
   },
   "startTimeWithTypeDict": {
     "CN_TOPOLECT": [
@@ -240454,6 +242937,15 @@
       }
     ],
     "LINKAGE": [
+      {
+        "timestamp": 1741590000,
+        "charSet": [
+          "char_4141_marcil",
+          "char_4143_sensi",
+          "char_4144_chilc",
+          "char_4142_laios"
+        ]
+      },
       {
         "timestamp": 1725519600,
         "charSet": [
